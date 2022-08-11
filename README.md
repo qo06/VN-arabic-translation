@@ -3,7 +3,7 @@ this is a port of nitro+chiral games to renpy
 the list of games:
 1. togainu no chi
 2. togainu no chi TBA
-3. lamento beyound the void
+3. lamento beyond the void
 4. sweet pool (pc and psvita)
 5. dmmd
 6. dmmd re:code

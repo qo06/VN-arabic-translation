@@ -11,3 +11,6 @@ the list of games:
 
 you are going to need to have a copy of the original game to be able to play it.
 all of these games are going to be in english
+
+whenever I am done with a game I'll upload the scripts here alongside a guide on how to install it.
+since renpy supports many devices, each device will have a guide for it.

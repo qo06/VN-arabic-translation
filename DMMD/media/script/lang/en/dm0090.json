@@ -1,0 +1,397 @@
+[
+  {
+    "message": "Night is in full swing on Aoyagi Street, the darkness washed away by lights and brilliant neon signs."
+  },
+  {
+    "message": "There are no zoning laws in the Old Residential District. Even in the middle of the day, the crooked skyline ensures that some parts of the city never see the sun."
+  },
+  {
+    "message": "But when night falls, things <I>really</I> change. That's when the Ribsteez come out of the woodwork."
+  },
+  {
+    "message": "The Ribsteez are young men who form gangs, or teams, to brawl with each other over turf. This \"game,\" if you can call it that, is also known as Rib.\r\n<p>\r\nRib was popular before Rhyme, so the Rib gangs look down on their digitized Rhymer cousins. They think they're just a bunch of nerds trying to act cool."
+  },
+  {
+    "message": "Still, more and more Ribsteez are making the jump to Rhyme, and that means <I>everyone's</I> looking for a fight."
+  },
+  {
+    "message": "Suddenly, someone grabs my arm from behind."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Hey, that's a Brain Nuts jacket, right?\""
+  },
+  {
+    "message": "It's a man with dyed-red hair. He looks younger than me."
+  },
+  {
+    "name": "緑髪",
+    "message": "\"Isn't that brand worth a lot right now?\""
+  },
+  {
+    "message": "A grinning green-haired man approaches next. \r\nRed and green... Is it Christmas or something?"
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Shit, man, that jacket's totally my grail. Yo, dude...\""
+  },
+  {
+    "message": "The red-haired one gives me a phony smile."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You can buy one in front of the station.\""
+  },
+  {
+    "message": "I try to jerk my arm away, but the redhead glares and grips me tighter."
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Hold on, man.\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"What's with the attitude?\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"I want this jacket, and I want it now. You deaf?\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"You know who we are? Bug Bomb. Yeah, that's right. So, what? Think you're better?\""
+  },
+  {
+    "message": "The green-haired guy flashes the tattoo on his wrist."
+  },
+  {
+    "message": "A winking woman with enormous breasts straddling a big pink bomb... <K>\r\nWow. I'd kill the guy who put that on my skin."
+  },
+  {
+    "message": "In any case, I haven't heard of Bug Bomb. Obviously, these two are small-time, looking for fights to build their cred."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That is one ugly tat.\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"The fuck you say?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I said your tat looks like shit.\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"Yeah? What gang do you roll with?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Don't got one.\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Motherfucker, you're unmarked?!\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"No fuckin' way!\""
+  },
+  {
+    "message": "Red and Green look at each other, grinning like idiots."
+  },
+  {
+    "name": "赤髪",
+    "message": "\"You for real?!\""
+  },
+  {
+    "message": "Rib gangs always have a tag, a piece of art members tattoo on their body."
+  },
+  {
+    "message": "If you don't have a tat, it means you're not in a gang. And that makes you an easy target."
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Heh, that means we can take him out right here.\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"Easy-peasy.\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"Let's go for a little walk, huh?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Better quit while you can.\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"The fuck?!\""
+  },
+  {
+    "message": "Red looks over my shoulder, glaring at the man who's appeared behind me."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"He's liable to curbstomp the both of you.\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Who the fuck're you?\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"...Uh.\""
+  },
+  {
+    "message": "Green, meanwhile, has turned white as a sheet."
+  },
+  {
+    "name": "緑髪",
+    "message": "\"Yo, this ain't good...\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"What ain't good?\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"That's Mizuki... the boss of Dry Juice.\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Dry Juice?!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Do you know his killer technique? The Fox Heel Drop. Just one and you'll be eating through a straw for the rest of your life.\""
+  },
+  {
+    "name": "赤髪",
+    "message": "\"Fuck! Why didn't you say you were with Dry Juice?!\""
+  },
+  {
+    "name": "緑髪",
+    "message": "\"Let's bounce!\""
+  },
+  {
+    "message": "The man behind me laughs as the two punks run off with their tails between their legs."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Losers. Don't start what you can't finish, right?\""
+  },
+  {
+    "message": "I turn around, knowing exactly who I'll see."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"'Sup.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Long time no see.\""
+  },
+  {
+    "message": "It's Mizuki, leader of Dry Juice, the largest of the Rib gangs."
+  },
+  {
+    "message": "He has tan skin, black hair, and green eyes. The symbol of his gang, a teardrop, is tattooed beneath one eye."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell is a fox heel drop?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I'm talking about that fancy footwork of yours. Forget the name; just made it up on the fly. Point is, you crack jaws.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not in years.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Well, <I>I</I> remember it like it was yesterday. You know, I don't usually see you around here at this hour.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I guess.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Have you finally decided to join us?\""
+  },
+  {
+    "message": "He grins welcomingly, but I just shrug."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not happening. I keep telling you.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You might be surprised how much you like it.\""
+  },
+  {
+    "message": "I used to run with Mizuki back in the day. We got into all sorts of trouble."
+  },
+  {
+    "message": "Though he's usually pretty laid-back, he's also a guy you can depend on, who knows when it's time to get serious."
+  },
+  {
+    "message": "Rib fighters all think they're hot shit, so it's pretty impressive that he's managed to unite so many to form the largest Rib gang."
+  },
+  {
+    "message": "Still, I have no intention of joining."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It sounds like a pain in the ass.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Yeah, I know. Things've been hard for us, too, lately.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hard how? Isn't your team as strong as ever?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You know what I'm talkin' about. It's Rhyme.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Rhyme...\""
+  },
+  {
+    "message": "Mizuki's expression darkens."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Even we're losing members now. I mean, they like to say Rhyme takes <I>brainpower,</I> but that's just another way of saying it's all in your head, right?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I don't get it. Can you protect your turf with your <I>imagination?</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, yeah. You got a point.\""
+  },
+  {
+    "message": "I honestly can't blame Mizuki for feeling the way he does about Rhyme."
+  },
+  {
+    "message": "I mean, you could make the same argument about Rib―that it's just a bunch of kids playing capture-the-flag―\r\n<p>\r\nbut I know Mizuki really cares about his team."
+  },
+  {
+    "message": "That's probably why he can't just let trend-hoppers slide."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"And then there are those disappearances.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Disappearances?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You've heard the stories, haven't you? Entire Rib teams going missing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but isn't that an urban legend? It's over a decade old, too.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Well, I dunno what's going on, but gangs have started disappearing again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You sure they didn't just piss off some yakuza?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"That's the weird thing. Guys'll show up after a few days after they disappeared―not all at once, just a few at a time―but they don't remember a thing.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Like <I>nothing,</I> not even their own fucking name... It's like their brains were fried or something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Didn't they say Morphine was behind it last time? I guess Morphine's practically an urban legend too.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Yeah, but still...\""
+  },
+  {
+    "message": "Morphine was a legendary Rib gang that dominated the scene a decade ago. Their tag was a heart and cross, all in black."
+  },
+  {
+    "message": "The gang was cloaked in mystery. All anyone really knew was that they were invincible."
+  },
+  {
+    "message": "Naturally, rumors gathered like flies. One popular rumor said they were behind the disappearances."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"If Morphine's not behind it, maybe it's those Rhymers.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Isn't that kinda far-fetched?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I'm kidding. It's just that those guys've been getting real cocky lately.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I mean, do you really think they could make people disappear? Let alone wipe their memories.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"If shit like that were happening, the city'd be up in arms.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"No, I know. That's why I said I was kidding.\""
+  },
+  {
+    "message": "Just then, we hear cheering nearby, followed by the thunder of footsteps as people race to the scene."
+  },
+  {
+    "message": "Mizuki scowls."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"...Fuckin' Rhyme.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"...Better bounce before I get the urge to break some heads. See ya later. Make sure you stop by the shop sometime.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sure.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Later.\""
+  },
+  {
+    "message": "Mizuki waves, then stalks away, pushing through the gathering crowd."
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "message": "Damn it. That was pretty immature, even for me..."
+  },
+  {
+    "message": "Those brats just really get to me, you know?"
+  },
+  {
+    "message": "I guess I'd better clean up the mess they left..."
+  },
+  {
+    "message": "Sheesh..."
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "message": "I thought I heard something just now..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Whoooa?!\""
+  },
+  {
+    "message": "S-Something fell outta the sky!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "It looks like a man."
+  },
+  {
+    "message": "But... a man from the sky?"
+  },
+  {
+    "message": "He's lying face down on the pavement."
+  },
+  {
+    "message": "He's not... dead, is he?"
+  },
+  {
+    "name": "クリア",
+    "message": "\"U-Ughh...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "The man gets up, groaning."
+  },
+  {
+    "message": "Phew. He's alive..."
+  },
+  {
+    "message": "My relief is fleeting, though. When the man looks up, I freeze."
+  },
+  {
+    "message": "He doesn't have a face!<k>\r\n<?>"
+  },
+  {
+    "message": "No, wait. That's a gas mask."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Well, that was unexpected.\""
+  },
+  {
+    "message": "The man looks around, ruffling his hair."
+  },
+  {
+    "message": "He seems fine... but it sounded like he hit the ground pretty hard."
+  },
+  {
+    "message": "And why is he wearing a gas mask?"
+  },
+  {
+    "message": "He turns to look at me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I blink and hold my breath, hoping he'll ignore me and go away."
+  },
+  {
+    "message": "No such luck. He walks right up to me."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master, I'm so glad you're alright.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "Master?"
+  },
+  {
+    "name": "クリア",
+    "message": "\"I followed the sound of your voice.\""
+  },
+  {
+    "message": "What the hell's he talking about?"
+  },
+  {
+    "name": "クリア",
+    "message": "\"Is something wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Um.... I think you've got me confused for someone else.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Someone else?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I dunno who this 'Master' person is, but it's not me.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, you are my master, Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Like I said, you've got it wrong. I've never even seen you before.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"That's not true. I'm Clear. I carried you back here yesterday.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You carried me here?\""
+  },
+  {
+    "message": "Yesterday... Come to think of it, I woke up here after getting sucked into that Rhyme battle."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wait... Are you the one who pulled me into Rhyme?\""
+  },
+  {
+    "message": "I couldn't see the rabbit guy's face, and I think he had a similar outfit."
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, that wasn't me. But I thought you were my master, Master, so I carried you here.\""
+  },
+  {
+    "message": "...We're going in circles."
+  },
+  {
+    "name": "クリア",
+    "message": "\"I heard your voice yesterday, Master.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"'Death and destruction.'\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What?\""
+  },
+  {
+    "message": "That sounds kind of familiar..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where did you hear tha― Gah?!\""
+  },
+  {
+    "message": "Suddenly, he pinches my cheeks."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oww! Ow! Thah hurs!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master, you seem kinda different today. Looser, maybe? It's hard to describe.\""
+  },
+  {
+    "message": "The guy in the gas mask shakes his head with a sigh."
+  },
+  {
+    "message": "What is with this guy?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Lemme go!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "Damn, that hurt... \r\nWhat's wrong with this guy?!"
+  },
+  {
+    "message": "He cocks his head to the side, puzzled, as I rub my cheeks with tears in my eyes."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Just to confirm, you are my master, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I told you I'm not!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I think you are.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I take some deep breaths, trying to cool my head."
+  },
+  {
+    "message": "Calm down. He's just trying to get you riled up."
+  },
+  {
+    "message": "I decide to turn the tables. He's playing dumb, but maybe he'll show his true colors if I piss him off enough."
+  },
+  {
+    "message": "If he was the rabbit head guy from yesterday, I have every intention of delivering some payback."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey!\""
+  },
+  {
+    "message": "I launch a kick at his ass."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ahhh!\""
+  },
+  {
+    "message": "He arches backward, clutching his butt."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh, Master! Please don't do that!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "He sinks to his knees, wailing."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please, Master... It's already cracked... It can't take anymore...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "...Yeah. No way he's the same guy."
+  },
+  {
+    "message": "I should get this over with and send him on his way."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Anyway, I'm not your master, and I have work to do. Bye.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"What about me?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Go home!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Understood.\""
+  },
+  {
+    "message": "He nods obediently and starts digging around in his pockets."
+  },
+  {
+    "message": "Slowly, slowly, he pulls out..."
+  },
+  {
+    "message": "...a vinyl umbrella.\r\nHow the hell did that fit in there?!"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"What's with the umbrella?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean, you're holding an umbrella.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh, yes. What about it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not raining. Why'd you take it out?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Rain... Oh! That's right! When it rains, water falls from the sky, and if you have an umbrella, you won't get wet!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I think I'll try that next time. Thank you very much.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  }
+]

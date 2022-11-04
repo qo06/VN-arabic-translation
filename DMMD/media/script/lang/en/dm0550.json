@@ -1,0 +1,297 @@
+[
+  {
+    "message": "Mink takes me back to the room I woke up in."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let go!\""
+  },
+  {
+    "message": "Once we're inside, I shake his hand off."
+  },
+  {
+    "message": "Mink moves away from me and takes a seat on the bed, staring at me with his unreadable eyes."
+  },
+  {
+    "message": "I'm more than a little intimidated, but I meet his stare with a scowl."
+  },
+  {
+    "message": "This is the kind of man who can strike without warning, without a hint of his intentions showing on his face."
+  },
+  {
+    "message": "He has an almost eerie calm. When he looks at you, it's like he can see exactly who you are and what you're thinking."
+  },
+  {
+    "message": "Like a predator staring down prey."
+  },
+  {
+    "message": "That's why I know I can't show any weakness, even if that means bluffing."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you after? Why'd you bring me here? Where's Granny?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why'd you bash that guy's face in? He was just following your orders like the others, wasn't he? So why'd you do it?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"No, not him. No one was supposed to enter your room.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not him? You think I care? What do you want? To watch me get raped?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...You need to learn what you are.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I'll say it one more time: that man was not acting on my orders. He did that all on his own.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Because your voice enthralled him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...My voice?\""
+  },
+  {
+    "message": "I resist the urge to ask what he means."
+  },
+  {
+    "message": "It's true. That man was obsessed with my voice."
+  },
+  {
+    "message": "But how does Mink know that?"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Ultimately, why he did it doesn't matter. He disobeyed my orders, and I can't let that go. Rules are rules.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Now I'm even more confused."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How do you know about my voice?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Answer me. And tell me what happened to Granny, too.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I don't know. You were my only objective.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "message": "Then what about Granny?"
+  },
+  {
+    "message": "While I'm struggling to wrap my head around this, Mink pulls something from his coat pocket and shows it to me."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"What is this?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "It's my headache medicine!"
+  },
+  {
+    "message": "I reach for it, but he pulls away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Give it to me!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Answer the question.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's just headache medicine.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"This isn't something you buy in a drugstore.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny's a doctor. I don't know anything else about it.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You're like a junkie.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Mink tucks the medicine back into his coat and gets up off the bed."
+  },
+  {
+    "message": "He opens the door and speaks a few words to someone in the hall."
+  },
+  {
+    "message": "A few moments later, two men enter the room, dragging something behind them."
+  },
+  {
+    "message": "They drop their cargo in the middle of the room and leave."
+  },
+  {
+    "message": "The cargo... is people."
+  },
+  {
+    "message": "Two men, dressed in black, are lying face down on the floor."
+  },
+  {
+    "message": "Looking closely, I can tell they're still breathing."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Look at their necks.\""
+  },
+  {
+    "message": "Necks?"
+  },
+  {
+    "message": "I lean forward."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Morphine's tag."
+  },
+  {
+    "message": "And that's not all. Each has a black square beneath the wings and halo. Another tag was blacked out."
+  },
+  {
+    "message": "I can still see part of the original pattern."
+  },
+  {
+    "message": "Unless I'm mistaken, that's..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Dry Juice...\""
+  },
+  {
+    "message": "I lift one of the men by the shoulder to get a look at his face."
+  },
+  {
+    "message": "...I know him. He's a member of Dry Juice."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"They were in your house before we got there. Most of them had already gone by the time we arrived. They were the last two left.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You get it now? We had nothing to do with your grandmother.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But... then what happened to her?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I don't know, but we did track down the others who were there.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really? Then―\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"First, we need to come to an agreement. Like I said, you're my objective.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I brought you here to confirm my suspicions. I got the answers I needed.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Now, you're going to do whatever I tell you. And in return, I'll help you with your little problem.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What problem?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I'll help you find your grandmother.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "How am I supposed to believe that?"
+  },
+  {
+    "message": "For all I know, this might be some kind of sick game. He already put me through hell once before."
+  },
+  {
+    "message": "Although... that doesn't explain what happened to the Dry Juice guys."
+  },
+  {
+    "message": "Blacking out the Dry Juice tags and putting Morphine's over the top... That's not something he could've put together this quickly, right?"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"If you don't believe me, you can look for her yourself. It's up to you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I hate to admit it, but I don't think I can find her on my own."
+  },
+  {
+    "message": "If Morphine really was involved, I wouldn't even know where to start."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You said I was your goal. What exactly do you want me for?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You don't need to know that right now. What you need is to decide if you're on board or not.\""
+  }
+]

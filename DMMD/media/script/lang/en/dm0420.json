@@ -1,0 +1,263 @@
+[
+  {
+    "message": "Outside, I see that the usually deserted alley is teeming with excitement."
+  },
+  {
+    "message": "Noiz and I join the gathering crowd."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's almost time.\""
+  },
+  {
+    "message": "Noiz stops once we've entered the dark alleyway."
+  },
+  {
+    "message": "He's already holding a Bunny Cube in his hand."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is that your Allmate?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "Sure is weird for a guy like him to be using such a cute Allmate..."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Here it comes.\""
+  },
+  {
+    "message": "A faint light blossoms in one corner of the alley."
+  },
+  {
+    "message": "A ring of light appears in the empty space, and Usui materializes from the feet up."
+  },
+  {
+    "message": "The crowd cheers, attracting even more people from the street."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Told you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You should go fight.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I told you, I don't want to.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"How about now?\""
+  },
+  {
+    "message": "Noiz raises an eyebrow, and then I feel my bag rise into the air."
+  },
+  {
+    "message": "I spin around. A Bunny Cube is holding my bag by the strap."
+  },
+  {
+    "message": "When did that get there?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Well? What are you gonna do?\""
+  },
+  {
+    "message": "The crowd is so thick that even if I can snatch my bag back, I won't be able to get away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"P!\""
+  },
+  {
+    "message": "Just then, something flies through the air and slams into the Bunny Cube holding my bag."
+  },
+  {
+    "message": "The crowd stirs, then parts to allow someone through."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yo.\""
+  },
+  {
+    "message": "It's Koujaku. It must have been Beni who rammed Noiz's cube. Several Beni-Shigure members are with him too."
+  },
+  {
+    "message": "He picks up my bag from where it fell."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's up? Another delivery?\""
+  },
+  {
+    "message": "Koujaku shoots Noiz a glare."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What are you doing here?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Why should I tell you?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Rhyme, huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I could ask you the same thing. Brain dead Ribsteez wouldn't last a second in Rhyme.\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"The fuck?!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Stop.\""
+  },
+  {
+    "message": "Koujaku grabs his teammate by the shoulder."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Kids shouldn't push their luck. You're walking on thin ice, pal.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Just speaking truth.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I said don't push your luck, punk.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Whatever.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Talking to you makes me hate Rhyme even more.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Good. We don't want you dumbasses to like it.\""
+  },
+  {
+    "message": "...Well, this got interesting fast."
+  },
+  {
+    "message": "As their hostility ripples outward through the crowd, each side's members begin to gather around their leader."
+  },
+  {
+    "message": "Rib vs Rhyme. The two groups glare at each other, a powder keg waiting for a spark."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, maybe you guys should...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I mean, who even uses fists these days? Talk about analog.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Fighting in your head doesn't mean shit. It's just make-believe.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Can't say I'm surprised a meathead like you is afraid of the unknown. Dunno why I bother.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That's rich coming from an eggheaded beanpole.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Who you calling a beanpole?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You sure look like one from here.\""
+  },
+  {
+    "message": "That's the same dark tone of voice Koujaku used yesterday, before they started fighting in my room."
+  },
+  {
+    "message": "Noiz closes his mouth and meets Koujaku stare for stare."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You're in the Ruff Rabbits, right? Mujina's Rhyme gang? I see you guys finally got the balls to come all the way out here.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I hear you're forecasters. You happy making chump change off that?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's business.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"There's a ton of people in this area who want our info.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So we do a little business. We just happen to use our brains, unlike you.\""
+  },
+  {
+    "message": "For a few moments, Noiz and Koujaku glare at each other in silence."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Let's settle this. Right here, right now.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I think it's a waste of time, but I don't like you, so―sure, I'll kick your ass.\""
+  },
+  {
+    "message": "In no time at all, the crowd has split in two: those gathered around Usui for the Rhyme battle, and those watching the fight between Noiz and Koujaku."
+  },
+  {
+    "message": "From the looks of it, the crowd around us is bigger. Things are quickly spiraling out of control."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I'll make sure you never open that smart mouth of yours again.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Not a chance.\""
+  },
+  {
+    "message": "Noiz just smirks and cracks his neck.\r\n<p>\r\nShouldn't I do something?"
+  }
+]

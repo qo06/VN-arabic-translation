@@ -1,0 +1,220 @@
+[
+  {
+    "message": "After I get off the phone, I explain what happened to Mizuki and dash over to Delivery Works."
+  },
+  {
+    "message": "According to Ms. Yoshie, Granny collapsed on her way to a patient's house to deliver some medicine.\r\n<p>\r\nShe was near Delivery Works when it happened, so they brought her there."
+  },
+  {
+    "message": "I run as fast as my legs will carry me. My heart is pounding and I'm out of breath. Adrenaline makes my toes and fingers tingle."
+  },
+  {
+    "message": "Granny's collapsed from overwork before."
+  },
+  {
+    "message": "Back then, it was my fault, because I made her worry."
+  },
+  {
+    "message": "I remember how I trembled with fear at the thought of losing her."
+  },
+  {
+    "message": "I never want to feel like that again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh...!\""
+  },
+  {
+    "message": "I have to get there faster!"
+  },
+  {
+    "message": "Granny!"
+  },
+  {
+    "name": "タエ",
+    "message": "\"You're all making a big deal out of nothing.\""
+  },
+  {
+    "message": "That's the first thing out of her mouth when I burst through the door of Delivery Works."
+  },
+  {
+    "message": "Granny is leaning back in a chair. When I see that she's alright, my legs almost give out beneath me."
+  },
+  {
+    "message": "It turns out that Granny just threw out her back. That's why she collapsed. It wasn't a stroke or anything."
+  },
+  {
+    "message": "The way Ms. Yoshie described it, it sounded like something far more serious. She apologizes profusely after I arrive."
+  },
+  {
+    "message": "To be honest, it does feel a bit anti-climactic, but I'm just glad she's alright."
+  },
+  {
+    "message": "That said, Granny can't walk yet, so I have to carry her home."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Really, you're all overreacting.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Granny complains from her perch atop my back."
+  },
+  {
+    "message": "I walk slowly, to avoid jostling her too much."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, what do you expect? We all worry about you. Myself included.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I'm still plenty healthy, thank you very much.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know that, but still.\""
+  },
+  {
+    "message": "Ren patters along behind us."
+  },
+  {
+    "name": "タエ",
+    "message": "\"I get a little stiff and you start acting like I'm on my deathbed.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ow! Don't kick me! Anyway, let's go to the hospital tomorrow? Please?\""
+  },
+  {
+    "message": "Granny's age isn't about to stop her from throwing a tantrum. The last thing I want is to drop her."
+  },
+  {
+    "message": "Though, you know... Granny's pretty light."
+  },
+  {
+    "message": "I've always had this image of her towering over me. Was she always this small?"
+  },
+  {
+    "message": "Plus, this is the first time I've carried her on my back like this."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You used to be the one who carried me around.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just, you know, reminiscing about the past.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"...Hmph. I had to do that because you'd always wander off.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'd wander off?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Oh yes. I'd take my eye off you for a second and you'd be gone.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really? I don't remember that.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You were probably just lonely.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Lonely? What makes you think that?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Because you only started doing it after your parents left.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "message": "Right. I only have vague memories of my parents."
+  },
+  {
+    "message": "But I do remember how Granny used to carry me on her back."
+  },
+  {
+    "message": "Her smell and her warmth made me feel so safe."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Well, it's understandable. You were pretty little back then. But now you've gone and gotten stupidly big.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It'd be weirder if I hadn't changed.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Who said you shouldn't change?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Could you carry me on your back again, just for old time's sake? Why not give it a shot while you've still got your health?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't be ridiculous. Are you trying to kill me?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just kidding.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hmph.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Granny.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You sure are light.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Shut your piehole!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ouch!\""
+  },
+  {
+    "message": "She slaps me upside the head, hard."
+  },
+  {
+    "message": "But it makes me happy, for some reason. I smile to myself."
+  },
+  {
+    "message": "I'm so glad Granny was okay."
+  },
+  {
+    "message": "It makes me sad to think that one day, she might not be there to smack me or yell at me anymore."
+  },
+  {
+    "message": "I walk quietly down the darkening street, feeling her warmth against my back."
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "message": "Delivery Works. There it is."
+  },
+  {
+    "message": "I step through the automatic doors."
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Welcome. Oh, Aoba dear. I'm happy to see you again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You too.\""
+  },
+  {
+    "message": "I bowed to Miss Yoshie and set the paper bag on the counter."
+  },
+  {
+    "message": "A small dog with long, shiny fur sits proudly on the counter, watching me intently."
+  },
+  {
+    "message": "That's Clara, Miss Yoshie's Allmate."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'd like to send this.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Certainly. Let me take that for you.\""
+  },
+  {
+    "message": "Miss Yoshie checks the address with practiced hands, then pushes a nearby button."
+  },
+  {
+    "message": "A box next to the counter opens. She tosses the bag inside."
+  },
+  {
+    "message": "This outfit specializes in delivering packages within the Old Residential District―a welcome service in a town where transportation isn't readily available."
+  },
+  {
+    "message": "...In any case, my work here is done."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks. See you later.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Are you heading back to the store?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, I'm heading home. Mr. Haga said he'd be closing up early today.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh! Well, isn't that lovely? The final episode of AWtR is tonight! You can watch it live!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"AW...? What?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh come on! Didn't I tell you about it the other day?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, right... Um... What was it again?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"It's a soap! A soap opera! A Waltz to Remember! Today she's finally going to decide on her partner!\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"I'm totally rooting for Kaiser Matsuoka! That easy smile is just to die for! Not to mention his slight sadistic streak!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh-huh...\""
+  },
+  {
+    "message": "Ms. Yoshie twirls her hair around her finger with a dreamy, girlish look in her eyes."
+  },
+  {
+    "message": "I mean... she's not a bad person or anything..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'd better be―\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"By the way, dear, have you heard? You know what I'm talking about, don't you? Or maybe you don't?\""
+  },
+  {
+    "message": "Ms. Yoshie beckons me closer, a serious look on her face."
+  },
+  {
+    "message": "She's really not a bad person..."
+  },
+  {
+    "message": "Swallowing a resigned sigh, I lean closer."
+  },
+  {
+    "message": "There are no other people in the shop, but for some reason, she speaks in a whisper."
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"You know Hyougadani in the north? The bad part of town.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"You never hear anything good about that place, but lately, the rumors have been <I>particularly</I> nasty.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Apparently, there's a gang there led by a man who escaped from death row!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh. Scratch, right? I heard he's put together some really bad guys.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Yeah, that's him! They say the gang is entirely escaped criminals.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Actually, weren't some people kidnapped in that area a little while back?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"That's so scary! You can't even go out alone at night.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"We can't depend on the police at all. I mean, they can be just as bad! What an awful world we live in.\""
+  },
+  {
+    "message": "She's not wrong about that. The Old Residential District police are no better than gangsters themselves."
+  },
+  {
+    "message": "Rub an officer the wrong way, and you could get beaten or even arrested."
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh no! Should I hurry home before it gets too late? I mean, what will I do if someone tries to have their way with me?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "message": "Ms. Yoshie shoots me a meaningful look."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I think you'll be fine.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Fine? Fine?! How can you say that?!\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"I'm obviously in danger!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, um, I've gotta be going. Thanks.\""
+  },
+  {
+    "name": "クララ",
+    "message": "\"Hold it.\""
+  },
+  {
+    "message": "Another voice stops me before I can leave."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "クララ",
+    "message": "\"How's that blue fellow doing?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh, Clara, do you miss Ren? That's right, you two are the best of friends!\""
+  },
+  {
+    "message": "Taking Clara into her arms, Ms. Yoshie shoots me an expectant look."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, sorry. I left him at home today...\""
+  },
+  {
+    "name": "クララ",
+    "message": "\"He's in that bag of yours, isn't he? Were you going to leave without having him say hello?\""
+  },
+  {
+    "message": "No way out. I'm sorry, Ren... You'll just have to grin and bear it."
+  },
+  {
+    "message": "I take Ren out of my bag and gently pat his head to wake him up."
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Yes, Aoba?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, um... say hi to Clara.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "message": "Ren's ears and tail drop."
+  },
+  {
+    "message": "Clara stares down at him from her place in Ms. Yoshie's arms."
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "クララ",
+    "message": "\"What's wrong? Still sleeping?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...How do you do, Clara?\""
+  },
+  {
+    "name": "クララ",
+    "message": "\"I'm quite well, Ren.\""
+  },
+  {
+    "message": "Clara wags her tail happily. Ms. Yoshie smiles too."
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"You two are just adorable together!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A-Ahaha...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Now that you've said hello, I'd really better be―\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh, wait! Wait, dear!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Uh...\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"I'm sorry, I know you were on your way out! I just need one more thing! I promise it'll be quick!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  }
+]

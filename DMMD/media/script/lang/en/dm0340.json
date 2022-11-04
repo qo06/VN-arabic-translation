@@ -1,0 +1,128 @@
+[
+  {
+    "message": "The next morning, I carry Granny to the neighborhood hospital."
+  },
+  {
+    "message": "I made sure to ask Mr. Haga for the day off, just in case."
+  },
+  {
+    "message": "We call it a hospital, but this is the Old Residential District. It's an old, cramped facility, understaffed and overcrowded."
+  },
+  {
+    "message": "The building is falling apart, and not even the kindest of descriptions would include the word 'sanitary.' Still, everyone there is kind."
+  },
+  {
+    "message": "They've known Granny for a long time. They told us to come right in when I called."
+  },
+  {
+    "message": "Granny hates going to the hospital, always insisting she can take care of herself, but today, she behaves and lets them examine her."
+  },
+  {
+    "message": "Maybe she's in more pain than she lets on."
+  },
+  {
+    "message": "They tell us she's alright to recover at home, so I carry her back after the examination is over."
+  },
+  {
+    "message": "When I put Granny to bed and sit down to take a break, she yells at me to 'get to work already.'\r\n<p>\r\nI want to stay and look after her, but she's not having any of it."
+  },
+  {
+    "message": "I call Mr. Haga, who tells me I can come in now and leave early, so I give up and head for work."
+  },
+  {
+    "message": "I'm standing behind my desk, worrying about Granny, when the message arrives."
+  },
+  {
+    "message": "It's from Koujaku."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki...\""
+  },
+  {
+    "message": "If Koujaku felt the need to message me about it, Mizuki must've really been acting strange."
+  },
+  {
+    "message": "Maybe Mizuki's been pushing himself too hard."
+  },
+  {
+    "message": "I head to the bathroom to call Mizuki."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey. Mizuki?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"...Aoba? What's up?\""
+  },
+  {
+    "message": "At the sound of his voice, I feel a wash of relief."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nothing, really. Just wanted to say hi.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"What's with you, man? We just saw each other yesterday. You're acting weird.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Umm, well, I guess I was just wondering if you were doing okay.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"'Course I am. Why?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I dunno. Guess maybe you seemed a little down yesterday, is all.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"So you called because you were worried about me? Thanks. But I'm fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You sure?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay. Well, we should talk more later.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Sure. Later.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I head back to the counter with a sigh."
+  },
+  {
+    "message": "Mizuki's voice didn't have its usual energy."
+  },
+  {
+    "message": "He said he was fine, and I thought it better not to push the subject, but..."
+  },
+  {
+    "message": "First Granny collapses, now I have this to worry about."
+  },
+  {
+    "message": "Though I hope my concerns are unfounded, they stay with me through the rest of the afternoon."
+  },
+  {
+    "message": "I barely get any work done."
+  }
+]

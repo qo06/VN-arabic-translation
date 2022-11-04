@@ -1,0 +1,231 @@
+[
+  {
+    "message": "I'm still trying to wrap my head around the situation when I hear footsteps at the entrance to the alley."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Well, if it isn't Aoba. Fancy meeting you here.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Yoohoo, Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You guys...\""
+  },
+  {
+    "message": "It's Virus and Trip."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you doing here?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"This area is under our protection.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Yakuza?\""
+  },
+  {
+    "message": "Koujaku's eyes narrow."
+  },
+  {
+    "message": "For a Ribsteez like Koujaku, a pair of yakuza walking around like they own the place isn't a pleasant sight."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You guys twins? You're even dressed alike.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We're not twins.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...You hang with yakuza now?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I wouldn't say that... They weren't even yakuza when I met them. Back around the time you left the island.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes, you could say we're old chums.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Yeah, nothin' to do with work.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Some of our colleagues may be less than courteous, but <I>we</I> take care never to violate the rules. It's bad for business. I hope you understand.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"A yakuza's a yakuza. There aren't any <I>good ones.</I> Once you stoop to that level, it stains you. It's in your blood. I can <I>smell</I> it.\""
+  },
+  {
+    "message": "Virus and Trip exchange glances."
+  },
+  {
+    "message": "Honestly, I'm surprised too by the rage in Koujaku's voice. Has he always had such an intense hatred of yakuza?"
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"But on this island, there's hardly any difference between the yakuza and the police. You know that, don't you?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Correct me if I'm wrong, but you're the head of one of these gangs, aren't you? Surely, you must be on friendly terms with more than a few officers of the law.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's not like all police are bad. Some can be pretty chill.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Then I hope you can see that we're the same. That we, despite being yakuza, are 'chill.'\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Haha!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"By the way, Aoba, wasn't Dry Juice your friend's gang? Have they moved to another area?\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"We haven't seen 'em around.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"They're... gone.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Gone?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We just got here too. Someone painted over all the Dry Juice tags... and replaced them with Morphine's.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Morphine...\""
+  },
+  {
+    "message": "Virus rubs his chin thoughtfully."
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Morphine? Aren't they like some kinda boogeyman?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. I figured someone might be trying to make it look like Morphine did it, but...\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Either way, what a barbaric thing to do, taking out an entire gang. How... distasteful.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You said this area was under your protection. Don't you know anything?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes, this is our territory. As for what we know...\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"It wasn't like this last night.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Though we didn't see any Dry Juice members then, either.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What time was that about?\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Around nine, I think? Must've happened after that.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Perhaps... but kidnapping such a large number of people is no simple task.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know that. So...\""
+  },
+  {
+    "message": "...maybe Morphine really did take them all, just like in the stories."
+  },
+  {
+    "message": "But I don't dare say that out loud."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Alright. We'll be sure to let you know if we find anything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Still, you should be careful. Things have been... dangerous lately, as this latest incident illustrates.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"There's a lot we don't know about. Can't keep up with everything.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Rib's just another source of income for you assholes. You don't give a damn about us!\""
+  },
+  {
+    "message": "Koujaku spits on the ground. Virus lifts an eyebrow, amused."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We understand that our livelihood depends on this city, which is precisely why it's so important to have a solid foundation.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Whether this truly is the work of Morphine matters little. When someone causes trouble in your territory... you deal with it. Am I wrong?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Tch.\""
+  },
+  {
+    "message": "Koujaku looks away."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"If you'll excuse us. We'd like to make a more thorough inspection of the... Hm?\""
+  }
+]

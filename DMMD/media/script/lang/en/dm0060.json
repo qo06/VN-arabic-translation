@@ -1,0 +1,327 @@
+[
+  {
+    "message": "At the end of the street, I see the sign for the courier's shop."
+  },
+  {
+    "message": "Just as I start toward it, I notice a crowd in the middle of the road."
+  },
+  {
+    "message": "It looks like a fight. A bunch of people with nothing better to do have gathered to watch."
+  },
+  {
+    "message": "I keep walking, trying to avoid the whole mess.\r\nBut then the crowd stirs, followed by a high-pitched scream."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "message": "I peer through the gaps in the crowd."
+  },
+  {
+    "message": "A large man is sprawled out on the ground, another standing over him."
+  },
+  {
+    "message": "The second man has his back to me, but I recognize him immediately."
+  },
+  {
+    "message": "A bright red kimono and a big sword. There's no one else it could be."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"For a big guy, you sure went down easy. Way to make a fool of yourself in front of your girlfriend.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Kyaaa! Koujaku!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"He's so cool! And sooo dreamy!\""
+  },
+  {
+    "message": "Starry-eyed girls flock to the victor, trampling the man on the ground in the process.\r\nHere we go again..."
+  },
+  {
+    "name": "大男の彼女",
+    "message": "\"Umm... I'm really sorry...\""
+  },
+  {
+    "message": "One woman, who was keeping a bit of a distance, approaches with an apologetic bow."
+  },
+  {
+    "name": "大男の彼女",
+    "message": "\"This is all because I told him I wanted you to do my hair...\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Who do you think you are?!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Yeah! Wait your turn!\""
+  },
+  {
+    "message": "She must be the girlfriend of the man sprawled on the street."
+  },
+  {
+    "message": "I'm guessing the commotion started when they tried to cut in line at Koujaku's shop."
+  },
+  {
+    "message": "Calming his angry fans with a gesture, Koujaku gives the girlfriend a smile."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I'm glad you think so highly of my skills, miss, but <I>all</I> of my customers are important. We can't have people cutting in line, you know?\""
+  },
+  {
+    "name": "大男の彼女",
+    "message": "\"I know...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Your boyfriend might have taken things too far, but he was doing it for you. Don't be too hard on him, 'kay? Anyway, come back later. I'll hook you up.\""
+  },
+  {
+    "name": "大男の彼女",
+    "message": "\"Thank you!\""
+  },
+  {
+    "message": "The woman's eyes sparkle, her cheeks turning bright red."
+  },
+  {
+    "message": "There goes another one..."
+  },
+  {
+    "message": "Koujaku's other fans are not amused."
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Hey! How long are you gonna stand there? Move!\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Oh, Koujaku! You must be sweaty! I just bought this handkerchief... but you're welcome to use it!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Nah, I couldn't. You bought it for yourself, right? Keep it.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Please! I'm sure my handkerchief would be honored!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well... What kind of man would I be if I said no to that?\""
+  },
+  {
+    "message": "Koujaku takes the woman's hands, pulling her toward him with a smile."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Thanks. I'll make good use of it.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"!!!\""
+  },
+  {
+    "message": "There it is. His infamous lady-killer smile."
+  },
+  {
+    "message": "Well, that's what I call it, at least."
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Haaaaah!\""
+  },
+  {
+    "message": "The woman with the handkerchief slumps to her knees, attracting jealous glares from the others. Every woman here seems out for blood."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Let's get out of here.\""
+  },
+  {
+    "message": "This isn't the first time I've seen this schtick."
+  },
+  {
+    "message": "Disgusted, I start to move away from the crowd."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba?\""
+  },
+  {
+    "message": "...Ugh."
+  },
+  {
+    "message": "I can feel all those eyes focusing on me."
+  },
+  {
+    "message": "I'll pretend I didn't hear him."
+  },
+  {
+    "message": "I turn around and start walking at a brisk pace."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, hold up!\""
+  },
+  {
+    "message": "But Koujaku runs after me and grabs my arm."
+  },
+  {
+    "message": "Here we go again..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I knew it!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yo.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's with the cold shoulder? You shoulda said something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah... I was just passing by on a job.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"A delivery?\""
+  },
+  {
+    "message": "Koujaku smiles indulgently, which of course makes the women around him swoon again."
+  },
+  {
+    "message": "His smile's like a weapon. He's been using it for ages, but women still fall for it.  "
+  },
+  {
+    "message": "I really don't feel like talking here. There are too many people around... and the women's eyes are scaring me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Aren't you supposed to be working? I guess that might be hard with all this.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, this guy thought he could skip the line. I took care of it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You know, if you don't cut this stuff out, sooner or later someone's gonna cut <I>you.</I>\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Cut me? Who would do that?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just take a look around you...\" "
+  },
+  {
+    "message": "I sweep my gaze over the women glaring at me. It was clear that they weren't about to let anyone, man or woman, get close to Koujaku. Scary."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh. Well, I'll be fine. Do I really look like such an easy target?\""
+  },
+  {
+    "message": "Koujaku punctuates this with a smirk."
+  },
+  {
+    "message": "Seriously?"
+  },
+  {
+    "message": "Well, I guess I can't argue with him there."
+  },
+  {
+    "message": "Koujaku's pretty much always been aware of how handsome and popular he is.\r\n<p>\r\nHe's not the type to brag about it, but he has a casual confidence about him, and he knows his way around a fight."
+  },
+  {
+    "message": "He's a wandering hairdresser. All he does is cut and style women's hair, but apparently he's developed quite a reputation for it."
+  },
+  {
+    "message": "He sets up shop wherever and whenever he feels like it. He doesn't advertise or take reservations, but he always has a line around the block."
+  },
+  {
+    "message": "They all say that when Koujaku touches your hair, it feels like you've died and gone to heaven."
+  },
+  {
+    "message": "...I just don't get it."
+  },
+  {
+    "message": "If you told me a guy like this existed, I wouldn't believe you for a second if I didn't already know him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Anyway, you should cool it with the player routine. How many hearts do you think you've broken?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Easier said than done, bro. Not gonna turn down an offer. Women are one of life's greatest pleasures, yeah?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Beautiful, sexy... Gotta treat 'em right.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"You're so cool!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"I love you!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Whatever floats your boat... I gotta get going.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Right.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Koujaku, hurry!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Hey! It's my turn next.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "As soon as I end the conversation, the women swarm Koujaku."
+  },
+  {
+    "message": "He shoots me a look from the center of the crowd."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, almost forgot. Tell Miss Tae I said hi. I'll swing by again soon.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, sure.\""
+  },
+  {
+    "message": "I shrug and walk off."
+  },
+  {
+    "message": "Still, the guy never gets enough, huh?"
+  },
+  {
+    "message": "I mean, he must like it, but I know I would hate to be the center of all that attention. I guess he's a special breed."
+  },
+  {
+    "message": "I head for the courier, leaving the crowd behind."
+  }
+]

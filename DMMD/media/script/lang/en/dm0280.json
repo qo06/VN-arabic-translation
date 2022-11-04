@@ -1,0 +1,120 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Good morning.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Good morning.\""
+  },
+  {
+    "message": "The next day, I go to work like usual. Mr. Haga is doing inventory when I get in."
+  },
+  {
+    "message": "The first thing I do after I put my bag behind the counter and set Ren down is go over to Mr. Haga."
+  },
+  {
+    "message": "I have to apologize for what happened yesterday."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Boss.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm sorry about the delivery yesterday.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Huh? Oh. That's already been...\""
+  },
+  {
+    "message": "His expression darkens, scaring me a bit."
+  },
+  {
+    "message": "Maybe the customer yelled at him after I lost the package?"
+  },
+  {
+    "message": "If that's what happened, it's all on me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Um, I'm really sorry. I'd like to apologize to the customer too, if I can...\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh, well, about that...\""
+  },
+  {
+    "message": "Mr. Haga adjusts his glasses, a worried look on his face."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"The customer already paid for that item, so I needed to ask whether they wanted a refund or a replacement. But I couldn't get ahold of them.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I even tried contacting the control center, but nothing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nothing?\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Yes, nothing worked. Since the billing and shipping addresses were the same, I checked the address first, but the person there had a different name...\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"And no recollection of ordering anything from us.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So... it was a prank?\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"There's a good chance that it was. I don't understand why anyone would do that, though.\""
+  },
+  {
+    "message": "He's right. If it was a prank, what would the prankster even get out if it? "
+  },
+  {
+    "message": "They already paid for the item. They'd just be out that money."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I don't think we really need to do anything else at this point... but something doesn't feel right.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "I was dragged into that Rhyme battle during that delivery. Could they be related?"
+  },
+  {
+    "message": "An air of unease hangs over us, but there's no more time to look for answers."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh my, we should open up.\""
+  },
+  {
+    "message": "Mr. Haga hurries out of the shop."
+  },
+  {
+    "message": "I don't like leaving it like this, but Mr. Haga's investigation turned up nothing, and I have no further clues."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guess I'd better get to work.\""
+  },
+  {
+    "message": "Resolved to forget about it, I take my place behind the counter."
+  }
+]

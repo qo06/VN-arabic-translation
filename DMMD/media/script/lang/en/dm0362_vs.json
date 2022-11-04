@@ -1,0 +1,274 @@
+[
+  {
+    "message": "I hear a heavy thump overhead."
+  },
+  {
+    "message": "But I don't have any time to consider what it might be."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ouch...!\""
+  },
+  {
+    "message": "I grit my teeth as a sharp pain shoots up my twisted arm."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please unhand my master.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "message": "Another voice speaks."
+  },
+  {
+    "message": "I turn toward it..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Hello, Master.\""
+  },
+  {
+    "message": "Somehow, the guy in the gas mask is there."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "The blond man stands warily, putting some distance between himself and the new arrival."
+  },
+  {
+    "message": "I rub my aching arm and get up."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Where'd you come from?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"The balcony. Master, is he a friend of yours?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No... Huh? You mean...\""
+  },
+  {
+    "message": "I look at the balcony..."
+  },
+  {
+    "message": "The sliding door is wide open."
+  },
+  {
+    "message": "And the lock has been <I>sheared off.</I>"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell did you do?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"The door was closed, so I opened it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not what I meant!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Master?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. Master is my master.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...You screwing with me?\""
+  },
+  {
+    "message": "The intruder glares at the man in the gas mask, then at me."
+  },
+  {
+    "message": "Hey, I have no idea what's going on either."
+  },
+  {
+    "message": "Man, what a disaster..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Anyway, please don't bully Master. I won't allow it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What a fucking joke.\""
+  },
+  {
+    "message": "...Don't tell me he's actually getting angry."
+  },
+  {
+    "message": "He turns toward the man in the gas mask. I can feel the rage radiating from his back."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey!\""
+  },
+  {
+    "message": "I have to stop them. Who's gonna clean up the mess?!"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "The door suddenly swings open and Koujaku bursts in."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You okay?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku?! Why are you―\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I sent you a message, remember? Then I saw some weirdo in a gas mask crawling in from the balcony.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So I came as fast as I could.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Looks like he brought a friend, too.\""
+  },
+  {
+    "message": "Koujaku glares at the two of them."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"As far as I'm concerned, you're <I>both</I> getting in my way.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So you're not his friend?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"As if.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Our relationship could not yet be classified as friendly.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Anyway, you two better beat it right now, before I throw you out.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah? How you gonna do that?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"How do you <I>think?</I>\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'd like to see you try.\""
+  },
+  {
+    "message": "He sneers."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Big weapon you got there. Overcompensating?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "He's not gonna take such obvious bait, right? I mean, there's no way... right?"
+  },
+  {
+    "message": "My heart pounds as Koujaku cracks his knuckles."
+  },
+  {
+    "message": "Oh... Oh shit."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You have a smart mouth. Why don't I shut it for you permanently?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, wait a minute!\""
+  },
+  {
+    "message": "Koujaku makes a grab for the blond guy's collar."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hah!\""
+  },
+  {
+    "message": "He nimbly dodges Koujaku's attack, drops his hips and throws a punch."
+  },
+  {
+    "message": "Koujaku shifts just before the man's fist can make contact with his cheek, dodging the blow by a hair."
+  },
+  {
+    "message": "...Wait, why am I just watching?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I said cut it out! This is my room!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"They sure are strong!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's the problem!\""
+  },
+  {
+    "message": "I don't know about the blond guy, but Koujaku's normally got patience in spades. When something does set him off, though, there's no stopping him."
+  },
+  {
+    "message": "Magazines and trash and knicknacks go flying, or are crushed underfoot as they scuffle."
+  },
+  {
+    "message": "Aaaaah..."
+  },
+  {
+    "message": "I don't care about the other stuff! Just please, stay away from my computer!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"For fuck's sake, will you two―\""
+  },
+  {
+    "message": "That's when I hear someone storming up the stairs."
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "message": "......"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Ngh..."
+  },
+  {
+    "message": "...What's that smell..."
+  },
+  {
+    "message": "It smells familiar, like some kind of spice..."
+  },
+  {
+    "message": "Cinnamon...?"
+  },
+  {
+    "message": "Slowly opening my eyes, I see someone standing a short distance away."
+  },
+  {
+    "message": "The giant. What was his name? Mink?"
+  },
+  {
+    "message": "What is he doing?"
+  },
+  {
+    "message": "He's gazing solemnly at a burning candle."
+  },
+  {
+    "message": "Is he saying something?"
+  },
+  {
+    "message": "I can't make it out."
+  },
+  {
+    "message": "I wonder what he's saying..."
+  },
+  {
+    "message": "What is..."
+  },
+  {
+    "message": "...he doing..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": ".........."
+  },
+  {
+    "message": "I wake, once again, with a splitting headache."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I open my eyes to a cracked, filthy ceiling."
+  },
+  {
+    "message": "...Where am I? What happened?"
+  },
+  {
+    "message": "...Right. They were about to rape me."
+  },
+  {
+    "message": "What happened after that? I'm fully dressed..."
+  },
+  {
+    "message": "At any rate, this looks like a different room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Owwww...\""
+  },
+  {
+    "message": "I have to take my medicine...<K>\r\nWait, my bag."
+  },
+  {
+    "message": "Where'd my bag go? Ren was in there."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "I heard the door open and bolt out of bed, momentarily forgetting the pain."
+  },
+  {
+    "message": "Who is it? Mink?"
+  },
+  {
+    "name": "電話の人",
+    "message": "\"You're awake.\""
+  },
+  {
+    "message": "A gangly, slouching man pokes his head through the rusty metal door."
+  },
+  {
+    "message": "When he sees me, he grins and enters the room."
+  },
+  {
+    "message": "Who the hell?"
+  },
+  {
+    "name": "電話の人",
+    "message": "\"How you feeling? You've had it rough, huh?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"It's nothing personal. No one can defy Mink's orders. Not that we have any idea what he's thinking.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I have no idea what the man's on about. I glare at him, willing him to go away."
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Don't look so scared. I'm not here on Mink's order. You're... Aoba, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How do you know my name?!\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I knew it. You're Aoba from Hum-Drum Junk.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You know Hum-Drum Junk?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Yeah. I used to be a pretty regular customer.\""
+  },
+  {
+    "message": "He smiles happily. "
+  },
+  {
+    "message": "Maybe it's just because of what I've been through, but the shop's name is music to my ears."
+  },
+  {
+    "message": "Knowing he was a customer makes me feel a certain kinship. I want to drop my guard."
+  },
+  {
+    "message": "But I don't."
+  },
+  {
+    "message": "There's something off about this guy."
+  },
+  {
+    "message": "He can't seem to sit still. And that's not all..."
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I can't believe I ran into you here! I'm so excited to finally meet you!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"O-Oh, yeah?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I know, right? So, like, when I heard we were holding you, I had a brilliant idea.\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"What if I let you go?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Are you serious?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Of course I am. So what do you say? Good idea or what?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But... isn't this place crawling with that Mink guy's people?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Don't sweat it. I'll come up with something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You'll come up with something... Like what, specifically?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I said don't worry about it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but what are you gonna do?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"...You don't know when to quit.\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I told you I'd handle it, didn't I?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Suddenly, the man's expression changes, and he pulls a gun on me."
+  },
+  {
+    "message": "He smiles, but it doesn't reach his eyes, which are wide as plates."
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Look, it'll be totally fine. I'll get you out of here, so just lemme hear your voice some more. Please?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"My... voice?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Yeah! You're the one who usually answers the phone, aren't you?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I fell in love with your voice the first time I heard it. After that, I kept calling just to hear your voice again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "So his only interest in the store is me..."
+  },
+  {
+    "message": "Admittedly, he's not the only customer who calls because of my voice."
+  },
+  {
+    "name": "電話の人",
+    "message": "\"I want you to use that pretty voice for me. I wanna hear it all. Please?\""
+  },
+  {
+    "message": "The man climbs onto the bed, gun still in hand. He shoves the weapon in my face when I try to get up."
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Don't move! If you try to run, I'll shoot.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"What's the big deal? I just wanna hear your voice. You can talk, can't you?\""
+  },
+  {
+    "message": "The man gropes my face, panting heavily."
+  },
+  {
+    "message": "Ugh, gross!"
+  },
+  {
+    "message": "Why does this keep happening to me?!"
+  },
+  {
+    "message": "Agh! My head!"
+  },
+  {
+    "message": "Shit. Why does it have to start up again now?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Eek!\""
+  },
+  {
+    "message": "The door flies open. The man goes white as a sheet and spins around, dropping the gun."
+  },
+  {
+    "message": "There in the doorway stands Mink."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...What are you doing?\""
+  },
+  {
+    "name": "電話の人",
+    "message": "\"S-Sorry!\""
+  },
+  {
+    "message": "Mink marches into the room and grabs the panicking man by the collar."
+  },
+  {
+    "name": "電話の人",
+    "message": "\"Eeek! I'm sorry! I'm sorry!!!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Get your ass over here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Ow!\""
+  },
+  {
+    "message": "Mink grabs me by the arm and hauls me off the bed."
+  }
+]

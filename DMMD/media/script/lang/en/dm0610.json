@@ -1,0 +1,317 @@
+[
+  {
+    "message": "Hum-Drum's basement has a couch and a table, which we use for informal meetings. We all gather down there."
+  },
+  {
+    "message": "Mr. Haga seems to realize something's going on, because he heads right back upstairs after showing us down."
+  },
+  {
+    "message": "Koujaku, Clear, Mink, and I sit on the couch."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Right, let's pick up where we left off. What happened to Ms. Tae? I couldn't get ahold of her, and considering what happened to you and all...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I know she hates Coils. I'm hoping that's all it is, but if it's not...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "As I trail off, Koujaku flashes a knowing frown."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Something happened, didn't it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...She was kidnapped.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"By who?!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Morphine.\""
+  },
+  {
+    "message": "Koujaku snorts at this."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What? You're a funny guy. Morphine? You gonna tell me they disappeared her, too? She ain't got nothing to do with Rib.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Koujaku. I saw it with my own eyes. I saw Morphine's tag.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Seriously?\""
+  },
+  {
+    "message": "I tell him about how I arrived home to find Granny gone, and about Mink, and about those Morphine―Dry Juice―members."
+  },
+  {
+    "message": "I know mentioning that Mink kidnapped me would just add fuel to the fire, so I gloss over the details."
+  },
+  {
+    "message": "Koujaku listens intently. Once I've finished, he lets out a small sigh and leans back into the couch."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I still can't believe it. You sure those Morphine tags weren't just this asshole fucking with you?\""
+  },
+  {
+    "message": "Koujaku glares at Mink."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"This guy's a fucking criminal.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Believe whatever you want.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah? Where do you get off telling us <I>shit?</I>\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Whatever you're planning, leave us the fuck out of it.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"That's up to him. Not you.\""
+  },
+  {
+    "message": "Mink points to me with his pipe."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"He accepted my conditions in exchange for my help finding his grandmother. The deal's between him and me.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"First I've heard of it. And what the hell are these conditions?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I don't have to tell you that. I will say I have a lead on his grandmother's location.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"My men tracked down the guys who kidnapped her. If you don't believe me, that's your problem.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "Koujaku turns to me. His eyes are asking, \"What are you gonna do?\""
+  },
+  {
+    "message": "I...<K> already know the answer."
+  },
+  {
+    "message": "I totally understand Koujaku's suspicions. It's not like I trust Mink either."
+  },
+  {
+    "message": "But Mink is the only one with a clue where Granny might be. I don't have a choice."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Koujaku, please. I just want to save Granny. I don't know what else to do.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Please help.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba...\""
+  },
+  {
+    "message": "Gradually, the anger fades from Koujaku's face, though there's still a fire in his eyes."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Fine. If you're that intent on doing this, I'll help. I'll just have to take your word this guy's on the level.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"No problem. It's for you.\""
+  },
+  {
+    "message": "Koujaku shoots Mink another glare."
+  },
+  {
+    "message": "Mink blows out a puff of white smoke, then glances over at the stairs."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "message": "At first, I think he's just trying to rile Koujaku up by ignoring him, but no. His eyes are sharp, like a hawk's."
+  },
+  {
+    "message": "Is something there?"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Hey.\""
+  },
+  {
+    "message": "Mink gestures at the cockatoo with his chin."
+  },
+  {
+    "message": "It flies through the door to the stairs."
+  },
+  {
+    "message": "There's some clattering, then the bird returns with something in its talons."
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"P!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What the hell is that?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Some kind of block?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's...\""
+  },
+  {
+    "message": "The bird is holding a cube."
+  },
+  {
+    "message": "Wait, I've seen this thing before."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz. It's him again.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Someone needs to be taught some manners.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Him again? Is eavesdropping his hobby or something?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh, so that's what I heard at the door earlier.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You know the guy this belongs to?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess you could say that.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"A guy who knows the value of intel. Could be useful.\""
+  },
+  {
+    "message": "Mink grabs me by the arm and whispers into my ear:"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Get him to join us.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"<I>Persuade</I> him. Like you do on the phone at work.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you even want with him?!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"We could use someone clever. The more cards we have, the better.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, what are you whispering about over there?!\""
+  },
+  {
+    "message": "Mink lets me go. I sit back."
+  },
+  {
+    "message": "I'm pretty sure Mink was talking about my voice."
+  },
+  {
+    "message": "But getting Noiz on our side? Easier said than done."
+  },
+  {
+    "message": "Will I really be able to \"persuade\" him, like I do with customers?"
+  },
+  {
+    "message": "I face the cube the cockatoo is holding and take a deep breath."
+  },
+  {
+    "message": "I'm not crazy about the idea. I don't know Noiz <I>or</I> Mink very well."
+  },
+  {
+    "message": "But Granny's in danger. I have to give it a shot."
+  },
+  {
+    "message": "Focusing―how does it feel when I speak to customers on the phone?―I make my voice soft and low."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Noiz. That's you, right? Can you hear me?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So... I'm kind of in trouble.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"To be totally honest, things might be pretty hard with just the four of us. So... do you think you could lend me a hand? When everything's over...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'll do whatever you want.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Please. I could really use your help.\""
+  }
+]

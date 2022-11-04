@@ -1,0 +1,207 @@
+[
+  {
+    "message": "I enter my neighborhood and soon reach my house."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm ho―\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What's wrong with you, you stupid boy?!\""
+  },
+  {
+    "message": "A clap of thunder greets me the moment I open the door. I know from experience that the ringing won't go away any time soon."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Do you <I>have</I> to shout?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"How else am I going to get it through your thick skull?!\""
+  },
+  {
+    "message": "Granny is perched menacingly on the landing, fuming as she scowls at me."
+  },
+  {
+    "message": "I've always wondered how such an old woman can make so much noise."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you mad about now?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't you know?! The lock!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The lock?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"How many times have I told you to lock the door when you go to work?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh... Did I forget? Sorry.\""
+  },
+  {
+    "message": "I was almost late for work this morning, so I ran out of the house in a hurry."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't 'sorry' me! What did I do to deserve such a forgetful grandchild?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you want from me? I forgot, okay?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Because you overslept again. You're 23 and still completely hopeless! Are you trying to make your grandmother cry?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I said I'm sorry, didn't I?! Everyone screws up sometimes!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You could get a gold medal in screwing up! How many times is it now?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Six?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You are <I>completely</I> hopeless!\""
+  },
+  {
+    "message": "Granny is shaking with anger. The veins on her forehead are bulging."
+  },
+  {
+    "message": "This is serious. She's fainted after getting too worked up before."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I get it! I get it! I'll be more careful, so stop shouting already!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"...Hmph. How many times have I heard that one? How can I rest in peace if you still can't take care of yourself?\""
+  },
+  {
+    "message": "Granny snorts and stomps back into the kitchen."
+  },
+  {
+    "name": "タエ",
+    "message": "\"You still standing there? Come in before you freeze.\""
+  },
+  {
+    "message": "...She seems to have settled down for the moment."
+  },
+  {
+    "message": "Relieved, I take off my shoes and head inside."
+  },
+  {
+    "message": "We might get into shouting matches like this on a daily basis, but we actually get along pretty well, all things considered."
+  },
+  {
+    "message": "The fact that she can still yell like that is proof that she's healthy. I think her yelling is one of the things I'm going to miss when the time comes."
+  },
+  {
+    "message": "I'm really grateful to her for raising me all by herself. Not that I'd ever say that to her face."
+  },
+  {
+    "message": "Granny is in the kitchen, in the middle of serving up whatever she was sauteing in her frying pan."
+  },
+  {
+    "message": "I wash my hands at the sink, grab two sets of chopsticks off the shelf, and set the table."
+  },
+  {
+    "message": "You might be wondering where my parents are. They were never the type to stay in one place.\r\n<p>\r\nEven when they lived here with us, they would up and vanish for months―even years―at a time."
+  },
+  {
+    "message": "It was always like that, even when I was little, so I eventually got used to it being just Granny and me."
+  },
+  {
+    "message": "When they stopped coming back all together, I was surprisingly okay. I guess I have Granny to thank for that."
+  },
+  {
+    "message": "After all the trouble I caused growing up, I just want to treasure the time I have left with her."
+  },
+  {
+    "message": "A simple life is all I need."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Let's eat.\""
+  },
+  {
+    "message": "She lines up the food. Somen noodles, tuna, stir-fried shiitake mushrooms and boiled greens, fried fish, and miso soup."
+  },
+  {
+    "message": "I sit down with Granny and put my hands together."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Eat up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks for the food.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny, this is delicious.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Is it, now?\""
+  },
+  {
+    "message": "Being chased by the police made me hungry, so Granny's homemade cooking really hits the spot."
+  },
+  {
+    "message": "While stuffing my face, I feel a sharp pain shoot through my skull."
+  },
+  {
+    "message": "Here we go again... "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ow...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Another headache? Don't forget to take your medicine after you eat.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I won't.\""
+  },
+  {
+    "message": "I've suffered from frequent headaches ever since a youthful indiscretion landed me in the hospital. This is the second one today."
+  },
+  {
+    "message": "No one's ever been able to figure out the cause. Ever since it started, I've been taking the medicine Granny prescribes."
+  },
+  {
+    "message": "Did I mention Granny has a medical license? Yeah, she's kinda like the village doctor, always giving neighborhood folks checkups and meds."
+  },
+  {
+    "message": "She has quite the reputation for being safer than other, less competent doctors who just take your money."
+  },
+  {
+    "message": "I can vouch for that. Her pills are the only thing that have ever helped my headaches."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks for the meal.\""
+  },
+  {
+    "message": "After I finish eating, I take my medicine, clear the table, and head upstairs."
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "message": "I look up to find a familiar duo standing in front of me."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Hey.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Hey there.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"What's the matter? Feeling sick?\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Crowd gettin' to you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You two...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, must be the crowd.\""
+  },
+  {
+    "message": "The four-eyes is Virus. The big guy is Trip. I've known them for ages."
+  },
+  {
+    "name": "蓮",
+    "message": "\"How are you feeling?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not great, but I'll be fine.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"What're you doing here anyway? Thought Rhyme wasn't your thing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just passing through.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"You thinking of joining?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not a chance.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"So it's a coincidence you're here right when a fight starts?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm telling you I'm not interested. What about you? What're you two doing here?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We're here on business.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"The Rhymers've been gettin' a little out of hand lately.\""
+  },
+  {
+    "message": "The Old Residential District is home to some pretty dangerous groups. These two belong to one of them."
+  },
+  {
+    "message": "I met them ages ago, when I was still a stupid teenager. \r\n<p>\r\nBack then, I was always pissed off about something. I'd spend my nights trolling for brawls in Wanibashi."
+  },
+  {
+    "message": "In the end, all that adolescent posturing got me was a trip to the hospital after I picked a fight with the wrong guy. "
+  },
+  {
+    "message": "Yeah, I was kind of a loser..."
+  },
+  {
+    "message": "The only people who really know what I got up to back then are these two and Granny."
+  },
+  {
+    "message": "I lost touch with them until we reconnected a few years ago."
+  },
+  {
+    "message": "By then, I'd gotten a part time job and they had joined the yakuza."
+  },
+  {
+    "message": "Considering that the police here are basically yakuza too, it's never really bothered me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Anyway, you two look the same as ever. Like twins.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We're not twins.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Things going well at work?\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"The ice cream shop, right? With the penguin aprons? I thought you got fired on your first day.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I made it <I>three</I> days, thank you very much. Now I work at a junk shop.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Riiight, what was it again? Dumb-dumb?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"<I>Hum-Drum</I> Junk. I've been there for a while now.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"That name doesn't suit you. If you ever want to let loose again, you know who to call.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We've got a lot of power. You could do worse.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haha... Well, I appreciate the offer.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"I keep thinking how much I'd like to see you fight again.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Yeah. We're your biggest fans.\""
+  },
+  {
+    "name": "卯水",
+    "message": "\"Oh! 250 damage to Route 44! Is it over already?!\""
+  },
+  {
+    "message": "A roar goes up from the audience.\r\n<?>"
+  },
+  {
+    "message": "But then―"
+  },
+  {
+    "name": "悪島",
+    "message": "\"Hey, you hooligans!\""
+  },
+  {
+    "message": "An even louder voice cuts through the charged atmosphere."
+  },
+  {
+    "message": "Brandishing a megaphone, a man charges in with several police officers in tow."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Oh, just what we needed.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Where do you fuckers think you are?! YOU'RE ALL UNDER ARREEEEEST!!!\""
+  },
+  {
+    "message": "The match is over. Usui vanishes in a puff of smoke, and the fighters and spectators scatter."
+  },
+  {
+    "message": "The guy with the megaphone is Akushima, a hardass detective who's as crooked as they come.\r\n<p>\r\nHe's jailed or beaten dozens of people on blatantly false charges."
+  },
+  {
+    "message": "They call him the Grim Reaper of the Old Residential District."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"I think we'd better be going. You probably should too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"See ya round.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Wait, you scumbags! Get back here! We're gonna arrest every one of you shitheads!\""
+  },
+  {
+    "message": "Akushima looks like he's about to burst a blood vessel. I ignore him and take off running."
+  }
+]

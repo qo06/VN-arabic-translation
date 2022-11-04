@@ -1,0 +1,183 @@
+[
+  {
+    "name": "白蒼葉",
+    "message": "<center>\"Death... and destruction.\"</center>"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hah! Ngh!\""
+  },
+  {
+    "message": "...Ugh. My head is killing me."
+  },
+  {
+    "message": "What the hell happened?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Oww...\""
+  },
+  {
+    "message": "When I come to, I'm lying on the sidewalk."
+  },
+  {
+    "message": "I slowly push myself up, fighting the pain in my body."
+  },
+  {
+    "message": "Though wobbly, I manage to stand."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ouch... Seriously... what happened?\""
+  },
+  {
+    "message": "Clutching my head, I struggle to make sense of my jumbled memories."
+  },
+  {
+    "message": "I was making a delivery... when suddenly, I got pulled into a Rhyme match, and then that weird guy with the rabbit head showed up..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm back at the shop?\""
+  },
+  {
+    "message": "How? What happened to my delivery?"
+  },
+  {
+    "message": "I look around and see a furry blue lump on the ground."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren!\""
+  },
+  {
+    "message": "I pick him up, but he doesn't respond."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey!\"\r\n<p>\r\nI tap him gently on the head."
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "message": "After a beat, Ren opens his eyes. Relief washes over me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You okay?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"No serious issues.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really? Nothing's broken?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Some of my data is corrupted.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Isn't that serious?!\""
+  },
+  {
+    "message": "The Rhyme battle must've damaged Ren too."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll take a look at you once we get home.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Please do, just to be safe.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. It feels like some of <I>my</I> data's been corrupted too...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I remember fighting with that rabbit head guy, but what exactly happened at the end?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Those memories are corrupted.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh... Hang on, maybe I can remember something.\""
+  },
+  {
+    "message": "Fighting through the pain in my head, I close my eyes and search my memories."
+  },
+  {
+    "message": "But the harder I try to remember, the more it slips out of reach."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Damn. I can't remember anything.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You can't help that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really? What makes you say that?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"If we value the average human male's mental storage capacity at 100, the value of yours would be―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is this really the time to be cracking jokes? ...Ah...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh... Huh? I'm... feeling kinda dizzy...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey... have you always had eight legs...?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Uh... Why is everything spinning...?"
+  },
+  {
+    "message": "Which way is down...? I can't..."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Wait here.\""
+  },
+  {
+    "message": "As Ren runs off, I start laughing."
+  },
+  {
+    "message": "Woah... three Rens... Neat..."
+  },
+  {
+    "message": "...And that's when I black out."
+  }
+]

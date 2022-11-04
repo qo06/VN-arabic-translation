@@ -1,0 +1,233 @@
+[
+  {
+    "message": "The morning passes uneventfully. After breaking for lunch, I start my afternoon shift."
+  },
+  {
+    "message": "Mr. Haga's out, leaving me alone in the shop."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yes... Yes. Well, we look forward to hearing from you again.\""
+  },
+  {
+    "message": "I take a breather after getting off the phone with a customer."
+  },
+  {
+    "message": "The usual voice trick worked on this guy, so I managed to sell him all sorts of crap."
+  },
+  {
+    "message": "It was a little annoying, though. He'd called before, and really hadn't wanted to hang up."
+  },
+  {
+    "message": "I'm still shaking off my disgust when the doorbell rings."
+  },
+  {
+    "message": "A customer?"
+  },
+  {
+    "message": "I stop leaning on the counter and stand up straight."
+  },
+  {
+    "name": "キオ",
+    "message": "\"Hiya!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"We came to plaaaaaay!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Hmph.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Oh, it's you.\""
+  },
+  {
+    "message": "It's just the evil trio."
+  },
+  {
+    "message": "I let out an exaggerated sigh and go back to leaning on the counter."
+  },
+  {
+    "message": "Nothing good ever comes from them showing up."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't need trouble. Get outta here.\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"You're so annoying.\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Annooooyiiiiing.\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"You just shut your stupid mouth, okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "These stupid brats..."
+  },
+  {
+    "message": "They immediately find Junker and start chasing him around."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"There it is!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Wait up, wait uuup!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Catch it!\""
+  },
+  {
+    "name": "凡人くん",
+    "message": "\"C-Cleaning!!!\""
+  },
+  {
+    "message": "Junker flees as fast as he can.\r\n<p>\r\nHe's clever for an Allmate and surprisingly agile too, so he's not exactly easy to catch, but that only makes the brats more determined."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! Hey! Hey! No running!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"I'm gonna get you!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Wait!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Catch it already!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Come oooooooooooooooon!!!\""
+  },
+  {
+    "name": "凡人くん",
+    "message": "\"C-Cleaning! Cleaninining!!!\""
+  },
+  {
+    "message": "Hold on, that shelf is wobbling..."
+  },
+  {
+    "message": "And that cardboard box sure looks like it's about to fall..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I probably should get up and stop it..."
+  },
+  {
+    "message": "...But the thought is a moment too late."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Aaahhhh!!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"No waaaay! Something broooooke!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"It broke!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And whose fault is that?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You brats!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Waaah! Aoba's mad!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Maaaad!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"I hate quick-tempered men!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shut up! ...You! Hey! You too!\""
+  },
+  {
+    "message": "I grab the three of them by their collars and toss them out of the shop."
+  },
+  {
+    "name": "キオ",
+    "message": "\"Uwah!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Ouch!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Meanie! You're mean!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh just shut up already! Or I'll show you how mean a grown-up can get!\""
+  },
+  {
+    "message": "I put my hands on my hips, doing my best impression of an intimidating teacher."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"All you do is horse around! Why don't you think about what you've done? And get your butts home.\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Ugh, you're so annoying! Shut up, stupid!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Stupid Aoba!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"You're so lame, you old geezer!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Why you little...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"GET OUTTA HERE!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Waaaaaaaaaaah!!!\""
+  },
+  {
+    "message": "The brats take off running."
+  }
+]

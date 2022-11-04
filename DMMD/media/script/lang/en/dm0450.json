@@ -1,0 +1,218 @@
+[
+  {
+    "message": "This was meant to be a casual visit, but the closer we get to Dry Juice territory, the stranger things become."
+  },
+  {
+    "message": "Normally, you'd see Dry Juice members hanging around, but today, the streets are deserted."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's a ghost town.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You think they moved somewhere else?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I didn't hear anything...\""
+  },
+  {
+    "message": "I have a bad feeling about this..."
+  },
+  {
+    "message": "We pick up the pace."
+  },
+  {
+    "message": "When we reach the alley where they usually gather, we find it empty of life."
+  },
+  {
+    "message": "Koujaku stops and catches me by the arm."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Hey.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What― Huh?!\""
+  },
+  {
+    "message": "I follow Koujaku's stare―and freeze."
+  },
+  {
+    "message": "...They're gone."
+  },
+  {
+    "message": "The Dry Juice tags on the wall... have all been painted over in black."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why...?\""
+  },
+  {
+    "message": "No way... Did some other gang beat them?"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Look at that.\""
+  },
+  {
+    "message": "A new tag has been painted on the wall."
+  },
+  {
+    "message": "Metallic wings and a heart surrounded by a halo..."
+  },
+  {
+    "message": "I recognize it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Morphine?!\""
+  },
+  {
+    "message": "Morphine took out Dry Juice?!"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"No way... The story's real?\""
+  },
+  {
+    "message": "Koujaku's words make my heart skip a beat."
+  },
+  {
+    "message": "That's right... those disappearances...\r\nI thought they were just an urban legend."
+  },
+  {
+    "message": "Or maybe someone was screwing around."
+  },
+  {
+    "message": "Dry Juice is the biggest Rib gang in town. I'm sure they have plenty of enemies. It could be a gang trying to lay the blame on Morphine."
+  },
+  {
+    "message": "That sounds more realistic than some kind of magical disappearance."
+  },
+  {
+    "message": "But in that case... how could there be <I>no one</I> left?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! Is anyone here?! Hey!\""
+  },
+  {
+    "message": "I run through the alleyways, shouting at the top of my lungs."
+  },
+  {
+    "message": "No answer."
+  },
+  {
+    "message": "Damn! What the hell is going on?!"
+  },
+  {
+    "message": "I head toward a nearby alley―the one where Mizuki always hangs out. If Dry Juice members are anywhere, it'll be there."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "I step into the alley. But it's deserted like the others."
+  },
+  {
+    "message": "Even though I expected as much, it still sends a shiver up my spine."
+  },
+  {
+    "message": "At the back of the alley, the biggest Dry Juice tag has been painted over as well."
+  },
+  {
+    "message": "What the hell is going on?"
+  },
+  {
+    "message": "I could always find Mizuki leaning on the wall in front of that tag..."
+  },
+  {
+    "message": "He'd greet me with a smile when I came by..."
+  },
+  {
+    "message": "I want to turn away. It feels like I'm witnessing the ruin of something precious to me."
+  },
+  {
+    "message": "But I force myself to look."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba! I checked the other side, but there's no one there either.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Same here, huh? This is brutal.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey... isn't that―\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What? ...Huh?! This is blood!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I thought so.\""
+  },
+  {
+    "message": "Though smudged and darkened by footprints, there's blood spatter on the ground. It looks relatively fresh."
+  },
+  {
+    "message": "Looking around, I notice shoe prints on the walls and debris scattered about. The signs of a struggle."
+  },
+  {
+    "message": "The more I see, the more I realize that only one thing makes sense."
+  },
+  {
+    "message": "Morphine did this. Just like the stories said."
+  },
+  {
+    "message": "Disputes between Rib gangs are common, but usually those end with a brawl, and some tags getting scribbled out at worst."
+  },
+  {
+    "message": "This is different. I feel <I>malice</I> in the air. This was the work of someone with a ruthless disregard for their enemy."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "What <I>happened</I> here?"
+  },
+  {
+    "message": "This alley was so full of life. It was a place where everyone got along, where you never had to be alone."
+  },
+  {
+    "message": "That's why people joined the gang. Even if it was only temporary, here, people shared a bond."
+  },
+  {
+    "message": "It was home. "
+  },
+  {
+    "message": "And now... there's nothing left."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Shit, I can't get through to Mizuki.\""
+  },
+  {
+    "message": "Koujaku looks up from his Coil."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What the hell happened here? Fuck! Did Morphine really do this?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki...\""
+  }
+]

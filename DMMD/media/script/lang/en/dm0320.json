@@ -1,0 +1,325 @@
+[
+  {
+    "message": "That evening, after I finish work, I head to Mizuki's with a package."
+  },
+  {
+    "message": "We'd just gotten an order from Mizuki's shop, so I figured I'd take the opportunity to stop by."
+  },
+  {
+    "message": "Mizuki's shop, the Black Needle, is just north of Hum-Drum Junk."
+  },
+  {
+    "message": "It started as just a tattoo parlor, but after he turned the waiting room into a bar, it became something of a social spot too."
+  },
+  {
+    "message": "Tattoos are pretty popular in the city, both as fashion statements and to indicate Rib affiliation, so Mizuki's shop does pretty well."
+  },
+  {
+    "message": "Of course, Mizuki is one of the artists, so he'd ink me if I asked. I have no interest in that stuff, though."
+  },
+  {
+    "message": "The sun is starting to set by the time I approach the Black Needle."
+  },
+  {
+    "message": "This is Dry Juice territory. Gang members dot the area."
+  },
+  {
+    "message": "I've gotten to know some of them through Mizuki, so I usually don't have any trouble passing through."
+  },
+  {
+    "name": "ドライジュースメンバーＣ",
+    "message": "\"Hey, Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, been a while.\""
+  },
+  {
+    "name": "ドライジュースメンバーＣ",
+    "message": "\"Here for Mizuki?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just delivering his order.\""
+  },
+  {
+    "name": "ドライジュースメンバーＣ",
+    "message": "\"He's at the base.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it. Thanks.\""
+  },
+  {
+    "message": "It's not far."
+  },
+  {
+    "message": "The Dry Juice base is huge, encompassing several alleys. It's expanded over time as their membership has grown."
+  },
+  {
+    "message": "The members are scattered through the various alleys, but Mizuki can always be found in the same spot."
+  },
+  {
+    "message": "He's standing in front of a staircase covered with a large Dry Juice tag, talking to some of his members."
+  },
+  {
+    "message": "He waves me over when he sees me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hum-Drum Junk home delivery! Thank you for your business!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Oh, is that the stuff I ordered? Thanks.\""
+  },
+  {
+    "message": "I hand him the package and send the receipt with my Coil. Once Mizuki confirms it, the delivery is complete."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Thanks for doing this. I know I can depend on you guys for rare parts.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll let Mr. Haga know you said that.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You headed home after this?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Nothing like the end of a hard day's work, huh? I'm about to head back to the shop. Grab a drink with me, will ya?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"If you're buying.\""
+  },
+  {
+    "message": "I follow Mizuki out of the alley. Gang members greet him as we walk by. A few even bow formally, to which Mizuki smiles awkwardly in response."
+  },
+  {
+    "message": "The Black Needle is tucked away in a black building with only a little sign identifying it."
+  },
+  {
+    "message": "Stepping through the door, I'm immediately greeted by upbeat music.\r\n<p>\r\nThe waiting room, which also doubles as a bar, is much bigger than you'd think from the outside."
+  },
+  {
+    "message": "In the dim light, I see a few people lounging on couches, reading magazines, or chatting quietly."
+  },
+  {
+    "message": "To the left is the front desk,<?>"
+  },
+  {
+    "message": " and to the right is the bar. The door in the back leads to the tattoo studio."
+  },
+  {
+    "message": "While I check out the shop, Mizuki starts talking to the part-timer at the front desk."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Pretty slow today, huh?\""
+  },
+  {
+    "message": "I ask casually after Mizuki's finished. His expression darkens."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Nah, it's just... I told you about it yesterday, didn't I? The disappearances.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I think that's why business's been so slow.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What? Like everyone's scared to go outside?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I don't think it's <I>that</I> bad, but... the way customer flow has dropped off, it sure feels that way.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I get what you mean.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I got some more info since then, but I've got no idea what's true at this point.\""
+  },
+  {
+    "message": "Mizuki beckons to me, his expression grave. I lean in."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"People say it really is Morphine abducting gangs.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No way. I mean, Morphine's...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Someone's claiming they saw them.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's just some idiot trying to get attention. You don't actually believe it, do you?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Like I said, I dunno if it's true or not. That's just what I heard.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Anyway, what I'm getting at is... now all the Rib gangs are gettin' squirrley 'cause they're scared of getting ambushed. But, hey. Whatever.\""
+  },
+  {
+    "message": "Mizuki flashes a defiant smirk."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"It's got nothing to do with us. Even if it is Morphine, not like they're a match for us anyway.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Right?\""
+  },
+  {
+    "message": "I return his smile, but something about this doesn't sit right with me."
+  },
+  {
+    "message": "I think Mizuki's been a little <I>too</I> into Rib lately."
+  },
+  {
+    "message": "I hope he doesn't run himself ragged..."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Why don't we get a drink? Let's head over to the bar.\""
+  },
+  {
+    "message": "I start toward the bar, but before I get there, a tattoo design displayed on the front desk catches my eye."
+  },
+  {
+    "message": "It's framed. Like it's important."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Was this always here?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Oh, that? I got it from another tattoo artist I really admire. Cool, right?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"He's famous, but he doesn't have his own shop. Only inks people he knows.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So everyone else he just turns away?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Exactly. He dropped by a little while back. That's when he gave it to me. He has this aura about him―you can tell he's special.\""
+  },
+  {
+    "message": "He seems genuinely happy. I guess he really liked the guy."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'd like to meet him once, if he's as amazing as you say.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I thought you didn't want a tattoo.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Then the answer is no.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Aw man.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"If you insist, it'll be a million yen.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A million?! What a ripoff!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Ahaha.\""
+  },
+  {
+    "message": "My Coil beeps while we we're laughing."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "It's a call from Delivery Works."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hello?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh, thank goodness you answered! Aoba, dear, is that you?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"It's me! Me! Yoshie!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's the matter?\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Oh my, it's serious! Very serious! Please don't panic, okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Okay.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Ms. Tae, she―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?! Granny?!\""
+  }
+]

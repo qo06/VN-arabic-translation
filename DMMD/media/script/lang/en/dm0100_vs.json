@@ -1,0 +1,138 @@
+[
+  {
+    "message": "Once Mizuki is gone, I turn toward the center of the commotion."
+  },
+  {
+    "message": "While Rhyme isn't exactly my boat, I don't have anything against it either. I was actually pretty curious the first time Mizuki brought it up."
+  },
+  {
+    "name": "蓮",
+    "message": "\"What's the matter?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nothing. Let's go.\""
+  },
+  {
+    "message": "I pat Ren's head and start to make my way out of the alley."
+  },
+  {
+    "message": "But then―"
+  },
+  {
+    "message": "A white light swallows the world."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "message": "Before I can figure out what's going on, a ball of light appears in front of me."
+  },
+  {
+    "message": "It gradually assumes a human form, then reaches toward me with one hand."
+  },
+  {
+    "message": "Its fingertips stroke my cheek... or at least, I think they do."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wha...?\""
+  },
+  {
+    "message": "The next thing I know, I'm at the center of the crowd."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"H-Huh? Woah!\""
+  },
+  {
+    "message": "Bodies press in from all sides. I'm trapped! "
+  },
+  {
+    "name": "男の歓声１",
+    "message": "\"Usui! Usui!\""
+  },
+  {
+    "message": "A circle of light is floating above the ground, and inside it..."
+  },
+  {
+    "message": "...a woman with eight arms appears, swaying slowly before coming to a stop."
+  },
+  {
+    "name": "卯水",
+    "message": "\"It's time for what you've all been waiting for: Rhyme!\""
+  },
+  {
+    "name": "卯水",
+    "message": "\"Today's first battle: Player versus Route 44!\""
+  },
+  {
+    "message": "...So this is Rhyme. I've never seen it up close before."
+  },
+  {
+    "message": "The eight-armed woman is Usui, who presides over all Rhyme battles."
+  },
+  {
+    "message": "I say woman, but for some reason, it has a deep, manly voice."
+  },
+  {
+    "message": "Usui's hands flicker. The light grows brighter, and a huge virtual screen appears overhead."
+  },
+  {
+    "message": "The fighters are already in the ring, preparing their Allmates."
+  },
+  {
+    "name": "卯水",
+    "message": "\"Will the rookie break Player's winning streak?! Let's find out!\""
+  },
+  {
+    "name": "卯水",
+    "message": "\"Player is ready for battle! Route 44, ready to go?\""
+  },
+  {
+    "name": "卯水",
+    "message": "\"Alright! Let's get this party started!\r\nGAME... START!!!\""
+  },
+  {
+    "message": "Usui lifts its hands with a gentle grace, its elegant movements a sharp contrast to its booming voice."
+  },
+  {
+    "message": "The monitor switches to a view of the field. The audience hoots and cheers."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Agh!\""
+  },
+  {
+    "message": "Suddenly, a sharp pain shoots through my head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "What the hell? Is the noise getting to me?"
+  },
+  {
+    "message": "Clutching my forehead, I glare at the crowd."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are you alright?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm fine. But we should get going.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That would be for the best.\""
+  },
+  {
+    "message": "I finally manage to muscle my way out of the roaring throng."
+  },
+  {
+    "message": "Leaning against a nearby wall, I sigh and catch my breath."
+  }
+]

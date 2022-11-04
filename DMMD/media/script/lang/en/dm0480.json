@@ -1,0 +1,202 @@
+[
+  {
+    "message": "Koujaku leaves to go talk to his gang, so I head over to Mizuki's shop."
+  },
+  {
+    "message": "Hm? A message."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Spam?\""
+  },
+  {
+    "message": "The subject says \"Please save me.\"\r\nThe sender is \"Damsel in Distress.\""
+  },
+  {
+    "message": "...Damsel in Distress?"
+  },
+  {
+    "message": "I could swear I got a spam message earlier with the same name."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And delete.\""
+  },
+  {
+    "message": "Hm? Another message."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "The same message again.\r\n...Delete."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the...\""
+  },
+  {
+    "message": "They just kept coming. What the hell?"
+  },
+  {
+    "message": "I quickly open my bag and wake up Ren."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"My Coil's acting up. What is this? Some kinda virus?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"One moment, please. I'll look into it.\""
+  },
+  {
+    "message": "Ren falls silent."
+  },
+  {
+    "message": "While I wait, the mails keep coming."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Anything?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Analysis complete. It's not a virus. I have taken measures, on the off chance that my analysis was incorrect.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So there's no way to stop these messages from coming in?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"The sender's address is unknown.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell?!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Perhaps you should try opening one, just in case.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You sure about that?\""
+  },
+  {
+    "message": "But I get the feeling the messages will just keep coming if I ignore them. The notification chime is starting to drive me nuts."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Fine, I get it! You win!\""
+  },
+  {
+    "message": "Desperate for relief, I open one of the messages."
+  },
+  {
+    "message": "...Huh?"
+  },
+  {
+    "message": "They stopped."
+  },
+  {
+    "message": "How is that possible?"
+  },
+  {
+    "message": "Puzzled, I turn my eyes to the text."
+  },
+  {
+    "message": "But the message is empty. So it really was just spam?"
+  },
+  {
+    "message": "My Coil chimes again. Only this time, it isn't a message."
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's a game download.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A game download... Oh.\""
+  },
+  {
+    "message": "That's right, the game I played the other day. I guess this is the next chapter?"
+  },
+  {
+    "message": "When the download finishes, the title screen appears."
+  },
+  {
+    "message": "Yeah, it's the same game."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "There's no start button. How is this supposed to work?"
+  },
+  {
+    "message": "A few seconds later, the screen changes and the game suddenly starts up."
+  },
+  {
+    "message": "I try pushing the keys on my Coil, but I can't move."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, I don't think it's working.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Maybe it's a non-playable demo?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A demo? What's the point of sending that out?\""
+  },
+  {
+    "message": "I jab at the controls for a while. Finally, the main character starts to move."
+  },
+  {
+    "message": "Is it working now?"
+  },
+  {
+    "message": "But when I take my fingers off the keys, the character keeps moving on its own."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What the?\""
+  },
+  {
+    "message": "The game ends abruptly. I guess it really is just a demo."
+  },
+  {
+    "message": "What was the point of sending this out? Was it a mistake?"
+  },
+  {
+    "message": "It doesn't make sense."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I have no idea what kind of game that was supposed to be.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I was right. It was just spam. What a waste of time. Let's go home.\""
+  },
+  {
+    "message": "I close the game and start back toward home."
+  }
+]

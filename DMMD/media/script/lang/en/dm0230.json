@@ -1,0 +1,278 @@
+[
+  {
+    "message": "......"
+  },
+  {
+    "message": "Ouch."
+  },
+  {
+    "message": "Something sharp is poking me."
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Wake up, you! Hey, get up!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh, ow...\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"I said wake up! Or I'm gonna kick your ass!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What the fuck?!\""
+  },
+  {
+    "message": "I jump up. The thing that was poking my face tumbles off, and I catch it in midair."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Beni?\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Aagh, let go of me! Is this how you treat a guest?!\""
+  },
+  {
+    "message": "Beni glares at me, flapping his wings against my hand."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So Koujaku's here?\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Of course he is! Let me go!\""
+  },
+  {
+    "message": "I stand up, still clutching the shrieking Beni."
+  },
+  {
+    "message": "Huh? Where's Ren?"
+  },
+  {
+    "message": "I find him curled up on a corner of my bed. He's in sleep mode."
+  },
+  {
+    "message": "Which reminds me. He said he'd lost some data. I've gotta take a look at him soon."
+  },
+  {
+    "message": "But first, food."
+  },
+  {
+    "message": "I'm feeling much better thanks to my nap. Even my headache is gone."
+  },
+  {
+    "message": "My joints still ache, but I can move."
+  },
+  {
+    "message": "When I leave my room, a delicious smell greets me from downstairs."
+  },
+  {
+    "message": "Granny is back. When I look down at my Coil, I realize it's already dinnertime."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How'd it get so late?\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"You wouldn't get your ass out of bed, so I had to take matters into my own talons. You got that, punk?\""
+  },
+  {
+    "message": "I ignore Beni's whining and poke my head into the dining room."
+  },
+  {
+    "message": "Granny is at the counter. Koujaku is sitting at the table. "
+  },
+  {
+    "message": "He grins when he sees me."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Mornin'.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Morning.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I see you haven't lost your sunny disposition.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...No thanks to you.\""
+  },
+  {
+    "message": "I can't hold back a yawn."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Here.\""
+  },
+  {
+    "message": "I toss Beni across the room to Koujaku, who catches him easily."
+  },
+  {
+    "name": "ベニ",
+    "message": "\"I go out of my way to wake you up and this is how you treat me?! You better watch your back, Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Take it up with your master. He's the one who makes you run his errands.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What do you expect? You're a pain in the ass when you wake up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I am not.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"If you're up, go set the table! Food's done!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay, okay.\""
+  },
+  {
+    "message": "While Koujaku laughs, I hurry to do Granny's bidding."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ms. Tae never changes. That booming voice of hers puts me right at ease.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You try getting yelled at every day. It's no cakewalk.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ahahahaha!\""
+  },
+  {
+    "message": "I glare at him as I set the chopsticks out on the table. This only makes him laugh harder."
+  },
+  {
+    "message": "Granny brings over the food while I pour three cups of tea."
+  },
+  {
+    "message": "With dinner ready, I join everyone at the table."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Thanks for the food.\""
+  },
+  {
+    "message": "Dinner tonight is blanched fish, konbu stir-fry, and pork belly."
+  },
+  {
+    "message": "I start with the pork belly. Delicious."
+  },
+  {
+    "message": "I find that food tastes especially good after I've had a nice nap."
+  },
+  {
+    "message": "To my right, Koujaku shoots Granny a smile."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Absolutely delicious. Your cooking really is the greatest.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hmph. You come into my house uninvited and that's all you have to say?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I thought you knew I was coming. I told Aoba.\""
+  },
+  {
+    "message": "I glare at him again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"All you said was you'd swing by soon.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"And what's with you, sleeping like a log? I called and called and you wouldn't get up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I... Okay, I guess you're right.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You don't know how grateful I am to have a proper meal like this.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't get the wrong idea! I just happened to have some food that was about to expire, that's all.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That's why I love you.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Shut up and eat!\""
+  },
+  {
+    "message": "Granny stuffs kombu into her face while Koujaku watches with a smile."
+  },
+  {
+    "message": "Granny is actually surprisingly fond of Koujaku."
+  },
+  {
+    "message": "Even though Koujaku came to the island with his mother, when we were kids, he was alone more often than not."
+  },
+  {
+    "message": "That's why he spent so much time hanging out with me. And of course, he ate plenty of Granny's cooking too."
+  },
+  {
+    "message": "Knowing Granny, she might even think of him like a second grandson."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Are you spending the night?\""
+  },
+  {
+    "message": "Without missing a beat, Koujaku stops shoveling rice into his mouth and nods."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That's the idea.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't you have any shame?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you really surprised? Anyway, I have work tomorrow, so I'm gonna kick you out of bed in the morning even if you're sleeping.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't you have that backwards? I'm always the one who wakes you up―gently, of course.\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Got that right.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You guys...\""
+  },
+  {
+    "message": "Koujaku flashes an infuriatingly charming smile and goes back to stuffing his face."
+  },
+  {
+    "message": "The banter continues until the food is gone."
+  }
+]

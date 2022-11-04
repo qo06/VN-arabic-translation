@@ -1,0 +1,205 @@
+[
+  {
+    "message": "As everyone in the Old Residential District knows, the best way to get around is on foot."
+  },
+  {
+    "message": "Public transportation here is pretty bad. Technically, there are buses, trains, and even taxis available, but they can be cancelled or delayed without notice."
+  },
+  {
+    "message": "Even the roads themselves might be closed without notice, so you hardly see any cars around these days. \r\n<p>\r\nAt most, you might see a taxi waiting in vain or the occasional junker parked on the side of the road."
+  },
+  {
+    "message": "The sidewalks, on the other hand, are always packed."
+  },
+  {
+    "message": "Nothing's more reliable than your own two legs."
+  },
+  {
+    "message": "The Old Residential District is divided into north, south, east, and west quarters. They're similar, but have some key differences."
+  },
+  {
+    "message": "For example, both my home and Hum-Drum Junk are located in the east quarter.\r\n<p>\r\nIt's pretty safe compared to the other quarters, and it's easy to get your hands on whatever you need."
+  },
+  {
+    "message": "The north quarter's become something of a ghost town ever since it was designated off-limits. It's definitely not the safest place to go."
+  },
+  {
+    "message": "The west quarter is primarily residential, like the east quarter, but doesn't have as many stores."
+  },
+  {
+    "message": "The south quarter is an entertainment and shopping district, so it's always full of youngsters hanging out."
+  },
+  {
+    "message": "And if you go farther north, up past the north quarter, there's Platinum Jail, where the rich and famous do their business."
+  },
+  {
+    "message": "Platinum Jail is a members-only resort that the Toue Corporation, one of Japan's top five companies, built when they bought Midorijima."
+  },
+  {
+    "message": "If the rumors are true, that place is the definition of luxury."
+  },
+  {
+    "message": "Centered around the giant Oval Tower, it's full of casinos, movie theaters, shopping malls, hotels... everything you can imagine."
+  },
+  {
+    "message": "Membership is by invitation only, but even then, the membership fee alone costs more than this whole island is worth. Or so I've heard."
+  },
+  {
+    "message": "Obviously, no one from the Old Residential District will ever get into Platinum Jail."
+  },
+  {
+    "message": "So I guess you could call this town a slum. Nobody cares what happens here."
+  },
+  {
+    "message": "The police are all talk. They're in bed with the yakuza and just do whatever they please."
+  },
+  {
+    "message": "It's not like we can do anything about it. Even if we're unhappy, we just have to suck it up and deal with it."
+  },
+  {
+    "message": "Despite all that, as the saying goes: there really is no place like home. This town isn't so bad once you get used to it."
+  },
+  {
+    "message": "While it may not be as extravagant as Platinum Jail, we have our own way of life. Our own kinds of fun."
+  },
+  {
+    "message": "Can't really ask for much more than that. "
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba... Aoba.\""
+  },
+  {
+    "message": "Ren pokes his head out of the bag and taps my arm with his paw."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's the matter?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You're thinking too much. Your logic processor will short-circuit.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Seriously? Just how crappy is this logic processor of mine anyway?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"If we rate the logic processor of an average male at 100, then yours would rate at―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wait! I don't wanna hear it. You'll make me short-circuit for real.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Oh.\""
+  },
+  {
+    "message": "I chuckle and pat his head."
+  },
+  {
+    "message": "Ren is a dog-type Allmate. Allmates are artificially intelligent lifeforms, generally used to augment network devices like Coils."
+  },
+  {
+    "message": "They can search the internet and virtual space for information, place orders for you in online stores, or manage your social media accounts."
+  },
+  {
+    "message": "Some models can also help around the house, while others can act as partners in an online game called Rhyme. "
+  },
+  {
+    "message": "There are many different types of Allmate. Animal models are abundant, so many people keep them as pets."
+  },
+  {
+    "message": "I've had Ren for a long time. I'm not exaggerating when I say he's my best friend."
+  },
+  {
+    "message": "Even with all the improvements and new models coming out, I'll never abandon Ren. Not even if hell freezes over."
+  },
+  {
+    "name": "蓮",
+    "message": "\"If you want to take a shortcut, turn right at the next street.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Woah, that was close. Almost missed it.\""
+  },
+  {
+    "message": "I follow Ren's directions down an alley off Aoyagi Street."
+  },
+  {
+    "message": "Aoyagi Street runs through the center of the Old Residential District, dividing the district into quarters. \r\n<p>\r\nIt's lined with shops selling discount appliances, while the back streets are littered with niche hobby shops."
+  },
+  {
+    "message": "As I make my way down the alley, a group of guys leaning against a filthy wall catches my eye."
+  },
+  {
+    "message": "They have a certain look... like the kind of guys who'd be passing around a silver drug sheet.\r\n<p>\r\nIt really makes you wonder what's wrong with kids these days."
+  },
+  {
+    "message": "Once upon a time, though, I was just like them.<k>\r\nUh, not that I'm old or anything."
+  },
+  {
+    "message": "Anyway, I'm finished with that stuff. Totally."
+  },
+  {
+    "message": "As I walk past, I catch a bit of their conversation."
+  },
+  {
+    "name": "若者Ａ",
+    "message": "\"So yeah, it's really happening. People're getting brain-jacked.\""
+  },
+  {
+    "name": "若者Ｂ",
+    "message": "\"What the hell're you talkin' about? Getting forced into Rhyme?\""
+  },
+  {
+    "name": "若者Ａ",
+    "message": "\"Yeah, that's exactly what I'm talkin' about! You'll just be walking down the street and a match'll start! Against a crazy strong opponent, too!\""
+  },
+  {
+    "name": "若者Ｂ",
+    "message": "\"But wouldn't that mean there's no Usui? Can you even play Rhyme without Usui?\""
+  },
+  {
+    "name": "若者Ａ",
+    "message": "\"Sounds like you can. I dunno how it works.\""
+  },
+  {
+    "name": "若者Ｂ",
+    "message": "\"How can you fight if you're not ready? Can't you decline the challenge?\""
+  },
+  {
+    "name": "若者Ａ",
+    "message": "\"Not from what I hear. It's a total ganking―you get your ass handed to you like <I>that.</I>\""
+  },
+  {
+    "name": "若者Ｂ",
+    "message": "\"That's some scary shit, man.\""
+  },
+  {
+    "message": "They're talking about Rhyme, the online fighting game that's all the rage these days."
+  },
+  {
+    "message": "By connecting their minds to the net, players can experience virtual combat that feels just like the real thing."
+  },
+  {
+    "message": "The thing is, there's no schedule or anything that tells you when or where a battle's gonna happen.\r\n<p>\r\nWherever \"Usui,\" the game's judge, appears―that's the battlefield."
+  },
+  {
+    "message": "Rhyme started off as an indie game. Back then, the rules were more lax, and Usui wasn't around either."
+  },
+  {
+    "message": "It steadily gained popularity, and eventually Toue became a major sponsor."
+  },
+  {
+    "message": "The system was improved and Usui was added, along with an official set of rules, making Rhyme what it is today."
+  },
+  {
+    "message": "But I don't play Rhyme, so it isn't really my business."
+  },
+  {
+    "message": "I head through the alley and come out once more on Aoyagi Street."
+  }
+]

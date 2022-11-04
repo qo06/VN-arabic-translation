@@ -1,0 +1,44 @@
+[
+  {
+    "message": "The alleys are narrower here, and particularly dark."
+  },
+  {
+    "message": "There are a lot of restaurants too, so the area is full of savory smells and smoke."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Now I'm kinda hungry.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"If you do not do something to remedy that situation, in approximately one hour you will likely be suffering from acid indigestion.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you talking about? Is my stomach upset?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It is a side effect of what you ate yesterday, plus some degree of sleep deprivation.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, right. Ms. Yoshie's cake.\""
+  },
+  {
+    "message": "That thing was ridiculous..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "A strange feeling stops me in my tracks."
+  },
+  {
+    "message": "I could have sworn someone was staring at me."
+  },
+  {
+    "message": "I look around, but no one in the area stands out."
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "message": "...Huh?"
+  },
+  {
+    "message": "Koujaku isn't there. Neither is Ren."
+  },
+  {
+    "message": "But then I notice that the door to the balcony is open a crack."
+  },
+  {
+    "message": "I look out to find Koujaku leaning against the railing."
+  },
+  {
+    "message": "He's gazing at the city, a thin cigarette between his fingers, blowing white smoke through his pursed lips."
+  },
+  {
+    "message": "I don't know why, but Koujaku only smokes in my room. Well, on the balcony of my room."
+  },
+  {
+    "message": "He never does it in front of women or at work, or when he's out drinking. Just here."
+  },
+  {
+    "message": "I guess he feels like he can let his guard down here."
+  },
+  {
+    "message": "In public, he never drops his confident smile. He always looks like he's having fun, but maybe it's not so easy to have women hanging off you all the time."
+  },
+  {
+    "message": "Koujaku brings the cigarette back to his mouth."
+  },
+  {
+    "message": "Though his hands are angular and masculine, something about the dim light makes his fingers look long and beautiful."
+  },
+  {
+    "message": "Those fingers must be very nimble, given his line of work."
+  },
+  {
+    "message": "Koujaku is holding Ren, with Beni on Ren's head. They both appear to be in sleep mode."
+  },
+  {
+    "message": "I'd be worried about dropping them, but I trust Koujaku not to be careless."
+  },
+  {
+    "message": "I grab the ashtray I keep in my room and open the door to the balcony."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "Koujaku smiles softly upon seeing me."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yo, finished your bath?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I thought you'd be in the living room.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I just needed a little pick-me-up.\""
+  },
+  {
+    "message": "Koujaku gestures with his cigarette."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You really like it out here, huh?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Do I? Maybe you're right.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not like there's anything to see.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I guess... But isn't it better that way, sometimes?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really? I don't get it.\""
+  },
+  {
+    "message": "Koujaku chuckles."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Here.\""
+  },
+  {
+    "message": "I present the ashtray and Koujaku stubs out his cigarette. I set it down by my feet and join him at the railing."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ugh...\""
+  },
+  {
+    "message": "Koujaku frowns at me."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"How many times do I have to tell you...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Your hair. You have to dry it better.\""
+  },
+  {
+    "message": "Koujaku reaches out."
+  },
+  {
+    "message": "He's gonna touch my hair!<K>\r\nI flinch at the thought."
+  },
+  {
+    "message": "But it's not my hair he's going for...<K>\r\nIt's my nose!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Gah!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Listen to the guy who cuts hair for a living.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Stop it!\""
+  },
+  {
+    "message": "I shake him off, but he just smiles."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's gotten pretty long. Still cutting it yourself?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. I'm not really looking for criticism from a pro. I just do whatever.\" "
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I mean, it's not half bad. Everything's more or less where it should be.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"For real? OMG, Koujaku complimented me?! I could just die!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's that supposed to be?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm just imitating your fans.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Man...\""
+  },
+  {
+    "message": "Koujaku laughs."
+  },
+  {
+    "message": "I have a good reason for not getting my hair cut."
+  },
+  {
+    "message": "I don't know why, but I was born with <I>feeling</I> in my hair. That means cutting it is seriously painful."
+  },
+  {
+    "message": "Once it gets past my shoulders, the sensation is dull enough that I can cut just the ends."
+  },
+  {
+    "message": "People teased me relentlessly when I was little, saying I looked like a girl because of my long hair."
+  },
+  {
+    "message": "Even a light touch sends chills up my spine, so when they thought it would be funny to pull my hair... needless to say, it was hell."
+  },
+  {
+    "message": "When bullies tormented me, it was always Koujaku who came to my rescue."
+  },
+  {
+    "message": "Actually, Koujaku thought I was a girl at first too. He was pretty surprised when he found out he was wrong, but his attitude toward me didn't really change."
+  },
+  {
+    "message": "I have to admit, that made me happy."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You know, you're lucky to have such beautiful hair. You better take care of it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I've always wondered how you can say stuff like that. That's one thing that definitely hasn't changed since we were kids.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I only say it because I mean it. Plus, I always knew it made you happy, even though you tried to hide it.\""
+  },
+  {
+    "message": "Koujaku affects a far-off, dreaming look, and I give him the most annoyed glare I can muster."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I was a kid. I don't really remember.\""
+  },
+  {
+    "message": "A dull pain shoots down my shoulders as I gently dry off the tips of my hair."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ow...\""
+  },
+  {
+    "message": "This pain... Is it still from Rhyme?"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's the matter?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nothing.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It doesn't look like nothing. And you were out of it earlier too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh, well...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's with you? You've been weird all night.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No I haven't.\""
+  },
+  {
+    "message": "Should I tell Koujaku about Rhyme?"
+  },
+  {
+    "message": "Koujaku can be pretty perceptive, and he already realizes something's going on..."
+  },
+  {
+    "message": "If I try to lie now, he's not gonna buy it..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well... something weird happened today. Like, um... I guess I got forced into a Rhyme match or something...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Forced into a Rhyme match?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It just happened outta nowhere, you know? One minute I'm on my way to make a delivery, and the next, I'm standing on a Rhyme field.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Are you sure this wasn't a dream?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It wasn't a dream.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So you're telling me... Wait, is that even possible?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's what I'd like to know. It happened near your territory. In one of those alleys.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've never heard of anything like that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That wasn't the only weird part. Usui wasn't there.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Now that <I>is</I> weird. That thing's supposed to be in charge of Rhyme, right? It brings the screen and ring and stuff.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Right? Also...\""
+  },
+  {
+    "message": "I tell Koujaku about the rabbit head guy, including the fact that he knew my name."
+  },
+  {
+    "message": "As he listens, Koujaku's frown grows. He lets out a groan when I've finished."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It sounds like you got ganked.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ganked?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've only heard about it from the guys in my gang, but apparently, there are guys who can force you to fight.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"There's no Usui, no rules or limits. I hear some guys have ended up in the hospital.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's what happened to me? I got ganked or whatever?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's possible. Still...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...I don't like it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Like what?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You got away this time, but what if it happens again? That shit can mess you up, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What I don't get is I don't even play Rhyme. Did he confuse me with someone else?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You could've been a random target, or maybe someone just hates your guts.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, right. I'm not you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ouch. But you said he knew your name, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well... yeah.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku?\""
+  },
+  {
+    "message": "Koujaku falls silent, a troubled expression on his face."
+  },
+  {
+    "message": "A few moments later, he sighs."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Sorry. I think I'm actually gonna head home. I forgot there's something I need to do.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Oh, sure.\""
+  },
+  {
+    "message": "Koujaku pushes off the handrail."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You sure you're okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I'll take your word for it. But if something happens, you better tell me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Good.\""
+  },
+  {
+    "message": "Koujaku flashes me a knowing smile and places Ren in my hands."
+  },
+  {
+    "message": "Then he collects Beni from Ren's head and tucks him into his kimono."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Night.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Night.\""
+  },
+  {
+    "message": "Koujaku waves farewell and heads out."
+  }
+]

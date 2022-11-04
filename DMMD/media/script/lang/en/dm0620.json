@@ -1,0 +1,418 @@
+[
+  {
+    "message": "I wasn't sure if it worked, but a few minutes later..."
+  },
+  {
+    "message": "...Noiz shows up at Hum-Drum Junk."
+  },
+  {
+    "message": "Koujaku, Clear, Mink, and Noiz."
+  },
+  {
+    "message": "Getting this ragtag bunch together... It's nothing short of a miracle, really."
+  },
+  {
+    "message": "Koujaku isn't happy, of course, but he's just going to have to deal with it."
+  },
+  {
+    "message": "I give Noiz a brief rundown of the situation, to get him up to speed."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Isn't Dry Juice the biggest Rib gang?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"There aren't exactly a lot of places on this island you could hide that many people.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"My guys have been searching too, but nothin'.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I checked the rooftops, but nothing there either.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So they're someplace hidden.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I mean we've gotta consider places that are normally off-limits.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Exactly. This is why we need an information freak.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Who you callin' a freak?\""
+  },
+  {
+    "message": "Mink makes a casual gesture with his pipe."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Your grandmother was taken north, toward Keisen.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Keisen...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"There're a lot of abandoned buildings and warehouses up there.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Look into it.\""
+  },
+  {
+    "message": "Mink thrusts his pipe at Noiz like a general's baton."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Since when do I take orders from you?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I know you're not helping out of the kindness of your heart. I want things taken care of quickly. Don't you?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Tch.\""
+  },
+  {
+    "message": "Noiz answers with a sneer, but then opens a screen on his Coil and gets to work."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Hey, why do you get to call the shots?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"No one else is stepping up.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Say what?!\""
+  },
+  {
+    "message": "Just as I'm afraid Koujaku's going to launch himself at Mink, the cockatoo sitting on Mink's shoulder looks up from his preening."
+  },
+  {
+    "name": "トリ",
+    "message": "\"All this shouting is a waste of energy.\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"You stay the fuck outta this!\""
+  },
+  {
+    "message": "Beni glares at the cockatoo from Koujaku's shoulder, puffing his feathers up."
+  },
+  {
+    "name": "トリ",
+    "message": "\"They say Allmates resemble their owners.\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"The fuck was that?! You think you're hot shit?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Everyone shut up.\""
+  },
+  {
+    "message": "Cutting in, Noiz turns his Coil screen around so we can see it."
+  },
+  {
+    "message": "The screen shows a map of the Old Residential District. There's a blinking red triangle at one end."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"This is Keisen. I'm getting errors trying to access the network there.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Normally, there's no network service at all in restricted areas. But the error logs from this particular spot are full of blank files.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Basically, it's fake. Someone's trying to make it look like the network is down.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So that's where they are?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Could be. There used to be a garbage processing facility here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's the one they shut down a few years ago, right? It's supposed to be off-limits.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I hear people still dump shit there. It's not like anyone's watching.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's where Granny is?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"It fits with my intel.\""
+  },
+  {
+    "message": "It's not definite, but it seems worth checking out."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hold on. We don't know anything about the area. Charging in sounds like suicide.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Actually, I'm quite familiar with that area.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...This ain't the time for your jokes.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Of course. I really do know the area. I used to take walks around there all the time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Huh? What's wrong? Why'd everyone go quiet? Don't tell me you don't believe me.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh, please! I really do know the area! I can draw you a map and everything!\""
+  },
+  {
+    "message": "Indignant at our reaction, Clear shoves his hand into his coat pocket and pulls out a pen and paper."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Aaaaaaand... there!\""
+  },
+  {
+    "message": "Clear's pen dances across the paper."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Done!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh come on, is this thing for real?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Compare them.\""
+  },
+  {
+    "message": "Mink snatches Clear's map and tosses it at Noiz."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...It does match up.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So you're saying it's right?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I told you! You're all so mean!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Well, I guess we don't have to worry about getting lost. Now we just have to go check it out.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"<I>We</I> have to check it out?\""
+  },
+  {
+    "message": "Koujaku looks at the others with disgust."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You mean <I>this</I> buncha freaks? Damn.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"That's rich, coming from you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Shut the fuck up.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm not matching wavelengths with any of you. If I'm doing this, I'm doing it my way.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So we're splitting up? Better not get in my way, kid.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Sometimes splitting up is the best course of action. Even if we come up with a plan, there's no guarantee everyone will follow it. Especially with this group.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That's what I've been saying!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I was talking about you and the guy in the gas mask.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Say what?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Huh? Me?! You're sooooo mean! I just wanna be bestest friends with all of you!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I think I threw up in my mouth a little.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"C'moooon!\""
+  },
+  {
+    "message": "...Nope."
+  },
+  {
+    "message": "I never really thought this was going to work, but this <I>really</I> isn't going to work."
+  },
+  {
+    "message": "They're not even trying to work together."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yo, gas mask, shut up already! This is annoying enough as it is!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Take your own advice, why don't you.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh you guys are so mean! I'm not annoying!\""
+  },
+  {
+    "message": "Here I am, wracking my brain over what to do, and they're bickering like children."
+  },
+  {
+    "message": "This isn't the time for this shit! Granny might be in serious danger."
+  },
+  {
+    "message": "We've already figured out where we need to go. We should be on our way already!"
+  },
+  {
+    "message": "But these guys..."
+  },
+  {
+    "message": "These guys...!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Knock it off already!\""
+  },
+  {
+    "message": "I immediately regret my outburst."
+  },
+  {
+    "message": "It's not like they're going to listen to me anyw―"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "Suddenly, the bickering stopped."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh... What?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba's right. We need to knock this shit off.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's a total waste of time, anyway.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Let's move.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yeah, let's do that.\""
+  },
+  {
+    "message": "The atmosphere in the room has done a complete one-eighty. As one, the four men rise from the couch."
+  },
+  {
+    "message": "Suddenly, they're all on the same page."
+  },
+  {
+    "message": "...Well, whatever."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Alright. Let's get going.\""
+  },
+  {
+    "message": "I collect myself and join them."
+  },
+  {
+    "message": "Granny... I'm gonna save you."
+  },
+  {
+    "message": "And Mizuki, and the rest of Dry Juice too."
+  },
+  {
+    "message": "We leave the shop and head for the north quarter."
+  }
+]

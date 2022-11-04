@@ -1,0 +1,76 @@
+[
+  {
+    "name": "ノイズ",
+    "message": "\"You used to be really strong, right? You belong in Rhyme.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You've got the wrong person.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz falls silent. His gaze is so sharp that it makes me flinch."
+  },
+  {
+    "message": "What's <I>wrong</I> with him?"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Well, that's not really why I'm here today.\""
+  },
+  {
+    "message": "Noiz releases me from his gaze and lets out a frustrated sigh."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's gonna be in front of your shop today.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What is?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Rhyme.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Rhyme?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Usui's going to appear here today. Our predictions are always on target.\"\r\n<p>\r\nI frown, not understanding―"
+  },
+  {
+    "message": "But then I hear the cheers from outside."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Let's go.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Just come.\""
+  },
+  {
+    "message": "Noiz steps behind the counter and grabs me by the arm."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, let me go! The shop...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Shut up.\""
+  },
+  {
+    "message": "I barely manage to grab Ren before he drags me outside."
+  }
+]

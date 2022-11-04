@@ -1,0 +1,237 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"What? Where am I?\""
+  },
+  {
+    "message": "A glowing wireframe floor extends as far as the eye can see."
+  },
+  {
+    "message": "It's like I'm in some kind of game..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wait... Rhyme? I'm in Rhyme?!\""
+  },
+  {
+    "message": "A blue glow appears in front of me, growing into a human shape."
+  },
+  {
+    "message": "I almost topple over when I see who it is."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren?!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, are you okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell? What's going on? And why do you look like that?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It seems that Allmates appear in Online Mode here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Isn't Online Mode for Rhyme? I've only seen your Online form in your settings panel.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That voice just now said something about Rhyme...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That appears to be the case. However, our physical location has not changed.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Gah!\""
+  },
+  {
+    "message": "Ren pushes me away and I tumble to the floor. A powerful blast of air passes just above my head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What was that?!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"This is a public Rhyme field. We've been pulled into a Rhyme match against our will.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?! Is that even―\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Something's coming.\""
+  },
+  {
+    "message": "My eyes go wide when I see what it is."
+  },
+  {
+    "message": "A rabbit."
+  },
+  {
+    "message": "...No. A person wearing a rabbit's head."
+  },
+  {
+    "message": "\"...7h4nk y0u\""
+  },
+  {
+    "message": "\"7h4nk y0u 4 c0ming 0n 7hi$ f3licit0us 0cc4si0n.\""
+  },
+  {
+    "message": "\"$h4ll w3 g3t 7h3 p4rty $t4rt3d?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We're really in Rhyme?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Here it comes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Here what comes?! What am I supposed to―\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Set: DEATH!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Roger!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?! Aaaah!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That was close! Hey, wait a minute!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't play Rhyme! Cut it out!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Handle: Sly Blue.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Seragaki Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How do you know my name? And who's this Sly-whatever?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Fight.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I've never even played Rhyme before!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Fight.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I said I've never done this before!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Fight.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"He's not listening!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's run!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, isn't there something you can do?! Like some command to get us out of here?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I tried, but the logout function has been disabled.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell is going on here?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wah!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oww...!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are you alright?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but it hurts like hell.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Rhyme is normally safe. There are limits in place to prevent damage to the body.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"But somehow, those limits have been removed.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You mean...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Damage taken here may cause physical harm.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We're totally screwed!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"You can run, but you can't hide.\""
+  },
+  {
+    "message": "I look up to see the rabbit peering at me from a nearby block."
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Set: LOSS!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Roger!\""
+  },
+  {
+    "message": "Shit!"
+  }
+]

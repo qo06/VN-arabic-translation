@@ -1,0 +1,113 @@
+[
+  {
+    "message": "The next day, I'm sitting behind the counter at Hum-Drum Junk like usual."
+  },
+  {
+    "message": "Damn headaches..."
+  },
+  {
+    "message": "I rub the bridge of my nose. My head's been pounding ever since I woke up."
+  },
+  {
+    "message": "I even took my medicine after breakfast...\r\nMaybe I'm getting sick."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Aoba! Think you could make a delivery?\""
+  },
+  {
+    "message": "I hear Mr. Haga clattering around in the back of the store."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, let me help... Ngh.\""
+  },
+  {
+    "message": "I try to stand up, but my legs wobble. I quickly grab the counter."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"You alright?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sorry, just a little dizzy.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Please sit down. I can do it myself.\r\n...Hnnngh! Hah! Hiiya!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Phew.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Hm? What's the matter?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh. I was just kind of impressed.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Don't be silly. Hahaha.\""
+  },
+  {
+    "name": "凡人くん",
+    "message": "\"Cleaning. Cleaning.\""
+  },
+  {
+    "message": "Mr. Haga's Allmate, Junker, dances around him in circles."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh, Junker, please clean the back.\""
+  },
+  {
+    "name": "凡人くん",
+    "message": "\"Back. Back.\""
+  },
+  {
+    "message": "Junker returns to the back of the shop."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh, right. Could you make a delivery for me?\""
+  },
+  {
+    "message": "Mr. Haga pulls a small paper bag out of his pocket."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"The order didn't come in until the middle of the night, but the customer requested express delivery.\""
+  },
+  {
+    "message": "I look at the slip on the package. It's going to an address here in the east quarter. It definitely would be faster to deliver it directly from the shop."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"One of our suppliers will be here soon, so I can't step away right now. I'm sorry.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's fine. I'll leave right now.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Thank you.\""
+  },
+  {
+    "message": "Mr. Haga smiles, then goes down to the basement."
+  },
+  {
+    "message": "My head still feels like a brick, but I have work to do. I have to tough it out."
+  },
+  {
+    "message": "I smack myself lightly to clear away the funk, then pick up my bag and the package and head outside."
+  }
+]

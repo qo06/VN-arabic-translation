@@ -1,0 +1,186 @@
+[
+  {
+    "message": "In my room, I pull Ren out of my bag to wake him from sleep mode."
+  },
+  {
+    "message": "My head is killing me. Thinking fresh air might help, I go out onto the balcony."
+  },
+  {
+    "message": "The cool breeze feels nice."
+  },
+  {
+    "message": "Leaning on the handrail, I sigh and look up at the sky. The overlapping buildings obscure my view."
+  },
+  {
+    "message": "It hasn't always been like this. This island was once a beautiful place."
+  },
+  {
+    "message": "Midorijima is a remote island to the southwest of mainland Japan."
+  },
+  {
+    "message": "The island is known for its blue seas, white sands, and lush forests... or at least, it was.\r\nThat's ancient history now."
+  },
+  {
+    "message": "Now, Platinum Jail dominates the island, occupying nearly a full third of its landmass."
+  },
+  {
+    "message": "A huge wall separates Platinum Jail from the Old Residential District, so no one can even see what's inside."
+  },
+  {
+    "message": "You see bigshots from the Toue Corporation, the company that built Platinum Jail, on TV all the time."
+  },
+  {
+    "message": "Back when I was a kid, the Toue Corporation was trying to evict people from the island so they could start development."
+  },
+  {
+    "message": "They managed to convince most of the island's residents to leave with promises of luxurious homes and exorbitant sums of money."
+  },
+  {
+    "message": "But there were still some people who were too stubborn to go. Like us."
+  },
+  {
+    "message": "We weren't about to abandon our homes, no matter what juicy bait they dangled in front of us."
+  },
+  {
+    "message": "And for a while, Toue left us alone."
+  },
+  {
+    "message": "Toue's public stance on the issue was that they didn't want to force people out."
+  },
+  {
+    "message": "In reality, however, they were already plotting to show us the error of our ways."
+  },
+  {
+    "message": "It began with a reduction in basic utilities, explained as maintenance that never seemed to end. \r\n<p>\r\nThe livable sphere slowly shrank, until the remaining residents were forced into what is now known as the Old Residential District."
+  },
+  {
+    "message": "This once beautiful island is in shambles... How could the government allow this?"
+  },
+  {
+    "message": "Some of the islanders begged the government for help, but their petitions were all rejected."
+  },
+  {
+    "message": "Finally, three years ago, Toue started requiring residents of the Old Residential District to get permission before they could leave the island."
+  },
+  {
+    "message": "Permission they wouldn't grant. Ever."
+  },
+  {
+    "message": "I'm sure Toue's justification is that it's our fault for not leaving when we had the chance."
+  },
+  {
+    "message": "A noise at my feet snaps me out of my reverie."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, what do you want to do with the data from that email?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Email?\""
+  },
+  {
+    "message": "Ren's question startles me off the handrail. I completely forgot."
+  },
+  {
+    "message": "Back at the store, while those kids were giving me trouble, my Coil downloaded some kind of file."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Was it a virus?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I didn't detect anything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So what is it?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's the type of game where the player character gains experience points and levels by doing battle with enemy characters.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, an RPG? Does it cost anything?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"No, it's free.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh... At least those stupid brats didn't make me buy something by accident. Is it a trial version?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That is unclear.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, if there's nothing fishy about it, I guess I could give it a try. Not like I have anything better to do.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Shall I start it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Please.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "message": "Cradling Ren in my arms, I go back inside and sit on the bed."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Talk about retro.\""
+  },
+  {
+    "message": "I bet those kids have never seen anything like this."
+  },
+  {
+    "message": "Even I've only seen games this old in videos."
+  },
+  {
+    "message": "The game's logo appears after the message from the princess."
+  },
+  {
+    "message": "Man, it's so old it almost feels new."
+  },
+  {
+    "message": "I press the START button."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? To be continued? It's got episodes or something?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Looks like it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh. Well, I guess it was the perfect length to kill some time.\""
+  },
+  {
+    "message": "I don't really know if it was all that entertaining, but I might play more when the next installment comes out."
+  },
+  {
+    "message": "A yawn spills from my mouth as I close the game."
+  },
+  {
+    "message": "I was so focused on the game I didn't realize how tired I am."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Better get ready for bed.\""
+  },
+  {
+    "message": "I close the sliding glass door to the balcony and its curtain, then head to the bathroom."
+  }
+]

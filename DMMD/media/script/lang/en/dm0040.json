@@ -1,0 +1,54 @@
+[
+  {
+    "message": "I head outside. According to my Coil, it's 3 PM. The back streets are full of people."
+  },
+  {
+    "message": "There are several routes I could take to get to the courier."
+  },
+  {
+    "message": "While considering which would be fastest, I reach into my shoulder bag and pull out a soft, furry lump."
+  },
+  {
+    "message": "The ball of fur is still asleep. I press my palm against his forehead to wake him up."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren. Wake up.\""
+  },
+  {
+    "message": "At the sound of his name, he promptly opens his eyes."
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I need to get to the courier. Can you give me the quickest route?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "message": "Ren gently touches my upper arm with his paws."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Road 241 East is blocked for police inspection. Buses are cancelled for maintenance. It'll be quicker to bypass the north terminal.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "message": "I pat Ren on the head. He barks and wags his tail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's get going.\""
+  },
+  {
+    "message": "I put on my headphones and push play."
+  }
+]

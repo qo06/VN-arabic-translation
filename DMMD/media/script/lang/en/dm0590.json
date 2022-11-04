@@ -1,0 +1,51 @@
+[
+  {
+    "message": "We walk for a while in silence. Eventually, the scenery turns familiar."
+  },
+  {
+    "message": "We're almost at Hum-Drum Junk."
+  },
+  {
+    "message": "The thought nearly brings tears to my eyes."
+  },
+  {
+    "message": "Just as the store comes into view, a shadow falls over me."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Masteeeeeeer!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"C-Clear?!\""
+  },
+  {
+    "message": "Is he okay? He landed face first..."
+  },
+  {
+    "message": "But a second later, he jumps up and embraces me."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master! I'm so glad to see you! Where did you go?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, well...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"As long as you're safe! Last night, I heard your voice from far away. I was so worried!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"My voice?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes!\""
+  },
+  {
+    "message": "Last night...\r\nThat's when Mink kidnapped me."
+  }
+]

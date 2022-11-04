@@ -1,0 +1,156 @@
+[
+  {
+    "name": "警官Ａ",
+    "message": "\"Hey, scumbags! What are you doing there?!\""
+  },
+  {
+    "message": "Suddenly, a group of policemen bursts into the alley. They must have been patrolling the area."
+  },
+  {
+    "name": "警官Ｂ",
+    "message": "\"Freeze or we'll shoot!\""
+  },
+  {
+    "message": "They aim their guns at us."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Shit.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Oh my, they're wound awfully tight today.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"I think that's our cue to bounce.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes, this presents a bit of a sticky situation for us as well. Aoba? I suggest running.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"We'll break through and then split up. On my signal.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"One, two... three!\""
+  },
+  {
+    "message": "At Trip's signal, we all start running."
+  },
+  {
+    "name": "警官Ａ",
+    "message": "\"Shoot 'em!\""
+  },
+  {
+    "message": "The officers unleash a hail of rubber bullets. Fortunately, they've been neglecting their training. Not one shot even grazes us."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Take―\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"―this!\""
+  },
+  {
+    "name": "警官Ｂ",
+    "message": "\"Woah?!\""
+  },
+  {
+    "message": "Virus and Trip barrel into them, and the officers topple like dominos."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"See you later, Aoba!\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Bye-bye!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Let's go!\""
+  },
+  {
+    "name": "警官Ａ",
+    "message": "\"S-Stop right there, scumbags!\""
+  },
+  {
+    "message": "Virus and Trip broke right, so Koujaku and I dash left."
+  },
+  {
+    "message": "We hear gunshots and shouting behind us for a while, but by the time we get out of Yukisagi and onto Aoyagi Street, the sounds have disappeared."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haa... Haah, haa.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Haa... Man. What a disaster.\""
+  },
+  {
+    "message": "You can say that again."
+  },
+  {
+    "message": "I close my eyes as I try to catch my breath. The scene in the alley rises from the darkness."
+  },
+  {
+    "message": "Dry Juice tags painted over in black. Bloodstains on the ground."
+  },
+  {
+    "message": "Where did Mizuki and his gang go? Is he okay?"
+  },
+  {
+    "message": "Who did this? "
+  },
+  {
+    "message": "...Was it really Morphine?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What the hell is going on?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba...\""
+  },
+  {
+    "message": "My rage grows hotter with every passing moment."
+  },
+  {
+    "message": "Nothing could justify something like this."
+  },
+  {
+    "message": "This isn't how we do things."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm gonna find whoever did this. No matter what.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah. I'll ask my gang if they've seen anything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "message": "I dunno if it's Morphine, but <I>someone</I> did this."
+  },
+  {
+    "message": "I'll find them, and if Mizuki and the others are hurt...<K> then they're gonna pay."
+  }
+]

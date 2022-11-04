@@ -1,0 +1,405 @@
+[
+  {
+    "message": "While stretching, I glance at the digital clock on the counter."
+  },
+  {
+    "message": "This is Hum-Drum Junk, a shop that carries everything from basic supplies to specialized parts, all at rock-bottom prices."
+  },
+  {
+    "message": "The dorky name was what drew me in. Just how long has it been since I started working here, anyway? A while, that's for sure."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm? Got a message.\""
+  },
+  {
+    "message": "I'm leaning on the counter, spacing out, when the Coil on my arm beeps."
+  },
+  {
+    "message": "A Coil is like a mobile phone, but better. "
+  },
+  {
+    "message": "You can make calls, send texts, watch TV, pay for things, and even use it as an ID―all in one little machine."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's see...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Damsel in Distress?\""
+  },
+  {
+    "message": "Is this some new viral ad?<K>\r\nLike, the adult kind?"
+  },
+  {
+    "message": "I'm sure the rest of it says something like, \"I'm in trouble. Only a big strong man like you can save me.\""
+  },
+  {
+    "message": "Delete..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Gah!\""
+  },
+  {
+    "message": "Suddenly, something slams into my side."
+  },
+  {
+    "message": "I fall from the chair, and something heavy lands on my back."
+  },
+  {
+    "message": "Three voices giggle overhead. I know right away who it is."
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Aoba's wide open!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Like a book!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"So lame!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why you little...!\""
+  },
+  {
+    "message": "It's Kio, Nao, and Mio, a trio of siblings from the neighborhood whose only purpose, it seems, is to make my life hell."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How many times have I told you this isn't a playground?! Don't you kids listen?!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Hey! Aoba's looking at a dirty e-mail!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"No way!\""
+  },
+  {
+    "message": "Nao must've gotten a look at my Coil. The other two climb up my back, trying to get a peek."
+  },
+  {
+    "message": "Can't... breathe...!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Get off me, you idiots!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Dirty e-mail! Dirty e-mail! Aoba's a pervert!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Grown-ups are dirty!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Nuh-uh! I bet it's someone wanting to buy bad stuff! 'Cuz this shop is sketchy!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Sketchyyy! Sketchyyy!!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"This shop sucks!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh... Guh.\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"I know! Let's arrest Aoba for being perverted and sketch!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Yeah!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"You're under arreeeest!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guh, ugh... Get off me already, you braaaaaaaaats!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Waaaaaaaaaaaaaaahh!!!\""
+  },
+  {
+    "message": "I jump up, shaking them off. Not gonna hold back just 'cause they're kids."
+  },
+  {
+    "message": "If I thought scolding them would accomplish anything, I'd do it. But this bunch doesn't give a rat's ass what I have to say."
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Hey! What's that thing on top of the shelf?\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"It's probably for beating people up!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"That's scary! Boys are mean!\""
+  },
+  {
+    "message": "As I expected, their attention has already moved on to other things."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You guys... Oh crap!\""
+  },
+  {
+    "message": "The screen of my Coil catches my eye.\r\n<I>Download complete.</I> The hell?"
+  },
+  {
+    "message": "I do recall it making a weird noise earlier..."
+  },
+  {
+    "message": "Maybe I accidentally pushed a button while I was wrestling with the brats."
+  },
+  {
+    "message": "I hope I didn't download some weird program..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just what I need...\""
+  },
+  {
+    "message": "Before I can investigate, the old-fashioned bell on the front door rings."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Phew, the deliveries were all over the place today.\""
+  },
+  {
+    "message": "It's Mr. Haga, the owner."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Sorry I took so long, Aoba...\""
+  },
+  {
+    "message": "Mr. Haga's smile vanishes as soon as he sees the kids."
+  },
+  {
+    "message": "I guess that's the natural reaction when you consider the kind of damage they always do."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"...Oh, it's you three. Hello.\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Kio, grab that thing.\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Wait a sec. Here we... Hiya!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"You're too short!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"What'd you say?!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"N-Now children, it's dangerous to play inside the shop. You might get hurt.\""
+  },
+  {
+    "message": "But the brats aren't listening."
+  },
+  {
+    "name": "キオ",
+    "message": "\"Just a little more... Yah!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Ch-Children!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Aaagh! You're so annoying!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Shut up, baldyyy!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"...Ah.\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Oops.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh-oh.\""
+  },
+  {
+    "message": "Oh boy..."
+  },
+  {
+    "message": "The temperature in the room suddenly drops ten degrees."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"...Dear, sweet children, I hate to be a bother...\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"But what did you just say?\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Come on, say it again! The first syllable was... ba?\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Ba...\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Ba?\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Ba... Ba... Bad! I feel bad! My stomach hurts, so... I'm going home!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Yeah, let's go!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Let's go!\""
+  },
+  {
+    "message": "The evil trio dashes from the store."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"...Ba...? What came after ba... Ba what...?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, boss! I just remembered. Good news!\""
+  },
+  {
+    "message": "I scramble for the words that'll snap him out of it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We've been getting tons of orders for the S series A parts!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"...Parts?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yes! You're amazing! It's just like you said! Sales are up fifty percent from last month!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh... that's good...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yes it is! Things are looking up! Sales are doubling!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Sales are... doubling?!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Well, that <i>is</I> good news.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"We should stock some more if they're selling that well.\""
+  },
+  {
+    "message": "I breathe a sigh of relief. That was close. There's no telling what Mr. Haga might do once something sets him off."
+  },
+  {
+    "message": "Finally calm, he straightens his glasses and gives me a tired smile."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Goodness... Those children are nothing but trouble, aren't they?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Y-Yeah. They really are.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"They might be cute if they weren't such troublemakers...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You said it!\""
+  },
+  {
+    "message": "No matter how many times I've seen it happen, it's always startling when his personality does a 180 like that."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh, right.\""
+  },
+  {
+    "message": "Mr. Haga walks to the counter and grabs a paper bag from the floor."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I hate to ask you to do this, but would you mind dropping this off with the courier service? You can head on home after that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you sure?\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Yes. In fact, I'm expecting someone soon, so I thought I'd close up early today.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll take care of it.\""
+  },
+  {
+    "message": "I shoulder my bag and take the package from Mr. Haga."
+  },
+  {
+    "message": "From the label, it looks like it's going pretty far. Fortunately, getting it there is the courier's job, not mine."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm off, then. See you tomorrow.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"See you tomorrow. Be careful.\""
+  }
+]

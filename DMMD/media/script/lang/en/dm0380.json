@@ -1,0 +1,639 @@
+[
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ouch...\""
+  },
+  {
+    "message": "A few minutes later, we're sitting quietly at the dining room table."
+  },
+  {
+    "message": "My head throbs where Granny hit me.<k>\r\n<?>"
+  },
+  {
+    "message": "Of course, I'm not the only one with fresh lumps."
+  },
+  {
+    "message": "She gave us all a taste of knuckle pudding, saying we were all equally at fault."
+  },
+  {
+    "message": "I was a bit scared that the blond guy was gonna hit back, but he just stood there and pouted."
+  },
+  {
+    "message": "Why? Because she's a frail old woman? Though 'frail' might not be the best word to describe her..."
+  },
+  {
+    "message": "When Granny asked how this all happened, I confessed that I left the front door unlocked again."
+  },
+  {
+    "message": "That earned me another lump."
+  },
+  {
+    "message": "I'm <I>never</I> forgetting to lock the front door again."
+  },
+  {
+    "name": "クリア",
+    "message": "\"To think I'd have the honor of sharing your punishment.\""
+  },
+  {
+    "message": "Come to think of it, I'm pretty sure the guy in the gas mask said his name was Clear."
+  },
+  {
+    "message": "He's just as fishy as the blond guy..."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Aoba, come here!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Coming.\""
+  },
+  {
+    "message": "I stand, rubbing the lump on my head, and head into the kitchen."
+  },
+  {
+    "message": "Granny is holding a basket full of freshly fried donuts. I thought I smelled something sweet."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Bring these to the table. Everyone's fine with tea, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. Oh, by the way, Granny...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Should you be up already? How's your back?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I'm on my feet, aren't I? Stop asking stupid questions and get your butt in gear.\""
+  },
+  {
+    "message": "I set the basket of donuts on the table, then pour cups of tea for everyone and return to my seat."
+  },
+  {
+    "message": "Granny joins us shortly thereafter."
+  },
+  {
+    "name": "タエ",
+    "message": "\"It's hard to stay angry on a full stomach, so eat up.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I thought I smelled something delicious! You know how much I love your donuts, Ms. Tae.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Just hurry up and eat.\""
+  },
+  {
+    "message": "Koujaku goes straight for the basket."
+  },
+  {
+    "message": "The blond guy and Clear, on the other hand, just stare at the donuts in confusion."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Eat 'em or don't. Make up your minds.\""
+  },
+  {
+    "message": "Clear can't eat without taking off his mask, and the blond guy doesn't seem interested."
+  },
+  {
+    "message": "Or so I thought. Surprisingly, despite his grumpy expression, the intruder reaches for a donut."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's sweet.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Of course it is. What other kind of donut is there?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"But it's sweet.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"If you don't like it, don't eat it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Granny snorts, and the man continues nibbling on his donut. I can't get a read on him at all."
+  },
+  {
+    "message": "I turn back to Clear. He's still sitting there, motionless. "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Aren't you gonna have one? Granny's donuts are delicious.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I will.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then I guess you'd better hurry?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes, I will.\""
+  },
+  {
+    "message": "Clear keeps perfectly still."
+  },
+  {
+    "message": "He'll have to take the mask off to eat, but will he?"
+  },
+  {
+    "message": "I watch Clear over the rim of my teacup, wondering what's gonna happen."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "A donut is missing from Clear's side of the basket."
+  },
+  {
+    "message": "And... it looks like his mask is moving up and down."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You... Did you just eat one?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. It's delicious.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You really are a magician.\""
+  },
+  {
+    "message": "He ate it with the gas mask on? How?"
+  },
+  {
+    "message": "...Forget it."
+  },
+  {
+    "message": "I grab a donut and start eating too."
+  },
+  {
+    "message": "Granny's donuts are delicious even when cold, but when they're fresh, they've got this mellow, flakey sweetness that just fills your whole mouth."
+  },
+  {
+    "message": "Koujaku has already finished and gotten up from his seat by the time I start eating my donut."
+  },
+  {
+    "message": "Just before he goes into the hall, he turns back and beckons to me."
+  },
+  {
+    "message": "I point to myself―<I>me?</I>―and Koujaku nods."
+  },
+  {
+    "message": "What's up?"
+  },
+  {
+    "message": "I leave my half-eaten donut on the table and head out into the hall."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Phew. Man, talk about crazy.\""
+  },
+  {
+    "message": "I guess Koujaku wanted to get away from the bizarre atmosphere in there."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, you can say that again.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Anyway, about Mizuki. Did you get ahold of him?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I called him. He said he was fine... but he sounded kind out of it.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Did something happen?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well, remember when I messaged you about Mizuki acting weird? Truth is, some of my gang had a little disagreement with some guys from Dry Juice.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Now, Mizuki was there at the time. Normally, he'd step in to sort things out, right?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"This time, he just stood by and watched―with this dazed look on his face. <I>I</I> had to step in.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It struck me as weird, so I asked him if he was okay. But he just told me to leave him the fuck alone.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki said that?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah. He didn't look like himself. It was like something was really eating at him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Do you have any idea what it could be? Has he been worried about anything lately?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Last time I went to his shop, he mentioned disappearances.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, right. The vanishing Rib gangs.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It seemed like it was really weighing on his mind.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've heard a lotta talk around town...\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Morphine! Morphine!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "I feel something against my back, then something falls to the floor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's... one of his!\""
+  },
+  {
+    "message": "It's one of those cubes the rabbit guy had on his belt. Was it tucked into the hood of my jacket this whole time?!"
+  },
+  {
+    "message": "The cube hops into the living room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That asshole!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Koujaku chases after the cube."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, you little shit. You were eavesdropping just now, weren't you?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Not like you were talking about anything worth keeping secret.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Fuck you!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Like this disappearance shit. No one even does Rib anymore. You sure it's not just a sad attempt to keep it alive a little longer?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"The fuck you say?\""
+  },
+  {
+    "message": "Koujaku's voice shakes with anger."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"This is no joke, asshole. There really are people who haven't come back.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Fuck if I care. If you're so scared, maybe you should quit.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Motherfucker...\""
+  },
+  {
+    "message": "Koujaku takes a step forward. The man shoots back an icy glare."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's your name, smartass?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You first. Common courtesy, yeah?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Where's a jackass like you get off talking about courtesy?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Forget it, then.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hold on. This doesn't need to get ugly. His name is Koujaku. And yours is?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Noiz.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I fucking hate little smartasses like you.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I don't really give a shit what you think.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Why you...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Enough.\""
+  },
+  {
+    "message": "Granny breaks her silence to end their standoff with a single word."
+  },
+  {
+    "name": "タエ",
+    "message": "\"If you wanna fight, take it outside. I'm tired of listening to your bickering.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Sorry, Ms. Tae.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz glances at Koujaku, then stands without saying a word."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, where do you think you're going?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Home.\""
+  },
+  {
+    "message": "He marches out of the room."
+  },
+  {
+    "name": "タエ",
+    "message": "\"If you're done eating, the rest of you skedaddle too.\""
+  },
+  {
+    "message": "Clear stands and bows to us."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Thank you very much. Goodbye, Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, wait a second.\""
+  },
+  {
+    "message": "I follow Clear out into the hall."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes, what is it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I dunno if there's gonna be a next time, but if there is, come in like a normal person.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Normal?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Don't fall from the sky or come in through the balcony. Just come in through the front door, okay?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Why can't I come from the sky or the balcony?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's just weird, okay? And you're gonna give me a heart attack.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Heart attack... I see. I think I understand.\""
+  },
+  {
+    "message": "Clear touches his chest."
+  },
+  {
+    "name": "クリア",
+    "message": "\"You mean this heart here, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh... Yeah, I guess...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I always learn so much when I'm with you, Master. Thank you very much.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Okay.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Until next time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sure...\""
+  },
+  {
+    "message": "Clear bows again, then leaves through the front door."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's the deal with that gas mask?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hell if I know...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I thought you knew him?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not exactly. At least, I don't think I do.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You don't <I>think</I> you do?\""
+  },
+  {
+    "message": "After giving me a look, Koujaku awkwardly rubs the back of his neck."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Sorry about that earlier. I just kinda snapped. Tell Ms. Tae I'm sorry, would you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You apologized earlier. I think it's fine.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"And I'm sorry for going nuts like that in your room.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, it's not like that was your fault. I haven't seen you that pissed off in ages, though.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I just hate guys like that, who think they're hot shit.\" "
+  },
+  {
+    "message": "Koujaku sighs, looking a bit deflated."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You know, it just hit me... He's in a Rhyme gang.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"He is?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah. They're the Ruff Rabbits, I think. I remember seeing him when we got in a fight with some of their members.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"He knew I was in Rib, so it's probably the same guy. Man, now I'm <I>really</I> pissed off.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Rhyme has gangs too? I didn't know that.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I think they only started forming them recently. Mostly it's to share information, I hear. Just doesn't sit right with me.\""
+  },
+  {
+    "message": "A lot of Ribsteez think of their gangs as family, but I guess Rhyme's different."
+  },
+  {
+    "message": "Dry, efficient―that's the impression I get of Noiz."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well, enough about him. I'll do what I can to help Mizuki. And you let me know the second you find anything out.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Later.\""
+  },
+  {
+    "message": "Koujaku raises a hand in farewell, then walks out the front door."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Phew.\""
+  },
+  {
+    "message": "I head back to my room feeling drained. So much happened today."
+  },
+  {
+    "message": "Oh, right. I forgot to tell Koujaku that Noiz was the one who forced me into that Rhyme match."
+  },
+  {
+    "message": "Probably shouldn't. That'll just give him another reason to pick a fight."
+  },
+  {
+    "message": "Wondering how things got so messed up, I open the door... and suddenly feel even more exhausted."
+  },
+  {
+    "message": "Holy shit, is my room a mess..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Dammit...\""
+  },
+  {
+    "message": "Remembering Noiz's cocky attitude is making me mad all over again."
+  },
+  {
+    "message": "I decide to just pick up some things off the floor before flopping down on my bed."
+  },
+  {
+    "message": "I'll get the rest tomorrow. Too tired today."
+  },
+  {
+    "message": "I let out a sigh and close my eyes."
+  }
+]

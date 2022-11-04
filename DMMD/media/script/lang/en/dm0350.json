@@ -1,0 +1,361 @@
+[
+  {
+    "message": "Arriving home from work, I pull out my key with some apprehension."
+  },
+  {
+    "message": "I hope Granny has behaved herself."
+  },
+  {
+    "message": "But just as I put the key in the door―"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "...Don't tell me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...It's open.\""
+  },
+  {
+    "message": "The door isn't locked."
+  },
+  {
+    "message": "Did I forget to lock it again?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shit. Granny's home! What if something happened?!\""
+  },
+  {
+    "message": "We live in a pretty tight-knight community, but the town being what it is, burglaries are not at all uncommon."
+  },
+  {
+    "message": "I listen carefully as I enter the house, feeling sick to my stomach. How could I be so careless?"
+  },
+  {
+    "message": "...No sign of an intruder."
+  },
+  {
+    "message": "I take off my shoes and head straight for Granny's room."
+  },
+  {
+    "message": "I quietly open the door and peer inside. Granny is there, asleep under her comforter."
+  },
+  {
+    "message": "Looks like she's fine."
+  },
+  {
+    "message": "I heave a sigh of relief and close the door."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "I pause on the stairs. Something feels off."
+  },
+  {
+    "message": "Granny is sleeping, so the house is quiet. Nothing is out of place."
+  },
+  {
+    "message": "Maybe it was just my imagination."
+  },
+  {
+    "message": "While pondering this, I climb the stairs and open the door to my room."
+  },
+  {
+    "message": "At which point, I immediately realize that it wasn't my imagination at all."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the―\""
+  },
+  {
+    "message": "I'm not exactly proud of it, but my room has never been what you'd call clean."
+  },
+  {
+    "message": "I had books and magazines piled up on the floor, plus all sorts of other stuff I left out because that was less annoying than cleaning it up."
+  },
+  {
+    "message": "But I don't remember it being quite <I>this</I> bad."
+  },
+  {
+    "message": "My room is a complete disaster. It looks like a tornado ripped through it."
+  },
+  {
+    "message": "There isn't even anywhere to stand. All the shelves have been pulled out and the table is upside-down."
+  },
+  {
+    "message": "But that isn't even the most unsettling thing amid the mess."
+  },
+  {
+    "message": "A man is sitting in front of my computer, his back to me, like it's <I>his</I> room, not mine."
+  },
+  {
+    "message": "This is exactly what I was afraid of!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thief!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where do you get off breaking into someone's room?!\""
+  },
+  {
+    "message": "He looks up slowly, like he only just noticed I was there."
+  },
+  {
+    "message": "I've never seen the man before. He looks about my age."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You're back.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Who the hell are you, and what are you doing in my room?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Look, man.\""
+  },
+  {
+    "message": "He just ignores me as I stand there, trembling with rage, and taps the keyboard with his middle finger."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! Don't touch my stuff!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"The data on this thing makes no fuckin' sense. How'd you even manage this?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"And these Allmate mods are something else. Where'd you learn to do this?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's it to you?! Just get out!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "He rises to his feet with a snort."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You saying you don't know who I am?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I think you do know.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I have no idea. You've got me confused with someone else.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "He stares right at me, then slowly opens his mouth."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Thank you for coming on this felicitous occasion.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Shall we get the party started?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?!\""
+  },
+  {
+    "message": "Where have I heard that before?"
+  },
+  {
+    "message": "I have a really bad feeling about this..."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Still don't remember?\""
+  },
+  {
+    "message": "He pulls something out of his pants pocket."
+  },
+  {
+    "message": "It's a key chain... with a tiny rabbit head on the end."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "It's him!"
+  },
+  {
+    "message": "I guess he's satisfied with my reaction, because he tosses the keychain aside and looks at me again."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Pretty good performance, right? Misdirected delivery and all.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're the one who ganked me?! And that delivery...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That was you too?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah. I found out where you worked, so I figured I'd bring you to me.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I paid in advance, so it's no problem for the shop, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not the problem here!\""
+  },
+  {
+    "message": "Anger wells up inside me as I remember how upset Mr. Haga was."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"By the way. You did it before, too... but what was that skill you used in our battle?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Don't play dumb. I wanna know how you beat me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Beat you?\""
+  },
+  {
+    "message": "Did I win that fight? I can't remember..."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Are you deaf? Say something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I don't remember.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't remember anything about how that fight ended.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "He scowls a bit before returning to his deadpan expression."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Don't wanna talk, huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guh!\""
+  },
+  {
+    "message": "He suddenly grabs me by the collar and slams me into the wall."
+  },
+  {
+    "message": "This guy's stronger than he looks!"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Then I guess I'll just have to beat it out of you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh, let me go!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You really don't remember?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "He stares into my eyes like he's searching for something."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I want a rematch.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What? I don't even play Rhyme... Ngh.\""
+  },
+  {
+    "message": "He shoves me into the wall even harder."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Still think you can lie your way outta this?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I guess I'll just have to take something from you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I know what's important to you. I know <I>everything.</I>\""
+  },
+  {
+    "message": "He shoots a meaningful glance at the computer."
+  },
+  {
+    "message": "I know what he means by that. Ren."
+  },
+  {
+    "message": "He's not bluffing. I can feel the threat hanging in the air. He'll really destroy Ren's data if I don't give him what he wants."
+  },
+  {
+    "message": "But the fact is, I don't want to fight in Rhyme."
+  },
+  {
+    "message": "And the guy is starting to piss me off."
+  }
+]

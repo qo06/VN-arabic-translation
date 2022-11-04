@@ -1,0 +1,292 @@
+[
+  {
+    "message": "The next day, I'm so tired, I barely make it to work on time."
+  },
+  {
+    "message": "Mr. Haga heads out right after opening, leaving me and Junker alone in the store."
+  },
+  {
+    "message": "Business is slow, so I have plenty of time to think about what happened yesterday."
+  },
+  {
+    "message": "Noiz and Clear.\r\nI still don't know what the deal is with either of them..."
+  },
+  {
+    "message": "Though, to be honest, the house felt a little empty once they'd all left."
+  },
+  {
+    "message": "Like, it's nice to have something exciting happen once in a while..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hum-Drum Junk. How may I help you?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hello?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "The caller hangs up without saying a word."
+  },
+  {
+    "message": "What was that? Some kind of prank call?"
+  },
+  {
+    "name": "キオ",
+    "message": "\"Kamikazeeeeee!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Kamikaze attaaaack!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"This place is so lame!\""
+  },
+  {
+    "message": "The door opens and a chorus of obnoxious voices tear through the shop."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You brats again?!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Oh, it's Aoba!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Aobaaa!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Your face is stupid as ever!\""
+  },
+  {
+    "message": "They don't have an endearing bone in their scrawny little bodies..."
+  },
+  {
+    "name": "キオ",
+    "message": "\"Ooh! Target found!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Lock on!\""
+  },
+  {
+    "message": "Now their attention has shifted to Junker."
+  },
+  {
+    "name": "凡人くん",
+    "message": "\"C-Cleeeeeeeeaning!!!\""
+  },
+  {
+    "message": "Junker screeches to a halt and tries to hide behind me."
+  },
+  {
+    "message": "Wait. Won't that make me their new target?"
+  },
+  {
+    "name": "キオ",
+    "message": "\"Waiiit!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Wait! Waiiit!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Freeze!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh! Hey, don't climb on me!\""
+  },
+  {
+    "message": "While struggling with the little imps, I hear the door open again."
+  },
+  {
+    "message": "Expecting a customer, I look up to see―"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yo.\""
+  },
+  {
+    "message": "Why is he here?!"
+  },
+  {
+    "message": "Noiz looks around the shop curiously as he approaches."
+  },
+  {
+    "message": "The fiends let go of me to get a look at Noiz."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Hey, wait a sec! Since when do you get customers?\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"A customer! A real customer!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"Change of target! Charge the customer!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"H-Hold it, guys!\""
+  },
+  {
+    "message": "Before I can stop them, the brats charge Noiz."
+  },
+  {
+    "message": "Shit, he's gonna―!"
+  },
+  {
+    "name": "キオ",
+    "message": "\"Woah!\""
+  },
+  {
+    "message": "...Phew. He just dodged them."
+  },
+  {
+    "message": "Kio and Nao stumble forward. And Mio..."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"H-Hey! Lemme go!\""
+  },
+  {
+    "message": "Noiz catches her just before she bumps into him and lifts her up like a kitten."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Lemme go! What do you think you doing?!\""
+  },
+  {
+    "message": "Mio pounds on Noiz's chest, to no effect. He just stares at her."
+  },
+  {
+    "message": "The sight is kind of surreal."
+  },
+  {
+    "message": "And then, as I watch in disbelief, Noiz does something completely unexpected."
+  },
+  {
+    "message": "He takes Mio's hand, brings it to his lips, and kisses it."
+  },
+  {
+    "message": "...Wow."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wha...\""
+  },
+  {
+    "message": "Mio is even more shocked than I am. I mean, of course she would be."
+  },
+  {
+    "message": "Her face turns bright red and she starts trembling."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Wh-Wh-Wha-\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Violence isn't an attractive trait for a girl.\""
+  },
+  {
+    "message": "What a thing to say..."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"L-L-Let...\""
+  },
+  {
+    "message": "Mio's mouth flaps aimlessly for a moment, but then she closes her eyes tightly, takes a deep breath..."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Let me go! You pierced pervert!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Pierced pervert?\""
+  },
+  {
+    "message": "Noiz puts Mio down without reacting."
+  },
+  {
+    "message": "She immediately darts away, pointing at him once she reaches a safe distance."
+  },
+  {
+    "name": "ミオ",
+    "message": "\"What are you gonna do if you start bleeding with all those holes in your face?!\""
+  },
+  {
+    "name": "キオ",
+    "message": "\"What?! There's blood?!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"Blood?!\""
+  },
+  {
+    "message": "Kio and Nao were lying on the ground, pretending to be injured after their falls, but they jump up immediately upon hearing their sister's comment."
+  },
+  {
+    "message": "Fortunately, it seems like her brothers didn't catch Noiz's little performance there. That's a relief."
+  },
+  {
+    "name": "キオ",
+    "message": "\"What'd you do to Mio?!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"What'd you dooooo?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Nothing.\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Cut it out, you two!\""
+  },
+  {
+    "message": "Mio quickly waves them off. Her face is still bright red."
+  },
+  {
+    "name": "キオ",
+    "message": "\"B-But...\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"Let's just run away!\""
+  },
+  {
+    "name": "ナオ",
+    "message": "\"But we haven't beaten him yet!\""
+  },
+  {
+    "name": "ミオ",
+    "message": "\"We don't have to!\""
+  },
+  {
+    "message": "Mio bolts out of the store, screaming. Her brothers quickly follow."
+  }
+]

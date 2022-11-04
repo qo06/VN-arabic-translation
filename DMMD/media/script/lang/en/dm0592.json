@@ -1,0 +1,53 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Did you really hear me?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes, I did! I could never mistake your voice, Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haha, really? Thanks, I guess.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Clear stares at me strangely for a moment, then grabs my cheeks and tugs."
+  },
+  {
+    "name": "クリア",
+    "message": "\"You know, Master, you're kinda loosey-goosey today. I wonder why. You of all people should know better, Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Gah! What's wrong with you?!\""
+  },
+  {
+    "message": "I step back to escape his grasp."
+  },
+  {
+    "message": "That's when I notice Mink watching us."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I have a sinking feeling... like I know exactly what he's thinking."
+  },
+  {
+    "message": "Talk about awkward..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please come inside, Master.\""
+  }
+]

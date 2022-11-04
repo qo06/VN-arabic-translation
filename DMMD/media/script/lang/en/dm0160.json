@@ -1,0 +1,290 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"You sure this way's faster?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yes.\""
+  },
+  {
+    "message": "I make my way down Aoyagi Street, Ren navigating."
+  },
+  {
+    "message": "As I walk alone, I notice a familiar tag all over the walls of an alley."
+  },
+  {
+    "message": "Beni-Shigure, the Crimson Rain. Koujaku's gang."
+  },
+  {
+    "message": "These tags are how Rib gangs stake their claims. This is part of Koujaku's territory."
+  },
+  {
+    "message": "Koujaku's gang isn't that big. Not that many people know that Koujaku is a Ribsteez in the first place."
+  },
+  {
+    "message": "Thanks to Koujaku's popularity with women, he's often wound up in brawls with jealous men.\r\n<p>\r\nBut he's never lost. Over time, his strength earned him some male fans as well, and this became his gang."
+  },
+  {
+    "message": "I think the way he looks after them shows the kind of guy Koujaku is. He's not one to turn away people who look up to him."
+  },
+  {
+    "message": "Many Ribsteez join gangs because they admire the leader.\r\n<p>\r\nSuch members often take after their idol, which is why you see so many men wearing kimonos in Beni-Shigure territory."
+  },
+  {
+    "message": "They might look like bad news at first glance, but they're all good people. They help old ladies carry their bags and lost children find their parents."
+  },
+  {
+    "message": "That's why Beni-Shigure is pretty popular in the Old Residential District. Koujaku is to thank for that too... probably."
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Yo, Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"'Sup.\""
+  },
+  {
+    "message": "I exchange greetings with a couple Beni-Shigure members who are chatting with a police officer."
+  },
+  {
+    "message": "The police in the Old Residential District are corrupt, but some will mingle with the regular folk if they're in the right mood―or there's money involved."
+  },
+  {
+    "message": "Some Ribsteez take such opportunities to fish for useful information or get a pass on some misdemeanor."
+  },
+  {
+    "message": "Whatever works for them, I say."
+  },
+  {
+    "message": "As I make my way farther down the street, I hear some excited voices coming from up ahead."
+  },
+  {
+    "message": "It's a man and two women, walking arm-in-arm."
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Oh, you're <I>terrible!</I>\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"But that's why we love you!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hahaha!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I knew it. It's Koujaku."
+  },
+  {
+    "message": "I really don't want to see him right now, with his fans around... but it's already too late to escape."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey.\""
+  },
+  {
+    "message": "I try to keep the grimace off my face."
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Aoba! How's Ren?\""
+  },
+  {
+    "message": "Koujaku's Allmate, Beni, is flying next to him.\r\nRen pops his head out of my bag."
+  },
+  {
+    "name": "蓮",
+    "message": "\"I'm right here.\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Oh, hey.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Is he a friend of yours, Koujaku?\""
+  },
+  {
+    "message": "The women look at me, sizing me up."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, we go way back.\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Oh? Really?\""
+  },
+  {
+    "message": "Well, sorry that the amazing Koujaku's friend doesn't measure up."
+  },
+  {
+    "message": "Though I've known the guy since I was little, it's not like we spent our whole childhood together."
+  },
+  {
+    "message": "Koujaku is originally from the mainland. He came to the island with his mother, then went back to the mainland a few years later."
+  },
+  {
+    "message": "We lost touch after that for a while, until suddenly, about three years ago, Koujaku came back―this time by himself."
+  },
+  {
+    "message": "He'd grown a lot, but the way he talked and smiled were still the same old Koujaku."
+  },
+  {
+    "message": "We started hanging out again after that. Koujaku often stops by my place to get a taste of Granny's cooking."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's the matter with you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You don't look so hot.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm fine.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah? If you say so.\""
+  },
+  {
+    "message": "I try to play it cool, but I'm actually surprised. Do I really look that sick?"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You working?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We can't all live like you.\""
+  },
+  {
+    "message": "The women react to my jab before Koujaku can."
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Hey! It's not like he's fooling around, you know!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Yeah! He's just walking us home on his way to work.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, now. He's not wrong. How can I work with such lovely ladies at my side?\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Kya!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Oh, Koujaku!\""
+  },
+  {
+    "message": "I'll never understand how he spouts crap like that."
+  },
+  {
+    "name": "ベニ",
+    "message": "\"A man must never refuse a woman's affections.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Exactly. Women are a treasure. They're soft and gentle, and warm men with their embrace. That's why we have to protect them. Right?\""
+  },
+  {
+    "message": "Koujaku puts his arms around the women's shoulders."
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Kyaaaaa!!!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"I could just die!\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I should get going.\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Oh? Wait a second!\""
+  },
+  {
+    "message": "Before I can leave, one of the women stops me."
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Here, look. You've got something on you.\""
+  },
+  {
+    "message": "The woman reaches out with her slender fingers and brushes something off my collar."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh... Thanks.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I do love a woman with a keen eye.\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Hehehe. ...Huh?\""
+  },
+  {
+    "message": "The woman suddenly looks at me like she noticed something."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Wow, your hair's pretty long.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Oh, you're right!\""
+  },
+  {
+    "name": "ファンの女子Ｂ",
+    "message": "\"Hehe, it's kinda cute.\""
+  },
+  {
+    "name": "ファンの女子Ａ",
+    "message": "\"Just like a girl!\""
+  },
+  {
+    "message": "Giggling, one of the women reaches for my hair."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "message": "Once we've lost him, Koujaku and I slow to a stop. I'm completely out of breath."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...We should be fine now.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "Koujaku turns around to double check, then flashes me an apologetic look."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Sorry, man. First I made a mess at your place, now this. I just lost my cool... That little shithead.\""
+  },
+  {
+    "message": "Koujaku's expression turns more serious."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"He's the one who pulled you into that Rhyme match, isn't he?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I gape. He hit the nail on the head."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So you knew. I had a feeling.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sorry.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Nah, I'm not trying to give you shit for it. But that guy's been messing with you since then, right? What happened?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, um...\""
+  },
+  {
+    "message": "There's no point hiding it anymore."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"When he dragged me into that match, I was freaked out, you know? I'd never even played Rhyme before.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess I passed out or something, because I don't remember what happened... but he... he says I won.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You won?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but I don't remember a thing. How could I have won, anyway? He insists I did, though.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So, what, he's following you around for revenge? I guess pride's the only thing that little fucker has.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Rhyme or not, a loss is a loss. A real man knows how to accept defeat.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Plus, you blacked out, right? It sounds like he's just making up shit to harass you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's wrong? Is something bothering you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So... while I was in that Rhyme match, I heard a voice.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You mean besides his?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. And I didn't <I>hear</I> it so much as it came from inside my head.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And then I, like, started to give orders to Ren. Like I just suddenly <I>knew</I> how to fight.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"But you've never done Rhyme before, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. I don't know how I gave those commands. It's creepy, man...\""
+  },
+  {
+    "message": "I grow more and more anxious as I recall what happened. By the end, I'm looking at my feet.\r\nKoujaku gently claps me on the shoulder."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, don't overthink it. That's always been a bad habit of yours. You don't want Ren going, 'Aoba, your head is at risk of exploding,' do you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "Koujaku's Ren impression makes me smile a little."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Getting dragged into Rhyme probably messed with your head. Just remember, you can always tell me if something happens.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, thanks.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's the least I can do... for a taste of Ms. Tae's home cooking.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, that's your real motive?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Haha.\""
+  },
+  {
+    "message": "Laughing with Koujaku has lightened my mood a little."
+  },
+  {
+    "message": "Yeah... Not that I'm an expert or anything, but I guess keeping your fears bottled up isn't good for you."
+  },
+  {
+    "message": "Sometimes, it's better just to tell someone what you're feeling."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh yeah, want to go hit up the guys in Dry Juice?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sure. I'm worried about Mizuki too... Ah!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm supposed to be at work! I was watching the store because Mr. Haga was out!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey! Aren't you gonna get in trouble?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll go call him.\""
+  },
+  {
+    "message": "I frantically call Mr. Haga on my Coil."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Hello, you've reached Hum-Drum Junk.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mr. Haga?! I'm so sorry, I―!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Oh, Aoba. You weren't at the shop. I was wondering what happened to you. Was there some kind of emergency?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, I, uh...\""
+  },
+  {
+    "message": "Telling him about Noiz won't help. I have no idea how to explain the situation, so I just bullshit my way through, apologizing profusely."
+  },
+  {
+    "message": "Mr. Haga seems a little perplexed, but he forgives me."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Don't worry about it. I'm here now.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm so sorry about this! I'll be more careful next time!\" "
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I know you will. Well, stay safe.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thank you, sir!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haa...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Everything okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess...\""
+  },
+  {
+    "message": "Mr. Haga may have let me off the hook, but I sure am a failure as an adult..."
+  },
+  {
+    "message": "I'll have to make it up to him later."
+  },
+  {
+    "message": "After that, Koujaku and I head for Dry Juice's territory: the alleys in the east quarter off Yukisagi, peppered with abandoned restaurants and bars."
+  }
+]

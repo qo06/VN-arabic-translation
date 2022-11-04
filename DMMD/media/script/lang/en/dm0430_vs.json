@@ -1,0 +1,142 @@
+[
+  {
+    "message": "Neither man seems to have any interest in stopping."
+  },
+  {
+    "message": "Quite the opposite, in fact. They're both obviously itching for a fight."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Alright... Let's do this!\""
+  },
+  {
+    "message": "The moment Koujaku and Noiz make contact, the Ribsteez and Rhymers surrounding them start to brawl."
+  },
+  {
+    "message": "It quickly devolves into total chaos, with people who clearly just want to fight getting in on the action. The alley shakes with their howls of joy."
+  },
+  {
+    "message": "Forget about the other people. I've gotta stop Koujaku and Noiz!"
+  },
+  {
+    "message": "But before I can cut in between them, a man comes flying at me."
+  },
+  {
+    "name": "野次馬Ａ",
+    "message": "\"You're a fucking Rhymer, aren't you?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Whoooa!\""
+  },
+  {
+    "message": "I jump out of the way as he winds up for a punch, and he tumbles forward when it misses."
+  },
+  {
+    "message": "I instinctively chop down at his unguarded neck."
+  },
+  {
+    "name": "野次馬Ａ",
+    "message": "\"Ugh!\""
+  },
+  {
+    "message": "His knees buckle and he falls on his face."
+  },
+  {
+    "message": "That was close. I'm gonna get dragged into this if I'm not careful."
+  },
+  {
+    "name": "野次馬Ｂ",
+    "message": "\"Hiyah!\""
+  },
+  {
+    "message": "Too late!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh!\""
+  },
+  {
+    "message": "A man whips his arm toward me. I spot the glint of steel."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not a fucking toy!\""
+  },
+  {
+    "message": "When he stabs at me again, I catch his arm and pull it down, kneeing him in the chin as he stumbles."
+  },
+  {
+    "name": "野次馬Ｂ",
+    "message": "\"Guh!\""
+  },
+  {
+    "message": "The man drops the knife as he falls backward, and I kick it away. I also give him a gentle kick in the face while I'm at it."
+  },
+  {
+    "name": "野次馬Ｂ",
+    "message": "\"Guh.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"For fuck's sake...\""
+  },
+  {
+    "message": "I look around and quickly locate Koujaku and Noiz."
+  },
+  {
+    "message": "They're going at it like a pair of wolves, oblivious to the chaos around them."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku! Noi―\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"What the fuck are you scumbags doing?!\""
+  },
+  {
+    "message": "Instantly, the fighting stops. Everyone turns to face the voice that tore through the alley like a thunderclap."
+  },
+  {
+    "message": "And then―"
+  },
+  {
+    "message": "Everyone starts running."
+  },
+  {
+    "message": "It's Akushima!"
+  },
+  {
+    "message": "Armed policemen flood the alley."
+  },
+  {
+    "name": "悪島",
+    "message": "\"What's going on here?! Rhyme?! Rib?! Either way, the sentence is death!!!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "message": "Koujaku fights his way to me against the flow of the crowd."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where's Noiz?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Long gone. We gotta hightail it too!\""
+  },
+  {
+    "message": "Koujaku grabs my arm and we start running."
+  },
+  {
+    "name": "悪島",
+    "message": "\"Stop right there, criminal scum!!!\""
+  },
+  {
+    "message": "We race down the alley, Akushima's shouts echoing behind us."
+  }
+]

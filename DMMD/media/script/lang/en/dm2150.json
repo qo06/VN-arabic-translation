@@ -1,0 +1,359 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, wait up!\""
+  },
+  {
+    "message": "I catch up to Noiz a little ways from the entrance. He's walking at a brisk pace."
+  },
+  {
+    "message": "I look up at him, thinking to give him a piece of my mind, but something else catches my eye."
+  },
+  {
+    "message": "...What was that? I could have sworn I saw something in the shadows over there."
+  },
+  {
+    "message": "Something white from head to toe, like a ghost..."
+  },
+  {
+    "message": "I look again, but there's nothing there."
+  },
+  {
+    "message": "...Did I imagine it?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "...When I turn back around, Noiz has vanished."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I can't believe that guy!\""
+  },
+  {
+    "message": "I walk around briskly, searching the area until I find him standing in front of a food stand on a street lined with similar shops."
+  },
+  {
+    "message": "Right. He said something about being hungry."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Noiz!\""
+  },
+  {
+    "message": "I approach, calling his name, and he turns around."
+  },
+  {
+    "message": "He's holding what looks like a tray of takoyaki. He already got something?"
+  },
+  {
+    "message": "Noiz turns back to the line of shops. He moves to the next one and buys something else."
+  },
+  {
+    "message": "This repeats with the next shop in line, and the next, and the next..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How much food does one person need?!\""
+  },
+  {
+    "message": "In no time at all, Noiz has stuffed his arms full of food. It looks like he might drop something at any moment."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You can't carry all that. Give me some.\""
+  },
+  {
+    "message": "I can't stand to watch anymore, so I run up to him and take some of the food off his hands."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"If you want some, go ahead.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I didn't mean it like that... Come on, you bought way too much.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"If you're worried about money, I've got plenty.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You got a job or something?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I deal Rhyme intel. There's tons of people willing to pay top dollar for my gang's intel. We're almost never wrong about where Usui's gonna show.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wow...\""
+  },
+  {
+    "message": "I remember him mentioning something like that."
+  },
+  {
+    "message": "But I don't understand why anyone would spend money to get information about a game."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hey, what are those?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "Noiz points at the takoyaki I'm holding. His expression is sincere."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Didn't you literally just buy this?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah, but I dunno what they're called.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What?\""
+  },
+  {
+    "message": "I scowl at him, thinking he has to be messing with me, but there isn't a hint of mischief on his face."
+  },
+  {
+    "message": "His eyes are full of curiosity."
+  },
+  {
+    "message": "...Seriously?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're kidding.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm not fucking kidding. Just tell me what they're called.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Takoyaki.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Takoyaki... Hmmm, weird.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Seriously?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What's this one?\""
+  },
+  {
+    "message": "Noiz shows me a wrapped item he's holding."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A crepe.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"This one?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A churro.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Huh. They all have weird names.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I look into Noiz's eyes, but I still can't tell if he's messing with me or not."
+  },
+  {
+    "message": "I mean, I know he's a little weird, but how does he not know foods that basically everyone eats in the Old Residential District?"
+  },
+  {
+    "message": "Noiz looks at the crepe and the churro, then takes a bite out of the churro."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's sweet.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Of course it is.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Not bad.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Glad you like it... but what the hell have you been eating all this time?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Delivery pizza or pasta.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's it?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"That's it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wouldn't you normally get bored of that?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Nah. I'd eat the same thing every day, as long as it's good.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "A <I>little</I> weird doesn't cut it for this guy."
+  },
+  {
+    "message": "Suddenly feeling tired, I pop a takoyaki into my mouth."
+  },
+  {
+    "message": "It's delicious. I must have been hungrier than I knew."
+  },
+  {
+    "message": "Still, I'm surprised Platinum Jail has such \"low-class\" food. I thought it was all fancy restaurants and stuff."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"They even have taiyaki... I'm kinda impressed.\""
+  },
+  {
+    "message": "While I'm looking at the other shops, something suddenly grabs my arm."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? ...Woah!\""
+  },
+  {
+    "message": "My takoyaki!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you think you're doing?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Salty.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Of course it is. What are you, twelve? How old are you anyway?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Nineteen.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nineteen, huh...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What?!\""
+  },
+  {
+    "message": "Nineteen?!"
+  },
+  {
+    "message": "I stare at Noiz."
+  },
+  {
+    "message": "I'd already guessed he was younger than me, but I thought he was at least twenty..."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...No, just, you're really young.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"How old are you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Twenty-three.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Same difference.\""
+  },
+  {
+    "message": "Like hell it is!"
+  },
+  {
+    "message": "Actually, is this why I find him so weird? The age difference?"
+  },
+  {
+    "message": "He's so calm and collected on the outside, but on the inside..."
+  },
+  {
+    "message": "Wait. So some punk-ass kid's been messing with me this whole time?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "That's when I notice the words on the digital billboards peppered around town."
+  },
+  {
+    "message": "\"Special Celebration\""
+  },
+  {
+    "message": "Isn't that the event Granny told me about?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Noiz. Isn't that...\""
+  },
+  {
+    "message": "...But Noiz is gone."
+  },
+  {
+    "message": "He ran off again..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shit... Where'd he go this time?\""
+  },
+  {
+    "message": "I take off running, wondering if this is how it feels to be a parent."
+  }
+]

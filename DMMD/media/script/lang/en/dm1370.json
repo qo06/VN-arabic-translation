@@ -1,0 +1,435 @@
+[
+  {
+    "message": "As I expected, the door opens into a single, cavernous room."
+  },
+  {
+    "message": "A man is standing at the center."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Ryuuhou.\""
+  },
+  {
+    "message": "The cheerful expression I've come to associate with him is markedly absent. His piercing stare gives his smile a predatory gleam."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I knew you'd come.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Motherfucker...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ryuuhou...\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Oh! You're joining us as well? Fantastic.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't even start with that shit. I'm not letting you touch him.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Oh, I'm not sure that's up to you. Who knows? Maybe Aoba'll fall right into my arms.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ryuuhou...!\""
+  },
+  {
+    "message": "Koujaku reaches for the sword on his back. Instantly, the atmosphere in the room shifts."
+  },
+  {
+    "message": "It's happening again; Koujaku is losing it."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Urrrgh...\""
+  },
+  {
+    "message": "He rips the sword from its sheath and grips it in both hands. His body seems to glow with malice."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Once he's mine, I'll give birth to my second greatest masterpiece... No, not second. Different. <I>New.</I>\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Like hell! You won't lay a finger on him!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Now, how many times do I have to tell you? You really need to calm down, remember?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Shut the fuck up!\""
+  },
+  {
+    "message": "The air trembles with the force of Koujaku's roar."
+  },
+  {
+    "message": "I have to stop him! It's like his rage is <I>consuming</I> him from within."
+  },
+  {
+    "message": "If he lets his anger control him... If he doesn't snap out of it..."
+  },
+  {
+    "message": "A shiver crawls up my spine. I have to stop Koujaku before it's too late."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Kouja―\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "I turn to see several Beni-Shigure members standing behind me. When did they get here?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you―\""
+  },
+  {
+    "message": "One of them grabs me by the shoulders."
+  },
+  {
+    "message": "Something's wrong. I look into his face."
+  },
+  {
+    "message": "His eyes are dark. Empty. Lifeless, like a doll's."
+  },
+  {
+    "message": "I've seen eyes like these before."
+  },
+  {
+    "message": "Mizuki..."
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Can't let you do that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you talking about?! If I don't do something―!\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"This is what he wants. We can't let anyone stop him. Not even you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Let's see his battle through... together.\""
+  },
+  {
+    "message": "This is what Koujaku wants? For me to just stand here and watch?"
+  },
+  {
+    "message": "...No! I can't let that happen!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let go...!\""
+  },
+  {
+    "message": "I nearly manage to wrench my shoulder from the man's grip, but then the others join him to restrain me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh... Koujaku!\""
+  },
+  {
+    "message": "Koujaku turns his head a fraction. He hears my voice. He isn't lost yet."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...What are you doing to him?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Shall I let you in on a little secret?\""
+  },
+  {
+    "message": "Ryuuhou indicates me and the Beni-Shigures."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You see those wounds on their necks? They all have them... even Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "I force my head to the side to look at the neck of the guy next to me."
+  },
+  {
+    "message": "He has a mark that looks like it was made with a heavy gauge needle."
+  },
+  {
+    "message": "There's something like that on my neck, too?\r\nWait... Koujaku mentioned something..."
+  },
+  {
+    "message": "Something about needle marks on my neck..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What the fuck did you do to them?!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"See, I fell for Aoba here the moment I saw him near the club. I just had to give him a little poke.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Just a little drug that makes the mind... unravel. I was dying to see how Aoba would... come undone. You showed up just as things were getting good.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"But I knew you would, sooner or later. I'd been planning for it since I learned you were here.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I had two goals: Aoba... and you. I needed to stoke that fire in your belly, to feed my flower, to watch it grow.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Guh...!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"While you were out looking for me, I made a few trips to the Old Residential District. That's when I met your friends here.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What?! You didn't...\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Oh, I did. You remember my needle, don't you? The passion. The heat. How it sinks through the skin and pierces the heart...\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"All it takes is one little prick. They hardly feel a thing―like the touch of a mosquito.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"They were my puppets before you broke into my room.\""
+  },
+  {
+    "message": "With a gleeful smile, Ryuuhou claps once."
+  },
+  {
+    "message": "One of the Beni-Shigures grabs my arm and <i>twists.</I>"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Agh...\""
+  },
+  {
+    "message": "Though I wasn't paying attention, I recall hearing a clap earlier, too."
+  },
+  {
+    "message": "Is that how he's controlling them?"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"And now, their lives are in our hands.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You're not getting away with this, you piece of shit! I'm gonna bash your fucking head in, right here, right now!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Hehe. You really have forgotten my warning.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You were just a child when I carved that tattoo on your back. That's why you were able to come back. Luck.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"But I warned you that would change when you got older. I told you to be careful.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Or have you forgotten... how you killed your mother?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"DON'T SAY IT!\""
+  },
+  {
+    "message": "A howl tears from Koujaku's throat. His body seems to double in size."
+  },
+  {
+    "message": "Am I hallucinating? ...No."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Grrrrrh, gaaaaaaah!\""
+  },
+  {
+    "message": "His muscles bulge. His top rips open, no longer able to contain them."
+  },
+  {
+    "message": "With his upper body exposed, the tattoo on his back is exposed as well."
+  },
+  {
+    "message": "The sight makes me shiver."
+  },
+  {
+    "message": "What was a striking field of peonies before has now transformed into something <I>different.</I>"
+  },
+  {
+    "message": "The flowers are glowing a brilliant red, the color of raw flesh, and the shape has extended to cover his entire left arm."
+  },
+  {
+    "message": "It's like the tattoo itself is alive..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Guuhhh...\""
+  },
+  {
+    "message": "Koujaku's breaths are panting, wild and feral. His eyes are empty of all emotion save rage and hate."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku!\""
+  },
+  {
+    "message": "I call his name with all my might, but it doesn't reach him."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Ahh... Incredible.\""
+  },
+  {
+    "message": "Ryuuhou gazes upon Koujaku's altered form, a wide grin spreading his lips."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You see, your tattoo was something of an experiment. Not how I'd describe it, of course... but it was a personal request from Toue himself.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Toue?!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"A tattoo is <I>destiny,</I> understand? A man carries his ink for the rest of his life. That's why you need to be <I>committed</I>―not just the subject, but the artist as well.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Toue's been researching mind control for decades. Somewhere along the line, he heard about me. He came to me with an idea.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"He wondered if it might be possible to control people with tattoos. Naturally, I thought the idea was <I>fascinating.</I> You were chosen for this little experiment.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"And now, my tattoo has devoured your heart, and is becoming something new. I warned you about letting emotion take control, but you never listen, do you?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"The tattoo grew with you. It was still immature back then. That's why the rage never took you completely.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"But now you're fully grown, and so is the tattoo. The stronger your rage, the deeper it drank, until it grew enough to consume your soul.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"The tattoo and you are one! Now, it will flourish! With your beating heart as its soil, it will bloom beyond my wildest dreams!\""
+  },
+  {
+    "message": "Ryuuhou spreads his arms wide, an expression of utter bliss on his face."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I have no regrets. When your reason and my passion clashed, I came out the winner. Now, to claim my prize...\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Take me with you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"RYUUHOUUUUUUUUUUUUUUUU!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No! Koujaku, stop!\""
+  },
+  {
+    "message": "But my voice is powerless to reach him."
+  },
+  {
+    "message": "Koujaku raises his sword and charges."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "A sickening sound echoes through the room."
+  },
+  {
+    "message": "Koujaku, with the strength of unbridled hatred, has driven his sword through Ryuuhou's chest."
+  },
+  {
+    "message": "Where it emerges from Ryuuhou's back, bright rivers of blood fall to the floor."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"...Ngh...\""
+  },
+  {
+    "message": "Ryuuhou stoops forward, blood spurting from his mouth.\r\n...He's laughing."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"...Hahah, ngh... Killed... by my own masterpiece... What... an honor! Hngh!\""
+  },
+  {
+    "message": "A last font of blood erupts from his smiling lips..."
+  },
+  {
+    "message": "And then his head falls limp."
+  },
+  {
+    "message": "Koujaku tears his blade free."
+  },
+  {
+    "message": "A dark black stain blooms across the front of Ryuuhou's kimono, and then his body crumples to the floor."
+  }
+]

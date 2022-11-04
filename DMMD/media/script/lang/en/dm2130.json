@@ -1,0 +1,123 @@
+[
+  {
+    "message": "...The next morning, I wake up feeling refreshed for a change."
+  },
+  {
+    "message": "A proper night's sleep in a real bed did wonders. My headache is almost entirely gone."
+  },
+  {
+    "message": "I get out of bed and leave the room, heading for the den."
+  },
+  {
+    "message": "At the bar counter, I find some instant coffee and pull a pair of mugs from the cabinet."
+  },
+  {
+    "message": "I figure I'll bring Noiz some coffee too. That way, I can apologize for what happened yesterday."
+  },
+  {
+    "message": "While preparing the coffee, I hear a door open."
+  },
+  {
+    "message": "...Noiz steps into the den."
+  },
+  {
+    "message": "Suddenly nervous, I stare intently at the hot water pouring into the cups."
+  },
+  {
+    "message": "He walks up to me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Morning.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Morning.\""
+  },
+  {
+    "message": "...He answered. I'm a little relieved."
+  },
+  {
+    "message": "Noiz sits on the couch while I finish with the coffee."
+  },
+  {
+    "message": "When it's done, I set a mug in front of him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I made coffee.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Thanks.\""
+  },
+  {
+    "message": "A surprisingly normal response."
+  },
+  {
+    "message": "...Phew. He doesn't seem mad. At least, not right now.\r\n<p>\r\nAs Noiz brings the cup to his lips, I decide it's time."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...So, um, about yesterday...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Ngh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "Suddenly, Noiz jerks his head back, pressing his hand against his mouth."
+  },
+  {
+    "message": "Did he burn himself?"
+  },
+  {
+    "message": "I run to the bar counter, fill a cup with water, and grab a box of tissues."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sorry, was it too hot? Here, have some water.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I didn't know you were that sensitive. You okay?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...It's no big deal.\""
+  },
+  {
+    "message": "I wipe at the coffee dribbling down Noiz's hand. It's soaked, yet he still has a firm grip on the mug."
+  },
+  {
+    "message": "How can he hold the cup like that if it was hot enough to burn his tongue?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! Go run some water over your hand! It's probably burned.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"My hand? ...Oh.\""
+  },
+  {
+    "message": "Noiz looks at his hand like he only just noticed."
+  },
+  {
+    "message": "His skin is already red and swollen. It hurts just looking at it."
+  },
+  {
+    "message": "I think about dragging him to the sink, but then I remember how he reacted yesterday."
+  },
+  {
+    "message": "Maybe I shouldn't be too forceful..."
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "message": "This hallway is just as white as the first one, but narrower, and utterly without decoration."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I gotta do something here.\""
+  },
+  {
+    "message": "Noiz closes his map and starts walking down the hall."
+  },
+  {
+    "message": "He keeps his eyes on the floor as he walks, like he's looking for something. Suddenly, he stops."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"This is it.\""
+  },
+  {
+    "message": "Noiz points at the wall with his chin, indicating a network panel."
+  },
+  {
+    "message": "Kneeling in front of it, he pulls a cord from his Coil and plugs it into the socket."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What're you doing?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm gonna hack this floor's network.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why here?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"This floor's off-limits. Security's just gonna get tighter from here, so I'm gonna plant a false signal here and freeze the whole floor.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"No matter what we do, from the outside, it'll look like nothing's wrong.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's not gonna last for long, but it should buy us some time.\""
+  },
+  {
+    "message": "Noiz opens his Coil's screen and gets to work."
+  },
+  {
+    "message": "His hands move with unbelievable speed, speed matched only by that of the text streaming down his display, but even then, it takes a fair bit of time."
+  },
+  {
+    "message": "I wait anxiously for him to finish. It's crazy to spend so much time camped out in enemy territory. No denying the kid has balls."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You done yet?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Almost.\""
+  },
+  {
+    "message": "Noiz answers without stopping."
+  },
+  {
+    "message": "Restless, I let my attention wander down the hall... and there, I notice something."
+  },
+  {
+    "message": "Is that...<?>"
+  },
+  {
+    "message": " a dog?"
+  },
+  {
+    "message": "It is. A dog with smooth, black fur, casually walking toward us."
+  },
+  {
+    "message": "Why is there a dog here? Is it someone's Allmate?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Noiz!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm almost done.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, there's...\""
+  },
+  {
+    "message": "I trail off, realizing that I shouldn't distract him."
+  },
+  {
+    "message": "Instead, I open my bag to see what Ren thinks."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, what is that? Why is a dog here?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, run. That machine―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Machine?\""
+  },
+  {
+    "message": "The black dog stops..."
+  },
+  {
+    "message": "And then its mouth opens wide, revealing a long metal tube."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That's a security Allmate. It's armed.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Armed?! Noiz, run!\""
+  },
+  {
+    "message": "Noiz looks up, then starts to dodge to the side."
+  },
+  {
+    "message": "But before he can, a brilliant red light bursts from the dog's mouth."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look out!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oww...!\""
+  },
+  {
+    "message": "I tackle Noiz to the ground just in time."
+  },
+  {
+    "message": "What the hell was that?!"
+  },
+  {
+    "message": "I glance over my shoulder. Where the beam struck, the wall is charred black."
+  },
+  {
+    "message": "My blood turns cold. What would've happened if that had hit one of us?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That was close... Ouch!\""
+  },
+  {
+    "message": "I feel a sharp pain in my side when I try to get up. My shirt is torn, and my skin is burned."
+  },
+  {
+    "message": "The beam must've clipped me when I tackled Noiz."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Worry about <I>that!</i>\""
+  },
+  {
+    "message": "I point frantically at the dog."
+  },
+  {
+    "message": "The metal tube is aimed straight at us. How soon can it fire again?"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Ngh!\""
+  },
+  {
+    "message": "To my utter shock, Noiz charges at the monster."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz!\""
+  },
+  {
+    "message": "As I watch, he pulls a cube from his waist and thrusts it into the dog's mouth."
+  },
+  {
+    "message": "A moment later, clouds of smoke pour from the creature's maw."
+  },
+  {
+    "message": "Its front legs jerk and wobble, and then it collapses."
+  },
+  {
+    "message": "Did he just... clog the barrel with a cube and cause it to backfire?"
+  },
+  {
+    "message": "That was completely insane. If he'd been a second too late..."
+  },
+  {
+    "message": "...He never learns, does he? Still, there's no denying that he saved our asses."
+  }
+]

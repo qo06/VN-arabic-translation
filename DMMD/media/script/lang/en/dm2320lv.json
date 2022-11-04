@@ -1,0 +1,337 @@
+[
+  {
+    "message": "I quickly glance up at Noiz's face, but he's just looking down at me, completely calm."
+  },
+  {
+    "message": "His face is swollen from my punches, too, but he hardly seems to notice."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That... didn't hurt?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz doesn't say a word. His face doesn't betray anything either."
+  },
+  {
+    "message": "Man... He was like this last time, too."
+  },
+  {
+    "message": "He didn't seem to notice when he burned his hand on the coffee."
+  },
+  {
+    "message": "At first, I thought he was just acting tough, or maybe that he had a really high pain tolerance, but <I>this?</I> No one could ignore getting kneed in the balls."
+  },
+  {
+    "message": "Plus, when he was hitting me back, I didn't really feel any anger from him."
+  },
+  {
+    "message": "Normally, I'd expect him to feel rage or something..."
+  },
+  {
+    "message": "But there isn't any of that with Noiz. He never hesitates, either. His behavior is almost... mechanical."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...It doesn't hurt?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...No.\""
+  },
+  {
+    "message": "Noiz glares at me icily."
+  },
+  {
+    "message": "His voice is colder than I've ever heard it before."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Nothing hurts. Not being punched, kicked, stabbed. Nothing.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I don't feel pain.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"At all?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Or much of anything else―except for my tongue. I can feel pressure, I guess, but that's it. It's like being wrapped in a thick layer of rubber.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"That's why I told you I don't need first aid or anything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"My wounds heal fine on their own. That's how I've always handled it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"But you're not like me. You feel pain, don't you? That's why I don't get why you'd do something like that.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Why you'd risk getting hurt to―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's there not to get, dumbass?\""
+  },
+  {
+    "message": "I interrupt Noiz with a light slap across the cheek."
+  },
+  {
+    "message": "At first, I was surprised to hear that he couldn't feel pain."
+  },
+  {
+    "message": "So surprised that it took me some time to understand."
+  },
+  {
+    "message": "But as I listened to Noiz describe it so calmly..."
+  },
+  {
+    "message": "I started to feel... sad."
+  },
+  {
+    "message": "He can't feel pain. Can't <I>understand</I> pain."
+  },
+  {
+    "message": "Because of that, what else can't he understand? "
+  },
+  {
+    "message": "Pain is how people come to understand each other.\r\n<p>\r\nHurting others... being hurt in turn... Through pain, through reflecting on what <I>causes</I> pain, we learn how better to interact, how better to solve our problems."
+  },
+  {
+    "message": "But he can't do that, can he?"
+  },
+  {
+    "message": "Because he can't feel pain, he can't understand the pain of others."
+  },
+  {
+    "message": "That's why my actions are so mysterious to him."
+  },
+  {
+    "message": "Someone helping him purely out of concern, without any ulterior motive..."
+  },
+  {
+    "message": "That's beyond what he can imagine. In his mind, there <I>has</I> to be a reason. No wonder he assumed I was after his body and stuff."
+  },
+  {
+    "message": "It makes him seem almost... childlike."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean, what a stupid thing to say. Even if it doesn't hurt, you still bleed. You can still die.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You don't feel pain, so you don't need help? What kind of dumbass bullshit is that?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're right, I did get hurt when I saved your ass. But I'm glad I did it. A little scratch is nothing compared to that.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"'Cause you'd feel <I>responsible</I> if I died. And it'd make getting to Toue harder.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No. Why are you such a fucking cynic? It's not about who's responsible. I'd have saved you either way.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So you did it 'cause you wanna fuck me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Would you knock it off with that already? That's not why. ...I don't know if I can explain this in a way you'll understand.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I just... wanted to <I>help</I> you. The same reason I bandaged your hand. That's why I knocked you out of the way of that beam.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"That doesn't make sense.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, well, people don't make sense. <i>You</I> might not feel pain, but <I>I</I> don't like seeing you hurt. So I'm gonna help you whether you like it or not.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Are you stupid?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're one to talk.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You're not getting anything out of it. It's just a waste of time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So what? I don't think it's a waste. I guess you could say I <I>am</I> being selfish, since I'm just doing what I want.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What if I tell you to stop?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not a chance. I don't give a shit what you want. I'm doing it no matter <I>how</I> much you complain.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"If that annoys you, then why don't you try considering <I>my</I> feelings for once? Then maybe I'll consider yours.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz goes silent. I quickly grow restless, wondering if I said something strange."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Do you realize what you just said?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Asking me to 'consider your feelings?' I don't think I've ever met a guy who could say shit like that with a straight face.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "...It did sound pretty corny. I turn away, my face suddenly on fire."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You're turning red.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shut up.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...No one's ever tried this hard with me before.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"People always either keep their distance, or try to use me for my body or my money.\""
+  },
+  {
+    "message": "I turn back to him. His voice is softer than before, and where before his expression was flat and robotic, now it is tinged with confusion."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Your money? What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"My parents are loaded.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're rich?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"My parents are. But I never gave a shit about people like that, or anyone else for that matter. So I'd kick their asses, and then I'd get in trouble.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I was always getting in trouble, ever since I was a kid. I can't feel pain, so I don't know when to stop. I kept crossing the line.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So I'd make some kid cry, their parents would yell at my parents, and my parents would tell me what a <I>disappointment</I> I was.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Eventually, they locked me up in my room and told me to stay away from other people.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's awful...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"At least it was a nice room. An apartment, really. I had a tutor, and maids to bring me food and shit.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"No one else came to see me, though, so whenever I got hurt, I dealt with it myself.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"In the beginning, I was so lonely I'd cry myself to sleep, but then I got used to being alone.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I told myself I didn't need anyone. I could take care of myself.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But... that's not true, is it?\""
+  },
+  {
+    "message": "I mean, if I'd grown up in circumstances like his, I'd probably have turned out the same way."
+  },
+  {
+    "message": "Forced to live alone, with no one to call a friend..."
+  },
+  {
+    "message": "Eventually, you'd get used to living like that. You wouldn't even question why."
+  },
+  {
+    "message": "Noiz speaks about it very matter-of-factly now, but he must have suffered horribly when he was a child."
+  },
+  {
+    "message": "After being treated like that by your parents... you'd have to convince yourself you were fine alone just to survive."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Lemme ask you something. If, hypothetically, I were to 'consider your feelings,' what would I get out of it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...First off, you really need to stop treating everything like business. But let's say it is. I'll make sure you're satisfied.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Got anything to back that up?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nah.\""
+  }
+]

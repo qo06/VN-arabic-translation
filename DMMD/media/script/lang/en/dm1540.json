@@ -1,0 +1,39 @@
+[
+  {
+    "name": "紅雀",
+    "message": "\"'Scuse me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Come on in.\""
+  },
+  {
+    "message": "I meet up with Koujaku after work and we head to my house."
+  },
+  {
+    "message": "Granny isn't home, so I grab some leftover ham and fish and throw together some fried rice."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's good.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No match for Granny's, though.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Nah, you've got something special here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Flattery's not gonna get you anywhere, buddy.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I don't flatter.\""
+  },
+  {
+    "message": "We chat as we finish up dinner, then head upstairs."
+  }
+]

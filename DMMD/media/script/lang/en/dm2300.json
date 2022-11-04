@@ -1,0 +1,86 @@
+[
+  {
+    "message": "...But the reprieve is brief."
+  },
+  {
+    "message": "Another dog, just like the first one, appears at the end of the hall."
+  },
+  {
+    "message": "No, not one. Several!"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Tch, more of 'em. Can you run?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Let's find somewhere to hide and wait for them to pass.\""
+  },
+  {
+    "message": "Holding my aching side, I run down the hall beside Noiz."
+  },
+  {
+    "message": "We find a door with a small glass window and peer inside."
+  },
+  {
+    "message": "It looks like a storage room. More importantly, it's empty."
+  },
+  {
+    "message": "We slip into the room and hide ourselves between the neatly organized shelves."
+  },
+  {
+    "message": "Holding our breath, we listen closely for any sound from outside."
+  },
+  {
+    "message": "Amid the tension, I can just barely hear the sound of the dogs' footsteps."
+  },
+  {
+    "message": "The footsteps reach the door... and stop."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "After a few moments, they start again, this time moving away."
+  },
+  {
+    "message": "...Phew..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Haah.\""
+  },
+  {
+    "message": "I let out a heavy sigh of relief."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That was close.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "I look at Noiz. He's staring into space, as if searching for an answer to some question."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...I don't get it.\""
+  },
+  {
+    "message": "He turns to me."
+  },
+  {
+    "message": "His stare is so piercing, I have to shrink back."
+  }
+]

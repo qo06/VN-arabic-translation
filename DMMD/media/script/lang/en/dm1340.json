@@ -1,0 +1,75 @@
+[
+  {
+    "message": "The door is locked with an access panel."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't think our IDs are going to do us any good here.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Wouldn't think so. How about we just smash our way in?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, another message.\""
+  },
+  {
+    "message": "Ren pokes his head out of my bag."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Who's messaging me now? ...Wait. What?\""
+  },
+  {
+    "message": "I try to ignore the message, but my Coil activates on its own and floods the screen with notifications."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, what's going on?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"An unknown process is running.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The key to your heart?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Suddenly, the door in front of us opens."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It just opened. Is it broken?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That message I just got said something about the 'key to your heart'...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I dunno what that's got to do with anything, but an open door's an open door.\""
+  },
+  {
+    "message": "Koujaku glances back at his guys."
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Take the elevator and head for the top floor! We'll be right behind you!\""
+  },
+  {
+    "message": "One of them has a guard pinned. He lifts a hand and waves us on."
+  },
+  {
+    "message": "Koujaku nods back, then we run through the door together."
+  }
+]

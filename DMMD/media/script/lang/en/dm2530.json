@@ -1,0 +1,266 @@
+[
+  {
+    "message": "The door opens and we leave the elevator."
+  },
+  {
+    "message": "The exit isn't far now."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "message": "A thunderous boom shakes the tower. The floor bucks beneath my feet, and cracks open up in the wall right next to us."
+  },
+  {
+    "message": "It's coming down!"
+  },
+  {
+    "message": "I cover my head with my arms, but the weight of falling debris knocks me to the floor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hgh, gah, Noiz...!\""
+  },
+  {
+    "message": "Coughing, the air thick with dust and dirt, I try to push the rubble off me."
+  },
+  {
+    "message": "...That's when I feel something soft touch my head."
+  },
+  {
+    "message": "I reach up with my hand, wondering what it is."
+  },
+  {
+    "message": "No...<K> No, it can't be..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Noiz?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "Noiz is crouched over me, shielding me from the debris."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "message": "After a moment, his strength gives out. He collapses atop me with a groan."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! You okay?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Fuck that hurts... You okay...?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Never mind me! What about you?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Haha... Can't really... tell where it hurts.\""
+  },
+  {
+    "message": "Noiz slips off me to the side. His back and hair are covered with dust, and his clothes are ripped and torn."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey... You sure you're okay? Can you even move?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Fuck if I know... I think... something's broken.\""
+  },
+  {
+    "message": "Noiz holds up a trembling arm."
+  },
+  {
+    "message": "His wrist dangles from the end, bent at an unnatural angle. It almost looks like he's doing it on purpose."
+  },
+  {
+    "message": "An injury like that would be pretty fucking painful for a normal person. For Noiz, who's only just started to feel pain, it must be excruciating."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Ouch...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay! Don't try to move! Fuck, we have to get out of here...\""
+  },
+  {
+    "message": "The tower shakes again."
+  },
+  {
+    "message": "We've gotta get outta here <I>now!</I>"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Just go.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No fucking way, dumbass!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Haha... You literally just said the same thing... Besides, I really can't move...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "The burn on my side still hurts, but that's nothing compared to what Noiz must be going through."
+  },
+  {
+    "message": "My injuries from the rubble are all just scratches. My headache is mostly gone too, so I can move just fine."
+  },
+  {
+    "message": "...Alright."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This might hurt a little.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Huh?! What are you... Hey!\""
+  },
+  {
+    "message": "I slip my arms under Noiz's knees and shoulders and gently lift him up."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Up you go...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What're you doing?! Put me down!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No.\""
+  },
+  {
+    "message": "Though skinny, Noiz is still a grown man. He's not exactly light."
+  },
+  {
+    "message": "But it doesn't bother me. I don't let it."
+  },
+  {
+    "message": "We need to get the hell out of here."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay... Let's go! Hold on tight!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "message": "With Noiz in my arms, I run with all my might. Around us, the shaking grows to a terrifying roar."
+  },
+  {
+    "message": "I leap to avoid the crumbling walls, and fight to keep from stumbling against the buckling floor."
+  },
+  {
+    "message": "The entrance is just in front of us."
+  },
+  {
+    "message": "Almost... there!"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Heh.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's wrong? Does it hurt? We're almost out...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Nah... Haha!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why are you laughing?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's just... so fucking stupid.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm working my ass off here!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Sorry. ...And thanks.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "A burst of energy surges through my limbs. I let it carry me toward the entrance."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "message": "We're just steps away when a light falls from the ceiling."
+  },
+  {
+    "message": "I dodge it, barely, but it blocks our path."
+  },
+  {
+    "message": "I shoulder past it. The exit... is there."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Urrryahhhhhhhh!!!\""
+  },
+  {
+    "message": "The door looks as though it might collapse at any moment, but I dash through to the outside."
+  },
+  {
+    "message": "My momentum keeps me running for a bit, but as soon as I feel that we're safe, I crumple to my knees."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haa, haa, haa, haa..\""
+  },
+  {
+    "message": "I set Noiz gently down on the ground, then fall onto my back."
+  },
+  {
+    "message": "My lungs feel like they're going to explode. Every breath starts a new coughing fit."
+  },
+  {
+    "message": "Moments after we escape the tower, it collapses with a noise like the end of the world."
+  },
+  {
+    "message": "Screams rise from the crowd that has assembled near the base."
+  },
+  {
+    "message": "It's... really over."
+  },
+  {
+    "message": "The two of us lie there, staring in shock at the tower as it falls."
+  }
+]

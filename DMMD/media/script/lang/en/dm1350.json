@@ -1,0 +1,109 @@
+[
+  {
+    "message": "On the other side of the door is a long, white corridor."
+  },
+  {
+    "message": "So this is Oval Tower..."
+  },
+  {
+    "message": "I've heard that the tower has some areas open to the public, but we came in from the staff entrance, so there aren't any visitors in sight."
+  },
+  {
+    "message": "I hear the faint sound of footsteps in the distance. Probably guards on patrol."
+  },
+  {
+    "message": "We make our way cautiously down the hall."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Something doesn't feel right.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah. With all the racket we made out there, why aren't there alarms going off?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Neither of us needs to say it. We're thinking the same thing."
+  },
+  {
+    "message": "What with that door opening on it's own and all...\r\nIt has to be a trap, right?"
+  },
+  {
+    "message": "Still, no turning back now. We keep moving until we see an elevator at the end of the hallway."
+  },
+  {
+    "message": "Two guards are standing next to the elevator. We try to slip into a side corridor to hide before they see us."
+  },
+  {
+    "message": "However..."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Hey! Where did you come from?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Shit.\""
+  },
+  {
+    "message": "Too slow. Footsteps are approaching rapidly."
+  },
+  {
+    "message": "Koujaku and I exchange nods."
+  },
+  {
+    "message": "He runs out into the hall first. I follow."
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Who the― Whoa!\""
+  },
+  {
+    "message": "Koujaku knocks the first guard off his feet."
+  },
+  {
+    "message": "Meanwhile, I kick the other guard down and run for the elevator."
+  },
+  {
+    "message": "I reach out and smack the call button."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Sto―\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You look like you could use a nap!\""
+  },
+  {
+    "message": "As the second guard starts to rise, Koujaku knocks him out with a blow to the back of the head."
+  },
+  {
+    "message": "Then he pulls the sword from his back, sheath and all, and delivers a punishing blow to the first guard's gut."
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Ugh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku!\""
+  },
+  {
+    "message": "The elevator's here."
+  },
+  {
+    "message": "With a shout to Koujaku, I jump inside and hit the button to close the doors."
+  },
+  {
+    "message": "Koujaku slips through just before they shut."
+  }
+]

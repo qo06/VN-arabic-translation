@@ -1,0 +1,225 @@
+[
+  {
+    "message": "With the Oval Tower destroyed, Platinum Jail ceased to function."
+  },
+  {
+    "message": "But thanks to prompt intervention from the mainland, the chaos was quickly resolved."
+  },
+  {
+    "message": "The tower collapsed because of a malfunction in Platinum Jail's central control system. Beyond that, details are scarce."
+  },
+  {
+    "message": "By some miracle, everyone in the tower managed to escape with, at worst, minor injuries."
+  },
+  {
+    "message": "Apparently, they all received a message alerting them before the building's collapse."
+  },
+  {
+    "message": "However, a number of people窶品ncluding Toue himself窶病re still missing."
+  },
+  {
+    "message": "The incident brought Toue's mind control research to light. The Celebration, which was a cover for his largest experiment yet, was canceled.\r\n<p>\r\nIt might have put all of Midorijima under his control."
+  },
+  {
+    "message": "The Toue Corporation's products and services窶品ncluding Allmates窶婦ere transferred to other corporations.\r\n<p>\r\nRhyme, too, changed hands. Usui was replaced."
+  },
+  {
+    "message": "And thus, bit by bit, the shadow of the Toue Corporation was lifted from my town."
+  },
+  {
+    "message": "Now, the people of Midorijima are working hard to return it to its former glory."
+  },
+  {
+    "message": "I haven't seen Noiz since, but I hear rumors of his gang's activities."
+  },
+  {
+    "message": "Clear pops into Hum-Drum Junk on occasion."
+  },
+  {
+    "message": "I haven't heard a word from Mink, but it'd take a lot more than that to put him down."
+  },
+  {
+    "message": "Mizuki regained consciousness. He hasn't been released from the hospital yet, but he always looks so happy when I go to visit."
+  },
+  {
+    "message": "As for me, those awful headaches are gone now. Completely. It's almost like I never had them."
+  },
+  {
+    "message": "The sensation in my hair has started to fade too... together with <I>his</I> presence inside me."
+  },
+  {
+    "message": "I can tell he's still there, but it's kind of like he's sleeping, deep inside my heart."
+  },
+  {
+    "message": "I'd be lying if I said I had no worries at all, but despite everything, things have been shockingly calm since the incident."
+  },
+  {
+    "message": "After the tower collapsed, Koujaku and I, along with the Beni-Shigures, returned to the Old Residential District."
+  },
+  {
+    "message": "Koujaku passed out on the way back and spent some time in the hospital."
+  },
+  {
+    "message": "The tattoo was part of it, but he was mostly just exhausted, physically and mentally."
+  },
+  {
+    "message": "He slept for three days straight, which worried the hell out of me, but once he woke up, he was back to his old self in no time."
+  },
+  {
+    "message": "After that, we slowly got back to our normal routine."
+  },
+  {
+    "message": "And now, about one week later..."
+  },
+  {
+    "message": "I'm sitting behind the counter at Hum-Drum Junk like always."
+  },
+  {
+    "message": "I saw Koujaku the day he was discharged from the hospital, but we haven't gotten together since."
+  },
+  {
+    "message": "I hope he's doing alright."
+  },
+  {
+    "message": "I heard he closed up shop. Is he feeling okay?"
+  },
+  {
+    "message": "Just then, the door opens."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Welcome!\""
+  },
+  {
+    "message": "I take my elbows off the counter and sit up straight."
+  },
+  {
+    "message": "Instead of perusing the shelves, the customer heads straight for the counter."
+  },
+  {
+    "message": "They must want to place an order."
+  },
+  {
+    "message": "But then―"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku!\""
+  },
+  {
+    "message": "I realize that it's Koujaku."
+  },
+  {
+    "message": "He flashes me his familiar smile."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Feels like it's been ages, man. How you doin'?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Y-Yeah, good. How 'bout you?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Good. Completely back to normal.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I heard you closed up shop, though.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh... Well, that's a little, uh... complicated.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "message": "Maybe he isn't quite back to normal after all."
+  },
+  {
+    "message": "For some reason, I feel restless."
+  },
+  {
+    "message": "Maybe it's just because we haven't seen each other in a while, but I get the impression he feels the same."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Anyway, so, you got some time after work?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sure.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I haven't been to your place in a while. Gettin' homesick.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Homesick...? Well, you can come, but Granny's not home today. She said she'd be out late at a council meeting.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Fine by me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You weren't angling to get some of her cooking?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Look, I just wanna talk. About... stuff.\""
+  },
+  {
+    "message": "Koujaku looks me in the eye, seeking confirmation that I understand."
+  },
+  {
+    "message": "Admittedly, I have a pretty good idea what he wants to talk about."
+  },
+  {
+    "message": "We made it back in one piece, and everything's settled down, but..."
+  },
+  {
+    "message": "I mean, so much happened in such a short time."
+  },
+  {
+    "message": "Not just with the island, but also between me and Koujaku."
+  },
+  {
+    "message": "I want to take my time and talk it out with him too."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it. How about I call you when I'm done here?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Cool. I'll be waiting. See ya.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "Koujaku nods and leaves with a wave."
+  },
+  {
+    "message": "...He wants to talk."
+  },
+  {
+    "message": "I lean back on the counter and sigh."
+  },
+  {
+    "message": "It's not like I'm imagining anything specific, but..."
+  },
+  {
+    "message": "For some reason, my heart beats faster."
+  }
+]

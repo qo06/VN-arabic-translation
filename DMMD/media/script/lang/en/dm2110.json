@@ -1,0 +1,217 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I force my heavy eyelids open and blink several times."
+  },
+  {
+    "message": "...What time is it?"
+  },
+  {
+    "message": "I raise my arm to look at the clock on my Coil. It's the middle of the night."
+  },
+  {
+    "message": "I remember sitting down on the couch and falling asleep..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "A dull throbbing fills my head."
+  },
+  {
+    "message": "I feel like I had some kind of dream... but I can't remember it."
+  },
+  {
+    "message": "My throat is dry. I need some water..."
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "When I get up from the couch, I notice Ren is missing."
+  },
+  {
+    "message": "Normally, he always sleeps at my feet."
+  },
+  {
+    "message": "...What was that?"
+  },
+  {
+    "message": "I thought I heard something from the second floor."
+  },
+  {
+    "message": "I go upstairs and find Noiz sitting on a couch."
+  },
+  {
+    "message": "The first area on the second floor is something of a den. In addition to the sofas, it has a TV and a bar."
+  },
+  {
+    "message": "Farther down the hall are doors that I assume lead to bedrooms."
+  },
+  {
+    "message": "Wait... What's Noiz doing?"
+  },
+  {
+    "message": "He must not have noticed me come up the stairs, because he doesn't even glance my way."
+  },
+  {
+    "message": "Maybe he's the kind of person who shuts out the world when he's concentrating."
+  },
+  {
+    "message": "I approach the couch and look over Noiz's shoulder. Instantly, the blood drains from my face."
+  },
+  {
+    "message": "Ren!"
+  },
+  {
+    "message": "Ren is sitting upside down in Noiz's lap, and Noiz has tools in his hands!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell do you think you're doing?!\""
+  },
+  {
+    "message": "Noiz turns around."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Oh, you're up?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What difference does that make?! Let Ren go! Give him back right now!\""
+  },
+  {
+    "message": "I lean over the back of the couch and snatch the blue lump from Noiz's lap."
+  },
+  {
+    "message": "Worried, I immediately start him up. It takes a bit longer than usual, but Ren finally opens his eyes."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You okay? Nothing weird?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"No issues detected.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Phew...\""
+  },
+  {
+    "message": "After I breathe a sigh of relief, I turn to glare at Noiz."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell did you do to Ren?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I didn't do anything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You were obviously up to something.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Sure, but I wasn't trying to fuck with him or anything. Man, there really is something wrong with you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah? What's wrong with me?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Like I said after the last fight, you're way too fucking attached to that Allmate. Grow up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh! Where the hell do you get off...!\""
+  },
+  {
+    "message": "I put Ren down on the floor, walk around the couch and get right in Noiz's face."
+  },
+  {
+    "message": "I can't let him get away with that."
+  },
+  {
+    "message": "I reach for his collar... but then, I see something."
+  },
+  {
+    "message": "...Blood."
+  },
+  {
+    "message": "Blood is dripping from Noiz's fingers."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're hurt?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah. Nicked myself with a tool.\""
+  },
+  {
+    "message": "When I snatched Ren away from him?"
+  },
+  {
+    "message": "I can't think of when else it might've happened. He didn't look hurt when I was watching him before that..."
+  },
+  {
+    "message": "Which means... it's my fault."
+  },
+  {
+    "message": "My anger instantly turns to shame."
+  },
+  {
+    "message": "Even if I didn't do it on purpose, I can't bring myself to hit someone who's injured."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shit, I'm sorry. That was probably my fault. Let me see your hand. We should stop the bleeding fir―\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not fine. Let me see.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm <I>fine.</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Come on...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Don't touch me. I'll do it myself.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz smacks my hand away."
+  },
+  {
+    "message": "As I stand there, staring like an idiot, he gets up and heads down the hall."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey...\""
+  }
+]

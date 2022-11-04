@@ -1,0 +1,85 @@
+[
+  {
+    "message": "We circle the tower until we locate the back door."
+  },
+  {
+    "message": "Two guards are stationed there."
+  },
+  {
+    "message": "We'll need to observe them for a while, find a chance to slip by窶賓r at least, that's <I>my</I> plan. But the second we arrive, Noiz charges the gate."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz!\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Ugh!\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Wah!\""
+  },
+  {
+    "message": "In the blink of an eye, he lays both guards out cold."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hurry up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you think you're doing?!\""
+  },
+  {
+    "message": "Rushing in like that was insane!"
+  },
+  {
+    "message": "My heart racing, I join Noiz in front of the tower's back entrance."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "After staring at the door for a few seconds, Noiz presents his Coil to the access screen."
+  },
+  {
+    "message": "If the user isn't authorized, it should throw up an error message."
+  },
+  {
+    "message": "However..."
+  },
+  {
+    "message": "The light shifts from red to green, and the door slides open with a hiss."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It opened... But why?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It said so in the message you got earlier. All the doors are open.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then it really is...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...a trap. Yeah.\""
+  },
+  {
+    "message": "A chill crawls up my spine."
+  },
+  {
+    "message": "But... there's no choice."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's go.\""
+  },
+  {
+    "message": "We exchange looks, then enter the tower."
+  }
+]

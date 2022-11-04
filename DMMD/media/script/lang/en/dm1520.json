@@ -1,0 +1,183 @@
+[
+  {
+    "name": "警備Ａ",
+    "message": "\"Hey!\""
+  },
+  {
+    "message": "Guards swarm us from every direction. They must've been waiting to ambush us."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Never a break, huh?\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Outta the way, assholes!\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Coming through!\""
+  },
+  {
+    "message": "Without a moment's hesitation, the Beni-Shigures throw themselves at the guards."
+  },
+  {
+    "message": "Koujaku and I are surrounded too."
+  },
+  {
+    "message": "The floor is shaking and I can hear explosions high above. We're almost out of time."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Stand back, Aoba.\""
+  },
+  {
+    "message": "Koujaku takes a step forward and readies his sword."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Blink and you'll miss it.\""
+  },
+  {
+    "message": "Grinning savagely, Koujaku swings his blade in a wide arc."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Orryyyyaaahhhhhhhhhh!!!\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Woah!\""
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Wha―!\""
+  },
+  {
+    "message": "The broad slash mows down the guards, pushing back those it doesn't knock out."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You guys, move!\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"R-Right, boss!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Uryah!\""
+  },
+  {
+    "message": "As soon as his men disengage with their guards, he swings his sword again."
+  },
+  {
+    "message": "The guards collapse like ragdolls."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Guh!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hell yeah! Clean sweep! Don't worry, you'll live!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I watch, awestruck, as Koujaku mows down the guards with a smile."
+  },
+  {
+    "message": "The guy is just... amazing."
+  },
+  {
+    "message": "Even now, he's still <I>Koujaku,</I> the guy who jumps in without a second thought, who always has your back no matter what."
+  },
+  {
+    "message": "It's just like watching him beat up bullies back when we were kids."
+  },
+  {
+    "message": "He hasn't changed. Not one bit."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Alright!\""
+  },
+  {
+    "message": "Koujaku only stops when not a single guard is standing."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Let's get outta here, guys!\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Right behind you, boss!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah!\""
+  },
+  {
+    "message": "The shaking is getting worse and the explosions are getting closer."
+  },
+  {
+    "message": "We make a beeline for the entrance."
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"We... We made it!\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Sweet air!\""
+  },
+  {
+    "message": "Once we're a good distance away from the tower, we turn around to look."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "The top portion of the tower has collapsed, a plume of black smoke rising into the sky."
+  },
+  {
+    "message": "Even from here, I can see the building shaking."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's not safe here. We should keep running.\""
+  },
+  {
+    "message": "Koujaku leads me away by the arm. I look back over my shoulder."
+  },
+  {
+    "message": "With the collapse of Oval Tower, Platinum Jail is finished. Toue's plans are in ruins."
+  },
+  {
+    "message": "I still don't know why it collapsed, but something... something nags."
+  },
+  {
+    "message": "Those messages from the \"Damsel in Distress.\" That game that seemed to foretell the future."
+  },
+  {
+    "message": "I assumed it was a trap."
+  },
+  {
+    "message": "But what if...<K>\r\nWhat if something in the tower was <I>guiding</I> us all along?"
+  },
+  {
+    "message": "Absurd, I know... but I can't shake the thought."
+  }
+]

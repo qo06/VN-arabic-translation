@@ -1,0 +1,214 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Haah...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "I breathe a sigh of relief as I enter the building, but Noiz just gives me a scowl."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Where do you get off?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I was about to wipe the floor with them until you showed up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Excuse me?\""
+  },
+  {
+    "message": "Anger rises to replace my frustration. There's a difference between being independent and being a selfish asshole."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Listen here. If you get mixed up in some shit, it'll come back to bite us both in the ass. Aren't you supposed to be smart?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guys like that don't let things go. They stick to your ass like glue. Yeah, sure, they're obnoxious, but you know what?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We're already way out of our depth here. We don't need more problems. Let's just stick to the mission, got it?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz grumpily side-eyes me."
+  },
+  {
+    "message": "Does the fact that he's not arguing mean that I got through to him?"
+  },
+  {
+    "message": "I look at Noiz again, and my eyes go wide."
+  },
+  {
+    "message": "His hand is bright red."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! You're hurt again! There's blood everywhere!\""
+  },
+  {
+    "message": "I reach for his hand, but he smacks me away."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Don't touch me.\""
+  },
+  {
+    "message": "Noiz glares at me icily."
+  },
+  {
+    "message": "What is <I>wrong</I> with him..."
+  },
+  {
+    "message": "He acted the same way after the incident with the coffee. Why does he have such a violent reaction to being touched?"
+  },
+  {
+    "message": "For a guy who seems indifferent to everything, it's strange. Is he some kind of germaphobe?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Come on. We have to at least stop the bleeding.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You want it to get worse? Let me look at it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I said it's fi―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let me see.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Let go.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No.\""
+  },
+  {
+    "message": "There's no use trying to convince him, so I grab his arm and pull it toward me."
+  },
+  {
+    "message": "I know if I don't press the issue, the wound will just go untreated."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"If it really bothers you, then hit me.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz seems pretty upset, but he eventually stops struggling and looks away."
+  },
+  {
+    "message": "The injury is worse than I'd thought. The whole back of his hand is torn up."
+  },
+  {
+    "message": "One of those yakuza must've gotten him with a knife or something."
+  },
+  {
+    "message": "Actually, what about his injury from yesterday? I surreptitiously check his fingertips."
+  },
+  {
+    "message": "He has a red line running down his middle finger, but it doesn't seem that bad."
+  },
+  {
+    "message": "Phew..."
+  },
+  {
+    "message": "It was weighing on me a lot, since I basically caused that injury, so it's a relief to see it isn't that bad."
+  },
+  {
+    "message": "...That's when I realize that I need supplies to treat his hand."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Stay put. I'll be right back.\""
+  },
+  {
+    "message": "I release his hand, go to the bar, and start going through the drawers one by one."
+  },
+  {
+    "message": "After pulling out several drawers, I find one that's empty except for a first aid kit."
+  },
+  {
+    "message": "It's one of those types that come in a little vinyl pack with bandages, disinfectant wipes, and different sizes of band-aids."
+  },
+  {
+    "message": "Good enough. I grab the kit and return to Noiz."
+  },
+  {
+    "message": "When I take his arm again, Noiz gives me a look of disgust."
+  },
+  {
+    "message": "I ignore him and take a closer look at his wound."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Man, that must really hurt.\""
+  },
+  {
+    "message": "I wipe away the blood with a tissue. Just looking at it makes me wince."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This might sting a little.\""
+  },
+  {
+    "message": "I gently wipe the wound with a disinfectant sheet, knowing that it'll sting no matter how careful I am."
+  },
+  {
+    "message": "I watch Noiz's face, trying to gauge how much it hurts."
+  },
+  {
+    "message": "...Huh? He seems totally fine."
+  },
+  {
+    "message": "Does it <I>not</I> hurt? Or is he faking it out of some weird sense of pride?"
+  },
+  {
+    "message": "If it's the latter, I have to hand it to him. That's some impressive willpower."
+  },
+  {
+    "message": "In any case, I finish up and cover the wound with the biggest band-aid I have."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There, finished.\""
+  },
+  {
+    "message": "Noiz takes back his hand, glaring like an angry child."
+  },
+  {
+    "message": "I'm just glad I got his wound treated this time."
+  }
+]

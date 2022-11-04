@@ -1,0 +1,51 @@
+[
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"The elevator's stopped! Over here! Take the stairs!\""
+  },
+  {
+    "message": "We run for the stairs."
+  },
+  {
+    "message": "My headache has mostly faded, so I no longer need Koujaku's support."
+  },
+  {
+    "message": "We leap down the stairs a flight at a time, alarms blaring in our ears."
+  },
+  {
+    "message": "I don't know how far there is to go. We'll just have to keep running until we make it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haa... haa... haa....\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Guh...\""
+  },
+  {
+    "message": "My body is at its limit. If I stop for even a moment, I know I won't move again."
+  },
+  {
+    "message": "But at the same time, I feel like I could keep running forever."
+  },
+  {
+    "message": "For as long as it takes to escape."
+  },
+  {
+    "message": "The endless spiral of the staircase is making me dizzy. No one says a word. There's only the sound of our panting echoing off the walls."
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Haa, hah! Just―one more floor!\""
+  },
+  {
+    "message": "Looking down, I see the staircase end in a hallway."
+  },
+  {
+    "message": "Almost there!"
+  },
+  {
+    "message": "We burst into the hall."
+  }
+]

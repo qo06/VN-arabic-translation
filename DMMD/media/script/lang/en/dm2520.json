@@ -1,0 +1,75 @@
+[
+  {
+    "message": "We exit the room and head down the hall, taking care not to let the tower's shaking knock us off our feet."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You okay? You didn't look too hot in there.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I'm a lot better now. ...Wait, isn't this building about to collapse?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Probably.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Did you do that?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"No, wasn't me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then who...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Beats me... Maybe it's a miracle or something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not much of a miracle if it takes us with it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"That's why we're gonna escape, right?\""
+  },
+  {
+    "message": "We walk along, supporting each other, until we reach a small elevator at the end of the corridor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, look.\""
+  },
+  {
+    "message": "We try pushing the call button."
+  },
+  {
+    "message": "...The door opens."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Looks like an emergency elevator. Should take us to the bottom.\""
+  },
+  {
+    "message": "We step inside and push the button for the first floor."
+  },
+  {
+    "message": "The elevator begins to descend, shaking along with the tower's vibrations."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I really hope we don't get stuck.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You can say that again.\""
+  },
+  {
+    "message": "Despite our fears, the elevator reaches the first floor without incident."
+  }
+]

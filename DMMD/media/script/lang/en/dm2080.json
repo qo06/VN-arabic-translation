@@ -1,0 +1,113 @@
+[
+  {
+    "message": "Beyond the door is an area that seems composed entirely of massive arcades."
+  },
+  {
+    "message": "The buildings are black, decorated here and there with simple lines and electric lights."
+  },
+  {
+    "message": "It feels unreal, like we're inside a game."
+  },
+  {
+    "message": "Almost everyone we see on the street is our age. At a glance, you wouldn't think they were any different from the guys in the Old Residential District."
+  },
+  {
+    "message": "But looking closer, I realize that they're wearing clothes no one back home would ever be able to afford."
+  },
+  {
+    "message": "Above us, stars sparkle in the sky. Now there's something you can't see in the Old Residential District."
+  },
+  {
+    "message": "Both the weather and the time of day are artificial in Platinum Jail. I've heard it's almost always night inside."
+  },
+  {
+    "message": "Supposedly the idea is to make it feel like a party every day, or make it more relaxing or something..."
+  },
+  {
+    "message": "But the most prominent thing in the sky is the tower窶付he symbol of Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's Oval Tower...\""
+  },
+  {
+    "message": "I've heard the rumors, but this is my first time seeing it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This is kinda amazing.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Really? Seems normal to me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not normal...\""
+  },
+  {
+    "message": "While I'm gaping at the sights, Noiz looks as bored as could be."
+  },
+  {
+    "message": "Oh right, wasn't there something else written on the invitation? I still haven't gotten around to reading it."
+  },
+  {
+    "message": "I open it up on my Coil."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There's a map attached.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's a map of Platinum Jail.\""
+  },
+  {
+    "message": "Ren sticks his head out of my bag."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's this mark supposed to mean?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That must be where we're staying.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The invitation comes with a hotel, apparently. Why don't we go check it out?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I guess if you like walking into traps.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "The thought has occurred to me..."
+  },
+  {
+    "message": "But we can't let that stop us. We have to keep going."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We jumped into the trap the second we set foot in Platinum Jail. We've gotta keep moving.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hmph. Well, whatever. Guess I'll tag along.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Suit yourself. Ren, can you give us directions?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "message": "Frustrated with Noiz's arrogant bullshit, I turn my back and start walking."
+  }
+]

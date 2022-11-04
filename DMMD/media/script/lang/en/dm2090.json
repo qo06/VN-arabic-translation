@@ -1,0 +1,269 @@
+[
+  {
+    "message": "Following Ren's instructions, we come to a street lined with extravagant villas."
+  },
+  {
+    "message": "Even here, there's something of a class system. The buildings range from palatial mansions to smaller, but still nice, houses."
+  },
+  {
+    "message": "We're staying in one of the latter, a small two-story building at the end of the block."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess this is it...\""
+  },
+  {
+    "message": "Compared to the other buildings, ours looks a bit older."
+  },
+  {
+    "message": "There's a plate with the word \"GLITTER\" set above the door."
+  },
+  {
+    "message": "The neighboring building has a different word above its door, so I assume it's the building's name."
+  },
+  {
+    "message": "I hold my Coil up to the screen next to the door and turn the old-fashioned doorknob."
+  },
+  {
+    "message": "When I step inside, my eyes go wide."
+  },
+  {
+    "message": "The interior looks just as old-fashioned as the place did from the outside."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's kinda... retro.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...I'm not a fan.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Do I look like a fucking geezer to you?\""
+  },
+  {
+    "message": "Noiz's crude remark draws my attention. I notice that his expression has changed slightly."
+  },
+  {
+    "message": "Is that... disgust?"
+  },
+  {
+    "message": "I feel a twinge of curiosity, but decide to ignore it and check out the house."
+  },
+  {
+    "message": "The first floor has a large clock and lots of expensive-looking furniture. There are stairs heading up to the second floor in the back."
+  },
+  {
+    "message": "Noiz plops down on the couch while I'm looking around."
+  },
+  {
+    "message": "And then, he suddenly holds out his hand."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Gimme your Coil.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hand it over.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So I can figure out who sent that invitation. It'll make our job a lot easier if it's connected to Toue somehow.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Toue? Why Toue?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"He owns Platinum Jail. Good chance he was the one pulling the strings to get you here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "He does have a point, but I'm still not sure I can trust him."
+  },
+  {
+    "message": "Couldn't he just be using this as an excuse to steal my data?"
+  },
+  {
+    "message": "I mean, that wouldn't be hard for him."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nothing.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What? You think I'm gonna steal your identity or something? Why would I do that? Besides, you think I need your Coil for that?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You little...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Just give it up already.\""
+  },
+  {
+    "message": "Overwhelmed by his brazen attitude, I reluctantly toss Noiz my Coil."
+  },
+  {
+    "message": "He catches it and hooks it to his own Coil."
+  },
+  {
+    "message": "Then he starts tapping away with incredible speed, eyes easily following the torrent of data on his screen."
+  },
+  {
+    "message": "...Damn."
+  },
+  {
+    "message": "I like to think I'm reasonably competent with tech, but I'm nowhere near his level."
+  },
+  {
+    "message": "The look of intense concentration on his face gives him this impenetrable aura..."
+  },
+  {
+    "message": "I watch him, secretly impressed, for a while... until suddenly, he stops."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...I don't believe this shit.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Something wrong?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I keep getting errors, no matter what I try. I've never seen <I>government</I> networks locked up this tight. I dunno if it's Toue we're dealing with...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"But whoever it is is blacker than black. It might really be a trap.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Seriously?\""
+  },
+  {
+    "message": "But what does that mean?"
+  },
+  {
+    "message": "Noiz throws my Coil back to me."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Well, just be careful. Clearly something's after you. There'll probably be more ganking attempts too.\""
+  },
+  {
+    "message": "Gankings, huh..."
+  },
+  {
+    "message": "I know Noiz was the rabbit-head, but the second one was someone else entirely."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Can anyone do that ganking thing?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's a piece of cake if you've got a little knowledge and skill. Anyone could manage it. Even you. ...Actually.\""
+  },
+  {
+    "message": "Noiz stops mid-sentence and examines my face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You didn't know that? I thought you used to battle. Usui only became a thing and started enforcing rules about six, seven years ago."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"When you were into Rhyme... What? Ten or so years ago? Ganking was the norm back then.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Fuck if I know. I don't remember any of that.\""
+  },
+  {
+    "message": "Noiz closes his mouth and glares at me."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm sick of looking at that slack-jawed expression of yours. Like you don't get a fucking thing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Excuse me?!\""
+  },
+  {
+    "message": "Noiz gets up and heads upstairs without another word."
+  },
+  {
+    "message": "I'm so taken aback that I just watch him walk off."
+  },
+  {
+    "message": "...But as time passes, I start to feel pissed off."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I sure as hell don't get <I>him,</I> that's for sure.\""
+  },
+  {
+    "message": "Frustrated, I throw myself onto the couch and take Ren out of my bag."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where's he get off looking down on me, huh? It's like the guy has no self-control at all. Doesn't think about anyone but himself.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I do agree that his intentions are difficult to grasp.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Right? I dunno, maybe I'm the problem or something, but I wish he'd be a little more considerate, y'know?\""
+  },
+  {
+    "message": "While complaining, I start to feel myself sinking into the cushions."
+  },
+  {
+    "message": "The couch is so comfortable... I'm getting sleepy."
+  },
+  {
+    "message": "Come to think of it, I've been running basically non-stop since we left the Old Residential District..."
+  },
+  {
+    "message": "I should get some rest..."
+  },
+  {
+    "message": "So tired..."
+  },
+  {
+    "message": "Unable to fight the drowsiness that's crept up on me, I slowly close my eyes."
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "name": "ノイズ",
+    "message": "\"Let go.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh shut up. Move your legs, not your mouth! Move!\""
+  },
+  {
+    "message": "I drag Noiz out of the room and toward the stairs."
+  },
+  {
+    "message": "But just as we reach the top of the staircase―"
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Hey, assholes!\""
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"We know you're here! Get your asses out where we can see 'em!\""
+  },
+  {
+    "message": "The door bursts open with a splintering of wood, then several men barge in."
+  },
+  {
+    "message": "...Wait. Are these the same guys Noiz was fighting yesterday?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess I should say I told you so.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Who are they?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The guys you punched out yesterday.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Huh. They don't know when to quit.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's what I said...\""
+  },
+  {
+    "message": "Trying to stay out of sight, I peer over the railing into the lobby. "
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"We going down?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"They'll just grab us if we do. We should try to take 'em by surprise or something.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm gonna need your help. Okay... Go!\""
+  },
+  {
+    "message": "We dash down the stairs together."
+  },
+  {
+    "message": "A few steps from the bottom, I grab the handrail and launch myself forward."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uryah!\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Gaah?!\""
+  },
+  {
+    "message": "I slam my knee into the face of the guy at the front of the group. He falls on his back, pinning one of his men under him."
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"Ngh! Motherfucker!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hah!\""
+  },
+  {
+    "message": "Just as I'm about to kick the guy charging me, Noiz jumps in and knocks him out with one brass-knuckled punch."
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"Ugh!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What a pain in the ass. Let's get outta here already.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This is all your fault, you know!\""
+  },
+  {
+    "message": "Anyway, first things first!"
+  },
+  {
+    "message": "Working together, we start to carve an escape route."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Orrryah!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "チンピラＣ",
+    "message": "\"Geh! Shit...!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Tch.\""
+  },
+  {
+    "message": "But before we've made much progress, we hear sirens and loud footsteps approaching."
+  },
+  {
+    "name": "警官Ａ",
+    "message": "\"Hey! What are you doing?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Goddammit! Noiz, let's get out of here!\""
+  },
+  {
+    "name": "チンピラＣ",
+    "message": "\"Get back here!\""
+  },
+  {
+    "message": "We charge past the gangsters―they don't know when to quit!―and dash out the front door."
+  }
+]

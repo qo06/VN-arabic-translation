@@ -1,0 +1,254 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...Guh!\""
+  },
+  {
+    "message": "My head...!"
+  },
+  {
+    "message": "No! Not now!"
+  },
+  {
+    "message": "I... have to stop Koujaku..."
+  },
+  {
+    "message": "Koujaku..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Calm down!\""
+  },
+  {
+    "message": "Pushing through the pain, I manage to get out a cry that stops Koujaku cold."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "message": "Slowly, Koujaku turns. I can tell from his expression that his anger has subsided."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Relieved, I collapse onto the futon. Koujaku races to support me."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I should be asking you that.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I'm...\""
+  },
+  {
+    "message": "Koujaku pauses and lets his eyes wander around the room."
+  },
+  {
+    "message": "Based on what I heard... Ryuuhou was the one who did Koujaku's tattoos."
+  },
+  {
+    "message": "I don't know if it's related, but Koujaku seems to truly hate Ryuuhou, enough to lose his mind."
+  },
+  {
+    "message": "Why <I>did</I> Ryuuhou tattoo Koujaku?"
+  },
+  {
+    "message": "And <I>why</I> does Koujaku hate him so?"
+  },
+  {
+    "message": "It feels like it should all connect somehow... but I just can't put it together."
+  },
+  {
+    "message": "Koujaku is silent for a moment before looking up at me."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...First, I have to apologize. I'm sorry. And... for what I did yesterday, too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Koujaku!\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Are you alright?!\""
+  },
+  {
+    "message": "Suddenly, the door bursts open and two men enter, shouting."
+  },
+  {
+    "message": "Koujaku smiles at the sight of them."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You took your sweet time.\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Sorry!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "They're Beni-Shigure members. As I watch, several more file in behind them."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How did you guys get in here?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Cop who owes us a favor got them in.\""
+  },
+  {
+    "message": "I remember hearing that Beni-Shigure had police contacts. So that's how they got in..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Toue's having that event soon, remember? They've been recruiting cops for extra security.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"These guys snuck in as new recruits. It's just for the event, so no one's looking too closely.\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Easy for you to say. I was scared shitless they'd make us.\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Seriously, dude! Every time they asked for ID, I felt like my heart was gonna stop.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Haha. Well, it all worked out, right?\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Guess so!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"But man, that asshole sure runs fast...\""
+  },
+  {
+    "message": "He must mean Ryuuhou."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So he really didn't do anything to you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Good... Where the hell could he have gone?\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Wait, you mean the guy in the kimono?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Then the guys outside are already after him! I got word they saw this guy in a kimono fleeing the scene. Thought he was shady as hell, so they followed him.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Good thinking.\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"Hehe.\""
+  },
+  {
+    "message": "That's Beni-Shigure for you. They're known for their teamwork."
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"We should hear from them later. The rest of the guys are chilling in a warehouse. The cop gave us the code for the back entrance.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Got it. Let's head there. I don't wanna waste any more time in this shithole.\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Got it, boss!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba, we need to move. Think you can make it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Up you go.\""
+  },
+  {
+    "message": "Koujaku puts an arm beneath my shoulder and helps me up."
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"You okay? Lemme help!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sorry, guys.\""
+  },
+  {
+    "message": "One of Koujaku's guys takes my other shoulder."
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"I got your bag and your Allmate!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"No problem! I love dogs!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Arf arf!\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Ahaha!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Okay, let's get outta here.\""
+  },
+  {
+    "message": "Ryuuhou's drug hasn't worn off yet, but at least these guys are here to help."
+  },
+  {
+    "message": "Together, we leave the club behind."
+  }
+]

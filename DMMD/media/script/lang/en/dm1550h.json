@@ -1,0 +1,520 @@
+[
+  {
+    "message": "Ren is sleeping curled up on his favorite cushion in the corner."
+  },
+  {
+    "message": "Koujaku heads straight for the balcony, probably for a smoke."
+  },
+  {
+    "message": "I reach for the ashtray, but Koujaku suddenly stops and turns around."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not gonna smoke?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I'm good for today.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah?\""
+  },
+  {
+    "message": "Not in the mood?"
+  },
+  {
+    "message": "I sit down on the bed, and Koujaku takes a seat next to me."
+  },
+  {
+    "message": "What's going on?"
+  },
+  {
+    "message": "I thought he was going to start shooting the shit like he always does, but he just sits there, staring at his feet."
+  },
+  {
+    "message": "I look down, thinking there might be something wrong with the floor, but nope. Same as ever."
+  },
+  {
+    "message": "...Man, what is with this atmosphere? It's stifling."
+  },
+  {
+    "message": "I glance up at him as the awkward silence continues."
+  },
+  {
+    "message": "Am I just imagining it, or is he sitting farther away than usual?"
+  },
+  {
+    "message": "I tell myself I'm overthinking it, but the more time passes, the more restless I become."
+  },
+  {
+    "message": "...Why isn't he <I>saying</I> anything?"
+  },
+  {
+    "message": "Is he about to broach some really heavy subject?"
+  },
+  {
+    "message": "I just wish he'd hurry up with it. The suspense is bad for my heart."
+  },
+  {
+    "message": "...Fine. If he's not gonna say something, I will."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"H-Hey―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "Again, silence. That was awkward."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Sorry. Go ahead.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh. Well, I, uh... You want something to drink?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, no. I'm fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Silence."
+  },
+  {
+    "message": "Now what?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...So, um, maybe I'm just imagining it or something, but aren't you sitting kinda far away?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Far away?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean... look.\""
+  },
+  {
+    "message": "I indicate the sizeable distance between the two of us."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Huh? Oh. No reason.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Oh.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "What is this?"
+  },
+  {
+    "message": "What... <I>is</I> this?"
+  },
+  {
+    "message": "He's making <i>me</i> look like the weird one here."
+  },
+  {
+    "message": "...I've had enough."
+  },
+  {
+    "message": "I get up and reseat myself closer to Koujaku."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Yo.\""
+  },
+  {
+    "message": "Koujaku greets me for some reason, then turns away."
+  },
+  {
+    "message": "Seriously, what the fuck is going on here?"
+  },
+  {
+    "message": "Just as I'm starting to get angry, Koujaku mutters something under his breath."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Um, sorry.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"For everything...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, no, it's fine... really.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Everything is so tense, not unlike the buildup to a fight. My heart is pounding. I want to run."
+  },
+  {
+    "message": "Suddenly, Koujaku looks at me. His expression is dead serious."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Mind if I talk about something?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's about what happened in Platinum Jail, so I dunno. Maybe you don't wanna remember.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...It's fine.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "Koujaku lets out a sigh of relief."
+  },
+  {
+    "message": "Honestly, I've been wanting to talk about that too."
+  },
+  {
+    "message": "So I sit there quietly, waiting for him to speak."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So, after I found out Ryuuhou was there, I was ready to chase that bastard to the ends of the earth. But I also didn't want to drag anyone else into my shit.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Not the guys, and not you. But... turns out I couldn't handle it on my own after all.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"And it's like, you know. Man, this is fucking embarrassing, but... remember how I said that when we were kids, your smile always gave me strength?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"After I came back to the island and saw you again, I made a promise to myself: that I would never hurt anyone ever again, and also...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That no matter what, I'd always protect you. ...But I ended up betraying you instead. I still feel awful about it.\""
+  },
+  {
+    "message": "Koujaku looks at his feet. I, meanwhile, can't hide my surprise."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I never knew.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I never knew you felt that way about me.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well, of course you didn't. I never told you. I was never gonna tell you either.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I thought you were hiding things from me... Sorry, man. I was a real dick.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't beat yourself up about that. We both know what was going on now.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "<4line><voice name='紅雀' class='紅雀' src='voice/dm15/5000410a02'>\r\n\"And then, there was when you went into my head. When I try to remember it now, it feels kinda like a dream, but it made me remember what it was like back then.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"We would talk and play, even fight sometimes. We weren't together for all that long, but I wouldn't give those memories up for anything in the world.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You had a dream about when we were kids too, right? Probably just a coincidence, but still, pretty cool, huh?\""
+  },
+  {
+    "message": "Koujaku flashes his familiar smile. My cheeks loosen, following his lead."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I thought things'd be totally different now that we're grown-up, but nah. We're the same. Just like we were when we were kids.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, not a damn thing's changed, huh? We're still the same little shits we were back then.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...So. I've been thinking about everything that's happened since I came back.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh-huh.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"And, uh, I realized this whole time, I haven't been able to get you outta my head.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Um, I'm sure you don't even want to think about it, but remember when I lost my shit at Glitter?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I barely remember what happened, and I feel really bad about that, but... there was one thing that stuck with me.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I remember thinking... I didn't want it to be like that. I didn't want to... touch you like that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I mean, I'm normally attracted to women. I like women. I shouldn't want to touch you at all, but like...\""
+  },
+  {
+    "message": "Koujaku fiddles with his bangs and looks away. His ears are starting to get a little red."
+  },
+  {
+    "message": "Man... now <I>I'm</i> getting embarrassed."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've always thought of you as my best bro. I figured that's why I sometimes lose my shit over you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"But ever since Platinum Jail... right up to this very moment, all I've been able to think about is you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"And like, so this happened a little before that, but... that time you fell asleep listening to music? You probably didn't notice... but I walked in on you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"The way you looked, sleeping there... I couldn't get it out of my head. ...Okay, now don't get mad at what I'm about to say.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I guess I thought you looked kinda... hot.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's weird to think about your bro like that, huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What about girls? You're not fooling around anymore?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Not since we got back. Haven't felt like it at all.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"O-Oh...\""
+  },
+  {
+    "message": "How am I supposed to respond?"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...To be honest, I think I figured it out a while ago. I've just... been avoiding it. Trying to pretend I didn't notice.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"We're both guys, and bros, too... I couldn't believe it, so I did my best to ignore the feelings. But it didn't work. They kept coming back.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I guess that means my feelings are so strong, nothing can get rid of them.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Koujaku is still looking away. By now, his ears have turned bright red."
+  },
+  {
+    "message": "...Shit, what do I do?"
+  },
+  {
+    "message": "Things are getting really weird."
+  },
+  {
+    "message": "And I'm pretty sure I know where it's going..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...And, uh.\""
+  },
+  {
+    "message": "When Koujaku slides his hand over mine, my heart practically leaps from my throat."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I guess I, uh... I think I'm in love with you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "My ears and face are probably just as red as Koujaku's. I can feel heat rising from my toes to my head."
+  },
+  {
+    "message": "Koujaku grasps my hand and squeezes tightly."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...I love you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've loved you ever since we were kids.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "A wave of emotion crests inside me, and I let out a shuddering gasp."
+  },
+  {
+    "message": "What do I do? My chest is so tight, I can hardly breathe."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...What about you?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"How do you feel about me?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I...\""
+  },
+  {
+    "message": "I run my tongue over parched lips."
+  },
+  {
+    "message": "How <I>do</I> I feel about Koujaku?"
+  },
+  {
+    "message": "Is he my best friend? Just someone I like hanging out with?"
+  },
+  {
+    "message": "...No."
+  },
+  {
+    "message": "While Koujaku was talking, I reached a conclusion of my own."
+  },
+  {
+    "message": "My heart wouldn't be racing like this if I hadn't."
+  },
+  {
+    "message": "My face... wouldn't be burning like this if I hadn't."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Me too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I feel the same way. I think.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You do?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I've always thought of you as a friend. My best friend, even. But somewhere along the line, it changed. I think... the same way it changed for you...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I think I might love you too.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "He pulls my hand closer, and suddenly his face is inches from mine."
+  },
+  {
+    "message": "I close my eyes... and then our lips touch."
+  },
+  {
+    "message": "An electric sensation courses through my body."
+  },
+  {
+    "message": "If there's a line, we just stepped over it. Our relationship has changed."
+  },
+  {
+    "message": "Now... things will be different."
+  }
+]

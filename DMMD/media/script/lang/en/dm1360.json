@@ -1,0 +1,96 @@
+[
+  {
+    "name": "紅雀",
+    "message": "\"Phew. That was close.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You barely made it. The top floor, right?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "I press the button. The elevator slowly begins to ascend."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey, so, I was thinking.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why'd your guys say the top floor? Is that where Toue is? Or Ryuuhou?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...It's gotta be one of 'em, right? They said they had intel, remember?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "Koujaku looks unsure."
+  },
+  {
+    "message": "I hate to doubt the guys from Beni-Shigure, but I just can't shake the thought."
+  },
+  {
+    "message": "Why <I>did</I> they tell us to go to the top floor?"
+  },
+  {
+    "message": "I mean, it makes sense for the boss to be at the top, so maybe that's all it was."
+  },
+  {
+    "message": "The elevator gradually slows to a stop."
+  },
+  {
+    "message": "The moment the doors begin to open, I tense up, anticipating more guards."
+  },
+  {
+    "message": "...But all we see is another long, white hallway."
+  },
+  {
+    "message": "I check left and right just to be sure, but there's no one lying in wait."
+  },
+  {
+    "message": "Koujaku and I exchange a glance, then start down the hall."
+  },
+  {
+    "message": "After a minute or so, we reach a massive door."
+  },
+  {
+    "message": "We haven't passed any other rooms. This one must take up the entire floor."
+  },
+  {
+    "message": "We stop just before the door."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...They sure are taking their sweet time.\""
+  },
+  {
+    "message": "He must mean his Beni-Shigure guys."
+  },
+  {
+    "message": "They said they'd be right behind us. What happened to them?"
+  },
+  {
+    "message": "Could they have been captured? I hope not."
+  },
+  {
+    "message": "But we can't wait here forever..."
+  },
+  {
+    "message": "Reluctantly, we approach the door."
+  }
+]

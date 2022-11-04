@@ -1,0 +1,79 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Welcome to Platinum Jail, Japan's biggest amusement park, the place where love and dreams come true!\""
+  },
+  {
+    "message": "When the gate opens, we are greeted by cheerful music and the sound of firecrackers. A strange-looking panda totters out to welcome us."
+  },
+  {
+    "message": "Behind it, I see five white doors."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Only the chosen are allowed to enter paradise! Please, enjoy your stay!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What a load of shit.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You can say that again...\""
+  },
+  {
+    "message": "Not at all bothered by our lack of enthusiasm, the panda presses a button on the wall."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Now where, oh where will you two be headed? Let's spin the wheel of fun!\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Oooooh, your destination is the Green Playground! Right this way, if you please!"
+  },
+  {
+    "message": "The panda walks over to the second door from the left."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"It's the playground of your dreams, furnished with the most up-to-date games and attractions! You'll forget what boredom even is! Play your hearts out!\""
+  },
+  {
+    "message": "Annoyed as we were with the panda's little spiel, Noiz and I approach the door."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Please place your ticket or invitation on the authentication screen next to the door!\""
+  },
+  {
+    "message": "I open the invitation on my Coil and approach the screen."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Platinum ID confirmed. Welcome to Platinum Jail, Mr. Seragaki and companion. Admission procedures initiated.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Issuing guest ID to your companion. Please present your companion's Coil.\""
+  },
+  {
+    "message": "Noiz holds his Coil up to the screen."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Confirmed. Guest ID linked. All privileges belong to the Platinum Jail ID.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Please exercise caution, as the guest ID has more restricted privileges in some respects.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"For additional details, please refer to the support section of your invitation card. Enjoy your time in the park.\""
+  }
+]

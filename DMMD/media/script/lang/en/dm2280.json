@@ -1,0 +1,60 @@
+[
+  {
+    "message": "The interior is so white as to be blinding, and has the sterile feel of a hospital."
+  },
+  {
+    "message": "Our reflections glint coldly on the walls and floor, which are polished to a mirror shine."
+  },
+  {
+    "message": "I've heard that part of the tower is open to the public, but we came in through the back entrance, so there aren't any guests around."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Hey.\""
+  },
+  {
+    "message": "As we make our way carefully down the hall, we glimpse a guard walking toward us."
+  },
+  {
+    "message": "We slip into a side hallway and hold our breath."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "After the guard has passed, we quietly return to the hall, keeping an eye on our surroundings."
+  },
+  {
+    "message": "At the end of the hall, we find an elevator."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Let's take it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "Just to be safe, we make sure the guard is far away before making a dash for the elevator."
+  },
+  {
+    "message": "The moment we step into the waiting elevator, Noiz pushes the button for the top floor."
+  },
+  {
+    "message": "The elevator takes off with a jolt."
+  },
+  {
+    "message": "I breathe a small sigh of relief. Too early to relax..."
+  },
+  {
+    "message": "The beeping of a Coil draws my attention. Noiz is looking at a map."
+  },
+  {
+    "message": "I wonder if he has some kind of plan."
+  },
+  {
+    "message": "After some time, the elevator slows to a stop, and the doors open."
+  }
+]

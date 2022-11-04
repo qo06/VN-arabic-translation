@@ -1,0 +1,108 @@
+[
+  {
+    "message": "But..."
+  },
+  {
+    "message": "If I hadn't used the power, then I could never have woken Noiz up."
+  },
+  {
+    "message": "I couldn't have done it alone."
+  },
+  {
+    "message": "That's why... I'm fine with it."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hey...\""
+  },
+  {
+    "message": "Noiz looks at me, worry on his face."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...I guess I kinda messed up, huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What happened to you?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I was looking for something to treat your burn when this guard in a white mask found me. I ran, but he caught me and sang this weird song.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"And then I blacked out.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You... used your power on me, didn't you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"That's why I'm back to normal. Right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but... Ngh.\""
+  },
+  {
+    "message": "The voice! He's still at it?!"
+  },
+  {
+    "message": "My heart is speeding out of control. My entire body is shaking."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh... Uh...\""
+  },
+  {
+    "message": "<center>　――――　DESTROY　――――</center>"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hey, you okay?\""
+  },
+  {
+    "message": "<center>　――――　DESTROY　――――</center>"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Guuh, uaah...\""
+  },
+  {
+    "message": "<center>　――――　DESTROY　――――</center>"
+  },
+  {
+    "message": "<center>　――――　DESTROY　――――</center>"
+  },
+  {
+    "message": "<center>　――――　DESTROY EVERYTHING　――――</center>"
+  },
+  {
+    "message": "<center>　――――　DESTROY!　――――</center>"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hey!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guh, aahhhh...!\""
+  },
+  {
+    "message": "My head...!"
+  }
+]

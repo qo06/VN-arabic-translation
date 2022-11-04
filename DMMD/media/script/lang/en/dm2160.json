@@ -1,0 +1,131 @@
+[
+  {
+    "message": "I thought he might have wandered off to buy something again, but I can't find him at any of the shops."
+  },
+  {
+    "message": "I leave the bustling main street and head down a less populated alley."
+  },
+  {
+    "message": "As I make my way down the alley, I hear shouts from up ahead."
+  },
+  {
+    "message": "There's something happening at the side of the road."
+  },
+  {
+    "message": "A fight? I have a bad feeling about this..."
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Asshole!\""
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"F-Fuck!\""
+  },
+  {
+    "message": "...I knew it."
+  },
+  {
+    "message": "Several men are beating the crap out of each other in the dark, narrow alley."
+  },
+  {
+    "message": "And in the middle of it all... is Noiz."
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Urgh!\""
+  },
+  {
+    "message": "Noiz lands an uppercut on one of the men, who falls on his back with a grunt."
+  },
+  {
+    "message": "There are already two men on the ground, both wearing suits."
+  },
+  {
+    "message": "Unless I'm mistaken, they look like gangsters."
+  },
+  {
+    "message": "...Shit!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz!\""
+  },
+  {
+    "message": "Everyone stops and stares at me."
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"Who the fuck?! You with this guy?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh, well, I guess you could say that.\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Well this little shit went on a fucking rampage. What are you gonna do about this <I>situation,</I> huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look, I'm really sorry. He's just a dumb kid who doesn't know when to stop. ...I'm sorry. I'm really sorry.\""
+  },
+  {
+    "message": "I bow repeatedly while inching closer to Noiz."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sorry. Sorry. I'm really... Run!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "message": "I grab Noiz's arm and make a break for it. I know from experience that the only way to win fights like this is to run."
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"Hey, wait!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Ngh, let go!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shut up and run!\""
+  },
+  {
+    "message": "We break out onto the main street."
+  },
+  {
+    "message": "If we can just disappear in the crowd...!"
+  },
+  {
+    "message": "I slow down and try to blend in with the milling pedestrians."
+  },
+  {
+    "message": "...After walking for a while, I casually turn around to look."
+  },
+  {
+    "message": "No one's following us."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Phew...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\".......\""
+  },
+  {
+    "message": "We made it, somehow... though it was awfully close."
+  },
+  {
+    "message": "What the hell was Noiz thinking?"
+  },
+  {
+    "message": "I drag him all the way back to Glitter."
+  }
+]

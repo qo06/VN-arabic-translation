@@ -1,0 +1,97 @@
+[
+  {
+    "message": "When I get out of the shower, I realize that I'm exhausted. I stagger to my room and collapse on the bed."
+  },
+  {
+    "message": "My eyes drift closed... and the next time I open them, it's late at night."
+  },
+  {
+    "message": "Something is jumping on my back."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba. Wake up. Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hmm... Ren...? I thought you were in sleep mode...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You activated me to talk before you went to sleep. Now, wake up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's the matter? Is your girlfriend Clara here or something?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"This is no time for jokes. The building is surrounded.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "That knocks the sleepiness right out of me. I jump out of bed, then quiet my breathing and listen."
+  },
+  {
+    "message": "...There's something going on outside."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"The details are unclear.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not like there's anyone who knows us in Platinum Jail. We should probably get out of here.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Agreed.\""
+  },
+  {
+    "message": "I get dressed, put Ren in my bag, and head straight to Noiz's room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz!\""
+  },
+  {
+    "message": "Noiz is already out of bed and ready."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I dunno what's going on, but it doesn't look good. Let's get outta here!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "message": "Despite his answer, Noiz doesn't move."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Come on. What are you doing?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What're <I>you</I> doing? Get outta here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'll take care of myself. Why'd you even come over here, huh?\""
+  },
+  {
+    "message": "...This shit again?"
+  }
+]

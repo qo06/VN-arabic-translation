@@ -1,0 +1,343 @@
+[
+  {
+    "message": "When I open the door, Noiz is sitting in bed like always, reading a magazine."
+  },
+  {
+    "message": "He's wearing a typical hospital gown, and his arms and legs are wrapped with white bandages."
+  },
+  {
+    "message": "Aside from that, he looks great."
+  },
+  {
+    "message": "I walk up to the bed, pull a package from my bag, and set it on the side table."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I brought some of Granny's donuts. Enjoy.\""
+  },
+  {
+    "message": "I take off my jacket, set it on the floor with my bag, and sit down on the stool next to the bed."
+  },
+  {
+    "message": "Noiz puts his magazine down on his lap. His gaze wanders restlessly around the room."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Umm...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What, don't want any?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I do, but...\""
+  },
+  {
+    "message": "Noiz's gaze finally rests on me, slightly bashful."
+  },
+  {
+    "message": "He's so much more open than when we first met. It's nice to see."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Here.\""
+  },
+  {
+    "message": "I pull a donut from the bag and offer it to him. He takes it with a reluctant expression."
+  },
+  {
+    "message": "Please, I know you like them.\r\nIt is kind of cute, though."
+  },
+  {
+    "message": "I grab one for myself and sink my teeth in. I missed lunch, so it really hits the spot."
+  },
+  {
+    "message": "Today was much busier at work than usual. We got some new equipment, and customers were fighting to get orders in.\r\n<p>\r\nOn the bright side, we sold out completely."
+  },
+  {
+    "message": "That was good news for the store, so I was glad on that end, but the onslaught of calls and online orders was a huge pain in the ass."
+  },
+  {
+    "message": "Still, it's nice to be busy once in a while."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny invited you for dinner once you're out. I don't think she's gonna take no for an answer.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Sure, I guess.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How much longer?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"The doctor said anywhere from two weeks to a month.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess you can't rush these things, huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Well, I still have a bunch of checkups left.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...How you feeling? Like... pain and stuff.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah, they checked that out too. Looks like I'm pretty much normal now.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's good. Though I guess the needles must've freaked you out a bit, huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Nah. I thought it was kinda cool to feel what it's like to get pricked.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You thought it was cool?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah. ...Mmph.\""
+  },
+  {
+    "message": "Noiz tries to eat the last bite of his donut, but misses and knocks it out of his hand."
+  },
+  {
+    "message": "It rolls down his shirt and settles in his lap."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Man, you're such a kid when it comes to some things.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Shut up. I'm injured.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"One sec.\""
+  },
+  {
+    "message": "I stand up and reach over to collect the piece of donut."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it. ...Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "He grabs my arm just as I'm about to sit down. I look at him, surprised."
+  },
+  {
+    "message": "He looks like he wants to say something."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...I've been thinking... about stuff.\""
+  },
+  {
+    "message": "The words come out of him at a drip, like he has to really think about what he's saying."
+  },
+  {
+    "message": "I wonder why. The atmosphere has changed."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Can I, uh... talk to you about something?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sure.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So, uh... All my life, people treated me like I didn't exist...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Being alone... taking care of myself... seemed like the obvious way to live.\""
+  },
+  {
+    "message": "<4line><voice name='ノイズ' class='ノイズ' src='voice/dm25/5000300a03'>\r\n\"I didn't understand why someone would want to get involved. Everyone who tried to get close to me was after my money, or my body, or just wanted to get off on having someone to look after.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Other people barely existed for me, so when you forced your way in, I couldn't stand it. I didn't understand you at all.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"But you kept doing stuff for me and talking to me. I didn't get it, but I decided to try doing the same for you.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Uh, I guess what I'm trying to say is that you changed me. I think I get it now, what you meant when you said the world's not as awful as I thought.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"If it weren't for you, I'd probably be lying dead somewhere. I wouldn't have cared. I'd be lying if I said I didn't still feel that way a little, but...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Once I learned what pain was, I learned that you can feel pain not just with your body, but with your heart, too... like back there, in the tower.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"When I thought you were gonna die, it was like I couldn't breathe. I thought, better me than you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So that's why I wanted to, uh... thank you. And uh...\""
+  },
+  {
+    "message": "Noiz pauses, biting his lip."
+  },
+  {
+    "message": "My heart is already pounding―I can't believe the things he said―but I anxiously wait for him to continue."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...I want to touch you again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I want to touch you... now that I can feel.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "He slides his hand down my arm and onto the back of my hand."
+  },
+  {
+    "message": "And slowly, gently, he squeezes."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"How 'bout you?\""
+  },
+  {
+    "message": "He gazes straight into my eyes."
+  },
+  {
+    "message": "I..."
+  },
+  {
+    "message": "In the beginning, I thought of Noiz as a reckless weirdo who needed someone to make sure he didn't get himself killed."
+  },
+  {
+    "message": "Then I got to know him. His struggles. His fears. His hidden depths."
+  },
+  {
+    "message": "I realized that despite his age, he was still a child in many ways. He started to seem... cute.<K>\r\nI still think he's cute. "
+  },
+  {
+    "message": "It began as a desire to protect him... but the more I got to know him, the more I <I>wanted</I> to know."
+  },
+  {
+    "message": "I guess you could say... I already have my answer."
+  },
+  {
+    "message": "I turn my hand over in Noiz's grasp and lace my fingers between his."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "Noiz blinks, looking a little surprised."
+  },
+  {
+    "message": "I think my feelings got across..."
+  },
+  {
+    "message": "I feel my face burning up. My hand is starting to sweat, and I can hear my heart pounding."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...That's a yes, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "message": "Noiz pulls my hand to his mouth and kisses it."
+  },
+  {
+    "message": "My shoulders tremble from the sensation, and then he pulls my hand even harder."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Woah!\""
+  },
+  {
+    "message": "I pitch forward, landing right on top of him."
+  },
+  {
+    "message": "I hear the magazine slide to the floor."
+  },
+  {
+    "message": "I look up. Flames smolder in Noiz's eyes."
+  },
+  {
+    "message": "...Wait. He can't be serious."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Y-You mean here? Now?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You don't wanna?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not that I don't want to... It's just, I mean, this is a hospital. What if someone comes in?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"No one comes around at this time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Okay.\""
+  }
+]

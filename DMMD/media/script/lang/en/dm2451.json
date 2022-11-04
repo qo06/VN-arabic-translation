@@ -1,0 +1,51 @@
+[
+  {
+    "message": "縲The world<WAIT time=1000> I<WAIT time=1000> want"
+  },
+  {
+    "message": "縲T<?>"
+  },
+  {
+    "message": "h<?>"
+  },
+  {
+    "message": "e<?>"
+  },
+  {
+    "message": " w<?>"
+  },
+  {
+    "message": "o<?>"
+  },
+  {
+    "message": "r<?>"
+  },
+  {
+    "message": "l<?>"
+  },
+  {
+    "message": "d<?>"
+  },
+  {
+    "message": " I<?>"
+  },
+  {
+    "message": " r<?>"
+  },
+  {
+    "message": "e<?>"
+  },
+  {
+    "message": "a<?>"
+  },
+  {
+    "message": "l<?>"
+  },
+  {
+    "message": "l\r\ny\r\n w\r\na\r\nn\r\nt"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...The world... I really... want... is...\""
+  }
+]

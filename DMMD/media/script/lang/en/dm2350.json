@@ -1,0 +1,93 @@
+[
+  {
+    "message": "...Thirty minutes have passed, and Noiz hasn't returned."
+  },
+  {
+    "message": "...Something's wrong."
+  },
+  {
+    "message": "Something must've happened. Maybe someone caught him."
+  },
+  {
+    "message": "I don't want to be a pessimist, but no matter how competent Noiz is, I can't ignore the possibility."
+  },
+  {
+    "message": "Maybe I should―"
+  },
+  {
+    "message": "\"This is an emergency alert. In five minutes, all hallways will be sealed.\""
+  },
+  {
+    "message": "\"This is a temporary system shutdown. All personnel in the halls, please evacuate immediately. This is an emergency alert.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I don't know what, but something's happening. I have to find Noiz."
+  },
+  {
+    "message": "After glancing at the cube in my hand, I stand up slowly, using the shelf for support."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "The burn on my side hurts like hell. But I can't let that stop me."
+  },
+  {
+    "message": "I open my bag and wake up Ren."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Things are getting kinda ugly. I'm in pretty bad shape too, so I need your help.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are you okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not really, but I'm just gonna have to push through it.\""
+  },
+  {
+    "message": "I leave the room clutching my side, walking as fast as I can manage."
+  },
+  {
+    "message": "Out in the hall, the alarm is even louder."
+  },
+  {
+    "message": "I can hear some kind of rumbling in the distance. Probably the hallways being \"sealed\" or whatever. "
+  },
+  {
+    "message": "Is Noiz even still on this floor?"
+  },
+  {
+    "message": "I put the cube in the palm of my hand and press the eye like Noiz said."
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"You called?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is Noiz on this floor?\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"No.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "message": "I guess I should try heading up for now..."
+  }
+]

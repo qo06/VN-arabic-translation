@@ -1,0 +1,113 @@
+[
+  {
+    "message": "When we reach the tower, we slip around back to the employee entrance."
+  },
+  {
+    "message": "There aren't many visitors around... or much security, just two guards standing by to let vehicles in through the gate."
+  },
+  {
+    "message": "We watch from a nearby alley."
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"We'll crash in and keep security busy while you guys head inside.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You sure about that? They might be packing.\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"This is just what we heard from the cops, but they say the guards here only carry non-lethal so as not to upset the customers.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Okay, but be careful. I need you guys.\""
+  },
+  {
+    "name": "紅雀メンバーＢ",
+    "message": "\"No problem, boss!\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Let's do this!\""
+  },
+  {
+    "message": "The Beni-Shigure guys tear out of the alley and sprint for the gate."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"What the―\""
+  },
+  {
+    "name": "紅雀メンバーＡ",
+    "message": "\"Sorry, boys!\""
+  },
+  {
+    "message": "They pounce on the distracted guards and the scene descends into chaos."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Our turn!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's go!\""
+  },
+  {
+    "message": "Koujaku and I break for the staff entrance."
+  },
+  {
+    "message": "Halfway there, more guards appear to block our way."
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Stop!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Not happening!\""
+  },
+  {
+    "message": "Koujaku blocks the guard's baton with one arm and punches him in the gut."
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Ugh!\""
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Shit! Stop right there!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Woah!\""
+  },
+  {
+    "message": "A guard comes at me. I quickly dodge to the side."
+  },
+  {
+    "message": "He stumbles, and I throw a kick square into his back."
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Guh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How 'bout another?\""
+  },
+  {
+    "message": "I stomp on his back as he lurches forward, knocking him into the pavement."
+  },
+  {
+    "message": "The Beni-Shigure members are going wild around us, climbing on the guards' backs, even picking them up and swinging them around."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "message": "Koujaku calls my name. I join him, and together we run for the entrance."
+  }
+]

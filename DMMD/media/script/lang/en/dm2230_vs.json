@@ -1,0 +1,217 @@
+[
+  {
+    "message": "We run for our lives, dashing down the brilliantly lit street and slipping into a narrow alley.\r\n<p>\r\nSomeone is following us窶付he police or the yakuza, I don't know."
+  },
+  {
+    "message": "Eventually, after we've made several random turns, the footsteps fade."
+  },
+  {
+    "message": "Did we lose them?"
+  },
+  {
+    "message": "Just as I'm about to stop and check―"
+  },
+  {
+    "name": "悪島",
+    "message": "\"HAAAAAAAAAAALT!!!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "message": "Someone jumps out in front of us."
+  },
+  {
+    "message": "I freeze. I can't believe who it is."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Akushima?!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"I HAVE A WARRANT FOR YOUR ARREST, SCUMBAAAAAAAGS!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why are <I>you</I> here?\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"I was transferred to Platinum Jail to take care of you DAMN TERRORIIIIIIIIIIISTS!\""
+  },
+  {
+    "message": "Now here's someone who <I>really</I> doesn't know when to quit. I get ready to make a break for it... but then, I realize something's wrong."
+  },
+  {
+    "message": "He's always been a psycho, but now, while his eyes are wide open to match his smile, they seem vacant and hollow."
+  },
+  {
+    "name": "悪島",
+    "message": "\"DEATH TO CRIMINAL SCUUUUUUUUM!\""
+  },
+  {
+    "message": "Akushima spreads his arms with a dramatic flourish, then aims something at us."
+  },
+  {
+    "message": "What is <I>that?</I> It looks like a giant, modified megaphone..."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!!!\""
+  },
+  {
+    "message": "Suddenly, Noiz knocks me out of the way."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the he―\""
+  },
+  {
+    "message": "Before I can finish, Akushima's megaphone fires what looks like a ball of electricity. It flies past with incredible speed, just grazing the top of my head."
+  },
+  {
+    "message": "What the hell was that?!"
+  },
+  {
+    "message": "I jump up and turn around. The wall behind us―is gone."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah, that's not good.\""
+  },
+  {
+    "message": "Noiz, who ducked with me to avoid the blast, gives Akushima a hard look."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"He's gonna be a pain in the ass if we don't get rid of him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Can we even do that? He's got that weird weapon.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Don't have a choice, do we?\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"DIIIIIIIEEEEEEEEEEEEEE!!!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Here it comes...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Guh―!\""
+  },
+  {
+    "message": "Noiz and I scatter to avoid the second bolt."
+  },
+  {
+    "name": "悪島",
+    "message": "\"YOU'RE NOT GETTING AWAAAAAAAAAAAAY!!!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you kidding me...?!\""
+  },
+  {
+    "message": "One of Akushima's shots hits a wall right next to me, blasting it to pieces."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That was close...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "message": "Suddenly, Noiz charges."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You idiot! Stop!!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"DIIIIIIIIIIIEEEEEEEEEEEEEEEEEE!!!\""
+  },
+  {
+    "message": "Noiz dodges the bolt by a hair and drives his brass knuckles into Akushima's chest."
+  },
+  {
+    "name": "悪島",
+    "message": "\"Gah!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Gahhh!!!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Whoa... Stop it! Hey, Noiz!\""
+  },
+  {
+    "message": "But he ignores me and keeps wailing on Akushima."
+  },
+  {
+    "message": "I'm a little scared by his viciousness. Sure, Akushima's attacks were frightening, but so is <I>this!</I>"
+  },
+  {
+    "message": "At this rate, Noiz is gonna kill him!"
+  },
+  {
+    "message": "Akushima's head dangles from his shoulders, his face a battered mess."
+  },
+  {
+    "message": "Don't tell me he's..."
+  },
+  {
+    "name": "悪島",
+    "message": "\"...Hahahahahahahahahaaa!!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "message": "Suddenly, Akushima starts to laugh, his bloody mouth opening wide."
+  },
+  {
+    "message": "He grabs Noiz's neck with one hand, and with his other, jabs the megaphone into Noiz's stomach."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Ngh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"NOW DIIIIIIIIIIEEEEEEEEE!!!\""
+  },
+  {
+    "message": "Before I can think..."
+  },
+  {
+    "message": "My legs are in motion."
+  },
+  {
+    "message": "The world goes silent. The only sounds I hear are the pounding of my heart and the ringing in my ears."
+  }
+]

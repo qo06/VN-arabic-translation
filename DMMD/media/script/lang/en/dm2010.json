@@ -1,0 +1,71 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...Gah, fuuuck...!\""
+  },
+  {
+    "message": "I run as fast as I can through the alleys, trying to get away."
+  },
+  {
+    "message": "It doesn't take long for me to notice the sound of footsteps following me."
+  },
+  {
+    "message": "A cop?!"
+  },
+  {
+    "message": "The footsteps are drawing closer fast. I try to speed up, but I can't put any distance between us."
+  },
+  {
+    "message": "Shit, he's gonna catch me!"
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...You're not getting away.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz?!\""
+  },
+  {
+    "message": "Instead of a cop, it turns out to be Noiz."
+  },
+  {
+    "message": "I've been running really hard, too, but he isn't even out of breath."
+  },
+  {
+    "message": "He wouldn't have been my first choice... but it's better than being alone."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm running from the cops, not you!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I know that, dumbass!\""
+  },
+  {
+    "message": "Suddenly, Noiz stops."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Woah! Hey!\""
+  },
+  {
+    "message": "He was running ahead of me, so I have to react quickly to avoid smashing into him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...It's coming.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's coming? ...Ngh!\""
+  },
+  {
+    "message": "Suddenly, it feels like the ground gives out beneath my feet.\r\n<p>\r\nWait, isn't this...?!"
+  }
+]

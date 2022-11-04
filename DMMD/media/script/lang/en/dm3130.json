@@ -1,0 +1,145 @@
+[
+  {
+    "message": "Mink already seems familiar with this street. He leads the way to an intimidating, boxy building. There's no sign."
+  },
+  {
+    "message": "When I catch up, he immediately starts toward the building's entrance."
+  },
+  {
+    "name": "用心棒",
+    "message": "\"Excuse me, sir, do you have a membership card?\""
+  },
+  {
+    "message": "A man in a black suit stands at the door, blocking us with one arm."
+  },
+  {
+    "message": "A membership card? Of course not."
+  },
+  {
+    "message": "But Mink pulls a black card from his pocket."
+  },
+  {
+    "message": "The man in the suit takes Mink's card and inspects both sides."
+  },
+  {
+    "name": "用心棒",
+    "message": "\"Welcome, sir. Please hold your Coil up to the screen.\""
+  },
+  {
+    "message": "He indicates the authentication screen next to the door. Mink and I show our Coils in turn."
+  },
+  {
+    "name": "用心棒",
+    "message": "\"...Thank you. Your IDs have been verified. Welcome.\""
+  },
+  {
+    "message": "The man in the black suit gracefully opens the door."
+  },
+  {
+    "message": "I still don't know what's going on, but Mink strides through, cool as ice."
+  },
+  {
+    "message": "The building turns out to be a club of some sort."
+  },
+  {
+    "message": "There's a bar area right inside the door. Customers are standing around, drinking and talking."
+  },
+  {
+    "message": "There's another door farther inside. It must lead to the dance floor. I can feel the bass from here."
+  },
+  {
+    "message": "Why did he drag me here..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why do you have one of those cards?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I bought it from a guard. The original owner didn't need it any more.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why not?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Because he was dead.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...So you were planning to come here all along.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What, you like dancing or something?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"They use photonarcotics at this club.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Photonarcotics... I've heard of those.\""
+  },
+  {
+    "message": "I remember hearing a rumor of some new drug like that back in the Old Residential District."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"They're not like regular drugs. These use light to put your mind in a semi-conscious state.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Supposedly, it's like having a waking dream.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"It doesn't fuck you up like regular drugs.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"But since the gear to make it work is expensive, not many people have access.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"That's what's on the other side of that door. Scared?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Me? Yeah right.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Good.\""
+  },
+  {
+    "message": "Mink smirks for some reason, then heads for the door."
+  },
+  {
+    "message": "...I don't get what his deal is, but I hate the way he treats me like a kid sometimes."
+  },
+  {
+    "message": "After shooting a glare at Mink's massive back, I follow him to the door."
+  },
+  {
+    "message": "There's another black-suited man standing next to this door. Mink whispers something into his ear."
+  },
+  {
+    "message": "The man nods and holds out his right hand."
+  },
+  {
+    "message": "It's hard to tell in the dark, but looking closer, I see another door farther along."
+  },
+  {
+    "message": "Mink heads for that door and I follow."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "message": "These are the only doors in the hallway. Is the whole floor just this one room?"
+  },
+  {
+    "message": "Actually, why isn't there any security? The hall is dead silent."
+  },
+  {
+    "message": "Wouldn't they at least have followed us up?"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink stares at the door for a moment, then silently approaches."
+  }
+]

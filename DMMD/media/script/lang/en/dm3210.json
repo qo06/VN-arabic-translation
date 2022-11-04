@@ -1,0 +1,136 @@
+[
+  {
+    "message": "The warehouse is spacious with high ceilings. It's lined with rows of large wooden crates."
+  },
+  {
+    "message": "The smell of dust is suffocating. Maybe all warehouses are like this, I don't know... but I have to wonder what's being stored here."
+  },
+  {
+    "message": "Several more men appear from the shadows and gather around us."
+  },
+  {
+    "message": "Unless I'm mistaken, these are all members of Mink's gang."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you doing here...?\""
+  },
+  {
+    "message": "Mink's men clearly weren't expecting to see me."
+  },
+  {
+    "message": "They look to Mink for an explanation, but Mink doesn't say a word."
+  },
+  {
+    "message": "Finally, one of them opens his mouth."
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"Mink ordered us here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"He ordered you?\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"All part of Mink's plan. You ain't clued in?\""
+  },
+  {
+    "message": "He has a plan? First I've heard of it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay, clue me in then. What's this plan?\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"...If you don't know, then what the hell are you doing here?\""
+  },
+  {
+    "message": "One of the men finally loses his patience."
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"I dunno where you came from, but I don't like the look of you.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"You look pretty fucking useless to me. Who the fuck do you think you are?\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"If you think you're gonna get our respect just 'cause you're standing next to Mink, you've got another thing comin'.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Yeah, watch your step, boy.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I'm more dumbfounded than angered by their comments."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I'm not here to listen to your bitching.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"...Yes, sir.\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"Sorry...\""
+  },
+  {
+    "message": "Mink's men don't look happy about it, but they shut their mouths."
+  },
+  {
+    "message": "...They seem to really respect Mink."
+  },
+  {
+    "message": "You'd never guess from looking at them...\r\n<p>\r\nStrange as it may sound, I'm impressed."
+  },
+  {
+    "message": "Mink looks at me."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"They're here to carry out the plan.\""
+  },
+  {
+    "message": "The plan..."
+  },
+  {
+    "message": "...Toue, huh?"
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Boss, I hid that thing you asked for. I'll message you the location later.\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"We managed to get a lotta weapons in too. Check it out! We're ready to go.\""
+  },
+  {
+    "message": "One of the guys takes the bag slung over his shoulder and dumps it out on the floor. Guns of varying sizes clatter across the concrete."
+  },
+  {
+    "message": "While the Ribsteez swarm them with whoops of joy, Mink picks one up―some kind of machine gun―and looks it over critically."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Stick to the plan. Contact me if anything changes.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Yes boss! We'll scare the shit outta these rich motherfuckers.\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"Platinum Jail's a fucking joke. Don't worry. We'll wreck their―\""
+  }
+]

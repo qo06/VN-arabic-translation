@@ -1,0 +1,120 @@
+[
+  {
+    "message": "When I wake, it's already past noon."
+  },
+  {
+    "message": "I had to check my Coil for the time. It's always night in Platinum Jail."
+  },
+  {
+    "message": "I get out of bed, turn on Ren, and head out into the hall."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "message": "I can hear voices in the living room."
+  },
+  {
+    "message": "Mink is sitting on the sofa, talking to someone on his Coil. A curl of smoke rises from the pipe in his hand."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Yeah. Got it.\""
+  },
+  {
+    "message": "Mink's conversation happens to end the moment I take a few nervous steps into the room."
+  },
+  {
+    "message": "He looks at me and blows a puff of white smoke."
+  },
+  {
+    "message": "Then he stands and tosses something to me."
+  },
+  {
+    "message": "I barely catch it. It's a bun."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"We're going out.\""
+  },
+  {
+    "message": "So... \"hurry up and eat?\"\r\nI glance from the bun to Mink and back."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Out where?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"On a little errand.\""
+  },
+  {
+    "message": "With that, Mink heads downstairs."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"An errand? What the hell is that supposed to mean...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You'll have to join him to find out.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess you're right...\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"Hurry up before we leave without you.\""
+  },
+  {
+    "message": "Mink's bird does a circle above us before following his master."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I have no idea what's going on.\""
+  },
+  {
+    "message": "After what happened yesterday, I have no idea how to interact with Mink anymore."
+  },
+  {
+    "message": "Yesterday, I... maybe it was just the drugs or something, but I kinda lost my mind."
+  },
+  {
+    "message": "I definitely said and did some insane shit."
+  },
+  {
+    "message": "But why did he go along with it?"
+  },
+  {
+    "message": "He could've knocked me out cold with a single punch."
+  },
+  {
+    "message": "So why didn't he?"
+  },
+  {
+    "message": "...I know he won't answer if I ask."
+  },
+  {
+    "message": "Still, one thing is clear."
+  },
+  {
+    "message": "Mink is after Toue."
+  },
+  {
+    "message": "And since our objectives are the same, it makes sense for me to stick with him."
+  },
+  {
+    "message": "I mean, really, it makes more sense than going it alone."
+  },
+  {
+    "message": "I have to follow him."
+  },
+  {
+    "message": "At least, that's what I tell myself."
+  },
+  {
+    "message": "Cramming the bun in my mouth, I run back to get my things. Then I head downstairs."
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "message": "When we pass through the door, we find ourselves in a world of darkness."
+  },
+  {
+    "message": "I don't mean the lighting. Everything is just <i>dark.</i>"
+  },
+  {
+    "message": "Every building is painted in dark colors, and sports gruesome decor, like chains and barbed wire."
+  },
+  {
+    "message": "The buildings themselves, though, seem quite nice. They're clearly dedicated to the 'darkness' theme here."
+  },
+  {
+    "message": "Most of the people walking around look my age or older."
+  },
+  {
+    "message": "The sky is filled with glittering stars. You'd never see that in the Old Residential District."
+  },
+  {
+    "message": "Both the weather and time of day are artificially controlled in Platinum Jail. Apparently, it's almost always night inside."
+  },
+  {
+    "message": "Supposedly the idea is to make it feel like a party every day, or make it more relaxing or something..."
+  },
+  {
+    "message": "But the most prominent thing in the sky is the tower窶付he symbol of Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's Oval Tower...\""
+  },
+  {
+    "message": "I've heard the rumors, but this is my first time seeing it."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink scans the street, then glares at Oval Tower."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"What exactly does that invitation say?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uhh...\""
+  },
+  {
+    "message": "I pull it up on my Coil."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It has a map.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's a guide to Platinum Jail.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What about this mark?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That must be where we're staying.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Take us there.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay. Ren, I'll let you handle directions.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Roger.\""
+  },
+  {
+    "message": "Following Ren's directions, we head for the spot marked on the map."
+  }
+]

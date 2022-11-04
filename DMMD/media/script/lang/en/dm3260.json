@@ -1,0 +1,147 @@
+[
+  {
+    "message": "After we get back, it's a while before either of us speaks."
+  },
+  {
+    "message": "I don't have the energy to go upstairs, so I just lean against the wall and stare at my feet."
+  },
+  {
+    "message": "Mink sits at the table, puffing away at his pipe."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Do you, uh, think your guys'll be alright?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"It's up to them. Doesn't matter what I think.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But what if they get arrested?!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"If we go back to save them, then we'll all be stuck in jail.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...But!\""
+  },
+  {
+    "message": "It hurts just to speak, so I swallow, coating my dry throat with saliva."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...It was my fault. If I'd done it right, then maybe...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink sets his pipe on the table and strides up to me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guh...!\""
+  },
+  {
+    "message": "Suddenly, his massive hand is around my throat. He slams me into the wall, gazing down at me as I struggle with cold, expressionless eyes."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You never learn, do you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh... Ugh...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Is feeling guilty going to change anything? Don't waste my time with your pointless bullshit.\""
+  },
+  {
+    "message": "<4line><voice name='ミンク' class='ミンク' src='voice/dm32/6000120a05'>\r\n\"Take a long, hard look at reality. When did anyone blame you for what happened? You're just wallowing in your self-important garbage, trying to avoid responsibility for what happens <i>next.</i>\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"It's too late to run.\""
+  },
+  {
+    "message": "With a last hard shake, Mink releases my neck."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hack, hack, ugh, guh, gah...!\""
+  },
+  {
+    "message": "I start coughing violently as soon as my airway is freed, but before I can recover, Mink grabs me by the hair."
+  },
+  {
+    "message": "He tugs my head back hard, so I'm looking right up at him. My nerves scream in agony."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh, guh... Nghh...!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Get your shit together.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"If you can't find the strength, I'll drag it out of you myself. It'll be easier on both of us that way.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the― Ngh, eek, ahh...!\""
+  },
+  {
+    "message": "I feel an intense, sharp pain from my hair, the likes of which I've never felt before."
+  },
+  {
+    "message": "Mink has grabbed ahold of my hair and sunk his teeth into it."
+  },
+  {
+    "message": "The pain is so intense―like he's gnawing through raw nerves―that sweat breaks out all over my body."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Aah! Ngh, ugh, guh...!\""
+  },
+  {
+    "message": "The agony is blinding. All I can see is red."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ahh! That hurts... Let... go... Let go...!\""
+  },
+  {
+    "message": "I want to escape the pain so badly that before I know it, I've punched Mink in the face."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...!\""
+  },
+  {
+    "message": "The pain abruptly stops."
+  },
+  {
+    "message": "When I return to my senses, Mink is glaring at me sidelong."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh!\""
+  },
+  {
+    "message": "His answering punch spins my world around."
+  },
+  {
+    "message": "As I stagger, Mink grabs me by the shoulders and tries to flip me around."
+  }
+]

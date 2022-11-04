@@ -1,0 +1,42 @@
+[
+  {
+    "message": "When I open my eyes, we're back in Toue's white room. Mink is standing next to me."
+  },
+  {
+    "message": "We made it...\r\nBut that was almost too easy."
+  },
+  {
+    "message": "Were those memories all that was holding Mink prisoner?"
+  },
+  {
+    "message": "I thought I caught a glimpse of something deeper..."
+  },
+  {
+    "message": "Although I'm worried about Mink, I take a look around the room."
+  },
+  {
+    "message": "...Toue is gone."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where's Toue? We have to go after him.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...No.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Mink grabs my shoulder."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"We have more important things to do.\""
+  },
+  {
+    "message": "He looks at me. His eyes gleam darkly."
+  }
+]

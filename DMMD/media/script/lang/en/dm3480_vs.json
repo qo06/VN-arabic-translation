@@ -1,0 +1,101 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "White everywhere. Walls, ceiling, and floor, polished to a mirror-finish."
+  },
+  {
+    "message": "We're inside Oval Tower..."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"What the?! Intruders!\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Hey! Stop right there!\""
+  },
+  {
+    "message": "A group of rifle-toting guards appears from down the hall."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Don't fall off.\""
+  },
+  {
+    "message": "With a roar, Mink's bike takes off like a rocket."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wah...!\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Woah!\""
+  },
+  {
+    "message": "Mink slams into the guards blocking our way, then takes off down the hall, wheels screeching against the floor."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Get back here!\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Stop!\""
+  },
+  {
+    "message": "I hear gunfire behind us. I brace for impact, but Mink rocks the bike to evade them."
+  },
+  {
+    "message": "We sweep around corners, making our way deeper into the tower."
+  },
+  {
+    "message": "We lose the guards trying to chase us and head toward a set of stairs at the end of the hall."
+  },
+  {
+    "message": "Wait, stairs?! We're driving up stairs?!"
+  },
+  {
+    "message": "Mink's driving is insane! The bike takes the stairs at an incredible speed. The sounds of squealing brakes and spinning axles merge with gunfire and shouting."
+  },
+  {
+    "message": "I wrap my arms tightly around Mink's waist so I won't fall off."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "The vibrations are relentless as the bike runs up the stairs, but finally we reach the next hallway."
+  },
+  {
+    "message": "Phew..."
+  },
+  {
+    "message": "Relieved, I let my body relax a bit."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What floor are we on?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"The top floor.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Which means...\""
+  },
+  {
+    "message": "Toue's here?"
+  },
+  {
+    "message": "Mink stops the bike at the end of the hallway, in front of a huge set of double doors."
+  },
+  {
+    "message": "Without wasting a second, he jumps off. I follow suit."
+  }
+]

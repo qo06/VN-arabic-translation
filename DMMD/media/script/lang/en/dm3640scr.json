@@ -1,0 +1,204 @@
+[
+  {
+    "message": "On the other side is a square room."
+  },
+  {
+    "message": "It's just as rusty as the warehouse, but there's a shape in the middle, about the size of a person."
+  },
+  {
+    "message": "I realize that the shape is bound with thick, sturdy chains."
+  },
+  {
+    "message": "In the darkness, I approach the shape and peer through one of the gaps between the chains."
+  },
+  {
+    "message": "When I see what's there... my breath catches in my throat."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mink...!\""
+  },
+  {
+    "message": "Beneath the chains is a metal chair. Mink is sitting in it... no, bound to it."
+  },
+  {
+    "message": "His head is lowered, so I can't see his face, but I doubt he could move so much as a finger."
+  },
+  {
+    "message": "I have to get those chains off."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"?!\""
+  },
+  {
+    "message": "The moment my fingers touch the chains, I feel a numbing zap as sparks fly through the air. I quickly pull my hand back."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Fuck!\""
+  },
+  {
+    "message": "One more time...!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Again, the shock forces me back. This isn't going to work."
+  },
+  {
+    "message": "What can I do?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "A thought comes to me."
+  },
+  {
+    "message": "It's <I>rejecting</i> me."
+  },
+  {
+    "message": "I'm inside Mink's head. He controls everything."
+  },
+  {
+    "message": "This Mink, bound from head to toe in chains, is what you might call Mink's \"essence.\""
+  },
+  {
+    "message": "These chains... Mink believes himself <i>trapped.</i>"
+  },
+  {
+    "message": "So first... I have to destroy that belief."
+  },
+  {
+    "message": "I reach out to him again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mink... You can move. Hurry up and get out of there.\""
+  },
+  {
+    "message": "At the sound of my voice, the chain beneath my hand crumbles."
+  },
+  {
+    "message": "I reach for a larger chain further inside."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?!\""
+  },
+  {
+    "message": "This time, when I touch the chain, a plume of smoke shoots out. I jerk my hand back."
+  },
+  {
+    "message": "My fingers are stained reddish brown where they touched the chain."
+  },
+  {
+    "message": "In the blink of an eye, that stain spreads across my hand and starts to climb up my arm."
+  },
+  {
+    "message": "It's rust. The same rust that covers every inch of this space."
+  },
+  {
+    "message": "I scream, shaking my hand frantically."
+  },
+  {
+    "message": "It feels hot, like a burn, but cold at the same time."
+  },
+  {
+    "message": "Mink... You want to keep me out that badly?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Shit...!\""
+  },
+  {
+    "message": "I brace myself and reach out with my other hand."
+  },
+  {
+    "message": "Once again, a cloud of smoke billows out, covering me with rust. At the same time, more chains descend from the ceiling."
+  },
+  {
+    "message": "The chains slam into my rusted arms as they coil around Mink's body."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "And my arms... shatter like glass."
+  },
+  {
+    "message": "I nearly pass out from the pain."
+  },
+  {
+    "message": "My knees give out. Sweat blurs my vision."
+  },
+  {
+    "message": "I know it's not real... but it's too much. Too much!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hnngh...!\""
+  },
+  {
+    "message": "Mink hasn't moved a muscle."
+  },
+  {
+    "message": "Why... \r\nWhy are you pushing me away?"
+  },
+  {
+    "message": "No..."
+  },
+  {
+    "message": "I won't give up. Not now...!"
+  },
+  {
+    "message": "Reject me all you want...\r\nI'm going to destroy you!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh... Ugaaaah...!\""
+  },
+  {
+    "message": "Fighting through the pain, I rise to my feet."
+  },
+  {
+    "message": "My arms are gone. So I'll just have to―"
+  },
+  {
+    "message": "I clamp my jaw around one of the chains."
+  },
+  {
+    "message": "I rear back, trying to tear it away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "More chains lash out, aiming for me."
+  },
+  {
+    "message": "Is there no hope?!"
+  },
+  {
+    "message": "Mink...!"
+  },
+  {
+    "message": "Just then, Mink lifts his head a fraction."
+  },
+  {
+    "message": "And then―"
+  },
+  {
+    "message": "He opens his eyes and looks straight at me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "ミンク",
+    "message": "\"...Hey.\""
+  },
+  {
+    "message": "Someone's calling me..."
+  },
+  {
+    "message": "But... I'm so tired."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Hey, get up.\""
+  },
+  {
+    "message": "I know I should get up."
+  },
+  {
+    "message": "Just..."
+  },
+  {
+    "message": "Just gimme a little longer..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Something jolts me awake."
+  },
+  {
+    "message": "What? What's going on?"
+  },
+  {
+    "message": "I sit up and see Mink standing next to the bed."
+  },
+  {
+    "message": "He just kicked the bedframe..."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Get your ass out of bed. We're leaving.\" "
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "message": "While the light outside hasn't changed, the time on my Coil reads night."
+  },
+  {
+    "message": "As I finish getting ready and put Ren in my bag, the door opens."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"We're heading out.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "message": "I nod and follow Mink."
+  },
+  {
+    "message": "The bird swoops down from the second floor and lands on his shoulder."
+  },
+  {
+    "message": "As soon as we step outside, I turn to see the tip of the tower piercing the starry sky."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Toue's up there, right?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Yeah. He'll be there all through the Celebration.\""
+  },
+  {
+    "message": "We make our way through the bustling city."
+  },
+  {
+    "message": "As the distance between us and the tower shrinks, it looms ever larger in my sight."
+  },
+  {
+    "message": "I assumed we were just going to charge the tower, but Mink leads me down an alley to the side."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"?\""
+  },
+  {
+    "message": "We wind up at a building across the street from the tower."
+  },
+  {
+    "message": "It's fairly tall, but it seems vacant. Maybe it's under maintenance or just there as decoration."
+  },
+  {
+    "message": "Mink heads not for the front door, but the back."
+  },
+  {
+    "message": "The door opens easily when he pulls."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It wasn't locked?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"It was broken.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Broken?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"My guys did it.\""
+  },
+  {
+    "message": "...So this is part of the plan too?"
+  },
+  {
+    "message": "On the other side of the door are a staircase and an elevator. Nothing else."
+  },
+  {
+    "message": "We step into the elevator and Mink presses the button for the top floor."
+  },
+  {
+    "message": "...We're going to the roof?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Neither of us speaks. Only the sound of the motor fills the silence."
+  },
+  {
+    "message": "The elevator slides to a stop and the doors open."
+  },
+  {
+    "message": "Before me is a narrow hall and a door leading to the roof."
+  },
+  {
+    "message": "I guess this lock was broken too. Mink walks briskly up to the door and pushes it open. "
+  }
+]

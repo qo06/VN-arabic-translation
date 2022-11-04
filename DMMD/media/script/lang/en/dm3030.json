@@ -1,0 +1,143 @@
+[
+  {
+    "message": "How far had we run?"
+  },
+  {
+    "message": "Once we're out of the alley, we stop to scan the area."
+  },
+  {
+    "message": "I no longer hear footsteps behind us. Did we lose them?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hah, hah, hah...\""
+  },
+  {
+    "message": "Once I'm sure we're safe for the moment, I lean against a nearby wall to catch my breath."
+  },
+  {
+    "message": "Mink is only slightly out of breath. He keeps a watchful eye on the area."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "message": "Just as I start to feel like I can breathe again, my Coil beeps."
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's a game.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Again?! Why now?!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "It looked like Mink received something too."
+  },
+  {
+    "name": "トリ",
+    "message": "\"Looks like a game to me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Seriously? I got it too.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It appears to autoplay.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh, it's just more cryptic bullshit... and what's this invitation thing?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Invitation?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Didn't you get one?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Show me.\""
+  },
+  {
+    "message": "I show Mink the invitation on my Coil."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So I'm the only one who got it?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Now that's fishy as hell.\""
+  },
+  {
+    "message": "Can't say I don't agree. But there's also something about that game..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I think this game predicted Granny's kidnapping.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You think what?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I told you, didn't I? I got a game like this before. Maybe this one means something too...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Must be a trap. If they knew she was gonna get abducted, they were in on it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "He has a point..."
+  },
+  {
+    "message": "But even if it is a trap, it has to mean something, right? "
+  },
+  {
+    "message": "A cave, a treasure chest, a key, a large door..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...This time it's a message.\""
+  },
+  {
+    "message": "There's an image attached. A map of the Old Residential District."
+  },
+  {
+    "message": "A spot is marked in red, on the left edge of the wall surrounding Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's just catch up with Mr. Haga for now.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"The guy who can get us into Platinum Jail?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "We head for the spot marked on the map to meet up with Mr. Haga."
+  }
+]

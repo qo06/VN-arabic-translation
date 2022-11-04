@@ -1,0 +1,191 @@
+[
+  {
+    "message": "In the hallway, we find the bike on its side where we left it."
+  },
+  {
+    "message": "Mink stands it up and turns the key."
+  },
+  {
+    "message": "But the engine refuses to start."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Shit.\""
+  },
+  {
+    "message": "...Hearing footsteps, I look up. A group of guards has appeared at the end of the corridor."
+  },
+  {
+    "message": "And leading them is..."
+  },
+  {
+    "name": "悪島",
+    "message": "\"Ooooooh my! It REALLY has been a while!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Fuck. You again?\""
+  },
+  {
+    "message": "Mink curses under his breath. But a moment later, his expression changes."
+  },
+  {
+    "message": "Behind the guards... are members of Scratch."
+  },
+  {
+    "message": "They must've taken quite a beating. Their faces are swollen and bruised."
+  },
+  {
+    "name": "悪島",
+    "message": "\"I dunno how the hell you got away last time, but this time, I've got hostages.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Boss... we're so sorry...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Don't recognize any of your cops.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"All shiny and new. None of your dogs here this time.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You really are a stubborn piece of shit. I'm impressed.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Hey, thanks! Too bad I can't say the same. ...Hey.\""
+  },
+  {
+    "message": "On Akushima's signal, the officers aim their guns at Mink's men."
+  },
+  {
+    "name": "悪島",
+    "message": "\"If either of you lifts a <I>finger,</I> they're dead. BANG! BOOM! OVER!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Soooo... you're not gonna move a muscle, right?\""
+  },
+  {
+    "message": "Akushima grins triumphantly."
+  },
+  {
+    "message": "I glance at Mink, asking with my eyes―"
+  },
+  {
+    "message": "\"What do we do?\""
+  },
+  {
+    "message": "Mink keeps his stare fixed on Akushima."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"If we can't move...\""
+  },
+  {
+    "message": "Now he shoots me a glance."
+  },
+  {
+    "message": "I catch his meaning."
+  },
+  {
+    "message": "If we can't move... there's only one thing we <I>can</I> do."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I focus my mind and stare into Akushima's eyes."
+  },
+  {
+    "message": "We have to get out of here, by any means necessary."
+  },
+  {
+    "message": "<I>Any</I> means."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's see <I>you</I> move.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But you can't. You can't take a step... or lift so much as a finger.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"The fuck? You crazy?\""
+  },
+  {
+    "message": "Akushima looks at his men, then at me, a contemptuous smile on his face."
+  },
+  {
+    "message": "I don't need to get all of them. Just a few will be enough."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"None of you can move. Your feet are stuck to the ground. You can't move an inch from where you're standing.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Oh, shut up! I've had enough of your bullshit! You're under arrest!\""
+  },
+  {
+    "message": "Spittle flies from Akushima's mouth. A moment later, he lowers his hips to charge."
+  },
+  {
+    "name": "悪島",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "...And there, he realizes that something's wrong."
+  },
+  {
+    "message": "He looks down at feet. Slowly, his expression changes."
+  },
+  {
+    "name": "悪島",
+    "message": "\"WHAT THE FUUUUUUUUUUUUUUCK?!\""
+  },
+  {
+    "message": "Akushima is stuck―like his feet are frozen in place."
+  },
+  {
+    "message": "As much as his upper body struggles, the soles of his shoes remain planted on the ground."
+  },
+  {
+    "message": "And several of his men, especially those closest to him, are experiencing the same issue."
+  },
+  {
+    "name": "悪島",
+    "message": "\"Hey! Hey! HEY! HEY! What the hell is this―GAH!\""
+  },
+  {
+    "message": "Taking advantage of his confusion, one of Mink's guys headbutts Akushima from behind."
+  },
+  {
+    "message": "Akushima instantly crumples to the floor."
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"We'll take it from here, boss!\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"Toue's upstairs! Go on ahead! We'll finish the plan once we're done here!\""
+  },
+  {
+    "message": "Mink's men start beating the crap out of the immobilized officers."
+  },
+  {
+    "message": "After exchanging a look with his men, Mink turns to me."
+  }
+]

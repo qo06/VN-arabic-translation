@@ -1,0 +1,82 @@
+[
+  {
+    "message": "Toue lifts a hand and snaps his fingers."
+  },
+  {
+    "message": "One of the guards behind him steps forward."
+  },
+  {
+    "name": "東江",
+    "message": "\"I didn't want to have to use force... but I'm afraid you're my last hope. I can't leave empty-handed.\""
+  },
+  {
+    "message": "The guard slowly spreads his arms and takes a deep breath, almost like an opera singer getting ready to perform."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Wait.\""
+  },
+  {
+    "message": "And then, the guard <I>actually</I> starts to sing."
+  },
+  {
+    "message": "A slow and high, yet somehow disquieting melody fills the room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?!\""
+  },
+  {
+    "message": "Pain suddenly flares in my skull."
+  },
+  {
+    "message": "The world spins and the floor feels like it's undulating beneath me. I can barely stand."
+  },
+  {
+    "message": "What's going on?!"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Ngh, this song...\""
+  },
+  {
+    "message": "It's affecting Mink too?! What the hell kind of song is it?!"
+  },
+  {
+    "name": "東江",
+    "message": "\"Heh...\""
+  },
+  {
+    "message": "Toue laughs from behind the singing guard."
+  },
+  {
+    "name": "東江",
+    "message": "\"Time for an experiment. How long can you endure?\""
+  },
+  {
+    "message": "His words seem to twist in the air. His features melt and flow together."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "Can't... hold on..."
+  },
+  {
+    "message": "The song floods my mind, echoing through my head..."
+  },
+  {
+    "message": "I can't think."
+  },
+  {
+    "message": "Through my blurring vision, I see Mink stagger."
+  },
+  {
+    "message": "Mink..."
+  }
+]

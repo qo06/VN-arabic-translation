@@ -1,0 +1,243 @@
+[
+  {
+    "message": "The room is the size of a banquet hall."
+  },
+  {
+    "message": "The moment I see the person standing at its center, I feel my entire body go rigid. "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Toue.\""
+  },
+  {
+    "message": "Toue is there, hands folded calmly behind his back, watching us with a little smile."
+  },
+  {
+    "message": "It's almost like he was waiting for us."
+  },
+  {
+    "message": "He looks just like he did on TV.<K>\r\n...No. It's different seeing him in the flesh."
+  },
+  {
+    "message": "On the outside, he looks like a perfect gentleman, but there's an <I>aura</I> around him, as if he were concealing a set of well-sharpened knives behind that smile."
+  },
+  {
+    "message": "Two masked figures are standing behind him. Those have to be his bodyguards."
+  },
+  {
+    "name": "東江",
+    "message": "\"I always knew you would come to me some day, but I never thought you'd be together. I've been waiting for you, Mink. And you, Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "He knows who I am? And Mink, too?"
+  },
+  {
+    "message": "We've never met before..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How do you know my name?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Oval Tower keeps track of every person who enters Platinum Jail. You included.\""
+  },
+  {
+    "message": "Toue smiles knowingly."
+  },
+  {
+    "message": "When I turn to Mink, I see his face hard with anger―just like when he saw Toue on the screen."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...You piece of shit. You knew exactly what we were up to.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You could've stopped us if you wanted to, but you didn't do a damn thing. Even after we fucked it up.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Naturally. I've been keeping a close eye on you ever since I heard you'd escaped prison.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Then you know why I'm here.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"But of course. Why else would the last remaining survivor of the proud People of the Gods be here?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Now that I finally have the chance, there's something I've wanted to say. I wronged you then, truly. I would like to apologize to you―and your people.\""
+  },
+  {
+    "message": "...Instantly, the air around Mink changes."
+  },
+  {
+    "message": "It's like watching a strong wind fan an ember into a blaze. Now, bloodlust rolls off him in waves."
+  },
+  {
+    "message": "I've never seen such clear emotion on Mink's face before. Is this... this <I>hate...</I> the source of Mink's resolve?"
+  },
+  {
+    "name": "東江",
+    "message": "\"Even if it was in the name of science, it was most unfortunate that we had to sacrifice your people for the experiment.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"But you possessed such <I>extraordinary</I> talents, like the herbal medicines passed down through the generations of your tribe.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"These medicines, when ingested or smoked like tobacco, allowed your people to manipulate their body odor.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"This was intended for healing, of course. But it could also be used to manipulate the mind.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Scent-based mind control. Absolutely fascinating.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"According to rumor, your blood contained such high concentrations of the compound that anyone who drank it would enter a euphoric state.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"And yet, not a single one of you was willing to give up the recipe. You believed it sacred, a gift from your gods.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Your people were so firmly united in their faith, we had no choice but to analyze your blood directly.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"It was essential that we learn how it was made.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "He analyzed their blood..."
+  },
+  {
+    "message": "Earlier, Toue said that he had to sacrifice Mink's people."
+  },
+  {
+    "message": "Is he saying he... killed them to get their blood?"
+  },
+  {
+    "message": "No way...."
+  },
+  {
+    "message": "But if that's what happened... then Mink's rage is no mystery at all."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink is glaring at Toue, his eyes hard and sharp as ice."
+  },
+  {
+    "name": "東江",
+    "message": "\"But ultimately, the effort was for naught. We learned nothing of substance. Even our cutting-edge technology couldn't uncover the secrets of your people.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Nature is truly mysterious. Sometimes it can create miracles that even science cannot explain.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"And now, you are the last survivor. I imagine you know how to create that medicine, don't you?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"And why the fuck would I tell you?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Naturally, I don't expect it to be that easy. Which is why I would like to make a deal with you.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"In exchange for the recipe, I will grant whatever you desire. Assuming it is within my power. What do you say?\""
+  },
+  {
+    "message": "Toue takes a step toward Mink, a glint of challenge in his eyes."
+  },
+  {
+    "message": "Mink doesn't move a muscle."
+  },
+  {
+    "message": "He's angry―I have no doubt about that―but there's a darker, <I>fiercer</I> aura surrounding him now."
+  },
+  {
+    "message": "After a long pause, Mink lets out a little sigh and laughs."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...You want it that badly, huh? I have to say, I'm impressed.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"That's just how much I respect your people. Take it as a token of my admiration, if you will. Surely you can appreciate how I feel.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Controlling people's minds through technology is simple, but a naturally occurring gift? There's no power in the world greater or more sublime.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"What if say I want everything you own?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Well, that would make conducting research and business rather difficult. However, I could arrange for you to acquire wealth and status equivalent to my own.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Ha. I bet.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"...Is that your condition, then? We have a deal?"
+  },
+  {
+    "message": "Toue seems to have taken Mink's smile at face value. But I know better."
+  },
+  {
+    "message": "The next moment, it's gone."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"No deal. What I want is your fucking life.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"...I see.\""
+  },
+  {
+    "message": "Toue nods a few times, the smile still on his lips. His eyes never leave Mink's face."
+  },
+  {
+    "name": "東江",
+    "message": "\"I had a feeling you might say that.\""
+  }
+]

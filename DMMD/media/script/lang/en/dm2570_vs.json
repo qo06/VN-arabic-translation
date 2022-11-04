@@ -1,0 +1,382 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...About time, huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean, there was that whole business with Platinum Jail, plus you got hurt and stuff.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I thought you were gonna give me the runaround.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not a chance. I promised.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But lemme say one thing before we start.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I haven't used my power since I Scrapped you in the tower.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't even know if I can now. That good with you?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Losing to you like that... It fucked with me, y'know? That's why I needed to crush you so bad.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"But I don't feel like that now. Don't care who wins or loses. I just wanna fight you, a real fight, no holding back.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Rhyme... was the one place I could feel alive.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Fight me here, Aoba. Give me everything you've got.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...No problem.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, orders.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's do this!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah. Bring it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"LOSS.\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Set: LOSS!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Roger!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren! Block!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ren. Set: GLORY.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Block.\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Roger!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Counter...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Normally people use buffs. Your moves are totally vanilla.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Spend two turns: upgrade DEMOLITION with DESTRUCTION.\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Set DEMOLITION/DESTRUCTION!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Roger!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Enemy shield at 9%!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Ren's done for. Next hit lands on you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I was just playing last time. Today, it's for real.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I'm gonna crush you.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Your power's the only answer.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...No.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm never using that again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren! GLORY!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Next, HONOR!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Block.\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Shield at 66%!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...My turn.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's over.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Spend two turns: set DEMOLITION/DESTRUCTION.\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Set DEMOLITION/DESTRUCTION!\""
+  },
+  {
+    "name": "ウサギモドキ",
+    "message": "\"Roger!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba...!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guh... Agh...!\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Enemy HP at 32%!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Fuck...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Wow, still alive. But that hit drained your stamina.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"If you order Ren to use his strongest attack, you'll get hit with a blowback for about half the damage, and you don't have enough stamina left.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"If you use a weak attack instead, I'll end you on my next turn.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You're screwed either way.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Who's screwed, dumbass?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Can't admit when someone has you beat?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You said your <I>last</I> attack would end it. But I still haven't lost.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You <I>pulled</I> that punch, and you don't even know it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Because you know what pain is now.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I'm not going easy on you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Because this is nothing compared to real pain!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This is my last attack.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm converting all my HP to attack power. This is it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"If you keep your shield up, you win.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Let's go, Ren.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Understood.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Block!\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Four units lost! Five... six... seven units lost!\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Shield at 44%, 32%... falling!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh, guh, uuh...!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, danger!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Hey! Doesn't that hurt?! Stop!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm not gonna stop. I'm never... gonna stop...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Shit!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You think I <I>like</I> watching you hurt yourself?!\""
+  },
+  {
+    "name": "ウサギモドキリーダー",
+    "message": "\"Dropping shields?! Really?!\""
+  }
+]

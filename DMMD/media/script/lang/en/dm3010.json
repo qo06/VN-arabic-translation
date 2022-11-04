@@ -1,0 +1,38 @@
+[
+  {
+    "message": "I run as fast as I can through the alleys, trying to get away."
+  },
+  {
+    "message": "After turning my dozenth corner, I run smack into a wall of flesh."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "A cop?!"
+  },
+  {
+    "message": "No, it's..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mink!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"With me.\""
+  },
+  {
+    "message": "Mink grabs my arm and starts running."
+  },
+  {
+    "message": "For a moment, I'm not sure if I should follow."
+  },
+  {
+    "message": "But wary of Mink as I am, I don't really have time to think."
+  },
+  {
+    "message": "I fall in behind him, and together, we run."
+  }
+]

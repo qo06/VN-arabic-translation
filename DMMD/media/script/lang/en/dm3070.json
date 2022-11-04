@@ -1,0 +1,122 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "When the gate opens, we are greeted by cheerful music and the sound of firecrackers."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Welcome to Platinum Jail, Japan's biggest amusement park, the place where love and dreams come true!\""
+  },
+  {
+    "message": "A weird-looking panda totters out to greet us."
+  },
+  {
+    "message": "I see five white doors behind it."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Only the chosen are allowed to enter paradise! Please, enjoy your stay!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Paradise?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"What a load of shit.\""
+  },
+  {
+    "message": "Not at all bothered by our lack of enthusiasm, the panda cheerfully pushes a button on the wall."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Now where, oh where will you two be headed? Let's spin the wheel of fun!\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Oh my! You two will be going to Black Valley! Right this way!\""
+  },
+  {
+    "message": "The panda totters over to the second door from the right, then starts throwing punches and kicks at the air."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"This is a dangerous area for those of you looking for a little 'adult' excitement!\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"It'll be a heart-pounding adventure. You'll never know what's going to happen next! I do hope it meets your expectations! Enjoy!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Talk about obnoxious...\""
+  },
+  {
+    "message": "Mink ignores me. He's staring at, no through the panda, right through to the screen behind it."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Like moths to a flame.\""
+  },
+  {
+    "message": "Mink murmurs under his breath."
+  },
+  {
+    "message": "He's not wrong. If this is a trap, we're leaping right in."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Please place your ticket or invitation on the authentication screen next to the door!\""
+  },
+  {
+    "message": "The authentication screen next to the door lights up."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Invitation...\""
+  },
+  {
+    "message": "I open the invitation on my Coil and approach the screen."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Platinum ID confirmed. Welcome to Platinum Jail, Mr. Seragaki and companion. Admission procedures initiated.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Issuing guest ID to your companion. Please present your companion's Coil.\""
+  },
+  {
+    "message": "Mink holds his Coil up to the screen."
+  },
+  {
+    "message": "Mink's a fugitive... Is this going to work?"
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Confirmed. Guest ID linked. All privileges belong to the Platinum Jail ID.\""
+  },
+  {
+    "message": "Despite my concerns, Mink's ID is confirmed without issue."
+  },
+  {
+    "message": "But why? Is Platinum Jail's security that lax?"
+  },
+  {
+    "message": "Or does it not matter as long as you have an invitation?"
+  },
+  {
+    "message": "Either way, that's one less thing to worry about..."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Please exercise caution, as the guest ID has more restricted privileges in some respects.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"For additional details, please refer to the support section of your invitation card. Enjoy your time in the park.\""
+  }
+]

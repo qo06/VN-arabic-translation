@@ -1,0 +1,65 @@
+[
+  {
+    "message": "I dash outside and look around for Mink."
+  },
+  {
+    "message": "There. He's already halfway down the street."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell...?!\""
+  },
+  {
+    "message": "I expected this, but still."
+  },
+  {
+    "message": "I run after him. Once I catch up, I slow to a walk and follow him silently."
+  },
+  {
+    "message": "It's pointless to ask questions. All Mink wants is for me to shut up and obey him."
+  },
+  {
+    "message": "I don't like it one bit, but I know all too well that nothing I say will get through."
+  },
+  {
+    "message": "So I have no choice but to do what he wants."
+  },
+  {
+    "message": "Mink leads us away from the main street, through narrow alleys and side streets to a secluded block."
+  },
+  {
+    "message": "If I had to guess, we must be near Platinum Jail's outer wall. It's a quiet area. Instead of stores or residences, there are rows and rows of warehouses."
+  },
+  {
+    "message": "Why are we here? Could it have something to do with that phone call?"
+  },
+  {
+    "message": "Mink approaches one of the warehouses, goes to the back door, and briskly operates his Coil."
+  },
+  {
+    "message": "When the door opens, I can immediately tell there's someone inside."
+  },
+  {
+    "message": "A shape stands in the doorway."
+  },
+  {
+    "message": "For a second, I tense. But then..."
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Boss!\""
+  },
+  {
+    "message": "A smiling man shouts cheerfully."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Keep it down.\""
+  },
+  {
+    "message": "With a glare, Mink waves the man aside."
+  },
+  {
+    "message": "I quickly step through the door."
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "message": "I open my eyes to a loud thudding."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Shooting up from the sofa, I see Mink stomping up the stairs."
+  },
+  {
+    "message": "With a rustle of wings, Mink's cockatoo lands atop the clock."
+  },
+  {
+    "name": "トリ",
+    "message": "\"There are bedrooms upstairs. You two should get some rest.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Good idea. Wait... was I asleep?\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"For about two or three hours. We checked out the town while you were sleeping.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "message": "Ren is curled up asleep at my feet."
+  },
+  {
+    "message": "As I pick him up, a question pops into my head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"By the way, what's your name?\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"What's it to you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, like, this is Ren. What's your name?\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"I have no name.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then what does Mink call you?\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"'Hey', 'you', 'bird', et cetera.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Oh.\""
+  },
+  {
+    "message": "That does sound like him..."
+  },
+  {
+    "message": "I give the bird a bit of a shrug, then carry the sleeping Ren upstairs."
+  },
+  {
+    "message": "Just off the stairs on the second floor is another open space. It has a billiard table and darts and a bar."
+  },
+  {
+    "message": "Further in, there's a hall with several doors on each side. Those must be the bedrooms the bird mentioned."
+  },
+  {
+    "message": "Mink's large frame is sprawled out on the couch in front of the TV, his arms behind his head."
+  },
+  {
+    "message": "I stop just as I pass behind him."
+  },
+  {
+    "message": "Something's been weighing on my mind for a while now. This seems as good a time as any to ask."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey, so.\""
+  },
+  {
+    "message": "No response. But I know he can hear me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you planning to do here?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink looks at me without saying a word."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You need my power for something, right?\""
+  },
+  {
+    "message": "\"Then don't I have a right to know what it is?\""
+  },
+  {
+    "message": "I'm sure Mink understands what I'm asking, but he just turns his eyes to the ceiling."
+  },
+  {
+    "message": "As the silence starts to become unbearable, he mutters, almost too low to hear―"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...I'm after Toue.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I want to destroy him. That's why I'm here.\""
+  },
+  {
+    "message": "Though it surprises me to hear him say it, somehow, I had a feeling that's what Mink was after."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why do you want to destroy him?\""
+  },
+  {
+    "message": "Is it some kind of personal grudge? Or does he just not like Toue for some reason?"
+  },
+  {
+    "message": "I look at the man lying there on the couch. Something tells me it isn't so simple."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You don't need to know.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey!\""
+  },
+  {
+    "message": "Mink abruptly rises to his feet."
+  },
+  {
+    "message": "Without another word, without even looking at me, he marches down the hall and vanishes into one of the bedrooms."
+  },
+  {
+    "message": "...What the hell?"
+  },
+  {
+    "message": "I sit down on the couch Mink just vacated."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I don't get him at all.\""
+  },
+  {
+    "message": "I sigh."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You never have any idea what he's thinking. Right, Ren?\""
+  },
+  {
+    "message": "I start up Ren in my lap, looking for some sympathy."
+  },
+  {
+    "name": "蓮",
+    "message": "\"'Right' what exactly?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean him, Mink. Why he's like that.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I imagine that's just his personality.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, yeah, but...\""
+  },
+  {
+    "message": "This whole situation has me feeling pretty conflicted."
+  },
+  {
+    "message": "Mink brought me here so he could use my power."
+  },
+  {
+    "message": "But I really don't want to use my power if I can avoid it."
+  },
+  {
+    "message": "At the same time, Mink helped me save Granny."
+  },
+  {
+    "message": "If he hadn't been there, I might never have found her."
+  },
+  {
+    "message": "He kept up his end of the bargain. I have to keep up mine."
+  },
+  {
+    "message": "That's why I want to know exactly what he's after and why he wants to use my power."
+  },
+  {
+    "message": "But I can't get anywhere if he thinks I \"don't need to know.\""
+  },
+  {
+    "message": "Am I just supposed to follow him around without asking any questions and use my power when he gives the order?"
+  },
+  {
+    "message": "That would make me a literal tool..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I just can't see this going well...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You'll just have to find a solution to your problem. Don't worry, you'll figure something out.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You really think so?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I was just repeating what you say when you find yourself in a difficult position.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not funny...\""
+  },
+  {
+    "message": "I pinch Ren's smug little nose."
+  },
+  {
+    "message": "I'm so glad he's here with me."
+  },
+  {
+    "message": "Just being able to talk to him like this is a welcome distraction. If I were here alone, I might have just made a run for it."
+  },
+  {
+    "message": "At this point, I tell myself, there's no choice but to see it through."
+  },
+  {
+    "message": "I stand up with Ren in my arms."
+  },
+  {
+    "message": "I enter one of the rooms―not the one Mink is in―down the hall, set Ren on the bed, and lie down next to him."
+  },
+  {
+    "message": "I just took a nap on the couch downstairs, but drowsiness overcomes me the moment my body hits the bed."
+  },
+  {
+    "message": "The more I think about Mink, the more worried I am about what's to come."
+  },
+  {
+    "message": "But worrying isn't going to change anything."
+  },
+  {
+    "message": "There are some people you'll just never get along with no matter how hard you try..."
+  },
+  {
+    "message": "I should try to get some rest today and give it another shot tomorrow..."
+  },
+  {
+    "message": "I stare up at the ceiling, worries cycling through my head, until sleep finally takes me."
+  }
+]

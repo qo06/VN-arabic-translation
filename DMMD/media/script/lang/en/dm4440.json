@@ -1,0 +1,322 @@
+[
+  {
+    "message": "We step into a cavernous space."
+  },
+  {
+    "message": "Three men are standing at its center. One is Toue."
+  },
+  {
+    "message": "The other two are Clear's copies."
+  },
+  {
+    "message": "So... that's Toue. It's my first time seeing him in the flesh."
+  },
+  {
+    "message": "On TV, he comes across as the perfect gentleman, but he doesn't have me fooled."
+  },
+  {
+    "message": "He may dress nice and all, but his eyes are cold. Piercing, like the eyes of a hawk."
+  },
+  {
+    "name": "東江",
+    "message": "\"I'm glad you came, R-2E-054... or is it 'Clear' now? And you must be Aoba.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "He knows my name. Those two must've told him."
+  },
+  {
+    "name": "東江",
+    "message": "\"I've seen the reports. It appears that Clear has recognized you as his master.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"Now, I'm sure you're wondering why I invited you―and Clear, of course. To answer that, we should start with your friend.\""
+  },
+  {
+    "message": "Toue's gaze shifts to Clear."
+  },
+  {
+    "message": "Clear does not look happy."
+  },
+  {
+    "name": "東江",
+    "message": "\"Clear is what we call an R-2E unit. But he was defective, so we disposed of him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"<I>Disposed</I> of him?!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Indeed. However, the man in charge of his disposal must have lost his mind. He took Clear and ran.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"He modified Clear, deactivating his transponder and concealing his face so we couldn't find him. The man lived with Clear until his death.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"He treated Clear like a son. Perhaps it was simply an act of lonely desperation. He was old, and had no children of his own.\""
+  },
+  {
+    "message": "Toue must be talking about Clear's \"Grandpa.\" That explains the gas mask, and the rule against showing his face."
+  },
+  {
+    "name": "東江",
+    "message": "\"Clear now recognizes you as his master. He has even gone so far as to fight his fellow R-2E units.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "Toue glances at the two standing behind him."
+  },
+  {
+    "name": "東江",
+    "message": "\"When I heard that you had claimed Aoba as your master, I must admit, it piqued my interest.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I am each unit's master by default, yet somehow, you defied that programming in order to prioritize a <I>misunderstanding.</I>\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Why did you choose Aoba, of all people? Now that is the truly intriguing question...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear...!\""
+  },
+  {
+    "message": "Clear takes a step forward, his eyes still focused on Toue."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...There's something I want to ask you.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Oh?\""
+  },
+  {
+    "message": "Toue's eyes narrow with curiosity, and he nods."
+  },
+  {
+    "name": "東江",
+    "message": "\"By all means, ask.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"As my 'proper' master, I thought you would be the one to answer this question. Please tell me...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...if it's possible for us to become human.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"...Human?\""
+  },
+  {
+    "message": "Toue grins, clearly amused."
+  },
+  {
+    "name": "東江",
+    "message": "\"Am I to assume you mean in the physical sense?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Heh, fascinating. A machine that wants to be human.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "東江",
+    "message": "\"The answer is no, of course. But you knew that, didn't you? You're a machine. You can't become human.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Then why did you make me―us―look so human?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Now that's even more surprising. A machine questioning its purpose? Most intriguing.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please answer the question.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"The answer is simple: you're more useful that way. You see, the plan is to integrate you into human society.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"You will blend seamlessly into their communities, all the while controlling them with your voice. Your appearance was designed to facilitate that.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"As the project continues, we will, of course, produce a variety of models, all the better to spread them across the world.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...In other words, we may look exactly like humans, but you still treat us as tools.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I suppose I can't blame you, if that's how you see it. For my part, I think of you as my children.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Children who can be replaced, that is.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Perhaps it is more accurate to say that I care dearly about you all as a whole, because you are necessary to my plan.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Then I have another question for you, as my 'real' master.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Why are you alive?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "That's... the same question he asked me before."
+  },
+  {
+    "name": "東江",
+    "message": "\"The meaning of life, eh?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"To me, life is a game. The only game. A grand board where we wager it all against the whims of fate.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"If my convictions are true, then no matter what obstacles I face, I know that I will get what I want in the end.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"If instead I fail, then so be it. I did not meet the test of fate. To play this game is my greatest joy. I will continue for as long as I draw breath.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"That is what it means to be alive.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "Clear doesn't say a word."
+  },
+  {
+    "message": "Instead, he balls his white-gloved hands into tight fists."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Then what does death mean to you, Master?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"As I just said, losing the wager. When fate rejects my convictions, that is when I will die.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...You're wrong.\""
+  },
+  {
+    "message": "Clear's fists begin to shake."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Your answers don't make any sense. Everything I've seen and learned tells me that you're <I>wrong!</I>\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"If life is a game, then what does that make us?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Pieces, of course. Just as I am a piece. We are all pieces on the great board.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...No! We're not <I>pieces!</I> We have wills of our own! We have emotions and thoughts, just like human beings! We're alive!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"We're nobody's toys!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Oh, you just haven't realized it yet. I brought you into this world. You would not exist because of me. Am I wrong?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ngh. You really aren't my master.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Aoba taught me so many important things. I learned what it means to be alive, and I learned what death is.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"I may not be human, but his words made me feel warm. They made me happy.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"I understand these things, and I'm not even human! But you don't understand anything! And you think you can control people... You're wrong!\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear...\""
+  },
+  {
+    "message": "I never knew my words meant so much to him..."
+  },
+  {
+    "name": "東江",
+    "message": "\"...Heh heh heh.\""
+  },
+  {
+    "message": "Toue chuckles."
+  },
+  {
+    "name": "東江",
+    "message": "\"Anger, now? You really are fascinating. Perhaps bringing you here was not a waste of time after all.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Yes... I believe this calls for a <I>thorough</I> analysis.\""
+  }
+]

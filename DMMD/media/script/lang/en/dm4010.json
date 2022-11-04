@@ -1,0 +1,48 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Shit...!\""
+  },
+  {
+    "message": "I hear footsteps following me down the alley."
+  },
+  {
+    "message": "The cops?!"
+  },
+  {
+    "message": "I pick up the pace, but then―"
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear?!\""
+  },
+  {
+    "message": "I look back to see Clear running after me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why are you...?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please don't leave meeeeeeee!\""
+  },
+  {
+    "message": "I slow down a little to let Clear catch up."
+  },
+  {
+    "name": "クリア",
+    "message": "\"The police are still following us! We need to get farther away!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know!\""
+  },
+  {
+    "message": "We keep running."
+  }
+]

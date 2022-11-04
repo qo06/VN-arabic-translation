@@ -1,0 +1,49 @@
+[
+  {
+    "message": "As I'm getting ready to leave, I hear some sounds coming from the first floor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What is that?\""
+  },
+  {
+    "message": "I open my door a bit to see what's going on. Ren slips out through the gap, then returns a few seconds later."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba. Clear went outside.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "I pick up Ren, put him in my bag, then poke my head into Clear's room."
+  },
+  {
+    "message": "...It's empty."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What is he up to?\""
+  },
+  {
+    "message": "Where did he go?"
+  },
+  {
+    "message": "When I step outside, a wet smell fills my nose. It's gonna rain soon."
+  },
+  {
+    "name": "蓮",
+    "message": "\"...I hear something over there.\""
+  },
+  {
+    "message": "Ren pops out of my bag, ears twitching. It's coming from an alley next to Glitter."
+  },
+  {
+    "message": "I run down the alley until it hits a corner."
+  },
+  {
+    "message": "As I round the corner, I stop dead in my tracks."
+  }
+]

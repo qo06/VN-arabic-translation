@@ -1,0 +1,226 @@
+[
+  {
+    "name": "東江",
+    "message": "\"...Take care of him.\""
+  },
+  {
+    "message": "Toue signals to Alpha-2, who promptly turns to face me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh!\""
+  },
+  {
+    "message": "I try to escape, but he grabs my arm."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let go!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Aoba!\""
+  },
+  {
+    "message": "Fuck! It's like I'm caught in a vise. I can't get away."
+  },
+  {
+    "name": "東江",
+    "message": "\"Can't have you thinking I forgot about you, now.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"My data regarding your voice is woefully limited. It took so long for us to find you.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"And that's why I'm going to need your help to investigate it <I>thoroughly.</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No fucking way...!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Show our guest to another room.\""
+  },
+  {
+    "message": "Alpha-2 starts to drag me away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No! Let me go!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Take your hands off him!\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"Aren't you forgetting someone?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Guh...!\""
+  },
+  {
+    "message": "Alpha punches Clear hard in the face. Somehow, Clear manages to stay on his feet."
+  },
+  {
+    "message": "Laughing, Alpha unleashes another flurry of attacks."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Urgh...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "message": "Alpha kicks Clear in the stomach, dropping him to his knees. Red blood spills from his mouth, and more pieces of skin break away."
+  },
+  {
+    "message": "I sniff the air, but what I smell isn't blood. Is this... oil?"
+  },
+  {
+    "name": "クリアα",
+    "message": "\"Well, I think it's time to put you outta your misery. Don't worry. I'll make it quick.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"It's goodbye for real this time, <I>brother.</I>\""
+  },
+  {
+    "message": "Alpha smiles at Clear with the joy of a predator who knows his prey can't escape."
+  },
+  {
+    "message": "Clear glares back...<k><?>"
+  },
+  {
+    "message": " then smiles."
+  },
+  {
+    "name": "クリアα",
+    "message": "\"What? Is your head broken too?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...I'm defective. That means you can't predict what I'll do.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"So I have nothing to fear anymore. I'm completely outside your calculations. Aren't I?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"In which case... I can act of my own free will.\""
+  },
+  {
+    "message": "Clear pulls something from his coat pocket."
+  },
+  {
+    "message": "A knife?"
+  },
+  {
+    "name": "クリアα",
+    "message": "\"...What are you doing with that?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Something you could never imagine.\""
+  },
+  {
+    "message": "With a fearless grin, Clear presses the tip of the knife into his own head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "What the hell is he doing?!"
+  },
+  {
+    "name": "東江",
+    "message": "\"...Oh my.\""
+  },
+  {
+    "message": "With an astonished whisper, Toue holds up a hand. Alpha-2 immediately stops dragging me away."
+  },
+  {
+    "name": "クリア",
+    "message": "\"If I'm remembering right, the circuit for the hard lock is somewhere around here.\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"You wouldn't. It makes no sense. You'd have to be crazy!\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"It doesn't need to make sense.\""
+  },
+  {
+    "message": "Clear glances at me. His eyes glisten with affection and sadness."
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm going to keep my promise, okay? I'm going to keep you safe no matter what.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear... No, don't!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It'll be fine. Please trust me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not what I mean!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"This is the first thing I've ever truly <i>wanted</i>―wanted for myself, of my own free will.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"So please, let me protect you.\""
+  },
+  {
+    "message": "He flashes a smile―fragile, fleeting―and tightens his grip on the handle of the knife."
+  },
+  {
+    "message": "He's going to do it!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "message": "I scream, desperate to stop him. His sad eyes are all I see."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Pain rips through my skull. It feels like my own head is about to explode."
+  },
+  {
+    "message": "This sensation..."
+  },
+  {
+    "name": "タエ",
+    "message": "\"And if you want to dig even deeper―get to know them even better―all you need to do is ask, and their mind will open to you.\""
+  },
+  {
+    "message": "If I use it..."
+  },
+  {
+    "message": "...can I save him?"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "message": "On our way back to Glitter, I make a point of taking it slow so I can give Clear another lecture."
+  },
+  {
+    "message": "Clear trails behind me. It's almost sad how deflated he is."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...I'm really sorry...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look, man, just be more careful.\""
+  },
+  {
+    "message": "I'm trying to be as gentle as I can, but internally I'm getting pretty frustrated."
+  },
+  {
+    "message": "I don't have time to be fooling around like this! I need to get to Toue..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay...\""
+  },
+  {
+    "message": "Clear replies meekly, then suddenly stops. "
+  },
+  {
+    "message": "It takes me a moment to notice, so I'm a few steps ahead of him by the time I turn around."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What's wrong?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "Clear is silent and still, almost like he's listening for something."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm? ...Uh?\""
+  },
+  {
+    "message": "Clear suddenly grabs me by the arm and starts running."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's going on?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"We have to run, Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Run? Why?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Someone is chasing us.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really?\""
+  },
+  {
+    "message": "I look back, but no one else is in sight."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No one's there.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"They're still a little ways away, but I can hear their footsteps. It's not just one or two people either.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"H-Hold on!\""
+  },
+  {
+    "message": "I pull my arm from Clear's grasp. I mean, he just led me on a wild goose chase. I'm not about to take anything he says at face value."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you really sure about that? You sure you're not just confused?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, I'm not confused. I really did hear them. Please believe me.\""
+  },
+  {
+    "message": "Hmm..."
+  },
+  {
+    "message": "Come to think of it, this sort of thing's happened before. His hearing's really keen, isn't it?"
+  },
+  {
+    "message": "Maybe he's on to something."
+  },
+  {
+    "message": "If he's wrong again, though... I am gonna be <I>pissed.</I>"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You better be right. I don't wanna waste any more energy.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I understand! Please hurry!\""
+  },
+  {
+    "message": "Clear whips around, grabs my arm again, and takes off running."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"H-Hey!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"We need to run!\""
+  }
+]

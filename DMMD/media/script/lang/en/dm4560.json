@@ -1,0 +1,58 @@
+[
+  {
+    "name": "タエ",
+    "message": "\"...So?\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"Well... I think it should be fine now.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hmm...\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"But you know, I was really surprised when I took a look at it. 98% of its neural net was damaged. Normally you'd just dispose of something like that.\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"Restoring something from that state should have been impossible.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"It did take six months. All I did was repair the framework. The actual migration was all you.\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"Oh no. The work you did was nothing short of a miracle.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hmph.\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"That said, I'm glad we managed to find a host body in such pristine condition. It would have been much harder without a body from the same line.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Thank Toue for building so many of them. Gives me chills to think about 'em overrunning the island.\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"Yeah... Well, why don't we start him up to test the system?\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"...Huh?!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "研究員",
+    "message": "\"I... I'm sure I left him right here...\""
+  }
+]

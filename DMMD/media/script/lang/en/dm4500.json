@@ -1,0 +1,138 @@
+[
+  {
+    "name": "クリアα",
+    "message": "\"Ugh, aaah...\""
+  },
+  {
+    "message": "Both Alphas fall to the floor, clutching their heads in pain."
+  },
+  {
+    "message": "Before long... they stop moving."
+  },
+  {
+    "message": "Clear's song slows to a stop, and then his knees also buckle."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "message": "I barely manage to catch him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you okay?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What was that song?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I used the maximum power of my singing to overload the Alphas' processors.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Originally, I was only programmed to sing the same song as the Alphas, so I had to invert the melodies.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You... inverted it?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I think it was something Grandpa programmed into me, for emergencies.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"The inverted melody should produce waveforms that the Alphas are unable to process.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"So I thought, if I sang it at maximum capacity, it might overload their processors.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"I wasn't sure if it would work, though...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's what you were doing... You scared the shit out of me, dummy.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm sorry.\""
+  },
+  {
+    "message": "Clear smiles sheepishly."
+  },
+  {
+    "message": "I look around, but Toue is already gone. He must've escaped into that other room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That asshole...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "Suddenly, the tower starts shaking."
+  },
+  {
+    "message": "What the hell?"
+  },
+  {
+    "message": "On the walls, screens flicker to life. For a second, I see a face..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Oh.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Our original was just terminated.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Your original?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. The symbol of Toue's ambitions... and the source of the power supporting Platinum Jail.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I already destroyed my hard lock. That's why it's not affecting me. But the Alphas have had their power cut off. They won't be getting up again.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"And now, this entire tower is going to collapse.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "I barely understand what Clear is saying."
+  },
+  {
+    "message": "But it doesn't matter. I can worry about the details when we're not trapped in a collapsing building."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Anyway, we have to get out of here before it falls. Hold on tight!\""
+  },
+  {
+    "message": "I pull Clear's arm over my shoulder, supporting him as we stagger toward the door."
+  }
+]

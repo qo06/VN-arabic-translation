@@ -1,0 +1,211 @@
+[
+  {
+    "message": "I step inside. Everything looks so expensive, I half expect them to throw me out on my ass."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wow...\""
+  },
+  {
+    "message": "The shop is massive and totally spotless."
+  },
+  {
+    "message": "Allmates are lined up in glass cases alongside clothes and toys and other accessories."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Ren. Look at that.\""
+  },
+  {
+    "message": "Ren pops his head out of my bag."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I bet these Allmates have better lives than some of the people back home.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I can't deny that possibility.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Right?\""
+  },
+  {
+    "message": "There are other customers in the shop. They walk around peering into the cases, almost as if admiring fine art."
+  },
+  {
+    "message": "I spot the section for tools and parts and head over. There aren't very many options."
+  },
+  {
+    "message": "The latest Allmates can be serviced remotely through a Coil, so I guess there isn't much demand."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hmm. None of these'll work...\""
+  },
+  {
+    "message": "I consider asking for help, but all the clerks look busy."
+  },
+  {
+    "message": "As I look around, trying to figure out what to do, a digital poster catches my eye."
+  },
+  {
+    "message": "\"Special Celebration Coming Soon!\""
+  },
+  {
+    "message": "A date is flashing below it. This Celebration will run for two days, starting tomorrow. The poster doesn't describe what it is, though."
+  },
+  {
+    "message": "Curious, I turn to a customer standing next to me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh, excuse me.\""
+  },
+  {
+    "name": "女性客Ｂ",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So, this Celebration thing. Do you know anything about it?\" "
+  },
+  {
+    "name": "女性客Ｂ",
+    "message": "\"They haven't said yet. Seems they wanna keep it a surprise.\" "
+  },
+  {
+    "name": "女性客Ｂ",
+    "message": "\"But I'm sure it's going to be absolutely fabulous. Even the regular parades here are a treat!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay...\""
+  },
+  {
+    "name": "女性客Ｂ",
+    "message": "\"Mr. Toue has to show up, right? He's sooo amazing!\" "
+  },
+  {
+    "name": "女性客Ｂ",
+    "message": "\"Everything he does is just so perfect and elegant... He's such a dreamboat!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Thanks.\""
+  },
+  {
+    "message": "I bow and step away."
+  },
+  {
+    "message": "I guess even the regulars don't know what the Celebration's about."
+  },
+  {
+    "message": "She did say Toue might show up... Maybe I could get close to him there?"
+  },
+  {
+    "message": "It's my best lead. I'll just have to make it work."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, let's check out the event tomorrow.\""
+  },
+  {
+    "message": "But Ren doesn't reply."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren?\""
+  },
+  {
+    "message": "Looking at my bag, I see Ren staring intently at one of the Allmates in its case."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "message": "There's a screen inside that lists the Allmate's specs. I gasp when I see what it says."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wow... That's something.\""
+  },
+  {
+    "message": "I've never been that interested in Allmates, to be honest, but the newer models are definitely impressive."
+  },
+  {
+    "message": "My custom unit can't even compare to the default specs of these new models."
+  },
+  {
+    "message": "They're useful in day-to-day life too, not just in Rhyme. And they don't require analog maintenance. "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wow... I can't believe they've gotten this advanced.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are you interested?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shouldn't I be asking you that? You've been staring at it this whole time.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, it is pretty cool. I bet it's useful.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Do you want to try it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "I look at Ren, surprised by the question, but he's still focused on the case."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Of course not. I have you.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You're only saying that because you've never had a newer model.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? What're you talking about?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "message": "Ren's being weird again."
+  },
+  {
+    "message": "Suddenly, he wriggles out of my bag and runs off."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey!\""
+  },
+  {
+    "message": "But he's already out the door."
+  },
+  {
+    "message": "What the hell is he thinking?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren!\""
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "message": "The tower's interior matches its exterior窶病ll white."
+  },
+  {
+    "message": "The floors and walls and ceilings are polished to a mirror finish, giving it a cold, clinical feel."
+  },
+  {
+    "message": "I've heard the tower has some areas that are open to the public, but there aren't any guests around."
+  },
+  {
+    "message": "I can hear footsteps, so there must be guards on patrol."
+  },
+  {
+    "message": "We make our way down the lengthy hallway amidst the suffocating calm."
+  },
+  {
+    "message": "After walking for a bit, we see an elevator ahead of us. Two guards are standing by it."
+  },
+  {
+    "message": "We approach."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The invitation says to go to the top floor.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"That's where Toue's office is.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I really don't like the sound of that.\""
+  },
+  {
+    "message": "The guards stare coldly at us as we board the elevator."
+  },
+  {
+    "message": "I press the button for the top floor. Slowly, the elevator begins to ascend."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "Clear leans against the wall of the elevator, panting."
+  },
+  {
+    "message": "I can see the pain on his face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Does it hurt?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...I'm fine. It'll go away if I rest for a while.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But―\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm fine. We need to keep going.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I remember the sparks flying out of Clear's arm. Is he really okay?"
+  },
+  {
+    "message": "An awkward silence hangs between us as the elevator slows to a stop. The door opens."
+  },
+  {
+    "message": "It's nothing like the ground floor. There, there was at least some decor to welcome guests, but this floor is utterly featureless."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This is where Toue is?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, this is the research area. There's an elevator to Toue's office in the back. This area is typically off-limits to visitors.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But that invitation should get us through.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Research area... This is where they experiment on people?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes, but this is only one of his labs. Toue has facilities on the mainland as well.\""
+  },
+  {
+    "message": "We proceed down the empty hall, tension building all the while."
+  },
+  {
+    "message": "Eventually, we reach a door."
+  },
+  {
+    "message": "There's a screen next to the door. I present my invitation."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Confirmed. Please proceed.\""
+  },
+  {
+    "message": "When the door opens, I see another elevator at the end of the hall."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm guessing that's the elevator that goes to Toue's office.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes.\""
+  },
+  {
+    "message": "After showing the invitation to yet another authentication screen, we board the elevator and head to the top floor."
+  },
+  {
+    "message": "The elevator soon reaches its destination and opens its doors."
+  },
+  {
+    "message": "This floor is different from the research area. A bright red door stands directly in front of us."
+  },
+  {
+    "message": "We walk up to it and enter."
+  }
+]

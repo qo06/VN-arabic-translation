@@ -1,0 +1,25 @@
+[
+  {
+    "message": "We take the emergency elevator to the first floor and dash out through the entrance."
+  },
+  {
+    "message": "Explosions are coming from the top of the tower. The people gathered outside are screaming."
+  },
+  {
+    "message": "But I don't look back. I'm too focused on getting Clear to safety."
+  },
+  {
+    "message": "He needs rest. There's only one place we can go."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hang in there, Clear...!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay...!\""
+  },
+  {
+    "message": "Given Clear's condition, it seems prudent to avoid crowded streets. We head through the alleys, making for Glitter."
+  }
+]

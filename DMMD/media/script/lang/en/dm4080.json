@@ -1,0 +1,80 @@
+[
+  {
+    "message": "Beyond the door, an incredible scene awaits."
+  },
+  {
+    "message": "The buildings are made of some kind of translucent material, which gives them an ethereal glow, and the street is resplendent with greenery."
+  },
+  {
+    "message": "And the sky is filled with glittering stars. You'd never see something like this in the Old Residential District."
+  },
+  {
+    "message": "Both the weather and time of day are artificially controlled in Platinum Jail. I've heard it's almost always night inside."
+  },
+  {
+    "message": "Supposedly the idea is to make it feel like a party every day, or make it more relaxing or something..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Wow! It's all blue.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I wonder if there are other areas.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Well, there were five doors. There must be.\""
+  },
+  {
+    "message": "But the most prominent thing in the sky is the tower―the symbol of Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's Oval Tower...\""
+  },
+  {
+    "message": "I've heard the rumors, but this is my first time seeing it."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master, what shall we do first?\""
+  },
+  {
+    "message": "Clear looks around, then back to me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Actually, I think the invitation mentioned where we'll be staying.\""
+  },
+  {
+    "message": "I open the map that's attached to the invitation."
+  },
+  {
+    "message": "One location is marked in red."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I think it's the spot marked here.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's go see for ourselves.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, could you give us directions?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Roger.\""
+  }
+]

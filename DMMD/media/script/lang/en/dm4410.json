@@ -1,0 +1,121 @@
+[
+  {
+    "message": "Just then, my Coil beeps. I have a message."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Another invitation?\""
+  },
+  {
+    "message": "This time, it's an invitation to Oval Tower."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oval Tower...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It must be one of Toue's traps.\""
+  },
+  {
+    "message": "Clear's expression has turned serious."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Those two must have reported back.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, are you going?\""
+  },
+  {
+    "message": "It's probably a trap, like Clear said."
+  },
+  {
+    "message": "Those two must have told Toue about my voice. I mean, Toue has known about Scrap for ages, but now he knows exactly how Scrap works."
+  },
+  {
+    "message": "He'll want to get his hands on me as soon as possible."
+  },
+  {
+    "message": "...But that doesn't matter. The fact is, I need to get to Toue too."
+  },
+  {
+    "message": "In which case, might it not make sense to walk right into his trap?"
+  },
+  {
+    "message": "Whether we take the bait or not, it's all over if Toue gets to hold his Celebration."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Let's check it out.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Maybe it is a trap, but either way, it's a chance to get to Toue.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Don't worry, Ren. I'll keep Aoba safe.\""
+  },
+  {
+    "message": "Clear confidently thumps a fist against his chest."
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Right.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"What was that pause?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Don't worry about it.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Hmph!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Alright, let's go.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay―<?>"
+  },
+  {
+    "message": "ah!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Clear staggers, clutching his arm―the same arm that was sparking earlier."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you okay?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm sorry. I'm alright. Let's go.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let me know if it gets worse, okay?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "I'm worried about Clear... but we need to get going.\r\n<p>\r\nWe start toward the tower."
+  }
+]

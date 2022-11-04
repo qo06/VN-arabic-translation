@@ -1,0 +1,57 @@
+[
+  {
+    "message": "The next day..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Woah!\""
+  },
+  {
+    "message": "When I open my eyes, there's a gas mask staring back at me."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Good morning.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Clear...\""
+  },
+  {
+    "message": "Clear lets out a sigh of relief for some reason, then bows and leaves the room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "message": "What was that all about?"
+  },
+  {
+    "message": "Was he watching me sleep or something?"
+  },
+  {
+    "message": "Obviously, this isn't the first time I've thought this... but damn, that guy is weird."
+  },
+  {
+    "message": "I get out of bed and get dressed."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, let's go.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Alright.\""
+  },
+  {
+    "message": "I pick up Ren and leave the room."
+  },
+  {
+    "message": "A delicious smell wafts down the hall. Clear must be making breakfast again."
+  }
+]

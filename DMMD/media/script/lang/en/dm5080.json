@@ -1,0 +1,87 @@
+[
+  {
+    "message": "We step through the door into a city gleaming white."
+  },
+  {
+    "message": "The streets and buildings are simple and clean, with none of the clutter or chaos you would see back home."
+  },
+  {
+    "message": "And the sky is filled with glittering stars, another sight you'd never see in the Old Residential District."
+  },
+  {
+    "message": "Both the weather and time of day are artificially controlled in Platinum Jail. I've heard it's almost always night inside."
+  },
+  {
+    "message": "Supposedly the idea is to make it feel like a party every day, or make it more relaxing or something..."
+  },
+  {
+    "message": "But the most prominent thing in the sky is the tower--the symbol of Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's Oval Tower...\""
+  },
+  {
+    "message": "I've heard the rumors, but this is my first time seeing it."
+  },
+  {
+    "message": "Toue created this world..."
+  },
+  {
+    "message": "Just knowing that is enough to make everything seem phony."
+  },
+  {
+    "message": "However convenient or beautiful it might be, I can't bring myself to like this perfect, polished world."
+  },
+  {
+    "message": "It's all so... cold."
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren?\""
+  },
+  {
+    "message": "I look down. Ren is panting, his tongue hanging out."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You okay?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yes. I just used a little too much energy. Nothing serious.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But you look awful. That ganking must've really done a number on you. We should go somewhere I can check you out... Oh, I know.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Didn't that invitation come with a place to stay?\""
+  },
+  {
+    "message": "I open the invitation on my Coil and check the attached map."
+  },
+  {
+    "message": "An area is marked in red."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I dunno if it's a hotel or what, but let's check it out. Can you give me directions, Ren?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I can manage that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "message": "I start down the street, following Ren's directions."
+  }
+]

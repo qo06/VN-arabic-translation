@@ -1,0 +1,105 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Phew... I'm home!\""
+  },
+  {
+    "message": "When I get home from work and open the front door, I find the house still and silent."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny?\""
+  },
+  {
+    "message": "No answer. Maybe she went out."
+  },
+  {
+    "message": "I take off my shoes and head up to my room."
+  },
+  {
+    "message": "The first thing I do after I get to my room is close the curtains that I left open this morning."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "What's that sound?"
+  },
+  {
+    "message": "I open the sliding glass door to the balcony."
+  },
+  {
+    "message": "A gentle breeze caresses my cheek. Dusk has come to the town."
+  },
+  {
+    "message": "I squint as I approach the handrail."
+  },
+  {
+    "message": "I hear something... A song?"
+  },
+  {
+    "message": "Is someone singing?"
+  },
+  {
+    "message": "I can barely make it out... but there's something about it..."
+  },
+  {
+    "message": "This melody..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "I lean over the handrail, scanning the area."
+  },
+  {
+    "message": "I check between the houses. I check the shadows of telephone poles."
+  },
+  {
+    "message": "I check street corners and signs..."
+  },
+  {
+    "message": "And then, finally...<k><?>"
+  },
+  {
+    "message": " I see something on the roof of a house not too far away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "A solitary figure sitting on the roof, silhouetted by the setting sun."
+  },
+  {
+    "message": "The silhouette looks a bit strange... but it's probably the umbrella."
+  },
+  {
+    "message": "The song keeps going. If I listen closely, I can hear each note."
+  },
+  {
+    "message": "Kind and gentle, soft and clear. I lose myself in the melody."
+  },
+  {
+    "message": "He called it... the Jellyfish Song."
+  },
+  {
+    "message": "And now... <k>it's a song of reunion."
+  },
+  {
+    "message": "As the song slowly comes to an end, the figure holding the umbrella turns toward me."
+  },
+  {
+    "message": "My vision blurs. He's smiling at me."
+  },
+  {
+    "name": "クリア",
+    "message": "\"I followed the sound of your voice.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Aoba.\""
+  }
+]

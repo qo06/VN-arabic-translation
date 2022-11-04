@@ -1,0 +1,177 @@
+[
+  {
+    "message": "Afterward, feeling relaxed, I turn on the TV to see if I can find any news on Toue."
+  },
+  {
+    "message": "But the channels are full of the usual bullshit. "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There's nothing on.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "Just as I'm about to turn off the TV, I hear a strange tune, part of a program praising the virtues of Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?!\""
+  },
+  {
+    "message": "Suddenly, the room is spinning around me."
+  },
+  {
+    "message": "I cling to the back of the couch to support myself."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master! Are you alright?! What's wrong?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...M-My head...!\""
+  },
+  {
+    "message": "It feels like it's gonna explode...! "
+  },
+  {
+    "message": "A wave of nausea hits me. I'm seeing double, triple. I can't keep my eyes open."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ngh! This song...!\""
+  },
+  {
+    "message": "Clear grabs the remote and shuts off the TV."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Are you alright, Master? I think you should rest.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "I lie down on the couch with Clear's help, my skin clammy with sweat."
+  },
+  {
+    "message": "The blood vessels in my head feel like barbed wire, slicing my brain to pieces..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ow...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"That song... was Dye Music.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Dye...?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It's music that directly affects the brain. Like the name suggests, it 'dyes' your mind.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Normal humans can't even notice Dye Music. Their minds are dyed without them ever knowing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh, what does that mean?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It means that whoever made that song can control your thoughts.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sounds like Toue.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. However, you have a special power, Master. I believe that's why you had a strong reaction to the Dye Music.\""
+  },
+  {
+    "message": "I can't believe they're playing something like that on TV..."
+  },
+  {
+    "message": "I'm sure it's not just the music. Toue probably has traps like that set up all over the place."
+  },
+  {
+    "message": "If normal people can't notice it, all the people in Platinum Jail might already be under Toue's control."
+  },
+  {
+    "message": "Still..."
+  },
+  {
+    "message": "Something else is bugging me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Why do you know so much about it?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Well, um...\""
+  },
+  {
+    "message": "Clear hesitates."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...That's a very good question. I'm not entirely sure myself. It just came out of my mouth.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"Maybe Grandpa told me.\""
+  },
+  {
+    "message": "I don't get the sense that Clear is lying. Now I have to wonder who Clear's grandpa really was..."
+  },
+  {
+    "message": "Before I can ask, though, fresh pain interrupts my thoughts."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Owowow, shit, it still hurts.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"The music works on your sense of hearing, so its effects might linger for a bit.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'll do what I can to make you feel better, Master. Please close your eyes and try to relax.\" "
+  },
+  {
+    "message": "I close my eyes, take a deep breath, and relax my body."
+  },
+  {
+    "message": "And then, I hear the gentle sound of Clear's voice."
+  },
+  {
+    "message": "He's singing, a sweet and gentle melody, like a lullaby to calm a child."
+  },
+  {
+    "message": "My headache fades as I listen."
+  },
+  {
+    "message": "I feel myself drifting..."
+  },
+  {
+    "message": "Clear's voice is so pretty..."
+  },
+  {
+    "message": "That's the last thought that enters my mind before I fall asleep."
+  }
+]

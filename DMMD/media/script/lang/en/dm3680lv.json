@@ -1,0 +1,239 @@
+[
+  {
+    "message": "...We climb stairs for what seems like forever, until finally Mink opens a door and steps through."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh, haa, haa...\""
+  },
+  {
+    "message": "My forehead is damp with sweat and my vision is distorted from the pain. It feels like my brain is being stabbed with thick needles."
+  },
+  {
+    "message": "It must be because I used my power earlier."
+  },
+  {
+    "message": "I take the medicine from my bag and pop the last few pills into my mouth."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink glances at me. I swallow the pain and keep walking."
+  },
+  {
+    "message": "I'm not going to be a burden, not after I demanded he bring me along."
+  },
+  {
+    "message": "Down the hallway, a red door catches my attention, glaring against the stark, white walls."
+  },
+  {
+    "message": "I take another step... and bump into something solid. Distracted by my headache, I failed to notice that Mink had come to a stop."
+  },
+  {
+    "message": "Before I can apologize, a sound tears my focus away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh...?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"They must have finished taking out the trash down there.\""
+  },
+  {
+    "message": "The bike bursts from the staircase behind us, then stops at our feet with a screeching of brakes."
+  },
+  {
+    "message": "Mink turns to look at me."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I'm sending you back.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Mink's stare tells me to obey."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You're just gonna slow me down.\""
+  },
+  {
+    "message": "His voice is flat and emotionless."
+  },
+  {
+    "message": "This again? It's just like before. He's trying to push me away."
+  },
+  {
+    "message": "If I turn back, Mink will press on. He'll complete his objective with ruthless efficiency."
+  },
+  {
+    "message": "His objective..."
+  },
+  {
+    "message": "To kill Toue...<K> then die."
+  },
+  {
+    "message": "If I don't stop him now..."
+  },
+  {
+    "message": "...I'll be letting him die."
+  },
+  {
+    "message": "I know that's what he wants. He can't see any other way."
+  },
+  {
+    "message": "He doesn't want me to stop him."
+  },
+  {
+    "message": "...But can I just leave him like this?"
+  },
+  {
+    "message": "No. No matter what happens, I can't let him go."
+  },
+  {
+    "message": "Even if it means denying him what he most desires, I can't let Mink die for someone like Toue."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...You really look like shit.\""
+  },
+  {
+    "message": "Those are the same words he said after we emerged from Scrap."
+  },
+  {
+    "message": "Ignoring the persistent headache, I look Mink straight in the eye."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I don't want you to die.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I'm already dead. I died with my people.\""
+  },
+  {
+    "message": "Mink looks away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's... That's not true! You're alive! Right now!\""
+  },
+  {
+    "message": "I grab Mink's arm, surprised by the strength of my own emotions. "
+  },
+  {
+    "message": "Mink looks down at me, a barely noticeable frown on his face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look, we can touch. You're breathing. What more proof do you need that you're alive?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink pulls his arm away gently."
+  },
+  {
+    "message": "He doesn't reply. He doesn't have to."
+  },
+  {
+    "message": "I know Mink's will is as hard as steel, that nothing I can say will get through to him."
+  },
+  {
+    "message": "Slowly, he turns his back to me, then looks over his shoulder."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...Sorry for dragging you into this.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "And with that, Mink marches off."
+  },
+  {
+    "message": "And I can't say a word..."
+  },
+  {
+    "message": "...I just stand there and watch him walk through that door."
+  },
+  {
+    "message": "The lingering smell of cinnamon tickles my nose."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Suddenly, the strength of my headache doubles, almost like it's punishing me for letting Mink go."
+  },
+  {
+    "message": "...I couldn't stop him. I never had that power."
+  },
+  {
+    "message": "But now... now..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "I fall to my knees, crushed by a wave of regret."
+  },
+  {
+    "message": "Should I have tried to stop him by any means necessary?"
+  },
+  {
+    "message": "Should I have used the power of my voice?"
+  },
+  {
+    "message": "Even if that wasn't what he wanted?"
+  },
+  {
+    "message": "To force him to live without achieving his goal, or to let him achieve it and die..."
+  },
+  {
+    "message": "Which was the correct choice?"
+  },
+  {
+    "message": "Which would make him happy?"
+  },
+  {
+    "message": "How am I supposed to know?"
+  },
+  {
+    "message": "...No."
+  },
+  {
+    "message": "Even if I could have stopped him, he would have found another way."
+  },
+  {
+    "message": "Mink's will is just that strong..."
+  },
+  {
+    "message": "...and he has no other path to take."
+  },
+  {
+    "message": "But that's why I need to choose a path too―a future, and seize it with my own two hands."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I stand up and approach the bike, my back to the door through which Mink vanished."
+  },
+  {
+    "message": "No more looking back."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "message": "We come to a street lined with extravagant villas.\r\n<p>\r\nEven here, there's something of a class system. The buildings range from palatial mansions to smaller, but still nice, houses."
+  },
+  {
+    "message": "We're staying in one of the latter, a small two-story building at the end of the block."
+  },
+  {
+    "message": "Compared to the other buildings, ours looks a bit older."
+  },
+  {
+    "message": "There's a plate with the word \"GLITTER\" above the door."
+  },
+  {
+    "message": "The neighboring building has a different word above its door, so I assume that must be its name."
+  },
+  {
+    "message": "I hold my Coil up to the screen next to the door and turn the old-fashioned doorknob."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wow...\""
+  },
+  {
+    "message": "When I step inside, my eyes go wide."
+  },
+  {
+    "message": "The interior is even more old-fashioned than I expected from the outside... Maybe \"classic\" is a better word."
+  },
+  {
+    "message": "Most of the furniture is made of wood, a sharp contrast to the pure white world outside."
+  },
+  {
+    "message": "There's a staircase in the back. After giving the first floor a once-over, I decide to check out the second floor."
+  },
+  {
+    "message": "At the top of the stairs, I find a nice den. It even has a small bar counter."
+  },
+  {
+    "message": "Next to it is a hallway lined with doors. I check out one of the rooms."
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "message": "We've made it, somehow."
+  },
+  {
+    "message": "As soon as we hobble in through the door, I gently set Clear down against the wall."
+  },
+  {
+    "message": "I take off his tattered coat. I'd like to carry him upstairs and lay him down in bed, but I don't think I could manage it."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "Clear groans, his breathing unsteady."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Does it hurt?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...I'm fine.\""
+  },
+  {
+    "message": "It pains me to see him smile as he struggles for breath."
+  },
+  {
+    "message": "What am I supposed to do now?"
+  },
+  {
+    "message": "I mean, I've fiddled with Allmates before, but I'm not crazy enough to try to fix a machine as complex as Clear."
+  },
+  {
+    "message": "...But I can't just do <I>nothing.</I>"
+  },
+  {
+    "message": "For the time being, I decide to look for some tools to work with―but just as I get up, Clear grabs my jacket."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Wait. ...Please don't leave me.\""
+  },
+  {
+    "message": "I freeze. He looks so pitiful, begging like that."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please, stay with me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Unable to bear it, I crouch down beside him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I have to do <I>something...</I>\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It's fine. It's... already too late.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?! What are you saying?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I think I know my body best. When I destroyed the hard lock, I irreparably damaged the circuit that supplies power to my brainstem.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"So I'm already...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I can't believe you... You always take things too far...!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But I couldn't have saved you any other way. I don't believe I was wrong.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh. But how can I save <I>you?</I>\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"There's actually something I want more than that... Would you do me a favor?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"After I help you!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It's extremely unlikely that I can be saved. I'd prefer you grant my last wish than waste what time I have left.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"You weren't supposed to know about my wish. I never actually planned on telling you.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It must be because I'm malfunctioning.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I could never have wanted this if I hadn't been freed from my programming. Will you listen to my first and last request?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I suddenly feel like crying... but I choke back the tears. "
+  },
+  {
+    "message": "Still, my eyes and throat burn. No matter how hard I try, I can't keep my lips from trembling."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...It's no fair, putting it like that...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm sorry. Please? Will you grant my wish?\" "
+  },
+  {
+    "message": "Clear smiles apologetically and touches my cheek with his hand. Its mechanical workings are partly exposed."
+  },
+  {
+    "message": "I know that if I open my mouth, I won't be able to hold back the sobs. So I nod instead; Clear sighs with relief."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Thank you. Well, here it goes.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please let me touch you, Aoba.\""
+  },
+  {
+    "message": "Clear's fingers gently caress my cheek."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ultimately, we're just machines. There's no way for us to become human.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But even if it's just for a moment, I want to touch you like another human being. I want to show you how I feel about you.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"If you could grant that request...\""
+  },
+  {
+    "message": "I find myself mesmerized by the sincerity in Clear's eyes."
+  },
+  {
+    "message": "I have a pretty good guess what he means by wanting to \"touch\" me."
+  },
+  {
+    "message": "And right now... I want to do whatever he asks."
+  },
+  {
+    "message": "Plus, I want to touch him too."
+  },
+  {
+    "message": "He went through so much to keep me safe."
+  },
+  {
+    "message": "I want to... offer him some comfort."
+  },
+  {
+    "message": "If it will make him happy... I'll do anything for him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sure.\""
+  }
+]

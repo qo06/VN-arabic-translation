@@ -1,0 +1,33 @@
+[
+  {
+    "message": "How far have I run? After some time, I stop to look around."
+  },
+  {
+    "message": "I don't hear any footsteps behind me. I guess I lost them."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haa, haa... Haa...\""
+  },
+  {
+    "message": "I lean against a wall to catch my breath."
+  },
+  {
+    "message": "Hearing a noise, I look up to see a man staggering toward me, mumbling to himself."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is he drunk?\""
+  },
+  {
+    "message": "Suddenly, it feels like the ground drops out from under me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "message": "It's still night out when we leave Glitter. Pretty weird, since we've already been here a whole day."
+  },
+  {
+    "message": "I guess that's just how things are in Platinum Jail, but there's something kinda scary about a neverending night."
+  },
+  {
+    "message": "I wonder how the other guests feel."
+  },
+  {
+    "message": "Unable to shake my discomfort, I head down the main street with Clear, following the map on the invitation."
+  },
+  {
+    "message": "As we get close to Oval Tower, Clear tugs on my sleeve."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master. I have to tell you something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"The truth is...\""
+  },
+  {
+    "message": "Clear leans close, his voice an exaggerated whisper."
+  },
+  {
+    "name": "クリア",
+    "message": "\"I think I might know who can get us into the tower.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. And they're nearby.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How do you know? And how did you―\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Shh!\""
+  },
+  {
+    "message": "He touches a gloved finger to my lips."
+  },
+  {
+    "name": "クリア",
+    "message": "\"He's behind us right now. Don't worry. I'm sure he knows.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you serious?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. One moment.\""
+  },
+  {
+    "message": "Clear spins around."
+  },
+  {
+    "message": "I turn with him, and there, right behind us, is..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Mr. Policemaaa―brghgahhaghm!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You idiot!\""
+  },
+  {
+    "message": "I grab Clear's mask from behind and pull hard."
+  },
+  {
+    "name": "クリア",
+    "message": "\"You're so mean, Master! Why'd you stop me?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you think you're doing?! That's a fucking cop!\""
+  },
+  {
+    "message": "Clear cocks his head to the side, puzzled."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes, but they say you should always ask a policeman if you need help. I'm sure he knows about the tower.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Do you understand what we're trying to do here?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"They think we're terrorists, remember?! We have to keep a low profile! Don't ever do that again!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh, right! We're terrorists!\""
+  },
+  {
+    "message": "He claps his hands together."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Gimme a fucking break...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"What about that person over there? He looks like he knows something.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "He walks off before I can react."
+  }
+]

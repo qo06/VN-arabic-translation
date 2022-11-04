@@ -1,0 +1,286 @@
+[
+  {
+    "message": "With the Oval Tower destroyed, Platinum Jail ceased to function."
+  },
+  {
+    "message": "But thanks to prompt intervention from the mainland, the chaos was quickly resolved."
+  },
+  {
+    "message": "The tower collapsed because of terrorist bombs, coupled with a malfunction in Platinum Jail's central control system. Beyond that, details are scarce."
+  },
+  {
+    "message": "By some miracle, everyone in the tower managed to escape with, at worst, minor injuries."
+  },
+  {
+    "message": "Apparently, they all received a message alerting them before the building's collapse."
+  },
+  {
+    "message": "However, a number of people窶品ncluding Toue himself窶病re still missing."
+  },
+  {
+    "message": "The incident brought Toue's mind control research to light. The Celebration, which was a cover for his largest experiment yet, was canceled.\r\n<p>\r\nIt might have put all of Midorijima under his control."
+  },
+  {
+    "message": "The Toue Corporation's products and services窶品ncluding Allmates窶婦ere transferred to other corporations.\r\n<p>\r\nRhyme, too, changed hands. Usui was replaced."
+  },
+  {
+    "message": "And thus, bit by bit, the shadow of the Toue Corporation was lifted from my town."
+  },
+  {
+    "message": "Now, the people of Midorijima are working hard to return it to its former glory."
+  },
+  {
+    "message": "Mink's guys and I made it safely back to the Old Resident District."
+  },
+  {
+    "message": "At the gate to Platinum Jail, the members of Scratch who'd stayed behind came to meet us."
+  },
+  {
+    "message": "One of them walked up to me and asked if I was Aoba."
+  },
+  {
+    "message": "Apparently, he was the person Mink had been talking to that night, when he mentioned wanting to \"turn someone over.\""
+  },
+  {
+    "message": "Mink had asked him to be there for me once it was done. "
+  },
+  {
+    "message": "And yet, I doubted him... I felt so ashamed."
+  },
+  {
+    "message": "I just wanted to see him again. To apologize."
+  },
+  {
+    "message": "...But I couldn't. He was gone."
+  },
+  {
+    "message": "Mink had ordered Scratch to disband after this final mission, and told them they were free to do as they pleased."
+  },
+  {
+    "message": "But the gang wasn't remotely interested in disbanding."
+  },
+  {
+    "message": "If anything, they were more determined than ever to honor the memory of their boss."
+  },
+  {
+    "message": "Since I was the last person to see Mink, everyone asked me what had happened to him."
+  },
+  {
+    "message": "So I replied jokingly, \"You really think anything could kill Mink?\""
+  },
+  {
+    "message": "And they all responded, \"No chance in hell!\" and laughed."
+  },
+  {
+    "message": "Things changed for me, too, after we returned."
+  },
+  {
+    "message": "First off, those awful headaches went away completely."
+  },
+  {
+    "message": "<I>He</I> seemed to fade as well, that <I>presence</I> which would grow whenever I used Scrap."
+  },
+  {
+    "message": "I can tell he's still there inside me, but sleeping, deep in my heart."
+  },
+  {
+    "message": "I'd be lying if I said I had no worries at all, but despite everything, things have been shockingly calm since the incident."
+  },
+  {
+    "message": "...Time flies by, and Mink is still gone."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yes. Yes. I understand. We'll take care of it. Thank you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Phew.\""
+  },
+  {
+    "message": "I put down the receiver and stretch a bit before resting my elbows on the counter."
+  },
+  {
+    "message": "I just got off the phone with a customer."
+  },
+  {
+    "message": "I used to get a lot of calls from weirdos who just wanted to hear my voice, but not so much anymore."
+  },
+  {
+    "message": "Ever since the tower was destroyed, life has pretty much returned to normal, even in the Old Residential District."
+  },
+  {
+    "message": "I'm still working at Hum-Drum Junk, and everyone else―Koujaku, Noiz, and Clear―is safe."
+  },
+  {
+    "message": "Mizuki is recovering too. I even went to visit him yesterday."
+  },
+  {
+    "message": "The way things are now, I can't help but wonder sometimes if all that craziness wasn't just a dream.\r\n<p>\r\nBut no. I know it was real."
+  },
+  {
+    "message": "For one thing, plenty of other people remember what happened.\r\n<p>\r\nBut more than that..."
+  },
+  {
+    "message": "...Mink is gone."
+  },
+  {
+    "message": "I still don't know if Mink escaped the tower."
+  },
+  {
+    "message": "I've tried to track him down using what few resources I have, but I haven't even been able to confirm whether he's still alive."
+  },
+  {
+    "message": "I know it's not likely, not after that, but I just can't accept that there's no hope."
+  },
+  {
+    "message": "Maybe he's still alive somewhere. Part of me believes that."
+  },
+  {
+    "message": "...Part of me wants so badly to believe."
+  },
+  {
+    "message": "The members of Scratch were put on trial as escaped prisoners, but ultimately released on parole."
+  },
+  {
+    "message": "When the records were investigated by the island's new government, it turned out that most of them were in on extremely minor offenses."
+  },
+  {
+    "message": "I still meet with those guys on occasion, hoping they've heard something about Mink."
+  },
+  {
+    "message": "Now, maybe it's just me, but ever since the incident in Platinum Jail, I feel like the guys from Scratch have really changed."
+  },
+  {
+    "message": "I would never have met them if it hadn't been for Mink, but now we share a history."
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"We're all from the prison in the north quarter. When prisoners get sent there, they convince 'em they'll die if they ever leave.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"They put you in this weird room with these lights and this music... Fucks with your head.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"So no one ever tries to escape. You can't, even if you want to. That's why you hear we're so well behaved for a buncha supposedly hardcore criminals.\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"But Mink was the one who broke their hold on us. When we lost our shit, thinking we were gonna die, he beat some sense into us!\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Man. First time he slugged me, I thought I really was gonna die.\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"In rare cases, some people are strong enough to break the hypnosis. Mink was one of those people.\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"Apparently, getting thrown in prison was all part of his plan to get to Toue. Crazy son of a bitch, huh?\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Actually, I heard it was a direct order from Toue.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"One of the guards, he said they were supposed to keep an eye on him. Something to do with Toue's research. Like a test subject? Something like that.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Those prisons were just dumping grounds anyway. Those assholes from Platinum Jail used 'em to hide their dirty laundry and shit.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Mink was there for a good long time. He won over the guards and they pretty much let him do what he wanted.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Slip 'em a little cash, they'd tell you whatever you asked. We pretty much had the run of the place, so earning wasn't hard, either.\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Man, I just wanna see him again, y'know? It'd take more than that to kill Mink. He's alive somewhere. You can bet on it.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Aoba.\""
+  },
+  {
+    "message": "I'm staring at Junker, lost in thought, when Mr. Haga calls my name."
+  },
+  {
+    "name": "羽賀",
+    "message": "\"You can take the rest of the day off.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But it's still a little early...\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I don't think we'll be getting many more customers today. I should be able to manage on my own.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Alright, thanks. I guess I'll head out, then.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I'll see you tomorrow.\""
+  },
+  {
+    "message": "This isn't the first time he's let me off early. Although he never says anything outright, I can tell Mr. Haga is looking out for me."
+  },
+  {
+    "message": "My worries were probably showing on my face."
+  },
+  {
+    "message": "Mink... I feel bad about neglecting my work, but I just can't stop thinking about him."
+  },
+  {
+    "message": "He has to be alive. He <I>has</I> to."
+  },
+  {
+    "message": "That feeling grows stronger with each passing day."
+  },
+  {
+    "message": "I bow to Mr. Haga and pick up my bag."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, we're going home.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "message": "I pick up Ren and put him in my bag."
+  },
+  {
+    "message": "Somehow, I managed to repair him after we got back."
+  },
+  {
+    "message": "Mr. Haga helped source the parts, but I was determined to do the work myself, rather than send him back to the manufacturer."
+  },
+  {
+    "message": "I'd promised, after all."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm off.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Take care.\""
+  }
+]

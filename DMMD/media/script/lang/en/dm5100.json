@@ -1,0 +1,113 @@
+[
+  {
+    "message": "The room is small and the decor simple, but it has a classy feel to it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Better check him out.\""
+  },
+  {
+    "message": "I sit down on the bed and take Ren out of my bag."
+  },
+  {
+    "message": "I put him on my lap and start a diagnostic on my Coil."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's see.\""
+  },
+  {
+    "message": "...Hmm. Everything looks fine."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't see anything wrong with you. Do you still feel weird?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Hmm. It's difficult to describe, but something doesn't feel quite right.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I wonder what's causing it. Something inside, I guess.\""
+  },
+  {
+    "message": "Ren's breathing is back to normal, but I'm still worried."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hmm...\""
+  },
+  {
+    "message": "I part his fluffy fur and check his body. Ren fidgets a bit like it tickles."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess it's not external damage...  Damn. If I'd been more careful...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Your orders came faster this time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, I did used to play, apparently. It still doesn't feel real, though... but it's like my instincts are starting to come back.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But that field was strange. Maybe it's because it was another ganking, or maybe that's just what it's like these days.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Please stop.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What is it? Is something wrong?\""
+  },
+  {
+    "message": "I stop what I'm doing and look at him. He licks his nose like he wants to say something."
+  },
+  {
+    "name": "蓮",
+    "message": "\"No, it's...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm? What's wrong? Why don't you just tell me?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I... feel strange. I don't know how else to describe it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh... I guess we're not gonna learn anything else unless I open you up. Have you noticed any issues in your basic functions?\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"Not particularly.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then maybe we should just wait and see... But you better tell me the moment anything changes, okay?\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"Understood.\""
+  },
+  {
+    "message": "I close the diagnostic, pick up Ren, and hold him up to my face."
+  },
+  {
+    "message": "He gazes at me with those big, black, shiny eyes."
+  }
+]

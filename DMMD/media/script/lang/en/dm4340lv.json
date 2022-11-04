@@ -1,0 +1,286 @@
+[
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "Clear's eyelashes cast delicate shadows on his cheeks."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Everyone dies eventually. That's why you try to live life to the fullest.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But no matter what you do, it doesn't change the fact that every day you're one step closer to death.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"And once you die, you're just an object, a thing... No different from any machine.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But despite that, you struggle so hard to <I>do</I> something in the time you have. Why? What are you trying to leave behind?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"The simple fact that you were alive? But what's the use of that?\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"Isn't that just selfish?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "...I think I know what he's trying to say."
+  },
+  {
+    "message": "What is the meaning of life?"
+  },
+  {
+    "message": "What does it mean to die?"
+  },
+  {
+    "message": "Does anyone out there truly know the answers to these questions?"
+  },
+  {
+    "message": "You can't exactly talk with people who've died..."
+  },
+  {
+    "message": "Some people say you go to heaven when you die. Some people say you go to hell."
+  },
+  {
+    "message": "But none of them have seen it for themselves."
+  },
+  {
+    "message": "No one really knows what's waiting for them."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...That's a good question, but I don't know the answer. I'm don't think anyone does.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I guess I have to agree that living is more or less selfish.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Isn't it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There are some people who devote their entire lives to helping others, but I think most people are focused on living their own lives to the fullest.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I think that's because, ultimately, you can't really imagine what comes after you die, so it's scary, right?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Because you can't imagine it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. I mean, we don't know what happens after we die. We don't know if anything even happens at all, right?\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Even if you can imagine it, you can never prove it because you'd have to be dead to find out.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So I think that's why people try to leave behind some proof of who they were. So they can believe that even after they die, some part of them will remain.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And I think we feel that way because death is so unimaginable. That's why we all cling to life so desperately.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I think everyone fears death to different degrees. It's not like living is fun all the time.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sometimes things can get bad enough to make you want to die. I think some people see death as a release from all their troubles in life.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"A release?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. Even a hellish death might seem like salvation from heaven to some people.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So, ultimately it depends on your interpretation of things. Everyone has to figure it out for themselves.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Personally, I'd like to try to find as much happiness as I can while I'm alive. I mean, you never know, you could always drop dead tomorrow.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "Clear just gazes at me for a moment."
+  },
+  {
+    "message": "It looks like he's trying his damnedest to understand what I just said."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...So in other words, you're saying that you're happier being with me than dying?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...That's a bit of a leap, but you're not wrong.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm not such a saint that I'd want to spend my life with someone I don't like, after all.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"Really... Okay.\""
+  },
+  {
+    "message": "Clear nods a few times, like it finally makes sense to him."
+  },
+  {
+    "message": "And then he smiles softly."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master, you're always teaching me new things.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "Clear's voice snaps me out of my daze. I let his smile distract me for a second there..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Is something wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh no, I was just thinking about how I've never seen you smile before.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...I'm sorry, is my smile strange?\""
+  },
+  {
+    "message": "I quickly shake my head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not at all.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh. Good.\""
+  },
+  {
+    "message": "Clear smiles, relieved, then looks at me like he has something to ask."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Um, Master, I have a request...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"May I sing for you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sing?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"You've taught me so many new things, and I'd like to sing for you to show my gratitude. May I?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sure.\""
+  },
+  {
+    "message": "I wonder what kind of song he'll sing."
+  },
+  {
+    "message": "Clear takes a deep breath, then starts to sing."
+  },
+  {
+    "message": "A delicate melody flows from his lips."
+  },
+  {
+    "message": "His serene voice fills my heart with calm."
+  },
+  {
+    "message": "I take deep breaths, as if drinking in the music."
+  },
+  {
+    "message": "And then the words just spill from my mouth..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I like this song of yours.\""
+  },
+  {
+    "message": "Clear stops singing and looks at me happily."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Grandpa always loved it when I sang for him. That's why I thought it'd make you happy too.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm so glad you like it.\""
+  },
+  {
+    "message": "Clear starts to sing again."
+  },
+  {
+    "message": "Ren is sitting next to me, relaxed with his eyes closed. His ears prick up from time to time."
+  },
+  {
+    "message": "As I listen to Clear's song, I think back to the question that crossed my mind yesterday."
+  },
+  {
+    "message": "What if Clear isn't human?"
+  },
+  {
+    "message": "...It doesn't matter."
+  },
+  {
+    "message": "I mean, look at me... I have this weird power to control people with my voice."
+  },
+  {
+    "message": "It doesn't matter what Clear is."
+  },
+  {
+    "message": "Whatever he is, I like his song."
+  },
+  {
+    "message": "I give myself over to the melody, and for a short while, all my troubles are forgotten."
+  }
+]

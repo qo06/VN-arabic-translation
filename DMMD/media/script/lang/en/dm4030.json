@@ -1,0 +1,131 @@
+[
+  {
+    "message": "How far have we run?"
+  },
+  {
+    "message": "We stop and check the area."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh, haa, haa, haa...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Haa, haa, it's fine now. The police aren't following us anymore.\""
+  },
+  {
+    "message": "Clear is hunched over, panting. I lean against the wall to catch my breath."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How... do you know... they're not chasing us anymore?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'd be able to hear their footsteps if they were.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really...?\""
+  },
+  {
+    "message": "Is his hearing really that good?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's a game download.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Again?! Why now...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"A game?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It appears to autoplay.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"An invitation? Does that mean we can get into Platinum Jail?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That's what it looks like.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shit still doesn't make any sense...\""
+  },
+  {
+    "message": "...No. Wait a second."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I got the same thing when Granny was kidnapped too.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. Remember? That thing I mentioned about an old lady being abducted by bats.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. You did mention that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"After I got that, Granny was actually kidnapped. So I'm wondering if this might not be another warning or something.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Well, we certainly can't eliminate the possibility. But the shadiness levels are off the charts, if you ask me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "I don't even know who's sending these. There's a good chance it's a trap."
+  },
+  {
+    "message": "But a cave, a treasure chest, a key, a door..."
+  },
+  {
+    "message": "What does it all mean?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A message this time?\""
+  },
+  {
+    "message": "There's an image attached. A map of the Old Residential District."
+  },
+  {
+    "message": "A spot is marked in red on the left edge of the wall surrounding Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We need to meet up with Mr. Haga. Let's get going.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Alright.\""
+  },
+  {
+    "message": "We're headed for Platinum Jail."
+  }
+]

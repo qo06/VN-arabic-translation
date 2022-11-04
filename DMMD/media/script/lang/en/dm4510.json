@@ -1,0 +1,23 @@
+[
+  {
+    "message": "We come out into the hall."
+  },
+  {
+    "name": "クリア",
+    "message": "\"If we go straight down that hall to the left, we should find an emergency elevator. It goes directly to the first floor. We can get out that way.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it.\""
+  },
+  {
+    "message": "An explosion rocks the tower. Alarms start blaring."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We gotta hurry...!\""
+  },
+  {
+    "message": "I race down the shaking hall to the elevator, doing my best to keep Clear on his feet."
+  }
+]

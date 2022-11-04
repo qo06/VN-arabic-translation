@@ -1,0 +1,65 @@
+[
+  {
+    "message": "Abruptly, the song stops."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Gah!\""
+  },
+  {
+    "message": "Clear falls to his knees, gasping."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "message": "I run to his side."
+  },
+  {
+    "name": "クリアα",
+    "message": "\"...Hah. What? All bark and no bite?\""
+  },
+  {
+    "message": "Released from Clear's song, Alpha walks up to Clear and kicks him off his knees."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "Clear topples to the ground, limp, unresisting."
+  },
+  {
+    "name": "東江",
+    "message": "\"...Bring him.\""
+  },
+  {
+    "message": "Someone grabs my arm and pulls me away.<k>\r\n<?>"
+  },
+  {
+    "message": " ...Alpha-2."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No! Don't touch me!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Collect Clear as well.\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"Yes, Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No! Clear! Clear...!\""
+  },
+  {
+    "message": "But Clear doesn't respond. The last thing I see before Alpha-2 drags me away..."
+  },
+  {
+    "message": "...are Clear's eyes, staring into nothing."
+  }
+]

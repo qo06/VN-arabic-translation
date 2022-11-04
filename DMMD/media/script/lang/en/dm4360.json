@@ -1,0 +1,203 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "I shoot up on the sofa."
+  },
+  {
+    "message": "...How long was I out?"
+  },
+  {
+    "message": "When I look at my Coil, I'm relieved to see that only fifteen minutes have passed."
+  },
+  {
+    "message": "My headache is gone. Clear's song really worked wonders..."
+  },
+  {
+    "message": "Wait, where is he? I don't see him anywhere."
+  },
+  {
+    "message": "Ren's gone too. Maybe they went downstairs."
+  },
+  {
+    "message": "As I get up off the couch, I hear voices from downstairs."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Why don't you call Master 'Master?'\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "message": "I peer over the handrail."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Aren't you Master's Allmate? He owns you, so that makes him your master.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That's true.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Then why don't you call him Master?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You're correct in terms of our relationship, but to me, Aoba is just Aoba. There's no need for me to call him 'Master.'\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"That makes it sound like you're his equal. But you aren't, are you?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I believe that is more an issue with how Aoba sees things, rather than with my perspective. I simply follow his lead.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I see. I'm not sure I'll ever understand.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Well, Aoba <I>is</I> his name.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But Master is my master.\""
+  },
+  {
+    "message": "...This conversation is going nowhere fast."
+  },
+  {
+    "message": "Clear calls me \"Master\" because he decided, for one reason or other, that I'm his master."
+  },
+  {
+    "message": "But I guess that means he'd call any master \"Master,\" not just me."
+  },
+  {
+    "message": "Well... Like, take Mr. Haga. I call him \"boss,\" which is kind of the same thing, right? No big deal."
+  },
+  {
+    "message": "Downstairs, the argument continues."
+  },
+  {
+    "message": "I decide to head down and break the stalemate."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's all this nonsense?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Were you listening?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, I just happened to overhear some of it.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Then what do you think about the issue, Master?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I think you should do whatever you want, really.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Whatever I want? What do you mean?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You can call me Master if you want. But I'd rather be called by my own name.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, let me ask. Would you call anyone other than me 'Master?'\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Well...\""
+  },
+  {
+    "message": "Clear considers this for a moment."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...That's a good question. I never considered the possibility that I might have another master...\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"...but if such a person were to appear, I guess I would call them 'Master.'\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Thought so.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Did I say something odd?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No. It's just like, I mean this is just my opinion here, but my name's Aoba, right?\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And, like, 'Master' is something you could call anyone who fit the bill, and I guess something about that makes it feel kinda distant.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Distant?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but it's not a big deal. I know you're always thinking about me.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"Of course I am.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then that's enough. Now let's get ready to head out.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Okay.\""
+  },
+  {
+    "message": "Though he still seems unconvinced, Clear heads upstairs."
+  },
+  {
+    "message": "...It really doesn't bother me that much. "
+  },
+  {
+    "message": "I just hope Clear doesn't worry about it too much either..."
+  },
+  {
+    "message": "I pick Ren up and head back upstairs to get ready."
+  }
+]

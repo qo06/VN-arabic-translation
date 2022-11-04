@@ -1,0 +1,267 @@
+[
+  {
+    "message": "The alley opens onto a fountain surrounded by some benches."
+  },
+  {
+    "message": "There's a lump sitting in front of the fountain."
+  },
+  {
+    "message": "...I know instantly that it's Clear."
+  },
+  {
+    "message": "Worried he might run again, I approach slowly."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Clear.\""
+  },
+  {
+    "message": "He twitches, making his silver hair sway."
+  },
+  {
+    "message": "His hair is wet. He must've dunked his head in the water."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey... Is, uh, your face okay? Did you wash it all off? There was so much smoke, I was really worried...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I just washed it off. I'm fine now.\""
+  },
+  {
+    "message": "Clear answers without looking at me."
+  },
+  {
+    "message": "I crouch down and try to get a better look at him. He still has the gas mask on."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why won't you look at me?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you really okay? It doesn't hurt?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No. It doesn't hurt.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why won't you take off your mask? You need to make sure you get all of it.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm fine. I'll wash it later.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Later?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes.\""
+  },
+  {
+    "message": "...He really is acting weird."
+  },
+  {
+    "message": "You just had enough acid poured on your head to make it smoke. How can you possibly be okay after just rinsing it off a little?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You aren't just pretending you're okay, right?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I am not.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then why don't you just wash your face right now?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I was told that I should never remove my mask.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Who told you that?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"My grandpa.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Your grandpa... The nice old man you used to live with?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why did he tell you that?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "For several seconds, I hear nothing but the fountain and the distant music from the street."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Grandpa said I was different.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Different?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. He said my face was different, so I must never let people see it. I'm sure I must look horribly strange.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Like a monster, just like those people said. I'm not normal. So...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please, Master. Please don't look at my face. I don't want you to hate me. I can't lose you. Please don't make me show you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I gently put my hand on his shoulder. His whole body jumps."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm not gonna hate you, no matter what your face looks like.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...How can you say that?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"You've never seen my face, Master. You can't know if it'll make you hate me or not.\""
+  },
+  {
+    "message": "Clear's voice is hard as ice, and as brittle."
+  },
+  {
+    "name": "クリア",
+    "message": "\"How can you be sure? Even if you are my master, that's the one thing I won't do. I can't.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sure, I haven't seen your face before, but let me ask you this. I've been with you this whole time without ever seeing your face.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I already know what kind of person you are. So how could seeing your face―whatever it looks like―make me hate you?\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're a weirdo, and I can never tell if you're playing dumb or what, but I wouldn't say I hate that about you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So even if your face is different, you're still the same Clear. I have no reason to hate you.\""
+  },
+  {
+    "message": "Clear seems to hesitate, then turns to face me just a little."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Are you telling the truth?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Are you sure you won't hate me, no matter what face I have?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Of course I won't.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Can I trust you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "I lean over to look into Clear's face. I can see his eyes staring back at me through the mask."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm your master, right?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then trust me. Pretty sad if you can't even trust your master, right?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"......\""
+  },
+  {
+    "message": "Clear says nothing for a moment, then slowly turns the rest of the way toward me."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Okay. I'll trust you, Master.\""
+  },
+  {
+    "message": "With a soft, nervous whisper, he reaches for his mask."
+  },
+  {
+    "message": "His white-gloved fingers are trembling slightly."
+  },
+  {
+    "name": "クリア",
+    "message": "\"You really won't hate me, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I won't.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Okay.\""
+  },
+  {
+    "message": "A hint of resolve has entered his voice. Slowly, Clear removes his mask."
+  }
+]

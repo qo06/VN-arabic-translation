@@ -1,0 +1,48 @@
+[
+  {
+    "name": "クリア",
+    "message": "\"By the way, Master, not to change the subject, but are we going to try to get into Oval Tower?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm still not sure exactly what our next step is, but I think we should scope out the tower just in case.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Then why don't we go there? It can't hurt to get the lay of the land.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sure.\""
+  },
+  {
+    "message": "I nod while plucking a strawberry off a stack of pancakes. That was my plan to begin with."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Alright, let's get ready and head out.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay. Oh, don't worry. I'll clean up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, I ate, so I'll help.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Really? Thank you so much, <I>darling!</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ow! That hurts, Master!\""
+  },
+  {
+    "message": "...Our little slapstick routine continues as we clean up breakfast and get ready to leave."
+  }
+]

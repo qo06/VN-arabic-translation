@@ -1,0 +1,174 @@
+[
+  {
+    "message": "We run together down the dark and narrow alley."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Clear abruptly stops, changes direction, then stops again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...There are too many of them. We're surrounded.\""
+  },
+  {
+    "message": "Now I hear them too. Footsteps all around us."
+  },
+  {
+    "message": "Men appear at either end of the alley, approaching slowly."
+  },
+  {
+    "message": "There are about about ten of them. They all look like they mean business."
+  },
+  {
+    "message": "At the head of the group is that guy from the other day, the glasses-wearing yakuza."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Hey there.\""
+  },
+  {
+    "message": "His face is covered with bruises, and his smile is not what you'd call reassuring."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"See, it just ain't in my nature to be selfish, so I thought I oughta be polite and repay you two.\""
+  },
+  {
+    "message": "With a jerk of his chin, he signals his men."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! Get off me!\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Shut your mouth!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I said don't touch me!\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Fuck! Gimme a hand here!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"L-Let me go!\""
+  },
+  {
+    "message": "I kick several of them away, but there are too many. Soon, they have my arms pinned."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Hold it. Behave, and I promise no one will hurt your precious 'master.'\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Really?\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Really.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear, don't listen to him!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But if I behave, they won't hurt you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You idiot!\""
+  },
+  {
+    "message": "But it's pointless. Clear stands still and lets them grab him."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Now, as I recall, you, Mr. Gas Mask, were the one who gave me the best 'present.'\""
+  },
+  {
+    "message": "The man walks up to Clear and gets right in his gas-masked face."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"First, I'll be taking this bullshit mask of yours.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No.\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"You really don't understand the situation, do you? Hey, hold him tight.\""
+  },
+  {
+    "message": "He reaches for the gas mask, but just as he's about to pull it off―"
+  },
+  {
+    "name": "クリア",
+    "message": "\"I said no!\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Ugh!\""
+  },
+  {
+    "message": "Clear knees him in the gut."
+  },
+  {
+    "message": "He doubles over, sputtering, then glares at Clear."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"...Motherfucker!\""
+  },
+  {
+    "message": "Enraged, the man grabs Clear by the head and smashes his face into the ground."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!!\""
+  },
+  {
+    "message": "Once Clear is down, the man starts to kick him mercilessly."
+  },
+  {
+    "message": "The others join in. Between their legs, I can see Clear huddled on the ground."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let―fuck―let me go! Clear!\""
+  },
+  {
+    "message": "He doesn't have a chance!"
+  },
+  {
+    "name": "兄貴",
+    "message": "\"I think that's enough. Wouldn't wanna kill him.\""
+  },
+  {
+    "message": "Grinning smugly, he rolls Clear over with his foot. Clear's arms flop to the ground."
+  },
+  {
+    "message": "...He's still alive, right?\r\nHe's okay... right?"
+  }
+]

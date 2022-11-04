@@ -1,0 +1,156 @@
+[
+  {
+    "message": "Toue raises his right hand. The two Clears behind him step forward."
+  },
+  {
+    "name": "東江",
+    "message": "\"These two are from the R-2E SP series. Think of them as your little brothers. Naturally, they're more advanced than a regular R-2E unit like yourself.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"To your right is Alpha and to your left is Alpha-2.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Now, why don't we have a touching family reunion?\""
+  },
+  {
+    "message": "The one named Alpha walks up to Clear with an arrogant smile on his face."
+  },
+  {
+    "name": "クリアα",
+    "message": "\"Ugh. Honestly, I really don't feel like dealing with you, but orders are orders.\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"I mean, it's not like you could even fight us if you wanted.\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"You already broke your hard lock, so your auto-repair systems have shut down. Breaking down doesn't feel very good, does it? Dear decrepit brother.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Breaking down...?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"They have a hard lock installed which prevents them from rebelling against their master or their own kind.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"Under normal circumstances, it should be impossible to defy the programming, but Clear appears to be special.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"If a unit does violate its programming, the auto-repair function shuts off, and the unit begins to break down.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"In essence, the body decays with no way to repair the damage. The unit must return to us for that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No...\""
+  },
+  {
+    "message": "That must be why Clear's been in so much pain..."
+  },
+  {
+    "message": "As if to illustrate Toue's explanation, flakes of skin fall from Clear's arm."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Clear's 'younger brothers' also have that hard lock in place, but I have deactivated it for the moment so that they can punish their comrade for his mutiny.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"Here I come, dear brother!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Alpha leaps at Clear, unleashing a flurry of punches and kicks."
+  },
+  {
+    "message": "Clear defends, but Alpha's speed is overwhelming. Many strikes make it past Clear's guard."
+  },
+  {
+    "message": "With that hard lock still in place, Clear can't even fight back!"
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"You won't last long if you keep taking hits! Are you trying to bore me?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ugh...!\""
+  },
+  {
+    "message": "Alpha lands a kick in Clear's side, sending broken pieces of Clear's body flying."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Clear!\""
+  },
+  {
+    "message": "I start toward him."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please stay back!\""
+  },
+  {
+    "message": "His voice freezes me in place."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Please stay back, Aoba. Please...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh!\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"You're so weak. I hoped for better entertainment. How disappointing.\" "
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ugh... Gah!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"It's hard, isn't it? You don't even have the option to fight back. What better proof could you ask for that we're machines?\""
+  },
+  {
+    "name": "クリアα",
+    "message": "\"We aren't human.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Ugh.\""
+  }
+]

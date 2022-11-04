@@ -1,0 +1,37 @@
+[
+  {
+    "message": "Oval Tower rises above us, gleaming brilliantly at the center of this unending night."
+  },
+  {
+    "message": "It's beautiful... almost eerily so."
+  },
+  {
+    "message": "We stand before the entrance to the tower, taking in its splendor."
+  },
+  {
+    "message": "And then we approach together..."
+  },
+  {
+    "message": "Guards are stationed at the entryway."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Please show your invitation to the authentication screen.\""
+  },
+  {
+    "message": "I open the invitation on my Coil and hold it up to the screen by the entrance."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"...Confirmed. Welcome to Oval Tower. Please proceed.\""
+  },
+  {
+    "message": "The entrance opens softly."
+  },
+  {
+    "message": "This is it. From this point forward, we're firmly in Toue's grasp."
+  },
+  {
+    "message": "Clear and I exchange a look... then step inside."
+  }
+]

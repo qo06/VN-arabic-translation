@@ -1,0 +1,22 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...Are you worried about something?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Worried?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"All these questions make me think you're really afraid of something.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Afraid? Me? No. I'm not afraid.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then what's with the questions?\""
+  }
+]

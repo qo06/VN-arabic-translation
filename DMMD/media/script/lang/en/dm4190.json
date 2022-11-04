@@ -1,0 +1,123 @@
+[
+  {
+    "name": "クリア",
+    "message": "\"I'm sorry. I wasn't trying to kill him. Really.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"More importantly, we've gotta keep a low profile. We're screwed if they catch us before we get to Toue.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And just so you know, I can take a few hits just fine. You look out for yourself, too.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I understand. I'll be careful.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm very sorry for causing you so much trouble...\""
+  },
+  {
+    "message": "Clear's shoulders droop."
+  },
+  {
+    "message": "He looks pathetic, like a scolded puppy. I gently pat his head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, the important thing is that you understand. Don't beat yourself up over it.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay, thank you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No problem.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh, Master!\""
+  },
+  {
+    "message": "Clear shouts suddenly, startling me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What now?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I just realized something! Please look out the window!\""
+  },
+  {
+    "message": "I look out the window, but I don't see anything of interest."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's out there?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It's night!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's always night here.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, I'm talking about the time.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"So I think I'll be going to bed now!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Good night!\""
+  },
+  {
+    "message": "With that, Clear leans back into the couch and folds his hands in his lap."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Zzzzzzz...\""
+  },
+  {
+    "message": "...I fight the urge to punch him."
+  },
+  {
+    "message": "He better not be grinning under that stupid mask of his..."
+  },
+  {
+    "message": "I try shaking his shoulders."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Mnnnnn.\""
+  },
+  {
+    "message": "...Fucker's totally awake."
+  },
+  {
+    "message": "I bet he <I>is</I> grinning under there, pretending to snore like an asshole. "
+  },
+  {
+    "message": "Thinking to get back at him, I reach for his mask..."
+  }
+]

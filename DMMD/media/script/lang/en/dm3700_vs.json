@@ -1,0 +1,328 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "message": "I grip the handlebars for dear life as the bike rockets down the stairs."
+  },
+  {
+    "message": "Mink must have already found Toue, but I try my best to put the thought out of my mind and focus on staying on the bike."
+  },
+  {
+    "message": "The bike slows as it hits a landing. This is the floor where Mink's guys fought the cops. They must have gone farther down."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"Look out!\""
+  },
+  {
+    "message": "Something shoots past my head."
+  },
+  {
+    "message": "I turn to look. The wall is <i>melted</i> when it struck."
+  },
+  {
+    "message": "What the actual fuck?!"
+  },
+  {
+    "message": "Turning, I see a dog halfway down the stairs. Its mouth opens wide, as if yawning."
+  },
+  {
+    "message": "Wait! That's too wide!"
+  },
+  {
+    "message": "From the dog's gaping maw, a narrow tube extends."
+  },
+  {
+    "message": "...Oh <I>fuck.</i>"
+  },
+  {
+    "message": "The bike accelerates again, narrowly avoiding the second shot."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell is that?!\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"A custom security Allmate. They aren't on the market.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"An Allmate?!\""
+  },
+  {
+    "message": "Something about that rings a bell. I search my memories."
+  },
+  {
+    "message": "Didn't I have a conversation about something like this?"
+  },
+  {
+    "message": "...Right! Ren!"
+  },
+  {
+    "message": "That program Mink forced me to install. He'd said it would destroy the security Allmates in the tower."
+  },
+  {
+    "message": "This must be what he meant!"
+  },
+  {
+    "message": "Does that mean I can stop them if I use that program?"
+  },
+  {
+    "message": "But if I do that, what might happen to Ren?"
+  },
+  {
+    "name": "トリ",
+    "message": "\"Use that furball.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But...\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"There's no time. This tower's crawling with those things.\""
+  },
+  {
+    "message": "Looking up, I see several more dogs approaching from above."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"Your empathy is misplaced. We're Allmates. We exist to serve our partners.\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"We aren't alive, but humans are. If you die, your little blue friend loses his purpose.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh, fine.\""
+  },
+  {
+    "message": "There's no choice. I take Ren out of my bag and turn him on."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren... I'm sorry.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are we going to use the program?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm sorry.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"There's no need to apologize. This is my duty. Please plug me into the tower's network port.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh...\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"I'll take you there. Hold on.\""
+  },
+  {
+    "message": "The bike starts moving before I even have a chance to grab the handlebars."
+  },
+  {
+    "message": "It takes us down the stairs, into a hallway, and stops a few meters along."
+  },
+  {
+    "name": "トリ",
+    "message": "\"It's under that wall panel.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it.\""
+  },
+  {
+    "message": "I get off the bike and open the wall panel."
+  },
+  {
+    "message": "I part Ren's fur to expose the ports on his belly, then pull a cable from the panel..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "...and plug it into Ren."
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "message": "Ren's body jerks once, twice, then freezes."
+  },
+  {
+    "message": "...Did it work?"
+  },
+  {
+    "message": "I look over my shoulder. Several dog Allmates have chased us into the hallway."
+  },
+  {
+    "message": "They're still coming, their mouths open to reveal the muzzles of their guns."
+  },
+  {
+    "message": "What happened? Did it... fail?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "message": "Then that means Ren..."
+  },
+  {
+    "message": "I struggle not to scream."
+  },
+  {
+    "message": "Shit!"
+  },
+  {
+    "message": "Now our only choice is to run and pray."
+  },
+  {
+    "message": "The dogs' mouths light up..."
+  },
+  {
+    "message": "...and then, the light vanishes."
+  },
+  {
+    "message": "All at once, the dogs collapse, as if their legs were chopped out from under them."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...They stopped.\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"Looks like it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ren.\""
+  },
+  {
+    "message": "I pick up Ren's body and touch it to my cheek."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'll fix you. I swear.\""
+  },
+  {
+    "message": "I gently place him in my bag and get back on the bike."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's go.\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "The bike starts down the stairs again."
+  },
+  {
+    "message": "No matter what happens, I need to get out of this tower."
+  },
+  {
+    "message": "For Ren. No matter what!"
+  },
+  {
+    "name": "悪島",
+    "message": "\"Ahahahahahaha! Hahaha! Hahahahahahaha!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Hahahahahahahaha... Hmmmm...?\""
+  },
+  {
+    "message": "The bike screeches to a halt."
+  },
+  {
+    "message": "That person at the end of the hall..."
+  },
+  {
+    "message": "Akushima?!"
+  },
+  {
+    "message": "Akushima looks back over his shoulder at me."
+  },
+  {
+    "name": "悪島",
+    "message": "\"Oh, hey! It's YOU! Come to dieeeeeeee?!\""
+  },
+  {
+    "message": "An eerie grin spreads across Akushima's face."
+  },
+  {
+    "message": "I thought the guys from Scratch knocked him out..."
+  },
+  {
+    "message": "Something is very wrong here."
+  },
+  {
+    "message": "His eyes aren't focused on anything. It's like he's looking straight through me."
+  },
+  {
+    "message": "Wait. Is he being controlled too?"
+  },
+  {
+    "message": "Mink's guys are standing on the other side of Akushima."
+  },
+  {
+    "message": "He must have been chasing them as they fled the tower."
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Huh?! What are you doing here?!\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"What happened to Mink?!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"I'm gonna kill aaaaall of yaaaaaaaa!!!\""
+  },
+  {
+    "name": "ミンクチームＡ",
+    "message": "\"Whoa!\""
+  },
+  {
+    "name": "ミンクチームＢ",
+    "message": "\"Shit!\""
+  },
+  {
+    "message": "The beam from Akushima's megaphone-thing blasts chunks from the wall, filling the air with dust and smoke."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh fuck...\""
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"Wait up!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Umm, excuse me! Do you have a moment?!\""
+  },
+  {
+    "message": "When I see who he's waving to, I nearly have a heart attack."
+  },
+  {
+    "message": "Can't he see they're gangsters?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Excuse me, sir! I have something I'd like to ask youuuu!\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"The fuck you want?\""
+  },
+  {
+    "message": "Oh fuck! Fuuuuck! I have to stop him!"
+  },
+  {
+    "name": "クリア",
+    "message": "\"We're hoping to get into the tower over there. You wouldn't happen to know how to do that, would you?\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Tower? You better show a little respect before you start askin' questions, buddy.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Respect? You mean like saying hello?\""
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"You fucking with us? Hand over whatever money you got.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Money? Oh no. I don't share money with people I've only just met.\""
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"Say what?\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Kid thinks he's hot shit!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That idiot...! Clear!\""
+  },
+  {
+    "message": "One of the punks looks ready to explode. He raises his fist―"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "message": "They're gonna beat the shit outta him!"
+  },
+  {
+    "message": "But then―"
+  },
+  {
+    "name": "クリア",
+    "message": "\"Noooooooo fighting!\"\r\n<p>\r\nClear suddenly starts windmilling his arms!"
+  },
+  {
+    "name": "チンピラＢ",
+    "message": "\"Gaah!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?!\""
+  },
+  {
+    "message": "Somehow, one of his fists lands on the closer man's forehead. He goes down like a sack of gravel."
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"You fucked up, boy!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Fighting is wrong!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear!\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Hey, what's goin' on here?!\""
+  },
+  {
+    "message": "Another gangster appears at the end of the alley."
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"Boss! These assholes just...\""
+  },
+  {
+    "message": "The newcomer glances at the man on the ground, then up at us."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"Which one?\""
+  },
+  {
+    "name": "チンピラＡ",
+    "message": "\"The one in the gas mask.\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"I see. Hey! This guy? He's one of mine. Can't have people punching out my guys.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"He started it.\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear, don't say another word. ...Look, everything just got a little out of hand. We're really sorry.\""
+  },
+  {
+    "message": "I tug on Clear's arm and bow to the yakuza."
+  },
+  {
+    "message": "But, well... I guess it's a little too late."
+  },
+  {
+    "name": "兄貴",
+    "message": "\"We're way beyond apologies, kid. We've got an image to uphold... <I>see?!</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Suddenly, he walks up and shoves me in the chest. I stumble back into Clear."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master! Are you alright?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm fine.\""
+  },
+  {
+    "name": "兄貴",
+    "message": "\"The fuck? <I>Master?</I> What are you, his dog?\""
+  }
+]

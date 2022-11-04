@@ -1,0 +1,40 @@
+[
+  {
+    "message": "I follow the main street like Clear's map says."
+  },
+  {
+    "message": "...What? What was that just now?"
+  },
+  {
+    "message": "Something familiar catches my eye, so I turn around to see what it was."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, what's wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm? Nothing. I just thought I saw Clear.\""
+  },
+  {
+    "message": "That slouch and messy hair... Who else could it be?"
+  },
+  {
+    "message": "But when I turned to look, he was already gone."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Couldn't be. It must've been someone who looks like him.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Isn't Clear at Oval Tower?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. That's why I said it couldn't be.\""
+  },
+  {
+    "message": "I screw my head back on and head for the tower."
+  }
+]

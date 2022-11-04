@@ -1,0 +1,91 @@
+[
+  {
+    "message": "As their footsteps fade into the distance, I sink to my knees and stare at Clear."
+  },
+  {
+    "message": "The scene I just witnessed was too... impossible. It's only by sheer force of will that I manage to get back to my feet."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Clear?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you okay...?\""
+  },
+  {
+    "message": "Smoke is still coming off his head. I have to fight to get the words out through my fear."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How are you so calm? We have to rinse that off or something before it's too late... We have to do something!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're not! You're still smoking! We have to...!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Enough bullshit! Just gimme a break already!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Is that an order?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh...?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Even if you make it an order... that's the one thing I can't do!\""
+  },
+  {
+    "message": "Clear dashes off."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Hey! Clear! Wait!\""
+  },
+  {
+    "message": "What the hell?! He ran away?! Where is he even going?!"
+  },
+  {
+    "message": "I chase after him, my thoughts a jumble of confusion."
+  },
+  {
+    "message": "What the hell is he thinking?! No way he's fine after that!"
+  },
+  {
+    "message": "And now he's running away?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Clear is a lot faster than I expected, and I soon lose sight of him. I stop in an alley to get my bearings."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where did he...?\""
+  },
+  {
+    "message": "I hear the sound of water flowing."
+  },
+  {
+    "message": "It's coming from the narrow alley to my left."
+  }
+]

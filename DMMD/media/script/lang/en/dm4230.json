@@ -1,0 +1,143 @@
+[
+  {
+    "message": "......"
+  },
+  {
+    "message": "I've been following Clear's map for what feels like hours. Something's wrong."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Ren, this isn't taking us to Oval Tower, is it?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I believe not.\""
+  },
+  {
+    "message": "I can see Oval Tower to our right, but we're heading left."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We're close, though.\""
+  },
+  {
+    "message": "Skeptical as I am, I keep walking until I arrive at the location indicated on Clear's map."
+  },
+  {
+    "message": "Oval Tower, it is not."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What is that idiot up to?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Clear. I think you sent the wrong map.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, Master! I'm here! Up here!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Up where?\""
+  },
+  {
+    "message": "I look up... and gape."
+  },
+  {
+    "message": "A man in a gas mask is waving from a window of the building in front of me."
+  },
+  {
+    "message": "That idiot...!"
+  },
+  {
+    "message": "The building's sign reads \"Overr Tower.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That idiot...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It seems he got the wrong tower.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How do you <I>do</I> that?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Now that is a mystery.\""
+  },
+  {
+    "message": "Glaring at Clear, I raise my Coil and take a deep breath."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You idiot! Get your ass down here right now!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master! No! Shh! Shhh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You got the wrong tower! Hurry up and get down here!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "There's a pause."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, really!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"N-No way!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You can freak out later. Just get down here already!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay...\""
+  },
+  {
+    "message": "His masked shape finally disappears from the window."
+  },
+  {
+    "message": "A minute later, a dejected Clear trudges out of the entrance to Overr Tower."
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'm sorry...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Let's just get back to Glitter.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay...\""
+  },
+  {
+    "message": "Clear in tow, I wearily head back the way I came."
+  }
+]

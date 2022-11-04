@@ -1,17 +1,11 @@
-# nitro-chiral-mobile
-this is a port of nitro+chiral games to renpy
+this is a translation of nitro+chiral games to Arabic
+only togainu no chi games will be ported to renpy 
 
 the list of games:
 1. togainu no chi
-2. togainu no chi TBA
+2. togainu no chi TBA(?)
 3. lamento beyond the void
-4. sweet pool (pc and psvita)
-5. dmmd
-6. dmmd re:code
-7. dmmd re:connect
-
-you are going to need to have a copy of the original game to be able to play it.
-all of these games are going to be in english
-
-whenever I am done with a game I'll upload the scripts here alongside a guide on how to install it.
-since renpy supports many devices, each device will have a guide for it.
+4. sweet pool (pc and bonus stuff from the vita verion)
+5. dmmd (jast version)
+6. dmmd re:code(videos)
+7. dmmd re:connect(orginal and when the jast version comes out)

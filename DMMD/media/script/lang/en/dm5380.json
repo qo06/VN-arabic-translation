@@ -1,0 +1,418 @@
+[
+  {
+    "message": "The sound of footsteps cuts through the terror."
+  },
+  {
+    "message": "Guards? It's so dark, I can't really see."
+  },
+  {
+    "message": "But as the footsteps approach, two men emerge from the shadows."
+  },
+  {
+    "message": "And the moment I realize who they are..."
+  },
+  {
+    "message": "...my heart stops."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"I'm impressed you made it this far on your own. I guess I really shouldn't be, though.\" "
+  },
+  {
+    "name": "トリップ",
+    "message": "\"That's our Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You two...\""
+  },
+  {
+    "message": "Virus and Trip. Why are <I>they</I> here?"
+  },
+  {
+    "message": "Virus cocks his head to the side and smiles."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"You're wondering why we're here, aren't you? It's written all over your face. Well, it's quite simple, really.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We're here because... we're Morphine.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Yep.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Morphine...?\""
+  },
+  {
+    "message": "...He's fucking with me, right? How can they be part of Morphine?"
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Of course, we aren't soldiers like these gentlemen here. You could say we're command and control.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You were playing me?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"That wasn't our intent, precisely, but I can't blame you for seeing it that way.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"We weren't lying when we said we were your fans.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Anyway, enough about us. We don't really matter. You, my friend, are far more important.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"After all... you're Sei's other half.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sei's... other half?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sei... That's the guy who was with Toue...\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"...How much do you know about the circumstances of your birth?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Virus smirks."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"I thought as much. Since I have your undivided attention right now, perhaps I should explain.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Like I just said... Sei is your other half.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes, that Sei. The culmination of Toue's research... and the source of his power.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Just like Sei, you were born in one of Toue's labs. A designer baby, modified through genetic sequencing to amplify the desired abilities.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Sei is your older brother. You're twins.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!!!\""
+  },
+  {
+    "message": "I was... designed?"
+  },
+  {
+    "message": "And Sei is... my brother?"
+  },
+  {
+    "message": "My... twin?"
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"The enhancements made to you were based on your grandmother's research.\""
+  },
+  {
+    "message": "<4line><voice name='ウイルス' class='ウイルス' src='voice/dm53/8000250b04'>\r\n\"Not that she would in her wildest dreams have imagined that her research could be used for this. As far as she knew, she was making drugs to enhance brain function.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"You and your twin brother were designed with the power to control minds.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"But nature is... unpredictable. Thorough as their calculations were, not everything went as planned.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"While you were born with the abilities they wanted, the two of you were also born without any pigmentation.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Additionally, you and Sei were conjoined by your hair. Your hair even had nerves, I hear.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"That would explain why you have sensation there.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"You were born different from everyone else.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"And to make things worse, neither of you was born strictly alive.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Sei began breathing the moment your hair was severed, but you were not so lucky.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Your grandmother was deeply troubled. Not only had her research been used outside the scope she'd intended, but a child born of that research had died.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"So she left the lab and took your poor, lifeless body with her. Perhaps she thought that the least she could offer you was a proper human burial.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"However, before she could do you that small mercy, you suddenly started breathing. I'm sure your grandmother was... surprised and delighted.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"After all, she blamed herself for your condition. She entrusted you to a small church on this island―her hometown―and left.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Why on earth did she do that? Was she hoping that would be the end of it? Now, this is just speculation, but... your grandmother was a scientist.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"I imagine she believed that no matter how deeply she cared for you, some part of her would always see you as an experiment. She couldn't stand the thought.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"After that, your skin and hair gained typical human pigmentation, and despite a tendency to retreat into your own little world, you grew up rather well.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"And your powers... Oh, your powers were magnificent. You could control anyone―you with your voice, and Sei with his eyes.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"A power beyond what any of us baseline humans can hope for. You were truly blessed.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"That about sums up what I know. Any questions?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You... You're making it up.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Is that what you think? Well, I suppose I don't much care one way or the other. I simply spoke the truth as I understand it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Virus... is probably telling the truth. He has nothing to gain by coming up with such an elaborate story."
+  },
+  {
+    "message": "But it's too much for me to take in all at once. My heart hammers against my chest as I try to figure out how I'm supposed to react."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...This whole time, you knew what I was?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Not at all.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Nope.\""
+  },
+  {
+    "message": "They reply with perfect innocence."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We weren't lying when we said we were your fans.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"You were a total badass, man, back when you did Rhyme. Could tell you loved it, crushing people like they were nothing.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Indeed. And little by little, we realized there was something <I>truly</I> special about you.\" "
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"So we did a little research, and when we connected the dots, we realized that you had Scrap.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"It really was a shock. To think that our Aoba was blessed with the same potential as Sei.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"But you seemed so unaware of what you were. There was a danger that you could lose control at any moment.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We couldn't let anyone else realize what you had. So we made sure you forgot your little... <I>accident</I> in Rhyme.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Instead, you believe you were injured during a regular fight.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"See, manipulating people is what Morphine's for. Fabricating memories is a piece of cake.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Admittedly, Morphine ran a bit wild before we took charge... Remember all those disappearances?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"At any rate, we're the ones who erased your memories of Rhyme. You have my apologies.\""
+  },
+  {
+    "message": "He couldn't sound less sorry if he tried."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Toue already had Sei, so we figured we could keep you as our little secret.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Of course, in the end, he found you too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Now, why don't you come with us? We'll even let you see Sei.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is Sei always with Toue?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes. Although he hardly has any life left in him now.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Sei's brain has undergone near-constant analysis since childhood. He spends very little time awake and moving.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"As a result, his body and mind have atrophied severely. He won't last much longer. Toue was hoping your grandmother might know how to prolong his life.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No...\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"But the electroluminescent device modeled after Sei's eyes has already been perfected, so worse comes to worst, losing him won't be too hard a blow.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Electroluminescent device?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Sei's eyes emit a special kind of light. This is what allows him to control people's minds.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"A device that emits the same kind of light would allow you to control a large number of people all at once.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Well, it would be a shame to lose Sei. He's the original, after all.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Of course, even if we were to lose him, it wouldn't really affect the plan... since now, we have you.\""
+  },
+  {
+    "message": "Goosebumps rise all over my body."
+  },
+  {
+    "message": "I'm not their fucking guinea pig!"
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"If you have no further questions... then I apologize, but it's time to bring you in.\""
+  },
+  {
+    "message": "The men in black hoodies start to drag me out of the room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh, let me go..!\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Please behave.\""
+  },
+  {
+    "message": "Virus is wearing this horrible smirk. And I just stare at it, unable to believe what's happening."
+  },
+  {
+    "message": "I <I>trusted</I> them. I thought they were pretty good guys, for yakuza."
+  },
+  {
+    "message": "But none of that mattered!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why are you working for someone like Toue?!\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Why?\""
+  },
+  {
+    "message": "Virus and Trip exchange confused glances."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Hmm... I suppose you could say... we like to be entertained.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Also, we like to have it easy.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"We have no particular interest in Toue's vision. We're here because Sei is practically a god, and being near a god is both entertaining and convenient.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"That's all there is to it.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"What he said.\""
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "And then, just like that, everything is back to normal. Conversation washes over me. The world stops spinning. My feet move as they always have."
+  },
+  {
+    "message": "What..."
+  },
+  {
+    "message": "What just happened?"
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Hey, that's him!\""
+  },
+  {
+    "message": "A guard points from the far end of the ballroom."
+  },
+  {
+    "message": "Right. I have to find Ren and get out of here."
+  },
+  {
+    "message": "I push my way through the confused guests, keeping a close eye on my feet."
+  },
+  {
+    "message": "The guests part, trying to avoid me, and a path opens through the crowd."
+  },
+  {
+    "message": "And that's when I see a small blue shape scamper by."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren!\""
+  },
+  {
+    "message": "There he is!"
+  },
+  {
+    "message": "But just then, several guards appear in Ren's path."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Gotcha, you little shit!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "One guard's foot lashes out as Ren tries to escape. I hear a dull thwack and see his round body bounce across the floor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren!\""
+  },
+  {
+    "message": "I dash to his side and scoop him up. The guards surround us with their guns drawn."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Wait! Our orders are to capture him alive.\""
+  },
+  {
+    "message": "The guards holster their guns and grab my arms."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh, let go!\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Stop fighting!\""
+  },
+  {
+    "message": "I clutch Ren tight to my chest, trying to protect him as I struggle to escape."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Don't touch me!\""
+  },
+  {
+    "message": "Let go of me!"
+  },
+  {
+    "message": "Ren!"
+  },
+  {
+    "message": "And then, suddenly, a searing heat flares inside my brain."
+  },
+  {
+    "message": "Shit, my head...!"
+  },
+  {
+    "message": "Feels like it's gonna split open...!"
+  },
+  {
+    "message": "Ren..."
+  },
+  {
+    "message": "Ren...!"
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"...Hands off.\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"I said, <I>hands off.</I>\""
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"...Ngh... Hands... off...\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Hey...!\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"Move.\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"...Ngh... Move...\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"All of you, listen up.\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"Forget you ever saw me.\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Yes...\""
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Forget...\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Forget...\""
+  }
+]

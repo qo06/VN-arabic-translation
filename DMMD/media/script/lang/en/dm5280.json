@@ -1,0 +1,294 @@
+[
+  {
+    "message": "I step through into a long hallway."
+  },
+  {
+    "message": "So this is the inside of Oval Tower..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I've heard that part of the tower is open to the public, but we come in through the back entrance, so there aren't any guests around."
+  },
+  {
+    "message": "I hear some footsteps, probably guards on patrol."
+  },
+  {
+    "message": "As I walk carefully down the hall, I eventually see an elevator. Two guards are stationed in front of it."
+  },
+  {
+    "message": "I immediately slip into a side hall, peeking around the corner to observe the guards."
+  },
+  {
+    "message": "There isn't anything to hide behind this time."
+  },
+  {
+    "message": "What do I do?"
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Hey, what are you doing over there?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "I turn around to see a guard standing at the other end of the hall."
+  },
+  {
+    "message": "Fuck! He must've come out of one of the rooms. Now I hear the guards by the elevator approaching."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Fuck...!\""
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Stop right there!\""
+  },
+  {
+    "message": "But at that exact moment, the elevator opens and a well-dressed couple steps out. Guests?"
+  },
+  {
+    "message": "The guards at the elevator are momentarily distracted. Now's my chance!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "name": "警備Ｃ",
+    "message": "\"Stop!\""
+  },
+  {
+    "message": "I dash out of my hiding spot and sprint for the elevator."
+  },
+  {
+    "message": "The couple flees and the guards try to stop me, but I slip past them and into the elevator just as the doors start to close."
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Wait!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Fuck off!\""
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"Guh!\""
+  },
+  {
+    "message": "I kick the guard away, then yank my foot back."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Phew... That was clo―\""
+  },
+  {
+    "message": "But just as I think I'm safe, another guard sticks his hands between the doors and tries to pry them open."
+  },
+  {
+    "message": "Shit!"
+  },
+  {
+    "message": "I pull out the stun gun and jam it into his hand."
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Agh!\""
+  },
+  {
+    "message": "He jerks back."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren!\""
+  },
+  {
+    "message": "Ren jumps out of my bag and hits one of the buttons with his paw."
+  },
+  {
+    "message": "The door closes before the guards can recover."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...That was close.\""
+  },
+  {
+    "name": "エレベーター",
+    "message": "\"Please press the button for your desired floor.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, right.\""
+  },
+  {
+    "message": "No time to waste. I get up and press a button for a random floor."
+  },
+  {
+    "message": "The elevator shakes, then starts to ascend."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haa... Oww.\""
+  },
+  {
+    "message": "I must've smacked my shoulder on the floor when I slid into the elevator. I crouch down next to Ren, rubbing the joint."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Good job, Ren.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I may not literally have a heart, but you nearly gave me a heart attack.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But it all worked out, right? Thanks to you.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Just don't get cocky.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I wonder if we can like, sneak through a crawlspace in the ceiling or something, like they do in the movies.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I think you should stick to more realistic methods.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I know. ...Huh?\""
+  },
+  {
+    "message": "I pick up Ren to put him back in my bag, but something makes me stop."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren. What is that?\""
+  },
+  {
+    "message": "There's something glistening by Ren's eye. Like a drop of water."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You've got something on your eye.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "message": "I reach for it, but Ren turns his head away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look at me. What's wrong?\""
+  },
+  {
+    "message": "I recall how Ren pushed my face away when I tried to rub foreheads with him."
+  },
+  {
+    "message": "Nothing like that has happened since, and with everything else, I almost forgot about it.\r\n<p>\r\nBut now..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Ren.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let me see your eye.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It doesn't matter. You have more important things to do. \""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It doesn't <I>matter?</I>\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Right. It's trivial. Don't let it bother you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "message": "I bring my face closer to his, ignoring the fact that he's avoiding me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How many times do I have to tell you? I'm not okay unless you're okay.\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"I won't let myself be a burden.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not what I meant!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"If I can't perform my function, then I'm worthless to you. But don't worry. I'll make sure that doesn't―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Whoa! Worthless? What's with you, man?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You're worried I might cease functioning. But I won't let that―\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No! That's not what I'm talking about. I'm worried about <I>you!</I>\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's fine. I won't cause you any trouble.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm not worried about that! Ren, listen to me.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Don't concern yourself with me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey... Enough with that!\""
+  },
+  {
+    "message": "Before I know it, I'm shouting. I can't take it any more."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What happened to you? You're not making any sense.\""
+  },
+  {
+    "message": "That's when the elevator stops."
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "message": "Suddenly, my Coil rings."
+  },
+  {
+    "message": "Caller unknown?"
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Who's it from?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Dunno.\""
+  },
+  {
+    "message": "When I answer, a video screen pops up unprompted."
+  },
+  {
+    "message": "But even more surprising is who's on it."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Toue?!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Hello there, Aoba. Welcome. How are you feeling?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I must say, I'm impressed you made it this far.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"You should be proud of your friends. They put on quite the show.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"But now, I have a small favor to ask... I would like you to come the rest of the way alone.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"The others are a bit too unruly for my taste. Oh, you have nothing to fear. You're my guest.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I'll even make you a promise. Come alone, and I'll cancel my broadcast to the Old Residential District.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Step into the elevator next to you once you've made up your mind. I'm on the top floor. ...I'll be waiting.\""
+  },
+  {
+    "message": "The call ends and the elevator opens its doors."
+  },
+  {
+    "message": "For a few seconds, no one moves."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...What do you want to do?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I have to go.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It might be a trap!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Definitely a trap.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"He promised to leave the Old Residential District alone.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Can you really trust him?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But if I don't cooperate, and something happens...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Fine. Get going.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You'll go no matter what I say. And I sure as hell don't trust Toue, but I do trust you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Just be sure to call when you're on your way down. We'll be making preparations.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Preparations?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Just a few surprises. All part of Mink's plan.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"One way or another, it ends today.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I believe in you, Master! So please come back safe!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "I nod to each of them in turn."
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Hey, Ren! You better protect him, ya hear?! And come back! That's what good Allmates do!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I know.\""
+  },
+  {
+    "name": "トリ",
+    "message": "\"Eh, you'll manage somehow. You're brighter than that sparrow, at least.\" "
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Hey, fuck you! Pretentious parrot motherfucker!\""
+  },
+  {
+    "message": "Beni flaps his wings hard, cutting an irate loop through the air."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Alright, Aoba. Stick out your hand. We'll send you off in style.\""
+  },
+  {
+    "message": "With an impish grin, Koujaku lays his hand atop mine."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You guys, too! Hurry up!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Okay!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"This is stupid.\""
+  },
+  {
+    "message": "Noiz and Mink reluctantly join in."
+  },
+  {
+    "message": "We look at each other."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"See you soon, Aoba.\""
+  },
+  {
+    "message": "Koujaku gives me an encouraging smile. There's no doubt in his eyes that we'll see each other again."
+  },
+  {
+    "message": "So I answer in kind."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. You will.\""
+  }
+]

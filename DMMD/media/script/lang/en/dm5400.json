@@ -1,0 +1,47 @@
+[
+  {
+    "message": "Fighting to lift my head through the pain, I see glassy eyes staring back at me."
+  },
+  {
+    "message": "...Morphine."
+  },
+  {
+    "message": "They're looking at me, but they aren't <I>seeing</I> me."
+  },
+  {
+    "message": "Those are the eyes of robots, puppets."
+  },
+  {
+    "message": "Someone kicks me in the face. The taste of blood fills my mouth."
+  },
+  {
+    "message": "I curl up in a ball to protect myself as the blows keep on coming."
+  },
+  {
+    "message": "The world is going dark..."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Think he's had enough?\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Probably.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"What do we do now?\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Do?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"With Aoba.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Hmm...\""
+  }
+]

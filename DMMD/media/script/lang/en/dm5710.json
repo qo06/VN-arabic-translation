@@ -1,0 +1,264 @@
+[
+  {
+    "message": "I'm back working at Hum-Drum Junk. As always, it's never very busy."
+  },
+  {
+    "message": "You could even say it's boring. Only now, I've learned to appreciate boredom and the peace that it signifies."
+  },
+  {
+    "message": "This past year reminded me of many things, precious things that I'll strive to never again forget."
+  },
+  {
+    "message": "From time to time, new memories would surface, more bits and pieces of everything I forgot. "
+  },
+  {
+    "message": "Whenever that happened, I would go talk to Granny. She always took the time to answer my questions."
+  },
+  {
+    "message": "I learned that the beach in my dreams was a real place, near to the church where Granny left me."
+  },
+  {
+    "message": "One day, I slipped out of the church and found my way to the shore."
+  },
+  {
+    "message": "And that's where I met him."
+  },
+  {
+    "message": "My dad."
+  },
+  {
+    "message": "I remember wanting desperately to leave with him. I wanted him to take me away."
+  },
+  {
+    "message": "Dad and I weren't related, and neither was Mom, of course."
+  },
+  {
+    "message": "Mom wasn't Granny's real daughter either. She'd had a complicated childhood; Granny had raised her."
+  },
+  {
+    "message": "Dad, meanwhile, was something of a drifter. After finding himself on the island, he met Mom and fell in love."
+  },
+  {
+    "message": "Dad always traveled a lot, so he never had any intention of settling down with Mom on the island."
+  },
+  {
+    "message": "Mom knew this going in, but insisted he take her along when it came time for him to leave."
+  },
+  {
+    "message": "Granny didn't trust Dad at first, since everything about him was a mystery, but that changed when she saw how he brought Mom out of her shell."
+  },
+  {
+    "message": "There was something about him, Granny said. Some mysterious power to touch people's hearts."
+  },
+  {
+    "message": "After that, Granny decided to welcome him into the family."
+  },
+  {
+    "message": "And if Mom was that sure about it, she would just have to trust them and see them off on their journey."
+  },
+  {
+    "message": "It was years before Mom and Dad came home."
+  },
+  {
+    "message": "...And when they did, they came with me in tow."
+  },
+  {
+    "message": "That was shocking enough, Granny said, but when they told her where they'd found me, at a church by the sea, she couldn't believe her ears."
+  },
+  {
+    "message": "But when she saw my face, she was convinced, and the people at the church confirmed it."
+  },
+  {
+    "message": "That was when she decided to take me in. "
+  },
+  {
+    "message": "It must've been fate, she said. She'd left me there once, and I'd found my way back to her."
+  },
+  {
+    "message": "...After telling me the story, she seemed relieved."
+  },
+  {
+    "message": "She watched over me my whole life without ever saying a word."
+  },
+  {
+    "message": "Truly, I owe her everything."
+  },
+  {
+    "message": "I'm leaning on the counter at work, deep in thought, when the phone rings."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hello, you've reached Hum-Drum Junk.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Hello? I just have a quick question. You wouldn't happen to have an Aoba working there, would you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh... this is Aoba.\""
+  },
+  {
+    "message": "The voice sounds familiar..."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Oh, fantastic. This is Midorijima General Hospital. I'm calling to let you know that a relative of yours is currently hospitalized with us.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? You mean Granny?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"No. Your brother, I believe.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"My... brother?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes. He didn't have any identification, so it took us some time to track you down.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"But apparently, you're his next of kin.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh... There has to be some kind of misunderstanding. Are you sure you have the right person?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"No. It's all in order. You are Seragaki Aoba?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Oh, uh, yeah. I am.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"And your brother's name is Sei?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "How? Only a very few people know that name."
+  },
+  {
+    "message": "Hearing it sends my mind hurtling back a full year."
+  },
+  {
+    "message": "And before I realize it, my lips have formed the words."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yes. My brother's name is Sei.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Then there's no misunderstanding.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"If I might make a suggestion, why not come for a visit when it's convenient?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, uh, yeah, good idea... I think I'll do that.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Fantastic. We're looking forward to it. Have a wonderful day.\""
+  },
+  {
+    "message": "Dazed, I put down the phone and fidget in my seat."
+  },
+  {
+    "message": "Did that really just happen?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the...\""
+  },
+  {
+    "message": "Someone found Sei?"
+  },
+  {
+    "message": "How could that be? What did they even find? His body?"
+  },
+  {
+    "message": "Even if, by some miracle, they found his body intact in the ruins of the tower, his soul is already..."
+  },
+  {
+    "message": "I... saw him vanish. He said he was going to end things, and that was the last I saw of him."
+  },
+  {
+    "message": "I lost my brother. And Ren too."
+  },
+  {
+    "message": "My Allmate has returned to its factory settings. I thought about retraining him, but what would be the point?"
+  },
+  {
+    "message": "It wouldn't bring <I>my</I> Ren back."
+  },
+  {
+    "message": "The other me... Sei... Ren... All have left me."
+  },
+  {
+    "message": "I have my normal life back, but there's still a gaping hole in my heart."
+  },
+  {
+    "message": "...It can't be Sei in the hospital."
+  },
+  {
+    "message": "But if it's not, then why would they call me?"
+  },
+  {
+    "message": "Did someone tell them about Sei? Who?"
+  },
+  {
+    "message": "Or... is it really..."
+  },
+  {
+    "message": "...Maybe it's a cruel prank, or just a misunderstanding after all."
+  },
+  {
+    "message": "But... I have to go see for myself. Right?"
+  },
+  {
+    "message": "...Yeah. I recall those words from my childhood, and my worries melt away."
+  },
+  {
+    "message": "Even if it is a prank, who cares?"
+  },
+  {
+    "message": "I mean..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You can always break it down and start anew.\""
+  },
+  {
+    "message": "I get permission to leave early and go home to tell Granny."
+  },
+  {
+    "message": "Granny is making dinner in the kitchen. When I tell her what happened, all she says is \"Huh.\""
+  },
+  {
+    "message": "I can't tell what she's thinking. I assume she must harbor guilt over abandoning Sei to Toue."
+  },
+  {
+    "message": "But I'm sure that Sei didn't blame her for it. I don't know why... but I'm sure."
+  },
+  {
+    "message": "After that, I leave for the hospital. For Granny's sake too, I need to know."
+  }
+]

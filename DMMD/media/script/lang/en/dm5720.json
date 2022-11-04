@@ -1,0 +1,106 @@
+[
+  {
+    "message": "Midorijima General Hospital."
+  },
+  {
+    "message": "They've made improvements. It's a lot nicer than I remember."
+  },
+  {
+    "message": "...Sei is here. The thought quickens my steps."
+  },
+  {
+    "message": "I pause for a moment in front of the entrance. My Coil is beeping."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hm?\""
+  },
+  {
+    "message": "Another game. It's been ages since the last one."
+  },
+  {
+    "message": "Those games were messages from Sei. Could it be...?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A present? ...I don't get it, but I guess it's something good?\""
+  },
+  {
+    "message": "I don't know if it was from Sei like the others."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There's only one person who could do this...\""
+  },
+  {
+    "message": "...Resolute, I head into the hospital."
+  },
+  {
+    "message": "The lobby is big and full of people waiting on couches. I walk up to the reception desk and give Sei's name."
+  },
+  {
+    "message": "Once I have the room number―403―I board the elevator."
+  },
+  {
+    "message": "I get off on the fourth floor and stop by the nurses' station."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Excuse me.\""
+  },
+  {
+    "message": "A nurse comes over."
+  },
+  {
+    "name": "看護士",
+    "message": "\"Are you here for the patient in room 403?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "看護士",
+    "message": "\"Right this way, please.\""
+  },
+  {
+    "message": "I follow the nurse down the hall."
+  },
+  {
+    "message": "The immaculate white of the walls brings back unpleasant memories."
+  },
+  {
+    "message": "But the sight of Room 403 wipes them all away."
+  },
+  {
+    "name": "看護士",
+    "message": "\"He's right in here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "看護士",
+    "message": "\"His bandages come off today. The doctor signed off on it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, okay.\""
+  },
+  {
+    "name": "看護士",
+    "message": "\"You're Sei's brother, right?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "看護士",
+    "message": "\"I think he'll be delighted. ...Sei? You have a visitor.\""
+  }
+]

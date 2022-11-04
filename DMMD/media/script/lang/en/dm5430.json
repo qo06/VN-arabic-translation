@@ -1,0 +1,160 @@
+[
+  {
+    "message": "...When I open my eyes, the first thing I see is a gas mask."
+  },
+  {
+    "message": "...Clear?"
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh! Look everyone! Master's up!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "message": "Then Koujaku's smiling face appears. Behind him, I see a white ceiling."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear, Koujaku... Why are you...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't forget about them.\""
+  },
+  {
+    "message": "Koujaku helps me sit up, then points with his thumb over his shoulder."
+  },
+  {
+    "message": "Noiz and Mink are leaning against the wall a few paces away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "I grimace. Everything hurts."
+  },
+  {
+    "message": "Those Morphine guys really beat the crap out of me..."
+  },
+  {
+    "message": "Looking around, I realize I'm not in the lab anymore."
+  },
+  {
+    "message": "This room is much smaller and filled with shelves. It must be some kind of storage room."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How did you all get here?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You remember the passage that connects the Old Residential District to Platinum Jail?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Noiz spoofed the gates to get us in.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"There's a lotta hackers who reverse-engineer Platinum Jail IDs. It's hard, so the money's good.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I bought some throwaway creds, fixed 'em up a little. Only works once, but that was enough to get us in.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Now we just have to find that Toue fucker and bash his fucking face―woah?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I was so worried! It was awful, Master!\""
+  },
+  {
+    "message": "Clear wraps his arms around me, squeezing tight."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oww!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, get off! Can't you see he's hurt?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Oh! I'm sorry, Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haha... It's fine.\""
+  },
+  {
+    "message": "It feels nice to laugh again."
+  },
+  {
+    "message": "Koujaku... <k><?>"
+  },
+  {
+    "message": "Clear... <k><?>"
+  },
+  {
+    "message": "Noiz... <k><?>"
+  },
+  {
+    "message": " Mink..."
+  },
+  {
+    "message": "Everyone's safe."
+  },
+  {
+    "message": "It's like a great weight has lifted from my shoulders."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"So those two were Morphine, huh?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "message": "Virus and Trip..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I never trusted those assholes...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Umm...\""
+  },
+  {
+    "message": "Clear is looking around like he's trying to find something."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Where's Ren? I don't see him anywhere...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey, what's wrong?\""
+  },
+  {
+    "message": "Koujaku frowns when he sees my expression."
+  },
+  {
+    "message": "Ren..."
+  },
+  {
+    "message": "As I'm trying to find the right words to explain... my bag starts to squirm."
+  }
+]

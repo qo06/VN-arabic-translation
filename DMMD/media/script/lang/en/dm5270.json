@@ -1,0 +1,121 @@
+[
+  {
+    "message": "It's hard to walk with the partiers filling the streets, not to mention the obvious security everywhere."
+  },
+  {
+    "message": "I head for the tower, keeping as much distance as possible from the guards on the way."
+  },
+  {
+    "message": "I missed them yesterday due to the crowd, but the front of the tower is crawling with security. It doesn't look like something I can break through on my own."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What now?\""
+  },
+  {
+    "message": "I open the map on my Coil."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Do you think the tower has a back entrance?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...There appears to be a service entrance opposite the main entrance.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You mean this icon? Let's check it out. The security might be lighter back there.\" "
+  },
+  {
+    "message": "There's no time to waste. I head to the back of the tower."
+  },
+  {
+    "message": "The service entrance is dark in the shadow of the tower. There are only two guards."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I think I can take 'em.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I advise caution. There may be more.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Gotcha.\""
+  },
+  {
+    "message": "I reach into my bag for the stun gun Mr. Haga gave me before I left."
+  },
+  {
+    "message": "There's a tall flower bed next to the gate. It will serve to mask my approach."
+  },
+  {
+    "message": "I crouch down behind the flower bed, still my breathing, and creep toward the closest guard."
+  },
+  {
+    "message": "Just a little more...\r\n<p>\r\nNow!"
+  },
+  {
+    "name": "警備Ａ",
+    "message": "\"What?! ...Guh!\""
+  },
+  {
+    "name": "警備Ｂ",
+    "message": "\"Hey! ...Ngh!\""
+  },
+  {
+    "message": "I knock the closest guard out with a roundhouse kick, then shove the stun gun into the neck of the second. He goes down instantly."
+  },
+  {
+    "message": "...Damn. This thing packs a punch. He's not dead, right?"
+  },
+  {
+    "message": "Mr. Haga said he built it himself, so he's probably fine..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This is unreal...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"So are you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Me?\""
+  },
+  {
+    "message": "Ren pops his head out as I'm groping around the chest of the second guard."
+  },
+  {
+    "name": "蓮",
+    "message": "\"I didn't think you'd charge them like that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sometimes you just gotta go for it, y'know? Fighting's all about timing and momentum... Here we go.\""
+  },
+  {
+    "message": "I pull the guard's ID card from around his neck."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This should get us in, right? Let's go.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Shoot first, ask questions later?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There's a time and a place for everything.\""
+  },
+  {
+    "message": "I take the card and run to the door."
+  },
+  {
+    "message": "A touch, and the door opens."
+  }
+]

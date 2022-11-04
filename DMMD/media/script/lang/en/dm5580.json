@@ -1,0 +1,284 @@
+[
+  {
+    "message": "Behind it is a cavernous room. A man stands at its center."
+  },
+  {
+    "name": "東江",
+    "message": "\"I've been waiting for you, Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Toue!"
+  },
+  {
+    "name": "東江",
+    "message": "\"You kept your promise. I appreciate that.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I asked you here alone so that we could have a nice, long chat. I'm not sure your friends would have had the patience for that.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah? I've got a few things to say to you too.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Then our needs coincide. Excellent.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll get right to the point. What are you after?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Whatever do you mean?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny told me what you've been doing on the island.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Dr. Seragaki... And what did you think when you learned of my plans?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not gonna end with Midorijima, is it?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Heh...\""
+  },
+  {
+    "message": "Toue's smile grows."
+  },
+  {
+    "name": "東江",
+    "message": "\"Smart man. You're correct. This island is just the beginning.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I intend to declare independence, to make Midorijima a new nation.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A nation?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Indeed. This island is critical to my research. I won't surrender it to anyone. However, a flag alone will not be enough.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"I require a powerful nation, and that means a powerful military. Weapons, troops, capital.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"But the more powerful a nation becomes, the more its people tend to rebel.\""
+  },
+  {
+    "message": "<4line><voice name='東江' class='東江' src='voice/dm55/8000190b02'>\r\n\"Societal norms teach them to value peace, both in their own lives and as a moral virtue. They demand that their country keep them safe, while at the same time decrying the buildup of power that requires.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"They do not see the contradiction, that without a strong military, the nation would not exist.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"They don't like how their home makes them feel, so they tear it down, and without any thought as to where they'll live next.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"And even when they do give it some thought, they fail to put their vision into practice. It's sadly far too common a tale.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I don't particularly care for half measures. If the will of my people is my greatest obstacle, then I must start by bringing them in line.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Fortunately, I now have the means to create what every leader has dreamt of. A people that will not resist, because they will not <I>want</I> to resist.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Rule through fear is inherently unstable. But I will need no secret police, no public executions.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"My people will give their lives with perfect―yes, <I>religious</I>―faith, never doubting for even a heartbeat that they do so of their own free will.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"As far as methods of murder go―\""
+  },
+  {
+    "name": "東江",
+    "message": "\"―is there any more elegant, more <I>dramatic</I> than this?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And I guess you'll be the glorious leader.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Inevitably, as I'm the one who planned it all.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So you want your own country. What then? You gonna be satisfied playing king?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"You misunderstand. My ambitions are not so crass. I have no desire for wealth or even power.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"What I desire is a challenge. I want to see just how far I can go.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A challenge... Who the hell are you fighting?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"No one in particular. Though at the risk of sounding hackneyed... I supposed you could say that I'm challenging fate itself.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"So long as fate is on my side, than nothing and no one can stop me.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"That I've made it this far proves that I remain fate's chosen.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So you're gonna keep going until something stops you?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Indeed. I want to know just how much control one man can exert over human minds.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"I will continue to expand the scope of my research until fate decides to end me.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"As is, however, my victory is all but assured. Rather boring, don't you think? A game needs obstacles to be fun.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So this is a game to you? What does that make us? Pawns?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"<I>Life</I> is a game, Aoba. Not just for me. Everyone is fighting with everyone else for dominance.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Am I wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I don't really give a shit what you think. I'm not your fucking pawn.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Same goes for my friends. I'm not letting you use us any more.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You crazy fuck, dragging us all into some kinda deranged experiment.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm taking Sei back too!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Sei...\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Sei is quite precious to me, you know. My plans could not have progressed so far without him.\" "
+  },
+  {
+    "name": "東江",
+    "message": "\"And now you, his other half, are standing before me. What else could you call this but fate?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"You twins are the finest pieces fate has seen fit to provide me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "What the hell is he saying?! Sei and I are just pieces?!"
+  },
+  {
+    "message": "Anger swells in my chest. No fucking way!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You piece of shit. You're not getting away with this. Where do you get off, huh? Treating people like tools... You really think I'm just gonna go along with that?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're human, just like the rest of us!\""
+  },
+  {
+    "name": "東江",
+    "message": "\"As a formality, I suppose I should ask.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Do you have any inclination at all to join me?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you <I>think?</I>\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Heh. I see that's out of the question. I take it you intend to be my enemy, then?\""
+  },
+  {
+    "name": "東江",
+    "message": "\"A man with the same power as Sei... Yes, I suspect you'll be my greatest obstacle yet.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Enough of your bullshit! I just can't stand you. That's all the reason I need.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Very well. Either way, it's a simple question. You or me. Only one of us can win. And I know just the place for our climactic showdown.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"You know it well. That place where naked souls clash, where there is nowhere to run and nowhere to hide. Let's see then, shall we, which of us fate favors.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  }
+]

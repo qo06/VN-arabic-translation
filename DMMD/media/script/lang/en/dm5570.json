@@ -1,0 +1,32 @@
+[
+  {
+    "message": "I put Ren in my bag and board the elevator."
+  },
+  {
+    "message": "Slowly, the car ascends."
+  },
+  {
+    "message": "Toue is up there. So is Sei. Alone, the pressure would have crushed me."
+  },
+  {
+    "message": "But I'm not alone. Ren is with me. I know I'll be okay."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Whoa...\""
+  },
+  {
+    "message": "The first thing I see when I get off is a door. This floor is nothing like the others.\r\n<p>\r\nI curl my hands into fists."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's go.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yes.\""
+  },
+  {
+    "message": "Together, we approach the door."
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "name": "セイ",
+    "message": "\"...Ren.\""
+  },
+  {
+    "message": "Sei shifts his gentle gaze."
+  },
+  {
+    "name": "セイ",
+    "message": "\"You've protected Aoba this whole time, haven't you?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"And Aoba accepted you. As a separate being, as your own person.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Yes.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Then perhaps it's time to accept <I>him,</I> too.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"You and he are the same. And he has suffered for so long. You must free him. Forgive him.\""
+  },
+  {
+    "message": "Him? Who are they talking about?"
+  },
+  {
+    "name": "セイ",
+    "message": "\"Aoba. You know that Ren was originally just one facet of your mind?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Ren was born to protect you and keep your mind in balance. What do you think he was protecting you from? Keeping the balance against?\""
+  },
+  {
+    "message": "Not knowing how to answer, I turn to look at Ren."
+  },
+  {
+    "message": "He's staring at Sei."
+  },
+  {
+    "name": "セイ",
+    "message": "\"Ren wasn't the only personality existing separate inside you. I think you know what I mean.\" "
+  },
+  {
+    "name": "セイ",
+    "message": "\"I believe you've heard his voice, even seen him. He is the other you.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "The other me..."
+  },
+  {
+    "message": "The part of me to whom Scrap truly belongs."
+  },
+  {
+    "name": "セイ",
+    "message": "\"Ren's original purpose was to protect you from him, to prevent him from erasing you and taking over.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"But he's not your enemy. He's not a bad person. And he doesn't want to erase you.\" "
+  },
+  {
+    "name": "セイ",
+    "message": "\"Isn't that right... Aoba?\""
+  },
+  {
+    "message": "Sei looks over his shoulder. There stands another me, though I can't say when he appeared."
+  },
+  {
+    "message": "Like Sei, this me has white skin and white hair. Is that what I looked like when I was born?"
+  },
+  {
+    "name": "セイ",
+    "message": "\"Aoba, Ren bared his soul to you, and you accepted him. Won't you give him the same chance?\""
+  },
+  {
+    "message": "Sei pushes the other me forward. He stares at me, motionless, his expression blank."
+  },
+  {
+    "message": "Sei takes one step back."
+  },
+  {
+    "message": "And that's when I notice something strange."
+  },
+  {
+    "message": "I can <I>see through</I> Sei's legs, as if he were fading away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Your body...\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"My wish will be granted soon. You will destroy me and set me free. You don't need to worry about me anymore.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"My last piece of unfinished business... is him. But I'm sure he'll be fine. After all, you accepted Ren.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Aoba, it might surprise you to hear this... but I don't hate Toue.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"No one knows for certain what is right and what is wrong. Each person must decide that for himself.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"It's true that I've suffered. My life has been hard... but how I feel about Toue, about what he did... that, only I can decide.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"You, too, must decide for yourself. Listen, see, try to understand every side. There's never just one point of view.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"The answer you choose, that you feel is right... That will be everything to you.\""
+  },
+  {
+    "message": "Sei's body continues to fade."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sei...!\""
+  },
+  {
+    "message": "He reaches out to touch my cheek. I can barely make out the contours of his hand."
+  },
+  {
+    "name": "セイ",
+    "message": "\"I may not hate Toue, but I will make sure this ends. It's not as if I don't bear some responsibility for the situation.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"I will gather the pieces of myself, and together, we will destroy this tower... and Platinum Jail.\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"I can't destroy like you can, of course... but I'll give it my best shot.\""
+  },
+  {
+    "message": "Sei flashes me another gentle smile."
+  },
+  {
+    "name": "セイ",
+    "message": "\"Now, Aoba. Destroy me. Set me free. I can't finish this until you do.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No... No!\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Aoba...\""
+  },
+  {
+    "message": "Sei frowns just a little, and his vanishing hands softly clasp mine."
+  },
+  {
+    "name": "セイ",
+    "message": "\"Look into my eyes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No...!\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Aoba.\""
+  },
+  {
+    "message": "Sei continues with a hint of sadness in his voice."
+  },
+  {
+    "name": "セイ",
+    "message": "\"Please... give me peace. Use your power... to set me free.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh!\""
+  },
+  {
+    "message": "Gathering my resolve, I slowly meet Sei's gaze."
+  },
+  {
+    "message": "His eyes gleam with a gentle light. I feel like I could lose myself in their depths."
+  },
+  {
+    "message": "Holding his gaze, I part my trembling lips."
+  },
+  {
+    "message": "To save Sei..."
+  },
+  {
+    "message": "To save my brother..."
+  },
+  {
+    "message": "...I need to destroy him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I... I...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll... destroy you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "There's a blinding flash. And when it fades..."
+  },
+  {
+    "message": "Sei has pulled away. He's smiling, his body almost entirely gone."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sei...\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"I'm so glad I got the chance to talk to you at the end. Thank you, Aoba. Thank you.\""
+  },
+  {
+    "message": "And then..."
+  },
+  {
+    "message": "...Sei fades into nothing."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "For a while, I just stand there, staring at the place where he was."
+  },
+  {
+    "message": "Sei is gone. I know what that means. Oh, I know."
+  },
+  {
+    "message": "And yet, no tears come."
+  },
+  {
+    "message": "Instead..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "A lump rises in my throat. I swallow, but it won't go away."
+  },
+  {
+    "message": "It just... hurts so much."
+  }
+]

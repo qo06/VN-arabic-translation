@@ -1,0 +1,62 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"You like to be entertained...?\""
+  },
+  {
+    "message": "They find this <I>entertaining?</I>"
+  },
+  {
+    "message": "What the fuck about this is entertaining?!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You're insane.\""
+  },
+  {
+    "message": "Virus lifts an eyebrow."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Well, I must say that hurts.\""
+  },
+  {
+    "name": "トリップ",
+    "message": "\"Yeah. Hits right here.\""
+  },
+  {
+    "message": "Trip taps his chest."
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Does anyone truly have the right to say who is sane and who is not?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"I, at least, can say that we are normal. From our perspective, that is.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"If a stranger looked at you, they might think <I>you</I> were insane. What proof do you have that you aren't?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"You simply <I>believe</I> that your behavior is normal. You <I>believe</I> that you aren't insane.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh...\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Now, it's about time we wrap this up, don't you think? ...Do it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Guh!\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Just don't kill him.\""
+  }
+]

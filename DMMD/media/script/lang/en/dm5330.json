@@ -1,0 +1,154 @@
+[
+  {
+    "message": "I need to find somewhere safe, so I head for the door at the back of the ballroom."
+  },
+  {
+    "message": "Behind the door is a staircase. I climb to the next floor, keeping an ear out for any guards who might be following me."
+  },
+  {
+    "message": "My headache gets worse with each step I take, but I somehow manage to keep moving."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh...\""
+  },
+  {
+    "message": "Shit. Getting dizzy..."
+  },
+  {
+    "message": "My strength gives out as I reach the landing. I stumble into the wall and slide to the floor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Haah, haa...\""
+  },
+  {
+    "message": "Desperate, I dig through my bag for my pills."
+  },
+  {
+    "message": "I quickly cram a few down my throat, hoping they'll work fast."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Urgh...\""
+  },
+  {
+    "message": "Sweat streams down my forehead to my chin."
+  },
+  {
+    "message": "All I can do now is wait for it to work."
+  },
+  {
+    "message": "I'm still breathing hard when I open my bag and set Ren in my lap."
+  },
+  {
+    "message": "I try to start him up again, but his limp body won't move."
+  },
+  {
+    "message": "My heart aches to see him this way."
+  },
+  {
+    "message": "What happened to you, Ren?"
+  },
+  {
+    "message": "I open my Coil to check his status."
+  },
+  {
+    "message": "The diagnostic is a mess of error messages. Basically, nothing is working."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren...\""
+  },
+  {
+    "message": "I try to use the diagnostic tool to restart him, but that doesn't work either."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Exhausted beyond measure, I close the diagnostic and hug Ren tight."
+  },
+  {
+    "message": "Like this, Ren is little more than a stuffed animal, an empty shell. It's unbearable."
+  },
+  {
+    "message": "What if... What if I can't bring him back?"
+  },
+  {
+    "message": "I'll do what I can, but Ren's an old model, so a lot of his parts are out of production."
+  },
+  {
+    "message": "I can't imagine having an Allmate... a partner, other than Ren."
+  },
+  {
+    "message": "Something I've always taken for granted is slipping away. Reality is an inescapable mire of despair."
+  },
+  {
+    "message": "It's not like I've <I>never</I> thought about living without Ren, but imagining it is totally different from having it actually happen."
+  },
+  {
+    "message": "I'm only now starting to realize how much I depend on him."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell am I supposed to do now?!\""
+  },
+  {
+    "message": "When I close my eyes, a familiar face comes to mind."
+  },
+  {
+    "message": "Granny..."
+  },
+  {
+    "message": "What am I supposed to do?"
+  },
+  {
+    "name": "タエ",
+    "message": "\"No matter what happens, do not falter. Believe in the path you chose and keep pushing forward.\""
+  },
+  {
+    "message": "Believe in the path I chose and keep pushing forward..."
+  },
+  {
+    "message": "...That's right. I can't stop here."
+  },
+  {
+    "message": "I have to stop Toue and save everyone back home."
+  },
+  {
+    "message": "No matter how much it hurts, I can't hesitate."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "I put Ren in my bag and climb to my feet."
+  },
+  {
+    "message": "My headache is still going strong, but I start back up the stairs anyway."
+  },
+  {
+    "message": "I need to get higher."
+  },
+  {
+    "message": "I need to get to Toue."
+  },
+  {
+    "message": "I don't have a choice. I'm the only one who can stop him."
+  },
+  {
+    "message": "I make my way up the stairs one step at a time, using the wall to support myself."
+  },
+  {
+    "message": "...After what feels like forever, I find my path blocked by a door."
+  },
+  {
+    "message": "Is this the top floor?"
+  },
+  {
+    "message": "I approach the authentication screen and present the ID I pulled off that guard at the service entrance."
+  }
+]

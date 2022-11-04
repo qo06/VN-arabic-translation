@@ -1,0 +1,223 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "An alarm blares. The space begins to distort."
+  },
+  {
+    "message": "I brace myself for an attack... only to gasp when Noiz appears in front of me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Noiz?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Man, what the fuck is going on?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How did you get here?!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You forget who you're talking to?\""
+  },
+  {
+    "message": "Noiz walks up to me with a smirk."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"I forced this field open. The others should be here soon... plus a few uninvited guests.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "message": "The alarm sounds again, then Koujaku, Clear, and Mink appear."
+  },
+  {
+    "message": "This time, the alarm doesn't stop."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Here they come.\""
+  },
+  {
+    "message": "Security guards swarm the field, together with their Allmates."
+  },
+  {
+    "message": "It's not just one squad, either."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"They keep coming...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"When I forced the field open, it was like widening the mouth of a vacuum.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Now it's sucking up everyone who was in the area.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That sounds like a total disaster!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Not like I had a lotta time to play.\""
+  },
+  {
+    "message": "Still, something's strange. The guards are just standing there. It's their Allmates who are showing obvious hostility."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Aren't they acting a little weird?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's an Allmate bug.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's been around for a while, but the symptoms suddenly started hitting hard this morning.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's caused by a new worm that makes the bug worse. It's all over the news.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"The worm makes Allmates go berserk. But the really weird thing is that, apparently, it also turns their owners into zombies.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You know how when you register an Allmate, you have to sync it to your ID chip? I think it's got something to do with that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So, because we're connected to our Allmates wirelessly, the bug that corrupts them corrupts us too?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Yeah. They keep putting out new models of Allmate, but for some reason, they never fixed that bug that's been there since the beginning.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Now, if he planned for this and deliberately slipped the bug into the Allmates, then Toue's one demented psycho.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Maybe that bug has something to do with what happened to Ren...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Allmates affected by the bug start leaking a crystalline substance from their eyes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "That's exactly what happened to Ren..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that was because of the bug...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It happened to Ren too?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey. Isn't there something we can do?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"They said something about a vaccine on the news, but I don't buy it.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Ren...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "...There's only one thing to do."
+  },
+  {
+    "message": "I look at everyone in turn."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There is a way to help him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll explain later. If I'm gonna save Ren... I need to use Scrap on myself.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...What?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You're going to use it on yourself? Can you even do that?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I won't know until I try. I'm... not sure this is gonna work, but it's the only chance I've got. If I don't do it now, I'll never get another.\" "
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You're not making sense.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Plus, if you use Scrap on yourself here and lose consciousness, the game will treat it as a loss and log you out. It's pointless.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"He's right, Master. It's too dangerous.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know it's dangerous. That's why I need your help. Please.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Back me up while I'm out.\""
+  }
+]

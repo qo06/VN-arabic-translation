@@ -1,0 +1,118 @@
+[
+  {
+    "message": "This time, the door opens."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I hesitate for a moment before entering."
+  },
+  {
+    "message": "The room is dark except for the blinking lights of machines. It's eerie, like a bunch of eyes staring at me."
+  },
+  {
+    "message": "Large tanks of fluid line both sides of the room, their contents unidentifiable."
+  },
+  {
+    "message": "I see what looks like patchworks of different animals, big masses of hair, all sorts of horrible stuff―glistening, twitching."
+  },
+  {
+    "message": "I even see what looks like human body parts attached to other objects―for what purpose, I can't imagine."
+  },
+  {
+    "message": "What the hell is all this?"
+  },
+  {
+    "message": "Once I'm sure that no one is inside, I cautiously enter the room."
+  },
+  {
+    "message": "They must be doing some kind of research here... but what?"
+  },
+  {
+    "message": "What purpose could these monsters serve? And where did the human parts here come from?"
+  },
+  {
+    "message": "This is a fucking nightmare..."
+  },
+  {
+    "message": "My eyes are drawn to a woman with the tail of a fish where her legs should be. A mermaid."
+  },
+  {
+    "message": "She's <I>looking</I> at me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "The mermaid with milky white eyes knocks on the glass with her hands."
+  },
+  {
+    "message": "Her mouth flaps open and closed."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"W-What the...\""
+  },
+  {
+    "message": "Unless I've completely lost my mind... the other creatures are looking at me too."
+  },
+  {
+    "name": "セイ",
+    "message": "\"...You... came...\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"I've... been wait...ing... for... so long...\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Come... to me...\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"Destroy... me...\""
+  },
+  {
+    "name": "セイ",
+    "message": "\"With your po...wer...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Nnngh!\""
+  },
+  {
+    "message": "In my haste to flee, I crash into something solid."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"?!\""
+  },
+  {
+    "message": "A man has appeared behind me."
+  },
+  {
+    "message": "No! More than one!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh! What are you―let me go!\""
+  },
+  {
+    "message": "I try to escape, but they catch me and pin me to the floor."
+  },
+  {
+    "message": "Who the hell are these guys?!"
+  },
+  {
+    "message": "I turn my head to get a look at their faces, and that's when I see the mark on their jackets."
+  },
+  {
+    "message": "That's..."
+  },
+  {
+    "message": "Morphine!"
+  }
+]

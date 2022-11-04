@@ -1,0 +1,181 @@
+[
+  {
+    "message": "The room is small, with white curtains."
+  },
+  {
+    "name": "看護士",
+    "message": "\"Sei, your brother is here.\""
+  },
+  {
+    "message": "The nurse goes to the window to open the curtains. I take a few deep breaths before approaching the bed."
+  },
+  {
+    "message": "A man is lying there, his head covered with bandages. Only his eyes and mouth are exposed. He appears to be sleeping."
+  },
+  {
+    "message": "Sei...?"
+  },
+  {
+    "name": "看護士",
+    "message": "\"He spent most of his time here in a coma, so it may be hard for him to talk. He has regained consciousness, though, and he can hear you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "message": "No... This has to be someone else, right?"
+  },
+  {
+    "message": "It's hard to look at the man. What has he been through?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How did he wind up here?\""
+  },
+  {
+    "name": "看護士",
+    "message": "\"He was transferred to us about three months ago. Before that, he was in a hospital overseas.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Overseas?\""
+  },
+  {
+    "name": "看護士",
+    "message": "\"Yes. I heard that his caretaker asked for the transfer.\""
+  },
+  {
+    "message": "His caretaker? Who could that be?"
+  },
+  {
+    "name": "看護士",
+    "message": "\"The doctors were surprised by how fast he recovered after the transfer. He regained consciousness last month.\" "
+  },
+  {
+    "name": "看護士",
+    "message": "\"You should talk to him. I'll remove his bandages now.\""
+  },
+  {
+    "message": "The nurse gently unwinds his bandages while I watch, my heart pounding."
+  },
+  {
+    "message": "First, black hair appears. It's shorter than I remember Sei's hair being. Maybe they cut it for him."
+  },
+  {
+    "message": "After that, his forehead... his nose and cheeks..."
+  },
+  {
+    "message": "Soon, she reaches his neck."
+  },
+  {
+    "message": "It <I>is</I> Sei."
+  },
+  {
+    "message": "He looks so pale, like a porcelain doll..."
+  },
+  {
+    "message": "Sei... What happened to you? Are you really okay?"
+  },
+  {
+    "message": "I put my hands on the side of the bed and lean toward his face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sei. Can you hear me?\""
+  },
+  {
+    "message": "My voice comes out hoarse. I gasp; Sei's eyelids just twitched."
+  },
+  {
+    "message": "And then, slowly...<k> they open."
+  },
+  {
+    "message": "At first, he only stares at the ceiling."
+  },
+  {
+    "message": "But when I touch his shoulder gently, his gaze shifts to my face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "His eyes..."
+  },
+  {
+    "message": "They're... amber..."
+  },
+  {
+    "message": "That gentle amber..."
+  },
+  {
+    "message": "No... It can't be..."
+  },
+  {
+    "message": "Sei slowly lifts his arm and touches my cheek. His lips move, but no words come."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What?\""
+  },
+  {
+    "message": "I move my face a little bit closer."
+  },
+  {
+    "message": "His fingers brush my cheek again. Is he telling me to get closer? I inch in a little more."
+  },
+  {
+    "message": "And then... he licks my cheek."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "I look into his eyes. That familiar gesture..."
+  },
+  {
+    "message": "My chest fills with warmth. Now I understand."
+  },
+  {
+    "message": "That game... The princess, happily carrying her present..."
+  },
+  {
+    "message": "It all makes sense now."
+  },
+  {
+    "message": "I know who's lying there."
+  },
+  {
+    "message": "He smiles awkwardly. His lips move."
+  },
+  {
+    "message": "...Aoba."
+  },
+  {
+    "message": "He's only mouthing the sounds, but I hear his voice clearly."
+  },
+  {
+    "message": "That deep voice that always called my name."
+  },
+  {
+    "message": "It's him. He's come back to me."
+  },
+  {
+    "message": "I thought that I would never touch him again."
+  },
+  {
+    "message": "But Sei, my brother, left me one last present."
+  },
+  {
+    "message": "I put my hands on his cheeks and press my forehead to his."
+  },
+  {
+    "message": "And then, I whisper..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Welcome back.\""
+  }
+]

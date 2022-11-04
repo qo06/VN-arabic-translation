@@ -1,0 +1,65 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"What do you mean you just felt like it? You've never done anything like this before. Are you sure you're feeling okay?\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"I do still feel a little strange... but it's nothing you need to worry about.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, it's definitely something I need to worry about. You're acting really weird. Do you not get that?\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"I don't see any problem.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Seriously? Shit. I really need to take a proper look at you... Wish I had the right tools...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You don't need to be so concerned. My basic functions are unaffected.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Like hell they aren't! ...I'm really worried about you.\""
+  },
+  {
+    "message": "I pick up Ren and look into his eyes."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look, I'm begging you, don't run off like that again. I'm gonna get you fixed, I promise. Just try to behave so it doesn't get any worse, okay?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's really not that big a deal...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...I understand. I'll be careful. I'm sorry.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Good.\""
+  },
+  {
+    "message": "I almost press my forehead against Ren's like I always do, but I stop myself."
+  },
+  {
+    "message": "I'm scared he'll push me away again."
+  },
+  {
+    "message": "It's so frustrating, not having the tools to take care of him."
+  },
+  {
+    "message": "What can I do...?"
+  }
+]

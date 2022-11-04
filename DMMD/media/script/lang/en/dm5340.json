@@ -1,0 +1,116 @@
+[
+  {
+    "message": "This floor is nothing at all like the ballroom. It's just a cold, white hallway, absent decor."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ngh... Haah, haa...\""
+  },
+  {
+    "message": "I have to keep moving―guards could still be on my tail―but my headache keeps getting worse."
+  },
+  {
+    "message": "I can't think straight. I took my pills. Why isn't it getting better?"
+  },
+  {
+    "message": "I pull the bottle from my bag, tilt my head back, and pour."
+  },
+  {
+    "message": "A few spill out of my mouth to the floor."
+  },
+  {
+    "message": "It's probably a bad idea to take so many at once, but all I can think about is making my headache stop."
+  },
+  {
+    "message": "I drop the empty case back into my bag and slowly make my way down the hall."
+  },
+  {
+    "message": "Ragged breaths spill from my lips as I stagger along. My vision is blurry and my throat is as dry as a desert."
+  },
+  {
+    "message": "If they find me now, I doubt I could escape... still, I focus all my strength on pushing forward."
+  },
+  {
+    "message": "After dragging myself a fair way down the hall, I hear a door opening ahead of me."
+  },
+  {
+    "message": "Two white-clad men come out."
+  },
+  {
+    "message": "...Shit. There's nowhere to run."
+  },
+  {
+    "name": "研究員Ａ",
+    "message": "\"Hey, look.\""
+  },
+  {
+    "name": "研究員Ｂ",
+    "message": "\"Who is that?\""
+  },
+  {
+    "name": "研究員Ａ",
+    "message": "\"I don't think he belongs here...\""
+  },
+  {
+    "name": "研究員Ｂ",
+    "message": "\"Call security!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "Shit! I can't let myself get caught now!"
+  },
+  {
+    "message": "Not after I've gotten this far..."
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "研究員Ａ",
+    "message": "\"W-What the...\""
+  },
+  {
+    "name": "研究員Ｂ",
+    "message": "\"Don't move! I'm calling security!\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"...No. <I>You</I> don't move.\""
+  },
+  {
+    "name": "研究員Ａ",
+    "message": "\"...Huh?! I can't...!\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"Out of my way.\""
+  },
+  {
+    "name": "研究員Ｂ",
+    "message": "\"Who are you?!\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"Your worst nightmare.\""
+  },
+  {
+    "name": "研究員Ａ",
+    "message": "\"A-Ahhhhh!\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"I'll give you freedom from life. Freedom through destruction. I'll crush your mind, your memories, everything you are.\""
+  },
+  {
+    "name": "研究員Ｂ",
+    "message": "\"Aaaaaaaaaah!\""
+  },
+  {
+    "name": "研究員Ａ",
+    "message": "\"Gaahhhhhhhh!!!\""
+  }
+]

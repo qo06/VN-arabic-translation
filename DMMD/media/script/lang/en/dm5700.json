@@ -1,0 +1,83 @@
+[
+  {
+    "message": "With the Oval Tower destroyed, Platinum Jail ceased to function."
+  },
+  {
+    "message": "But thanks to prompt intervention from the mainland, the chaos was quickly resolved."
+  },
+  {
+    "message": "The tower collapsed because of terrorist bombs, coupled with a malfunction in Platinum Jail's central control system. Beyond that, details are scarce."
+  },
+  {
+    "message": "By some miracle, everyone in the tower managed to escape with, at worst, minor injuries."
+  },
+  {
+    "message": "Apparently, they all received a message alerting them before the building's collapse."
+  },
+  {
+    "message": "However, a number of people窶品ncluding Toue himself窶病re still missing."
+  },
+  {
+    "message": "The incident brought Toue's mind control research to light. The Celebration, which was a cover for his largest experiment yet, was canceled.\r\n<p>\r\nIt might have put all of Midorijima under his control."
+  },
+  {
+    "message": "The Toue Corporation's products and services were transferred to other corporations. This included Allmates, once they fixed the bug."
+  },
+  {
+    "message": "Rhyme, too, changed hands. Usui was replaced."
+  },
+  {
+    "message": "And thus, bit by bit, the shadow of the Toue Corporation was lifted from my town."
+  },
+  {
+    "message": "Now, the people of Midorijima are working hard to return it to its former glory."
+  },
+  {
+    "message": "Koujaku is still dressing hair, like usual, and I often hear rumors of Noiz's activities."
+  },
+  {
+    "message": "I haven't heard a word from Mink, but it'd take a lot more than that to put him down."
+  },
+  {
+    "message": "Clear still drops by on occasion."
+  },
+  {
+    "message": "Mizuki regained consciousness. He hasn't been released from the hospital yet, but he always looks so happy when I go to visit."
+  },
+  {
+    "message": "As for me, I'm living with Granny like always. Those awful headaches are gone now. Completely. It's almost like I never had them."
+  },
+  {
+    "message": "The sensation in my hair has faded too."
+  },
+  {
+    "message": "It's... really over."
+  },
+  {
+    "name": "女アナウンサー",
+    "message": "\"And now for a followup report on the collapse of Oval Tower.\""
+  },
+  {
+    "name": "女アナウンサー",
+    "message": "\"According to the authorities, evidence of explosives was discovered in the basement of the tower. They believe that this was likely a terrorist attack.\""
+  },
+  {
+    "name": "女アナウンサー",
+    "message": "\"The investigation is ongoing.\""
+  },
+  {
+    "name": "女アナウンサー",
+    "message": "\"Immediately prior to the incident, everyone inside the tower received a message on their Coil warning them to escape.\""
+  },
+  {
+    "name": "女アナウンサー",
+    "message": "\"There were no fatalities and only minor injuries reported.\""
+  },
+  {
+    "name": "女アナウンサー",
+    "message": "\"However, several Toue Corporation employees, including Mr. Toue Tatsuo himself, were reported missing. The search for them is ongoing.\""
+  },
+  {
+    "message": "And just like that, a year goes by."
+  }
+]

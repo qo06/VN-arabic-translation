@@ -1,0 +1,237 @@
+[
+  {
+    "message": "The image on the screens suddenly changes."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey...\""
+  },
+  {
+    "message": "That's... the Old Residential District?!"
+  },
+  {
+    "message": "<4line><voice name='東江' class='東江' src='voice/dm52/2000020b02'>\r\n\"I'm sorry to say that when Platinum Jail was constructed, not everyone accepted our vision. This is where the islanders who refused to cooperate with us live.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"Matters were tense between us for a time, but now, little by little, the islanders are coming around.\""
+  },
+  {
+    "name": "東江",
+    "message": "\"This event is being broadcasted to the Old Residential District, so that they may enjoy it as well. Please, observe.\""
+  },
+  {
+    "message": "Exuberant shouts and applause rise from the crowd."
+  },
+  {
+    "message": "I stare open-mouthed at the screens, my headache forgotten."
+  },
+  {
+    "message": "Those are the streets of my home. I know them like the back of my hand."
+  },
+  {
+    "message": "But now... I hardly recognize them."
+  },
+  {
+    "message": "Everyone is standing still, staring at the closest screen―entranced, just like the people here were."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...No way.\""
+  },
+  {
+    "message": "Toue claimed that they were \"coming around\" to his vision."
+  },
+  {
+    "message": "But that was a lie. Almost nobody back home was on Toue's side. There's no way it could change this fast."
+  },
+  {
+    "message": "I feel numb, like I'm watching a bad comedy sketch."
+  },
+  {
+    "message": "That blank look on everyone's faces..."
+  },
+  {
+    "message": "It reminds me of Mizuki when he was being controlled by Morphine."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh!\""
+  },
+  {
+    "message": "My headache is getting worse, but I have more important things to worry about."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Ren? I don't like the looks of this.\""
+  },
+  {
+    "message": "Ren is watching from inside my bag."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yes. This isn't normal.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are they being controlled?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That seems highly probable.\""
+  },
+  {
+    "message": "It's just like Granny said. Toue is trying to control all the people on the island, including those back home."
+  },
+  {
+    "message": "...Granny. Is she okay?"
+  },
+  {
+    "message": "Koujaku, Noiz, Mink, Clear..."
+  },
+  {
+    "message": "Mr. Haga, Ms. Yoshie, the brats...\r\nEveryone..."
+  },
+  {
+    "name": "東江",
+    "message": "\"Soon, they too will join us in paradise. And when that time comes, I hope you will all receive them with open arms, as friends.\" "
+  },
+  {
+    "message": "The crowd cheers."
+  },
+  {
+    "message": "...These people have no idea."
+  },
+  {
+    "message": "They don't know a damn thing about what's really going on. They don't even care. They're just dancing to Toue's tune."
+  },
+  {
+    "message": "This isn't even about his mind control tech or whatever. Even without that, these idiots here would swallow any shit he fed them."
+  },
+  {
+    "message": "Anything that'll let them go on being happy, dancing zombies."
+  },
+  {
+    "message": "A world without pain. Toue might call that happiness, but he couldn't be more wrong."
+  },
+  {
+    "message": "And yet, these people think he's the fucking messiah."
+  },
+  {
+    "message": "...What a joke."
+  },
+  {
+    "message": "How can they be so fucking blind?!"
+  },
+  {
+    "name": "男性客Ｂ",
+    "message": "\"Hurray for the Old Residential District!!!\""
+  },
+  {
+    "message": "I glare at the man next to me, but he keeps going."
+  },
+  {
+    "name": "男性客Ｂ",
+    "message": "\"Hurray for the Old Residential District! Hurray for To―urk!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shut up.\""
+  },
+  {
+    "message": "I grab him by the collar and pull his face close."
+  },
+  {
+    "name": "男性客Ｂ",
+    "message": "\"Wh-What's your problem?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shut your fucking mouth.\""
+  },
+  {
+    "name": "男性客Ｂ",
+    "message": "\"Why're you mad? Didn't you hear what Toue said? We've gotta free our minds to be happy and―\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Shut up!!!\""
+  },
+  {
+    "name": "男性客Ｂ",
+    "message": "\"Eek!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  },
+  {
+    "message": "Ren's shout stops me just as I raise my fist."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Calm down.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "name": "男性客Ｂ",
+    "message": "\"Eeeek!\""
+  },
+  {
+    "message": "I loosen my grip on his collar and the man scrambles away into the crowd."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Fuck!\""
+  },
+  {
+    "message": "Rage flares in my chest. Rage at Toue, rage at these fools watching him ruin my home with smiles on their faces..."
+  },
+  {
+    "message": "But most of all, rage at myself for being powerless to stop it!"
+  },
+  {
+    "name": "蓮",
+    "message": "\"If you cause a scene now, you'll lose your chance.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know! But I can't just...!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Remember. You have a habit of letting your emotions get the better of you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ugh, well what the fuck do you expect after hearing that shit?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "What's happening to me? Lashing out at Ren?"
+  },
+  {
+    "message": "I mean, sure, this headache's driving me crazy..."
+  },
+  {
+    "message": "...but that's not an excuse."
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sorry. I just... You're right. I'm sorry.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...It's fine.\""
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren...\""
+  },
+  {
+    "message": "When the barrier falls, Ren is standing there, looking at me with sad eyes."
+  },
+  {
+    "message": "The rage from before is gone."
+  },
+  {
+    "message": "Finally, I can face him. The <i>real</i> him."
+  },
+  {
+    "message": "After a moment, Ren speaks."
+  },
+  {
+    "name": "蓮",
+    "message": "\"We've been together since the beginning. I've watched over you all this time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That's why I was born. It was my job to keep you safe, to keep your mind in balance.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"But as you became more and more unstable, my voice stopped reaching you.\""
+  },
+  {
+    "message": "He's talking about my wild years, when I fought in Rhyme. I made Granny worry so much back then... I guess it wasn't easy on Ren, either."
+  },
+  {
+    "name": "蓮",
+    "message": "\"I was worried what might happen if you lost control completely.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"But as long as I was inside you, I was helpless. I couldn't reach you in the real world.\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"But then, when I was at my most desperate... that was when you found an Allmate.\""
+  },
+  {
+    "message": "An Allmate... Ren's vessel. I found him abandoned on the side of the road."
+  },
+  {
+    "name": "蓮",
+    "message": "\"I realized this was an opportunity. When you register an Allmate, your mind and its mind are joined via your ID chip.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I transferred my consciousness to the Allmate. At last, I could interact with you in the real world.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"So I did. As your Allmate, as Ren, I tried to protect you. I saw what you were doing in Rhyme. I wanted to stop you.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"But then, something erased my memories.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"When that happened, I forgot not only the Rhyme incidents, but also what I truly was.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"For years, I believed that I really was an Allmate. But now, I remember everything―what I am, my true purpose. All because of that worm.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That worm was designed to fully activate an Allmate's emotional expression system.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Emotional expression system? I've never heard of anything like that.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"No one knows about it, but all Allmates have had it since the start.\""
+  },
+  {
+    "message": "Then it's Toue's doing. Of course."
+  },
+  {
+    "message": "That bug Noiz mentioned must be related."
+  },
+  {
+    "name": "蓮",
+    "message": "\"When the Allmates' emotions awakened, so did my memories... together with feelings I had never known.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I'd synchronized too deeply with the Allmate body.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"The Allmate's emotional expression system caused me to develop emotions as well.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I could no longer be Ren <i>or</i> what I had been―not truly.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"The first emotions I felt made me suffer. I... Ren was an old model. It's abilities were... inferior.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I was jealous of the newer models. I grew terrified that one day you would abandon me, trade me in.\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"Perhaps those were Ren's feelings more than my own. Either way...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Each new thing I felt gave birth to another, and another... until finally, I was forced to face the fact... that I wanted you all to myself.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I didn't want to let anyone else have you. I wanted to be with you―not just to protect you, but to share my heart with you. To become your equal.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I came to the conclusion that those desires were too far a departure from my proper role. But even knowing that, I couldn't change how I felt.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Torn between my feelings and my duty, I opted to pick neither.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I decided to make you reject me. I thought that if you rejected me strongly enough, I might vanish from inside you altogether.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's why you ran away?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "message": "Ren falls silent."
+  },
+  {
+    "message": "It's a lot to take in..."
+  },
+  {
+    "message": "More than surprise, though... I feel anger."
+  },
+  {
+    "message": "I mean, what an idiot."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Man, you're such a dumbass.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You spent all this time inside me. Shouldn't you know me better than anyone?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Did you really think pushing me away a few times would make me hate you?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why do you think I kept fixing you up? Why I kept using you even though you were obsolete? It's because I care about you, stupid.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's why I fixed you when you broke. Why even when parts were hard to find, I kept looking until I got what you needed.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I did it all because you're important to me! I don't want a new model. I never did.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Now, I dunno what kind of feelings you have for me or whatever, but could they really be that bad?\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is it really so wrong to feel something for me?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...It directly contradicts the purpose of my existence. My duty is to maintain your mental balance, but I've become a disruptive influence.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I can't exist like this. Your mind and body can't sustain the conflict I represent. Sooner or later, I'll disappear.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No...\""
+  },
+  {
+    "message": "I don't even want to think about that."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You can't. I won't let you. You're me, aren't you? Don't I get a say?\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You've helped me through so much. I couldn't have done it without you.\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"Even without me, you'll still have Ren. The Allmate will return to factory settings. You can keep using it as you always have.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You don't need me, Aoba.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're not listening! I don't care how well it functions! Get it through your thick skull!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I need you, Ren. You, not an Allmate. I want us to be together.\" "
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But you're just gonna leave me?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I'm very happy that you feel that way, but...\""
+  },
+  {
+    "message": "Ren looks down at his feet, lips drawn into a tight line."
+  },
+  {
+    "message": "Words aren't going to be enough."
+  },
+  {
+    "message": "So I walk up to him, reach out, and pull him into my embrace."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll say it as many times as it takes. I don't want you to leave. I need you.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Stay with me.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"......\""
+  },
+  {
+    "message": "This time, when I look up, I see Ren's expression change. Longing swirls in the depths of his eyes."
+  },
+  {
+    "message": "Slowly, timidly, he raises his hand to touch my cheek... and then, he squeezes me tight."
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Aoba...!\""
+  },
+  {
+    "message": "We're only data in this world, so it's just the illusion of touch."
+  },
+  {
+    "message": "But despite that, Ren's skin feels real beneath my hands."
+  },
+  {
+    "message": "I can feel his warmth where our bodies touch."
+  },
+  {
+    "message": "Ren hugs me back with surprising force. Though it's a little hard to breathe, it makes me happy."
+  },
+  {
+    "message": "It tells me just how strong his feelings for me are. I hug him back every bit as tight."
+  },
+  {
+    "message": "In this moment, we are together. And that means more to me than anything."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren, promise me something. Promise me you'll never think about leaving, ever again.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Promise me.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"...Alright.\""
+  },
+  {
+    "message": "Ren buries his face into my shoulder."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Alright, Aoba. I promise.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Good.\""
+  },
+  {
+    "message": "I slowly pull away and meet Ren's gaze."
+  },
+  {
+    "message": "His amber eyes twinkle softly."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Come on, let's go. Everyone's waiting.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Right.\""
+  },
+  {
+    "message": "I take Ren's hands. We exchange a nod, then the both of us close our eyes. "
+  },
+  {
+    "message": "I focus my mind, and the two of us leap."
+  },
+  {
+    "message": "Higher... higher..."
+  },
+  {
+    "message": "In my mind's eye, I see the ceiling shatter... and beyond it is..."
+  },
+  {
+    "name": "ナイン",
+    "message": "\"....d of, so... world.\""
+  },
+  {
+    "name": "ナイン",
+    "message": "\"...rry. ...can ...always be destroy...\""
+  },
+  {
+    "name": "ナイン",
+    "message": "\"...it, and... world... endless...\""
+  }
+]

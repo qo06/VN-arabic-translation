@@ -1,0 +1,42 @@
+[
+  {
+    "message": "After putting Ren in my bag, I crouch down to examine the spot where that guy was a moment ago."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Ren.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Did you see anyone sitting here?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I don't remember seeing anyone.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Did something happen?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nah. It was probably my imagination.\""
+  },
+  {
+    "message": "I should try not to think about it too hard."
+  },
+  {
+    "message": "I've already got plenty of other things to worry about... Ren included."
+  },
+  {
+    "message": "Retracing my steps, I walk back to Glitter."
+  }
+]

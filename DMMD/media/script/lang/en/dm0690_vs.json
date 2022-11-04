@@ -1,0 +1,278 @@
+[
+  {
+    "message": "I slip past them and run full speed for the door at the end of the hall."
+  },
+  {
+    "message": "Bursting through, I find myself outside."
+  },
+  {
+    "message": "Before me stretches a wide, empty lot. A black van and car are parked there. Several black-clothed men stand nearby."
+  },
+  {
+    "message": "Three people climb out of the back of the car窶病 small figure sandwiched between two larger ones."
+  },
+  {
+    "message": "When I see the person in the middle, I shout:"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny!\""
+  },
+  {
+    "message": "Two men are holding her up by the arms, dragging her toward the van's open door."
+  },
+  {
+    "message": "The remaining men see me and charge."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"...Wait.\""
+  },
+  {
+    "message": "One of the black-clothed men stops them.<k>\r\nI can't see his face beneath his hood."
+  },
+  {
+    "message": "The man who spoke steps away from the group and walks up to me."
+  },
+  {
+    "message": "Slowly, with both hands, he pulls back his hood."
+  },
+  {
+    "message": "When I see his face...\r\n<?>"
+  },
+  {
+    "message": "My heart stops."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Didn't think you'd come sniffing around here. I shoulda known better. You always did like sticking your nose in other people's business.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki... Why... Why are you...\""
+  },
+  {
+    "message": "Mizuki watches me as I struggle to speak, an eerie smile on his lips."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I was waiting for the guys I sent after you... but if you're here, I guess they got caught.\""
+  },
+  {
+    "message": "No..."
+  },
+  {
+    "message": "The Mizuki I know would never look at me like that, with a sneer of utter contempt."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's wrong with you? What happened? We were worried when you guys disappeared like that.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Oh, that's what's buggin' you? Listen, Aoba, this shit is amazing. Dry Juice has been reborn! As part of Morphine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Morphine?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"The one and only. Everyone was right; they <I>are</I> legends. Other Rib gangs got nothing on 'em. Shit, they're practically gods.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Are you serious?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Do I sound like I'm joking? Dry Juice will be unstoppable now.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"The other gangs'll be kissing our feet! Hahahahaha!\""
+  },
+  {
+    "message": "Mizuki cackles, his mouth open wide.\r\nI can't believe it. Is this the guy I've known for years?"
+  },
+  {
+    "message": "The men around him don't even blink."
+  },
+  {
+    "message": "They all have those blank, doll-like eyes.<k>\r\nAlmost like someone's controlling them..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Snap out of it, man! You're talking crazy!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Huh? What're you talking about? You're the crazy one.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I mean, you're the one who turned me down, all those times I asked you to join.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"What? Did you think Rib was just a big fucking joke?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Of course not!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Then why'd you never join? You knew how serious I was.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"It's not too late. The gang's stronger than ever. Join us, as a member of the <I>new</I> Dry Juice.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'd rather die.\""
+  },
+  {
+    "message": "I know how passionate Mizuki is about Rib. That's <I>why</I> I give such a forceful reply."
+  },
+  {
+    "message": "<I>This</I> isn't Mizuki."
+  },
+  {
+    "message": "He frowns for a moment when he hears my response, but that weird smile quickly returns."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"...Oh, I get it. You'd rather die, huh? Okay. If that's how it's gonna be...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You love your grandma, don't you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "Mizuki grabs Granny by the arm and pulls her toward him, then presses something against her neck."
+  },
+  {
+    "message": "A knife.<K>\r\nSweat, cold and clammy, rolls down my back."
+  },
+  {
+    "name": "タエ",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Stop it!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I'll stop when you join my gang.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh.\""
+  },
+  {
+    "message": "Granny squeezes her eyes shut, like she's preparing herself for what might happen."
+  },
+  {
+    "message": "This only makes me more desperate."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let her go!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You really don't get it, do you? I said join us.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I said no.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"No?\""
+  },
+  {
+    "message": "Anger flickers once more across his face."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You think I'm bluffing? All bark, no bite? ...Fine. I'll show you some <I>bite.</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hold on...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I hope you're happy with your decision.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki! Stop!\""
+  },
+  {
+    "message": "Mizuki presses the tip of his knife to Granny's throat."
+  },
+  {
+    "message": "No..."
+  },
+  {
+    "message": "Stop..."
+  },
+  {
+    "message": "Granny..."
+  },
+  {
+    "message": "Granny!!!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh!\""
+  },
+  {
+    "message": "I charge without a second thought."
+  },
+  {
+    "message": "Reaching Mizuki, I grab his arm and look into his eyes."
+  },
+  {
+    "message": "And then―"
+  },
+  {
+    "message": "The world twists around me."
+  },
+  {
+    "message": "I've felt this before..."
+  },
+  {
+    "message": "That's right... in Rhyme. When Noiz forced me into that match."
+  },
+  {
+    "message": "...No. That wasn't the first time."
+  },
+  {
+    "message": "I felt this even before that."
+  },
+  {
+    "message": "A long, long time ago..."
+  }
+]

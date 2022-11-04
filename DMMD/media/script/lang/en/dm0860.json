@@ -1,0 +1,134 @@
+[
+  {
+    "message": "I throw on my clothes, wake up Ren, and run downstairs."
+  },
+  {
+    "message": "Granny, Koujaku, Mink, Noiz, and Clear are in the living room. Even Mr. Haga and Ms. Yoshie are there."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny! The cops're outside for some reason! I mean, they're calling my name!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Well, this is a mess...\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Aoba, dear, what on earth is going on?\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"I came as soon as I finished the preparations... but it looks like I was too late.\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"I don't know what they want, but we're on your side!\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"Of course!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks. But I'm just as lost as you guys...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Toue is behind this.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Toue?!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"He must've heard from Morphine, or whoever they were. He knows you used Scrap. He's not gonna waste any time coming for you.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Get your asses out here, already! Don't make me come in there! ...Fine! Have it your way! Brace for entry!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Through the back door, all of you! Hurry!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That cop means business.\""
+  },
+  {
+    "name": "羽賀",
+    "message": "\"We'll handle things here. Please, Aoba, get your friends out the back while you can!\""
+  },
+  {
+    "name": "ヨシエ",
+    "message": "\"Yeah! We'll give those rotten policemen a kicking they'll never forget!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mr. Haga, Ms. Yoshie... Granny, thank you.\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"CHAAAAAAAARGE!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Let's go!\""
+  },
+  {
+    "message": "We race out the back door."
+  },
+  {
+    "message": "Behind us, I hear the police storming the place."
+  },
+  {
+    "message": "Granny, Mr. Haga, Ms. Yoshie... I'm sorry!"
+  },
+  {
+    "message": "Please... Please be safe!"
+  },
+  {
+    "message": "The back door leads to a narrow path sandwiched between two walls."
+  },
+  {
+    "message": "We slip through and into a slightly wider alley."
+  },
+  {
+    "name": "クリア",
+    "message": "\"There are police that way! I can hear their footsteps!\""
+  },
+  {
+    "message": "He's right. I hear footsteps ahead of us."
+  },
+  {
+    "name": "警官Ａ",
+    "message": "\"It's them! They're here!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "They found us!"
+  },
+  {
+    "message": "We're screwed if they catch us in this alley."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Don't be an easy target! Scatter!\""
+  },
+  {
+    "message": "Spurred by Mink's command, we split off in different directions."
+  }
+]

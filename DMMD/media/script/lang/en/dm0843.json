@@ -1,0 +1,247 @@
+[
+  {
+    "message": "I get out of bed and leave my room."
+  },
+  {
+    "message": "Maybe I just need some fresh air."
+  },
+  {
+    "message": "Careful not to make too much noise, I go downstairs, put on my shoes, and head outside."
+  },
+  {
+    "message": "Just as I'm about to step out onto the street, I notice someone leaning against the wall of the house."
+  },
+  {
+    "message": "With a flapping of wings, a large bird alights on the man's shoulder."
+  },
+  {
+    "message": "A cockatoo. It's Mink, a trail of white smoke floating above his head."
+  },
+  {
+    "message": "To be honest, he's probably the last person I want to see right now."
+  },
+  {
+    "message": "I turn around to head back inside, but something stops me."
+  },
+  {
+    "message": "This is Mink, after all. He must have already noticed me."
+  },
+  {
+    "message": "He'll probably think I'm acting weird if I go right back inside, like I'm trying to avoid him or something."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What are you doing out here?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Nothing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "No conversation emerges, not that this comes as a surprise."
+  },
+  {
+    "message": "I'm already regretting trying to talk to him."
+  },
+  {
+    "message": "I think about heading back inside... but something is stopping me. What?"
+  },
+  {
+    "message": "Is there anything I can say?"
+  },
+  {
+    "message": "I mean, he's not the kind of person who'll engage with me on just anything."
+  },
+  {
+    "message": "I'm not sure my introduction to him could have been more unpleasant, either..."
+  },
+  {
+    "message": "The tension is getting to me. My thoughts have begun to wander on tangents."
+  },
+  {
+    "message": "Still... it's thanks to Mink that we managed to save Granny."
+  },
+  {
+    "message": "He kept his end of the bargain."
+  },
+  {
+    "message": "I guess that I owe him a thank you."
+  },
+  {
+    "message": "Whatever he's done, it doesn't change the fact that he helped."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Hey, so...\""
+  },
+  {
+    "message": "He doesn't even look at me when I speak."
+  },
+  {
+    "message": "...Whatever. I expected as much."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Um... thanks for helping save Granny. I don't think we could've done it without you. It definitely would've taken longer to track her down.\""
+  },
+  {
+    "message": "Mink gives me a sidelong glance."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I didn't do it out of the kindness of my heart. Don't forget that. You better keep up your end of the bargain.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I haven't forgotten anything, alright? I know what you're after... It's the power of my voice, isn't it?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink shifts his gaze toward the sky and brings the pipe to his lips."
+  },
+  {
+    "message": "I lean up against the wall, keeping a little distance between us."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You were right about my voice. About the effect it has on people.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"So, you didn't believe me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's not that... It's just, like, it's weird. Even after what Granny said, it's still hard to believe. But you already knew about it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wait, how'd you even know?\""
+  },
+  {
+    "message": "Mink looks up again, his eyes staring off into the distance."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...It's the way your vocal cords vibrate. It's different from everyone else.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Vocal cords?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You probably don't remember, but I've heard your voice before. That's when I noticed it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? When?\""
+  },
+  {
+    "message": "There's no way I'd forget a giant like him. When could he have heard my voice?"
+  },
+  {
+    "name": "ミンク",
+    "message": "\"That's when I started looking for you. I needed to be sure of what your voice was.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's why you were after me...\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Power alone is meaningless. But I think you already know that, don't you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Well... I guess he's right. There's no point having this power unless I know how to use it."
+  },
+  {
+    "message": "Worse, it's like walking through a minefield. If I can't control it, there's a good chance I might hurt someone else."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"I'm not just talking about your power. Any weapon―any tool―is worthless if left unused. The rest depends on <I>how</I> you use it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I never asked for this power. I don't want to use it.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Then don't. That's up to you. However...\""
+  },
+  {
+    "message": "Suddenly, Mink is standing in front of me, boxing me in with his arms."
+  },
+  {
+    "message": "His cockatoo spreads its wings."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"First, you're going to use it to help me get what <I>I</I> want. You don't have a choice.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "His stare is so cold, it turns the air to ice."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...And what do you want?\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"You don't need to know that yet.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Mink pulls away from me, then starts walking off down the street."
+  },
+  {
+    "message": "Before long, his massive figure has vanished into the night."
+  },
+  {
+    "message": "As I watch him leave, I wonder what I should do."
+  },
+  {
+    "message": "It's clear that Mink ultimately sees me as nothing but a means to an end."
+  },
+  {
+    "message": "He's not my friend, and he's not trying to help."
+  },
+  {
+    "message": "All he wants is my power."
+  },
+  {
+    "message": "Still, Mink held up his end of the bargain. I want to hold up mine."
+  },
+  {
+    "message": "I really do... but at the same time..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I give up.\""
+  },
+  {
+    "message": "I'm thinking in circles. Time to head back inside."
+  },
+  {
+    "message": "Once back in bed, I don't really feel like sleeping, so I just stare at the ceiling for a while."
+  }
+]

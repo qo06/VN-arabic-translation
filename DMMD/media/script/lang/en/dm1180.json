@@ -1,0 +1,361 @@
+[
+  {
+    "message": "When we get back to Glitter, Koujaku carries me all the way upstairs and puts me into bed."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Can you at least get your clothes off? Take off everything that's dirty.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "I take off my dirty jacket and hand it to Koujaku before crawling under the covers."
+  },
+  {
+    "message": "It's like the whole day has caught up with me at once. I sink into the mattress and let out a long sigh."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Tired?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"How you feeling now?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Better than I was.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Good. Here's Ren.\""
+  },
+  {
+    "message": "Koujaku puts Ren on the bed. He curls up in a ball beside me."
+  },
+  {
+    "message": "I stroke his blue fur, letting the sensation calm me."
+  },
+  {
+    "message": "Koujaku leaves the room for a moment. When he returns, he sets something on the nightstand."
+  },
+  {
+    "message": "A glass of water."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Drink this and get some sleep.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks... for everything.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's nothing, man. Need anything else?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm fine.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Cool.\""
+  },
+  {
+    "message": "And that's the end of the conversation."
+  },
+  {
+    "message": "Koujaku falls silent, staring at his shoes."
+  },
+  {
+    "message": "I know why."
+  },
+  {
+    "message": "He and I are thinking about the same thing.\r\nAbout what happened at the club."
+  },
+  {
+    "message": "After a while, Koujaku lifts his head, like he's made some kind of decision."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Aoba. Can I ask you something?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What were you doing there?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "My mouth snaps shut. I don't know what to say."
+  },
+  {
+    "message": "Koujaku looks at me, waiting."
+  },
+  {
+    "message": "I have to say <I>something,</I> but as I search for the words, another thought rears its head."
+  },
+  {
+    "message": "Should I ask about what's been weighing on me this whole time?"
+  },
+  {
+    "message": "I get the feeling that I should probably stay silent... but I do still have some doubts about his actions. Wouldn't it be better to just come out and ask him?"
+  },
+  {
+    "message": "Steeling my resolve, I open my mouth to speak."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What about you? What were you doing there?\""
+  },
+  {
+    "message": "He looks a little surprised by the question."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What was I doing there? Wait, do you even know what that place is?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No... I just happened to see you go in.\""
+  },
+  {
+    "message": "...while I was stalking you."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So you followed me? How'd you even get in?\""
+  },
+  {
+    "message": "Koujaku narrows his eyes. I feel sweat dripping down my back."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I was trying to get your attention, but they stopped me at the entrance. Then this guy came and helped me out, and―\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Helped you out?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. He was wearing a kimono just like you. He seemed like a regular.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...A kimono?\""
+  },
+  {
+    "message": "Koujaku's eyebrow twitches."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"He was wearing a kimono?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh, yeah?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Remember anything else about him?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh, why?\""
+  },
+  {
+    "message": "Koujaku jerks, then shakes his head. He seems taken aback by the question."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Nothing... Just thought it might've been someone I know.\""
+  },
+  {
+    "message": "...He's acting weird again."
+  },
+  {
+    "message": "He was like this last night, too. I know he's hiding something."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...He had short hair and a blue kimono and a really, like, laid-back attitude... and a tattoo on his neck, too.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What did it look like?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Not quite a dragon... Maybe a seahorse? Something like that.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "This time, Koujaku's face visibly tenses. \"Grim\" is the only word I can think of to describe his expression."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Do you know him?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Aoba. Don't ever go there again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "Where did that come from?"
+  },
+  {
+    "message": "I feel my anxiety building again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why not?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Look, it doesn't matter. Just stay away.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell? Just because of some guy in a blue kimono?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...No.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Besides, I think you owe me an explanation first.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Like how you left without a word this morning. Did you think I wouldn't notice?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"So you did follow me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Look, I'm sorry for lying. But you were acting so weird, I thought maybe I should just pretend I didn't see anything.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And, I mean, maybe you were trying to be considerate, but given why we're here, I'd rather you just be upfront about it...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's not like that!\""
+  },
+  {
+    "message": "Koujaku's tone is forceful, and his expression seems haunted somehow."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...But that's all I can say right now. Sorry.\""
+  },
+  {
+    "message": "He turns away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey! Wait!\""
+  },
+  {
+    "message": "But it's no use."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "After the door shuts behind Koujaku, I stare at it for a while in silence."
+  },
+  {
+    "message": "He really is hiding something, and he has no intention of telling me about it."
+  },
+  {
+    "message": "That's what this means."
+  },
+  {
+    "message": "He's shutting me out."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I bury my face in my pillow and let out a deep sigh."
+  },
+  {
+    "message": "Frustration burns in my chest, together with guilt."
+  },
+  {
+    "message": "I've known Koujaku for so long. I always figured we just <I>got</I> each other."
+  },
+  {
+    "message": "But right now, I don't get Koujaku at all."
+  },
+  {
+    "message": "And I don't know what to do about that."
+  },
+  {
+    "message": "What is he hiding from me?"
+  },
+  {
+    "message": "\"Don't ever go there again.\""
+  },
+  {
+    "message": "Was he telling me to keep my nose out of his business?"
+  },
+  {
+    "message": "What the hell is going on at that club? And why is he shutting me out?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I don't get it...\""
+  },
+  {
+    "message": "I cover my eyes with my hands and sigh again."
+  },
+  {
+    "message": "In all the time I've been friends with Koujaku, I've never felt this way before."
+  },
+  {
+    "message": "Maybe it's arrogant of me to think I know him that well."
+  },
+  {
+    "message": "I mean... how does Koujaku really feel about me?"
+  },
+  {
+    "message": "...It's like I'm wandering through a thick fog. I lie there, questions gnawing at my brain, but answers never come."
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "message": "I look at the curtains covering my window."
+  },
+  {
+    "message": "Maybe I should get some fresh air..."
+  },
+  {
+    "message": "I get out of bed and head over to the window."
+  },
+  {
+    "message": "Just as I'm about to open the curtains, I pause."
+  },
+  {
+    "message": "I hear something."
+  },
+  {
+    "message": "...Singing?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I peer through the curtains out onto the balcony."
+  },
+  {
+    "message": "But there's no one there. Did I imagine it?"
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Woah!\""
+  },
+  {
+    "message": "I hear a voice from above, and then something jumps down onto the balcony."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Clear?!\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. It's me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You scared me... You were up on the roof?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. I went up on the roof to sing.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Wait, so that was you singing?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. I was singing the Jellyfish Song.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The Jellyfish Song?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. The old man I used to live with talked about jellyfish a lot, so I made a song about them.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Jellyfish are amazing, you know. Their bodies are almost entirely water, but they're alive, just like us.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I wonder if jellyfish sleep and dream...\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Uh-huh...\""
+  },
+  {
+    "message": "I'm getting more and more confused."
+  },
+  {
+    "message": "It doesn't feel like he's screwing with me, though..."
+  },
+  {
+    "message": "Clear steps next to me and takes something out of his pocket."
+  },
+  {
+    "message": "...That umbrella again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you doing with that?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Is there something wrong with it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No... but why?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I thought the stars looked like they were about to fall.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I look up. As expected, there isn't a star in the sky, just the outlines of illegal construction sites obscuring the view."
+  },
+  {
+    "message": "Well, maybe it was my fault for expecting a coherent answer..."
+  },
+  {
+    "name": "クリア",
+    "message": "\"By the way, Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hold up. You need to stop calling me that.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"But why?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It's kind of creepy... Just call me Aoba.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"No, you're my master, Master. So I think I will call you Master.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Okay.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master is Master, but Clear is the name the nice old man gave to me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The nice old man? The one you wrote the Jellyfish Song for?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. He passed away, though.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"We used to live near that area full of junk in the north quarter.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Junk... Oh, the waste treatment facility? So that's why you knew the area so well.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Yes. By the way, Master, I was trying to tell you this earlier.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"The other day, when we went to the north quarter to save Mr. Mizuki...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"You turned into the cool version of Master. I was like, 'ding-ding-ding!'\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"The... cool version?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Like the time I carried you back to the shop. Cool Master. But now, you're...\""
+  },
+  {
+    "message": "Clear looks me over."
+  },
+  {
+    "name": "クリア",
+    "message": "\"You're still cool, Master!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh...\""
+  },
+  {
+    "message": "That was such an obvious cover..."
+  },
+  {
+    "message": "Confused as I am, one of the things Clear said stands out."
+  },
+  {
+    "message": "The \"cool version\" of me... What does he mean by that?"
+  },
+  {
+    "name": "クリア",
+    "message": "\"I'll be with you from now on, Master. I'll protect you.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I hope you don't mind.\""
+  },
+  {
+    "message": "Clear closes his umbrella and sketches a perfect bow, his body bent to almost a right angle."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...So you're gonna keep calling me Master?\""
+  },
+  {
+    "message": "I find myself smiling awkwardly."
+  },
+  {
+    "message": "What a strange guy. I still don't know what he's after... but he doesn't seem bad."
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master, you should go to bed. It'll be tomorrow before you know it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You're right. What about you?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I would like to sing on the roof a little longer, if you'll let me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Just don't put any holes in the roof.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Thank you, Master.\""
+  },
+  {
+    "message": "Clear bows to me again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Later, then. Don't fall off.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I won't.\""
+  },
+  {
+    "message": "I go back inside and close the curtains."
+  },
+  {
+    "message": "A minute later, I hear faint singing from outside the window."
+  },
+  {
+    "message": "It's tender and soft, almost like a lullaby."
+  },
+  {
+    "message": "It's... strangely relaxing..."
+  },
+  {
+    "message": "As my anxiety melts away, I slowly close my eyes."
+  }
+]

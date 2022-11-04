@@ -1,0 +1,170 @@
+[
+  {
+    "message": "I get out of bed and leave my room."
+  },
+  {
+    "message": "In the hall, I notice someone sitting on the stairs."
+  },
+  {
+    "message": "Before I have the chance to speak, he turns."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yo.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yo. What're you doing here?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Nothin' in particular.\""
+  },
+  {
+    "message": "I walk down the stairs and sit on the step just above him. The lights are off, so it's pretty dark."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Truth is, I wanted to take a walk, but couldn't decide where to go. So I sat down and sorta just lost track of time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Something on your mind?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I guess you could say that. What's with you? Couldn't sleep?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. I mean, with everything that's happened...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, you really found yourself a whole lotta trouble.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"First Ruff Rabbits, then that weird guy in the gas mask, then the real kicker: Scratch coming out of the woodwork.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sorry...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, no, I didn't mean it like that. I wasn't trying to give you shit, I just...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Like, with all the stuff Tae was talking about earlier, I'm just worried about you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know. I know I make you worry...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Wait, I didn't mean it like that either... It's just, you know, you've always had so much to deal with.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"And I always used to think... maybe talking about it―even if it's dumb―might take some of that weight off your shoulders.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"But you've always been like this, as long as I've known you. Not sayin' that's a bad thing.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's not, but I can't read your mind. I won't know what's wrong if you don't say something. So I gotta keep asking until you open up.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Thanks.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't beat yourself up over what happened to Mizuki. ...I guess that's easier said than done, though.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"But if you really need someone to blame for what happened, lay it on me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Thanks, man.\""
+  },
+  {
+    "message": "Koujaku is trying to cheer me up. I'm grateful for his concern."
+  },
+  {
+    "message": "He glances back at me like he wants to say something, but ruffles his bangs instead."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That power of yours... Scrap, right? It doesn't change the way I think about you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I have to admit I was a little... surprised... to find out you used to do Rhyme, though.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I really did forget. I wasn't trying to hide it from you.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I know. I've known you long enough to know when you're lying. Not that you're bad at it. I just know you too well.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Coming down on you for it wouldn't make sense, anyway. You're suffering more than anyone because of this shit. We just have to do what we can.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Thanks.\""
+  },
+  {
+    "message": "He lets out a little sigh and smiles."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"We're breaking into Platinum Jail, right? Something bad's pretty much <I>guaranteed</I> to happen.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You should get some sleep. Even a little. Alright?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Good idea. I'll try. But you need rest too.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That's the plan. Don't you worry.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, night.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Night.\""
+  },
+  {
+    "message": "I get up and head back to my room."
+  },
+  {
+    "message": "I feel a little more relaxed. Talking to Koujaku helped."
+  },
+  {
+    "message": "I need to focus on moving forward, and that'll require my full attention."
+  },
+  {
+    "message": "Maybe, when we get to Platinum Jail, I might learn something that could help save Mizuki."
+  },
+  {
+    "message": "I lie down and close my eyes, determined to get as much rest as I can. My friends are counting on it."
+  }
+]

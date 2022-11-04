@@ -1,0 +1,191 @@
+[
+  {
+    "message": "I get out of bed and leave my room."
+  },
+  {
+    "message": "At the top of the stairs, I realize that the lights in the living room are on. Is it Granny?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "I open the door and bump into someone who's just leaving."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh! ...Why are you still here?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "message": "It's Noiz."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you doing here?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Is that what you say when you run into someone?\""
+  },
+  {
+    "message": "Where does he get off talking to me like that?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Uh, sorry?\""
+  },
+  {
+    "message": "I start to turn away, but he grabs my arm."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh! What?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Did you use your power on me too?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You remember playing Rhyme now, right? So fight me already.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"We can do it right here. I'm not picky.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not funny. This is my home.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"What's that gotta do with Rhyme?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Give it a rest, man.\""
+  },
+  {
+    "message": "I pull my arm away with a glare."
+  },
+  {
+    "message": "All this idiot cares about is Rhyme. Screw him."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It's called Scrap, right? That power of yours. Have you always used it to get your way?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Like hell I have!\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"You can use it to control people's minds though, right? You telling me you've never used it in Rhyme?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hell if I know. I just know I've played the game before, nothing else.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Bullshit. How do you explain what you did when we fought?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm telling you I don't remember!\""
+  },
+  {
+    "message": "I snap my mouth shut. I didn't mean to shout."
+  },
+  {
+    "message": "Noiz just stands there, glaring at me."
+  },
+  {
+    "message": "His eyes search my face, unblinking, like he's trying to sniff out a lie."
+  },
+  {
+    "message": "As intimidated as I am by the intensity of his gaze, I don't turn away."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Look, I really don't remember. Even if I did use it during our fight somehow, I don't know how to use it now. I'm not lying.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"If you can accept that, then fine, I'll fight you. But that's not what you're after, is it?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look, if I ever feel like I could fight you, I'll take you on. I swear.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...You mean it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. You can hold me to it.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"...Fine. I'll believe you. This time.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"But you better not run when that time comes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I won't.\""
+  },
+  {
+    "message": "Noiz looks me in the eye to make sure I got the message, then slips past me into the hall."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where're you going?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"Takin' a walk.\""
+  },
+  {
+    "message": "I sigh as I watch him leave."
+  },
+  {
+    "message": "Honestly... even if I do learn to control my power, I don't want to use it unless I have to."
+  },
+  {
+    "message": "This is the power that hurt Mizuki. I never want to feel like that again."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I came downstairs to take my mind off things, but it doesn't look like that's in the cards."
+  },
+  {
+    "message": "I let out another deep sigh and return to my room, even more depressed than before."
+  },
+  {
+    "message": "I don't really feel like sleeping, but I crawl into bed and close my eyes anyway."
+  }
+]

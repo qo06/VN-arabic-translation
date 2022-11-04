@@ -1,0 +1,117 @@
+[
+  {
+    "message": "By the time I finally start to drift off, the sun is already peeking through my curtains."
+  },
+  {
+    "message": "My Coil rings, dragging me out of my slumber."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Aoba? Did I wake you?\""
+  },
+  {
+    "message": "That voice..."
+  },
+  {
+    "message": "I look at the name on my Coil."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Uh... Virus?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's up?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Oh, it's just awful. I need you to stay calm and listen to what I'm about to tell you. The police are headed to your residence.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...What?\""
+  },
+  {
+    "message": "This jolts me wide awake. I lean forward, bringing the coil closer to my face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"That, I don't know. What I do know is that there are quite a lot of them headed your way.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You've gotta be kidding...\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"At any rate, I recommend you run. The police are making things hard for me, too, but I'll contact you again if I hear anything.\""
+  },
+  {
+    "name": "ウイルス",
+    "message": "\"Do take care.\""
+  },
+  {
+    "message": "What the hell is going on?"
+  },
+  {
+    "message": "Suddenly, the gentle light at my window doubles in intensity, as if time has leapt forward, skipping straight to noon."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "I get out of bed, walk to the window, and part the curtains slightly."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ugh, too bright...\""
+  },
+  {
+    "message": "I squint, trying to see outside."
+  },
+  {
+    "message": "And there, in the early morning haze, I see a crowd of police officers and their vehicles assembled in front of my building."
+  },
+  {
+    "name": "悪島",
+    "message": "\"Hey! Hey! HEEEEEY! Get your asses out here! I know you're in there, you damn terrorists!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell?!\""
+  },
+  {
+    "message": "That's Akushima's voice!"
+  },
+  {
+    "name": "悪島",
+    "message": "\"The charges are! Trespassing! Property damage! And every single other thing―however small―you shits have ever done!!!\""
+  },
+  {
+    "name": "悪島",
+    "message": "\"Seragaki Aoba! Get out here! And bring your stinking friends with you!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "The sound of my name drives it home. This mess is about <I>me!</I>"
+  },
+  {
+    "message": "Since when am I a terrorist?!"
+  }
+]

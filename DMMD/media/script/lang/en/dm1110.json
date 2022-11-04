@@ -1,0 +1,225 @@
+[
+  {
+    "message": "After I finish, I spend some time dozing on the sofa."
+  },
+  {
+    "message": "I check the time on my Coil when I wake up. It's almost dawn already."
+  },
+  {
+    "message": "Koujaku... is still out."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell is he doing?\""
+  },
+  {
+    "message": "Just then, the front door opens."
+  },
+  {
+    "message": "I jump up and turn to look."
+  },
+  {
+    "message": "Koujaku..."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Were you sleeping? Sorry, didn't mean to wake you.\""
+  },
+  {
+    "message": "Koujaku smiles awkwardly, but I don't miss the expression that smile hides."
+  },
+  {
+    "message": "When he walked through the door, Koujaku had a dark, drained look on his face. An expression like that is drastically out of character for him."
+  },
+  {
+    "message": "I'm suddenly anxious to know what happened. My plan to give him an earful is forgotten."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Sorry for being so late.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh... Uh, yeah. You sure took your time. What were you doing?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Nothing much.\""
+  },
+  {
+    "message": "Nothing much, huh?"
+  },
+  {
+    "message": "But Koujaku doesn't explain any further. He heads straight for the stairs."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, wait a second.\""
+  },
+  {
+    "message": "Koujaku stops and turns around."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So, what'd you learn? You know, the whole point of you going with them in the first place?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Oh, yeah. I was barking up the wrong tree. I got nothing. Sorry.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "...What the hell?"
+  },
+  {
+    "message": "I can't stop myself from glaring."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Listen for a minute.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Sure.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Look man, I don't really care where you were or what you were doing. If you wanna screw around with women, fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I mean, you know what the stakes are, right? There's, like, a time and a place, you know?\""
+  },
+  {
+    "message": "Koujaku frowns apologetically."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Yeah, you're right. Old habits die hard and all. Sorry for worrying you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well... whatever. It's not a big deal.\""
+  },
+  {
+    "message": "He apologized, so I can't really say anything else. An awkward silence fills the room."
+  },
+  {
+    "message": "I try to change the subject."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Have you eaten yet?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, I'm good.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Man, this villa...\""
+  },
+  {
+    "message": "Koujaku looks around the room."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I mean, talk about impressive. You'd never guess from the outside.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I was surprised too.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Did you check out the second floor yet?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Bedrooms are up there.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Cool. Then I guess it's time to get some shut-eye.\""
+  },
+  {
+    "message": "Koujaku hurries upstairs, like he's trying to get away."
+  },
+  {
+    "message": "But he pauses at the top of the stairs to look at me."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I know I'm in no position to lecture here... but you should really get some sleep in a proper bed. Night.\""
+  },
+  {
+    "message": "Koujaku disappears down the second floor hall."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "For a while, I just stare at the spot where he vanished."
+  },
+  {
+    "message": "I don't even know how to describe what I'm feeling. What the hell was he doing that whole time?"
+  },
+  {
+    "message": "He avoided my questions. That annoys me, but most of all, it makes me anxious."
+  },
+  {
+    "message": "Something's going on."
+  },
+  {
+    "message": "He seemed weirdly distant while we were talking, like his mind wasn't all there."
+  },
+  {
+    "message": "Maybe things went south with those women?"
+  },
+  {
+    "message": "...If that's all it was, he brought it on himself."
+  },
+  {
+    "message": "What do I care about them anyway?"
+  },
+  {
+    "message": "I sigh, trying to shake my unease, and head up to the second floor."
+  },
+  {
+    "message": "I listen carefully before picking a room to avoid walking in on Koujaku."
+  },
+  {
+    "message": "The room isn't particularly large, but it's clean and well furnished. I flop onto the bed."
+  },
+  {
+    "message": "...Man, what is <I>up</I> with him?"
+  },
+  {
+    "message": "I stare up at the ceiling as words of frustration cycle through my head. It's been like this ever since Koujaku walked off."
+  },
+  {
+    "message": "I must be tired, because as my thoughts circle around the issue, I start to get sleepy."
+  },
+  {
+    "message": "I dozed off on the couch earlier, but nothing beats sleeping in a real bed. I feel as light as a feather."
+  },
+  {
+    "message": "It's getting hard to keep my eyes open. Slowly, I give in and drift off to sleep."
+  }
+]

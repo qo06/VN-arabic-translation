@@ -1,0 +1,51 @@
+[
+  {
+    "message": "I still haven't told her everything."
+  },
+  {
+    "message": "I haven't mentioned my encounter with Toue in Rhyme."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "message": "After everything she just said, how can I? If she learns that Toue contacted me..."
+  },
+  {
+    "message": "I feel guilty for keeping secrets, but it's better than making her worry."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Nothing.\""
+  },
+  {
+    "message": "After that, Granny gets up from the sofa and pulls something from one of the shelves."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Take this with you. I changed the formula. It should help with your headaches again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't do anything stupid.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I won't.\""
+  },
+  {
+    "message": "I grip the bottle tightly."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "When the gate opens, we are greeted by cheerful music and the sound of firecrackers."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What the...?\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Welcome to Platinum Jail, Japan's biggest amusement park, the place where love and dreams come true!\""
+  },
+  {
+    "message": "A strange-looking panda―were they going for cute?―totters out to greet us."
+  },
+  {
+    "message": "I see five white doors behind it."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Only the chosen are allowed to enter paradise! Please, enjoy your stay!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Paradise?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That's not shady or anything.\""
+  },
+  {
+    "message": "Not at all bothered by our lack of enthusiasm, the panda cheerfully pushes a button on the wall."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Now where, oh where will you two be headed? Let's spin the wheel of fun!\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Oh, yes! Flame Willow it is! Right this way, please!\""
+  },
+  {
+    "message": "The panda goes to the leftmost door and starts to dance around."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Flame Willow is for passionate folks with a love for thrills! Oh, your hearts are gonna <I>pound!</I>\""
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Now let the fun begin!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Man, what is with that panda? I don't get it.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"We better stay on our toes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "This is almost certainly a trap, but we've come too far to turn back now."
+  },
+  {
+    "name": "案内パンダ",
+    "message": "\"Please place your ticket or invitation on the authentication screen next to the door!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Invitation? You mean this thing?\""
+  },
+  {
+    "message": "I open the invitation on my Coil and approach the screen."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Platinum ID confirmed. Welcome to Platinum Jail, Mr. Seragaki and companion. Admission procedures initiated.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Issuing guest ID to your companion. Please present your companion's Coil.\""
+  },
+  {
+    "message": "Koujaku touches his Coil to the screen."
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Confirmed. Guest ID linked. All privileges belong to the Platinum Jail ID.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"Please exercise caution, as the guest ID has more restricted privileges in some respects.\""
+  },
+  {
+    "name": "認証モニター",
+    "message": "\"For additional details, please refer to the support section of your invitation card. Enjoy your time in the park.\""
+  }
+]

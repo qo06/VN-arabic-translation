@@ -1,0 +1,187 @@
+[
+  {
+    "message": "Once everyone is gone, Granny gets up and moves into the living room."
+  },
+  {
+    "message": "She sits down on the sofa and lets out a heavy sigh."
+  },
+  {
+    "message": "I walk over to her."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Granny.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Can we talk a little more?\""
+  },
+  {
+    "message": "She doesn't answer me, but I sit down next to her anyway."
+  },
+  {
+    "message": "There are so many things I want to ask... but I'm not sure where to start."
+  },
+  {
+    "message": "My mind is racing and it's hard to string thoughts together."
+  },
+  {
+    "message": "I look down at my hands folded in my lap and let the words come as they will."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You know, I... I've spent my whole life making you worry, and I never had any idea what you were dealing with. I'm sorry, Granny...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Don't be stupid.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Aoba, not a day goes by that I'm not thankful you've grown up safe and healthy.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You're my responsibility too. That's what it means to be your grandmother.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny...\""
+  },
+  {
+    "message": "Granny looks at me in silence for a moment."
+  },
+  {
+    "name": "タエ",
+    "message": "\"...You said that you remembered Rhyme.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"A long time ago, you were hospitalized because of Rhyme.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Because of Rhyme?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Yeah. Now I can tell you what happened. By the time I got to you, you'd forgotten everything. The doctors and police told me you'd been in a fight.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"They said you'd taken a blow to the head, that your memory loss would be temporary... but something happened the day I visited.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Aoba?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"...!\""
+  },
+  {
+    "name": "白蒼葉",
+    "message": "\"...Did I startle you?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"...Aoba...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"When I got there, I found a nurse unconscious beside you...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You slept for two whole days after that. The nurse didn't remember anything either.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"She'd forgotten everything from when she entered your room to the moment she woke up again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Your headaches started after that.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That much, I remember... though it's all fuzzy after that.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You used Scrap on that nurse. You entered her mind and erased part of her memory.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"The headaches, Scrap, the personality changes... I started giving you those pills because I was concerned they might be the start of something more dangerous.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I gauged the dosage to stabilize your mind and keep your powers in check. Your headaches went away for a while, didn't they?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"But now your powers are coming back. That rebound effect might explain why the medicine isn't working as well anymore.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Scrap is fundamentally a destructive power. But it has the potential to be more than just a weapon. It all depends on how you use it.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"And that's why you need to come to terms with it. With who and what you are.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"No matter what happens, do not falter. Believe in the path you chose and keep pushing forward.\""
+  },
+  {
+    "message": "Her hands clasp mine firmly."
+  },
+  {
+    "message": "They're soft and warm―the warmth of her kindness, the warmth that has cared for me my whole life."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I promise I'll come back.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"...I know.\""
+  },
+  {
+    "message": "She nods and gives me a little smile."
+  }
+]

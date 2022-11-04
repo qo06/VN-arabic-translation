@@ -1,0 +1,143 @@
+[
+  {
+    "message": "When I enter the kitchen, Koujaku, Noiz, and Clear are all sitting at the dinner table."
+  },
+  {
+    "message": "Mink is sitting alone on the couch in the living room."
+  },
+  {
+    "message": "The table is already covered with Granny's cooking, and my stomach is growling."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Finally up?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Master!\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Yo, Ren. I came to visit.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Hello.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"How you feeling?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay. Not great.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Can't blame you.\""
+  },
+  {
+    "message": "Koujaku nods and lets out a little sigh."
+  },
+  {
+    "message": "Everyone seems exhausted, for some reason."
+  },
+  {
+    "message": "Well, I guess it's not too surprising. We did do something pretty insane."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"How's Mizuki?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"He and the other Dry Juice guys are in the hospital. Doesn't seem like they've woken up yet.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh.\""
+  },
+  {
+    "message": "Back there, when I faced off with Mizuki as he tried to force Granny into that car... something happened."
+  },
+  {
+    "message": "I dunno if it was a dream or what―but when I came to, Mizuki was lying on the ground."
+  },
+  {
+    "message": "What the hell happened to us? There's only one thing I remember clearly."
+  },
+  {
+    "message": "A vision of my past."
+  },
+  {
+    "message": "I don't know why I'd forgotten it until now, but I remember..."
+  },
+  {
+    "message": "I remember that I used to play Rhyme."
+  },
+  {
+    "message": "That explains why I knew how to fight against Noiz."
+  },
+  {
+    "message": "But... why did I forget?"
+  },
+  {
+    "message": "The memories weren't just vague or distant. It's like the fact that I played Rhyme at all was completely missing from my memory."
+  },
+  {
+    "message": "Is it really possible to forget something so <I>cleanly?</I>"
+  },
+  {
+    "name": "タエ",
+    "message": "\"You're awake.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny.\""
+  },
+  {
+    "message": "Granny snorts at the look on my face, then sets a plate of food on the table."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'll help.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I'm already done. Hurry up and take a seat.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "I obediently sit in an empty chair."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Are you sure you're okay?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You should worry about yourself before you worry about me. You're the one who collapsed.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "She's right. We saved her, but in the end, I guess I just made her worry."
+  },
+  {
+    "message": "I pick up my plate, fiddling with my chopsticks to hide my shame, and take a bite."
+  },
+  {
+    "message": "It's delicious. As my appetite reawakens, the gloom clears from my mind."
+  },
+  {
+    "message": "The others can't stop eating either. It doesn't take long before all the plates on the table are empty."
+  },
+  {
+    "message": "Mink is the only one who never comes to the table."
+  }
+]

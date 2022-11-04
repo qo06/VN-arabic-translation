@@ -1,0 +1,30 @@
+[
+  {
+    "message": "We soon find a metal door slightly ajar. Koujaku peers through the crack, hugging the wall."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Someone's there.\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"We're all going in.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I have some of my guys waiting nearby just in case. We don't know how many are in there.\""
+  },
+  {
+    "message": "On our way over, we decided that Koujaku, Mink, Clear, and I will be going inside."
+  },
+  {
+    "message": "Meanwhile, Noiz will monitor the local network and erase any logs of our intrusion."
+  },
+  {
+    "message": "Noiz steps back, then goes to work on his Coil."
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"No problems here.\""
+  }
+]

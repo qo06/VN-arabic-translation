@@ -1,0 +1,113 @@
+[
+  {
+    "message": "After I take my medicine and my headache finally starts to subside, I turn to Granny. There's something I need to know."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny, can I ask you something?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Was Mizuki... really the person who kidnapped you?\""
+  },
+  {
+    "message": "She looks down at the teacup in her hands."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"He asked me to come with him, saying it was about you.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I thought there was something off about him from the start, but I wasn't expecting him to gag me and throw me into a car.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So it was him... But why you?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"......\""
+  },
+  {
+    "message": "She stays silent for a while, her face shadowed, before opening her mouth to speak."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Aoba. And the rest of you too.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"First, I guess I oughta thank you. Wouldn't be here if you all hadn't come.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I have something very serious to tell you. Honestly, I wasn't sure if I would ever tell you... I'm still not sure this is the right decision.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"But considering what's coming, I think it's better for you to know.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"So listen up.\""
+  },
+  {
+    "message": "Everyone gives Granny their attention."
+  },
+  {
+    "name": "タエ",
+    "message": "\"First, the reason Mizuki kidnapped me. ...Someone was controlling him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Morphine, right?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Yes, but this Morphine is a little different from the one you're thinking of. This is just speculation, but I believe they're working for the Toue Corporation.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Toue?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"The old fart who bought this island and built Platinum Jail?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But what does Morphine have to do with Toue?\""
+  },
+  {
+    "message": "Granny stares at us for a moment, like she isn't quite sure what to say, then looks down at her teacup again."
+  },
+  {
+    "name": "タエ",
+    "message": "\"...I used to do research for one of Toue's labs. That was over twenty years ago now.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You... worked for Toue?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Yeah. Back on the mainland. I only found out about the lab's connection to Toue much later, though.\""
+  }
+]

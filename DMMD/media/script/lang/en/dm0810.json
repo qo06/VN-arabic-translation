@@ -1,0 +1,493 @@
+[
+  {
+    "name": "タエ",
+    "message": "\"As you know, Toue's been involved in neuroscience for ages. My work had to do with neuroplasticity.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"We were studying how drugs could influence the brain's ability to recover lost functionality.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Our research was a wonderful thing, something that could have given new hope to those suffering from serious brain damage. At least, that's what I believed.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"But I couldn't have been more wrong.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What Toue was really after... was a way to control people's minds. That's what the research was for.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"It started with small things, programs whose purpose I couldn't quite grasp, but over time the doubts grew, and I went looking for answers.\" "
+  },
+  {
+    "name": "タエ",
+    "message": "\"That's when I found the paper. Page after page on how to rewrite someone's personality―to turn him into <I>someone else.</I>\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I couldn't believe it. My work, which I had believed would help people, was instead being used to enslave them.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I abandoned my research and left the lab. I just wanted to live the rest of my life quietly, on this island where I was born.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"But not long ago, Toue started sending me messages.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"He demanded I go back, finish the research. I turned him down, of course. I was through with that man and his schemes.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"He probably got tired of asking. That's why he sent Morphine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But what does that have to do with Mizuki? Why was Dry Juice caught up in it?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Youngsters have been vanishing all over the island, haven't they? And from time to time, they'll show up again, wandering the city like zonked-out junkies.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I think they're victims of Toue's research. I suspect he's kidnapping people, altering their minds, and setting them loose to observe their behavior.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Or maybe they're just releasing their <I>failures.</I>\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Failures?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Subjects whose minds were broken, instead of controlled. A broken mind is no use to anyone.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What happens to the successful ones?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"They're subjected to further experiments, I assume. Like what I said about rewriting personalities... They're making people who can be controlled. Puppets.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"As for Mizuki, maybe they chose him because I know him. They probably figured I'd let my guard down.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's Toue's endgame, then? What's gonna happen to the island?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"They probably plan to reprogram everyone on this island, creating a kingdom Toue can manipulate however he likes.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"And if they can perfect the technology, they'll be able to sell it to other countries too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Toue's fingerprints are everywhere in the Old Residential District.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"He was pretty quiet for the last few years... but it looks like he's making his move.\" "
+  },
+  {
+    "message": "Does that mean everyone will end up like those zombies we fought?"
+  },
+  {
+    "message": "Mr. Haga, the terrible trio, Ms. Yoshie, and everyone else..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...We have to stop him.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I can't let that happen. I just can't.\""
+  },
+  {
+    "message": "Granny looks at me with a pained expression."
+  },
+  {
+    "name": "タエ",
+    "message": "\"...There's something else you need to know. It's about you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Me?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You lost consciousness at the plant, didn't you?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh, yeah. I had this dream where I was talking to Mizuki. It felt really real.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"That wasn't a dream. You were inside Mizuki's mind.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh? Inside his mind?\""
+  },
+  {
+    "message": "Granny peers deep into my eyes, as if searching for something."
+  },
+  {
+    "name": "タエ",
+    "message": "\"What I'm about to say is gonna sound crazy.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"This may be difficult to believe... but you have the ability to enter people's minds.\""
+  },
+  {
+    "message": "...What?"
+  },
+  {
+    "message": "<I>Enter</I> other people's minds?"
+  },
+  {
+    "name": "タエ",
+    "message": "\"We call this ability... Scrap.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Scrap...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You trigger Scrap with your voice.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Rings a bell, doesn't it? Sometimes, when you put the right <I>feeling</I> in your voice, people just do what you tell them.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah. It's happened before.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Your voice has the power to enthrall people. With focus, you can manipulate a person's thoughts.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"And if you want to dig even deeper―get to know them even better―all you need to do is ask, and their mind will open to you.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"When you enter someone's mind, you're interacting with their defenseless self, stripped of the armor of their flesh.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"There, your words and actions have the power to <I>destroy</I> their mind. In theory, that is.\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "It's too much."
+  },
+  {
+    "message": "I can control people with my voice?"
+  },
+  {
+    "message": "I can enter someone's mind? <I>Destroy</I> it?"
+  },
+  {
+    "message": "I don't even know where to start."
+  },
+  {
+    "message": "It's like she's speaking a foreign language."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"...I figured as much.\""
+  },
+  {
+    "message": "Mink, who has at some point entered the room, is leaning against the wall, arms crossed."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Scrap is what gives your voice that power.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then you're saying that weird dream world was actually inside Mizuki's mind?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"No one can see that world but you, so I can't really say for sure, but yeah. Probably.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I talked to Mizuki there. He was back to normal, and...\" "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"He told me all about how he'd suffered, about how Dry Juice and Rib were always on his mind.\" "
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That was really weighing on him, huh...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"...You were speaking directly with his true self―defenseless, naked, unable to lie. What did you say?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I, uh... For some reason, my past suddenly came flooding back... I remembered playing Rhyme. I don't know why, but I'd completely forgotten about that.\" "
+  },
+  {
+    "message": "Koujaku and Noiz look at me strangely."
+  },
+  {
+    "message": "I don't blame them. I spent the last few days insisting I'd never touched the game."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But... when I was talking with Mizuki, it felt like I was in another place, not quite like Rhyme, but... I'm not really sure how to describe it. It was kinda like, um...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki, he... he was trying to tell me something. He said Morphine isn't what we think it is.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But before he could finish, he started screaming...\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Hmm...\""
+  },
+  {
+    "message": "Granny falls silent, her brow deeply furrowed."
+  },
+  {
+    "message": "The topic being what it is, her silence feels especially weighty."
+  },
+  {
+    "message": "Everyone is eagerly awaiting her next words."
+  },
+  {
+    "name": "タエ",
+    "message": "\"...I'm not blaming you. You couldn't have known.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"But if you'd said the right words back there, you might have turned Mizuki back to normal.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? You mean...\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"This isn't the most delicate way to put it, but you basically spilled Mizuki's guts, then left them hanging out there, instead of finishing the job.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"The bare mind is extremely delicate. It's like if your body were stripped of its skin.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"And that's why... Mizuki hasn't woken up, has he?\" "
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, that's what I heard.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Toue probably programmed him with some kind of trap. Like head-splitting pain if he tried to say anything sensitive.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You exposed his psyche, and then the trap went off. That's probably what broke his mind.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Whether he ever comes back from it is going to depend on his own willpower.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No way...\""
+  },
+  {
+    "message": "Mizuki's mind was destroyed... and it's my fault?"
+  },
+  {
+    "message": "The world goes black."
+  },
+  {
+    "message": "My fault? No...\r\nMizuki..."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Aoba. Used improperly, your power has the potential to destroy people. You have to be careful with how you wield it.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I knew I'd have to tell you some day, but...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"I've always protected you, kept you safe. But I can't do that anymore.\""
+  },
+  {
+    "message": "<4line><voice name='タエ' class='タエ' src='voice/dm08/1000810b03'>\r\n\"I can't shield you forever. Some day that power of yours is bound to go out of control and cause more pain. Even if you manage to avoid that somehow, Toue won't stop looking for you.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"You are what Toue's been trying to create from the start. He'll be dying to get his hands on that power of yours.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Now that his kidnapping plan has failed, I don't know what he'll try next. That's why you need to come to terms with yourself.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "How am I supposed to come to terms with all this? She just dropped it on me out of nowhere."
+  },
+  {
+    "message": "Still..."
+  },
+  {
+    "message": "The one thing I do understand is that we can't let Toue get away with it."
+  },
+  {
+    "message": "He'll turn the whole island into his private empire if left to his own devices."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Platinum Jail will be holding an event soon. The details won't be revealed until the day of, but it'll be broadcast everywhere, even here.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Why are they broadcasting it here? Isn't Platinum Jail normally cut off from the rest of the island?\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"They probably want to experiment on all of us at once.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Exactly. No one knows about what they've been doing.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"This event will give them a chance to test the fruits of their research.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Test their research? But how?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Music, speeches, video, lights... if you can see or hear it, they can probably use it to brainwash you.\""
+  },
+  {
+    "message": "Which means we have to do something before the event starts."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Guess we'd better get our asses to Platinum Jail. Like yesterday.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But how?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"There's a way to get as far as the gate, at least.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There is?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Yes, but I can't help. You'll need someone else to take you. Ask Mr. Haga.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mr. Haga?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"Most people who've lived here as long as he has know about it. It's not that hard. You can ask him about it tomorrow.\""
+  },
+  {
+    "message": "After this, Granny lets out a tired sigh."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Well... that's more talking than I've done in a long time. I'm sure it all sounded like gibberish to you lot.\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"But what little pride I have left as a scientist... demanded I tell you the truth. I'm sorry you got dragged into this mess.\""
+  },
+  {
+    "message": "Granny bows her head."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ms. Tae, you don't have to...\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Grandmother...\""
+  },
+  {
+    "message": "After a few moments, she lifts her head and looks us over."
+  },
+  {
+    "name": "タエ",
+    "message": "\"Now, I'm sure you must all be exhausted. Rest up while you can. You've got a hard fight ahead.\""
+  }
+]

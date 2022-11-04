@@ -1,0 +1,209 @@
+[
+  {
+    "message": "Even in the rain, the city is full of life. The people I see actually seem to be enjoying the weather."
+  },
+  {
+    "message": "I feel out of place, so I keep to the edges of the street as I walk."
+  },
+  {
+    "message": "Although the rain has let up considerably, the sensation of the drops hitting my hair is still kind of uncomfortable."
+  },
+  {
+    "message": "I just don't have the energy to do anything about it."
+  },
+  {
+    "message": "I walk on aimlessly for a while, my mind blank. Before I know it, my feet have carried me back to the club."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "I don't feel like going inside, so I lean against the wall of the alley."
+  },
+  {
+    "message": "The wall is freezing against my rain-soaked skin."
+  },
+  {
+    "message": "Outside like this, I could almost believe that I dreamt what happened."
+  },
+  {
+    "message": "But it wasn't a dream. The pain in my arm is proof of that."
+  },
+  {
+    "message": "...Will he ever come back?"
+  },
+  {
+    "message": "Maybe not."
+  },
+  {
+    "message": "Even if he does, can we beat Toue like this?"
+  },
+  {
+    "message": "A splash interrupts my thoughts."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You're soaked.\""
+  },
+  {
+    "message": "The kimono-clad man is standing there."
+  },
+  {
+    "message": "He smiles and offers me his umbrella."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"What are you doing out here in the rain? You like being wet or something?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Grumpy, eh?\""
+  },
+  {
+    "message": "He smirks and cocks his head to the side."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Something the matter?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "He was right. That's exactly what happened."
+  },
+  {
+    "message": "As I stand there in silence, the man sighs."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I'll take your silence to mean you're in no mood to talk. I imagine that's why you're hanging around here.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"But you'll catch a cold like that. You should hurry home.\""
+  },
+  {
+    "message": "He looks up to the sky to check the weather before returning his gaze to me."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Not gonna?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I don't feel like going home.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Uh-oh.\""
+  },
+  {
+    "message": "He narrows his eyes suggestively and smiles."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"That'd be one hell of a pickup line, if you were a girl. Now, I can't just leave you out here like this. Why don't we get you something hot to drink?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But―\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"It's no trouble. C'mon.\""
+  },
+  {
+    "message": "He points at the building with his chin."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"The owner's a friend of mine. He lets me rent the upstairs room.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You see, I don't actually live here in Platinum Jail.\""
+  },
+  {
+    "message": "The man finishes with a shrug."
+  },
+  {
+    "message": "He's... inviting me back to his room?"
+  },
+  {
+    "message": "...I don't know what to do. Should I go with him?"
+  },
+  {
+    "message": "I don't even know his name."
+  },
+  {
+    "message": "Why would he offer to help me in the first place? He barely knows me."
+  },
+  {
+    "message": "It's shady as hell."
+  },
+  {
+    "message": "...But at the same time, a lightbulb flashes in the back of my mind."
+  },
+  {
+    "message": "Koujaku told me to stay away from this place. And he got touchy when I mentioned this guy, too."
+  },
+  {
+    "message": "What if..."
+  },
+  {
+    "message": "What if this guy knows something about Koujaku?"
+  },
+  {
+    "message": "And then there's the warning he gave me before. It might have been a coincidence, but he practically foretold the future. \r\n<p>\r\nMaybe it's worth a shot."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"So, what do you say?\""
+  },
+  {
+    "message": "...I nod."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Great!\""
+  },
+  {
+    "message": "The man smiles cheerfully and puts his arm around my shoulder."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Can't have you getting even wetter, now. Oh, that reminds me. What's your name?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Aoba.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Aoba. Nice name. I'm Ryuuhou.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ryuuhou...\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Nice to meet you, Aoba.\""
+  },
+  {
+    "message": "Ryuuhou leads me toward the building. His smile never falters."
+  },
+  {
+    "message": "...Am I really doing the right thing?"
+  },
+  {
+    "message": "The sound of rain against his umbrella is deafening."
+  }
+]

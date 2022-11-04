@@ -1,0 +1,35 @@
+[
+  {
+    "message": "Barreling down the hallway, we find our path blocked by three black-clothed men."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Guess I'll have to deal with this.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Eek!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Get going.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Mink greets the men running toward us with his fists."
+  },
+  {
+    "name": "ミンク",
+    "message": "\"Hurry up. Gasmask, you're with me.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"Why?! I want to stay with Master!\""
+  },
+  {
+    "message": "Mink grabs Clear by the back of the collar and pulls him to his side. His eyes bore into mine, demanding a response."
+  }
+]

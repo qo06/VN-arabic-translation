@@ -1,0 +1,37 @@
+[
+  {
+    "name": "クリア",
+    "message": "\"Master! There's lots of noise deeper in the building! I think more are coming!\""
+  },
+  {
+    "name": "ミンク",
+    "message": "\"So these guys were just keeping us busy.\""
+  },
+  {
+    "message": "Mink immediately takes off deeper into the facility."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hey! Don't run off on your own! ...Shit!\""
+  },
+  {
+    "message": "Before Koujaku can run off after Mink, the men we've already taken down rise up like the living dead."
+  },
+  {
+    "message": "As he mows them down with the back of his sword, Koujaku shouts over his shoulder."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"They just keep coming! I'll hold them off here. You go on ahead!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Got it! Thanks!\""
+  },
+  {
+    "message": "There's no time to hesitate. I run after Mink and Clear."
+  },
+  {
+    "message": "I see a passage up ahead. Are they down there?"
+  }
+]

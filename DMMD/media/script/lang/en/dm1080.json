@@ -1,0 +1,309 @@
+[
+  {
+    "message": "We pass through the door and find ourselves in a world of red."
+  },
+  {
+    "message": "I'm not quite sure how to describe it... The buildings have an old-fashioned Japanese feel to them, but are kinda modern at the same time."
+  },
+  {
+    "message": "And the sky is filled with glittering stars. You'd never see something like this in the Old Residential District."
+  },
+  {
+    "message": "Both the weather and the time of day are artificial in Platinum Jail. I've heard it's almost always night inside."
+  },
+  {
+    "message": "Supposedly the idea is to make it feel like a party every day, or make it more relaxing or something..."
+  },
+  {
+    "message": "But the most prominent thing in the sky is the tower窶付he symbol of Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So that's Oval Tower...\""
+  },
+  {
+    "message": "I've heard the rumors, but this is my first time seeing it."
+  },
+  {
+    "message": "There's something unsettling about it... like it's watching everything I do."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Flame Willow, huh...\""
+  },
+  {
+    "message": "Koujaku glances up at the sign, then looks around the area."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've got a bad feeling about this place. We oughta focus on getting our bearings first.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Good idea.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Does that invitation mention anything about the area?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Lemme see.\""
+  },
+  {
+    "message": "I open the map attached to the invitation."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A map of Platinum Jail... What's this mark supposed to be?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"That must be the facility where we're staying.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Why don't we start there?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Sounds good. Ren, lead the way...\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"My!\""
+  },
+  {
+    "message": "Hearing a voice behind me, I turn to see a pair of women standing there."
+  },
+  {
+    "message": "Although their clothes are loud and gaudy, their expressions and mannerisms give them an air of elegance."
+  },
+  {
+    "message": "They're guests of Platinum Jail, after all. I assume they must be heiresses or something."
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"Those are some wonderful clothes you're wearing.\""
+  },
+  {
+    "message": "One of the women is staring intently at Koujaku. It doesn't look like he knows her."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, thanks.\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"And you have such an adorable little bird friend!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"His name's Beni.\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Sup.\""
+  },
+  {
+    "name": "女Ｂ",
+    "message": "\"Are you two new to this area?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"We're new to the whole thing.\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"I thought so! You looked so confused, poor dear.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, well we―\""
+  },
+  {
+    "message": "Koujaku's smile suddenly freezes. His eyes are fixed on one of the women."
+  },
+  {
+    "message": "She has a tattoo of a large black spider on her neck."
+  },
+  {
+    "message": "A smaller―but three-dimensional―golden spider is sitting atop it. Her Allmate, obviously."
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"Is there something on my face?\""
+  },
+  {
+    "message": "The woman gives Koujaku a curious look. He immediately forces the smile back onto his lips."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, sorry about that. I just couldn't take my eyes off you.\""
+  },
+  {
+    "name": "女Ｂ",
+    "message": "\"Oh my!\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"Like what you see?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well, you're a very beautiful lady.\""
+  },
+  {
+    "name": "女Ｂ",
+    "message": "\"Hehehe.\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"I like you.\""
+  },
+  {
+    "message": "The women giggle cheerfully."
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"We were just on our way to a party. Though I don't know if you could even call it that, really. It's just a place to relax and have fun.\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"You could join us, if you like.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "Koujaku falls silent. He's gonna turn them down."
+  },
+  {
+    "message": "...At least, that's what I thought, but then the silence drags on."
+  },
+  {
+    "message": "Hey, come on. You're not seriously considering it, are you?"
+  },
+  {
+    "message": "I know you're a ladykiller and all, but time and place, man..."
+  },
+  {
+    "name": "女Ｂ",
+    "message": "\"This is paradise, and we are the chosen few. No need to be so guarded. We might as well be family. Relax.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...When you put it that way, how can I say no?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?!\""
+  },
+  {
+    "message": "I can't believe my ears."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hey, Koujaku!\""
+  },
+  {
+    "message": "Koujaku leans in close to my ear."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I can use this opportunity to gather information. Work with me here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That's not what I...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't worry. Looks like our Coils work here. See?\""
+  },
+  {
+    "message": "Koujaku fiddles with his Coil. A few seconds later, mine beeps."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "name": "女Ａ",
+    "message": "\"Is your friend okay?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah, but he won't be joining us. I'll have you all to myself.\""
+  },
+  {
+    "name": "女Ｂ",
+    "message": "\"Hehe.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Later, dude.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku!\""
+  },
+  {
+    "message": "Koujaku walks off, one arm around each of the women."
+  },
+  {
+    "message": "I just stand there, stunned, and watch him go."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell?!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean, like, even <I>if...</I> Like, that was a total dick move. Right, Ren?\""
+  },
+  {
+    "message": "Ren pokes his head out of my bag. I hope he'll echo my frustration."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I mean, I always knew he was a manwhore, but I never knew he was <I>that</I> bad.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Koujaku will be Koujaku... but there is a time and a place for everything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"He oughta know that. I just hope he's really doing it for the information...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I'd hate to think he was <I>that</I> shallow...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You and me both...\""
+  },
+  {
+    "message": "I can feel the unease growing in my chest."
+  },
+  {
+    "message": "This is the last thing I want to be thinking about... but I can't shake my feeling of disappointment."
+  },
+  {
+    "message": "I never would've thought he'd run off with some girls in a situation like this."
+  },
+  {
+    "message": "What am I even supposed to do now?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, he's gone. Maybe I should do some investigating on my own.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Good idea.\""
+  }
+]

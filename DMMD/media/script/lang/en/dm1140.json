@@ -1,0 +1,211 @@
+[
+  {
+    "message": "We step through the entrance and come out into a bar area. Beyond is a big open floor. Loud, thumping music and strange scents assault my senses."
+  },
+  {
+    "message": "The room is dark. Flashes of fluorescent light illuminate the dancing, milling throngs."
+  },
+  {
+    "message": "I've never been in a nightclub before. So this is what it's like."
+  },
+  {
+    "message": "...Forget about that. Who is this dude?"
+  },
+  {
+    "message": "I slip out of his grasp and look him over."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Oh, sorry. Didn't mean to scare you.\""
+  },
+  {
+    "message": "The light strobes across his face. His expression is cool; he looks about my age, but he could be a decade older. It's hard to be sure."
+  },
+  {
+    "message": "He's wearing a kimono. It reminds me of Koujaku, though this man's is blue. He has a blue tattoo on his neck as well."
+  },
+  {
+    "message": "Though his smile is gentle, his eyes are sharp. For some reason, he makes me think of a fox."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You looked like you needed some help. You wanted in, right? Was I wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I, uh... No, you were right.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Great. I'm glad I could help.\""
+  },
+  {
+    "message": "He smiles sweetly and his fox-like eyes narrow even further. The expression is almost childish. I really can't get a read on his age."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I appreciate it, but you really didn't have to. I mean, why did you?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Why did I what?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Why did you get me in? You don't know me.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"True. I've never met you before in my life.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Then, why?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Why not? I was in a generous mood. Besides, it'd ruin my evening, knowing I left I guy out there in the cold.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Anyway, call it a whim. Forget it. This place is paradise. You should enjoy yourself. Oh, before I forget.\""
+  },
+  {
+    "message": "The man reaches into his sleeve and pulls out a card."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"This'll get you in from now on. Don't lose it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But―\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Oh, please. Be a good boy and take it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay...\""
+  },
+  {
+    "message": "He just won't take no for an answer."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Well, I have things to do. See you 'round.\""
+  },
+  {
+    "message": "The man waves, then disappears into the crowd."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the hell just happened?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are you sure he wasn't just a nice person?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, that was shady as hell. What am I supposed to do with this card?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Just keep it for now. Or do you want to go after him to return it?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I guess that would be pretty dumb.\""
+  },
+  {
+    "message": "He's the reason I got in here in the first place."
+  },
+  {
+    "message": "I tuck the card into my jacket pocket."
+  },
+  {
+    "message": "...Enough with the mystery man. I need to find Koujaku."
+  },
+  {
+    "message": "Weaving through the crowd of people swaying to the music, I start searching the dance floor."
+  },
+  {
+    "message": "It's hard to identify people in the flickering light."
+  },
+  {
+    "message": "Plus, there's something about the rhythm of the music..."
+  },
+  {
+    "message": "The tempo is ever-so-slightly off, and I keep hearing this high-pitched grinding noise that seems to pierce straight through my skull."
+  },
+  {
+    "message": "My head starts to spin. I feel nauseous."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...!\""
+  },
+  {
+    "message": "Goosebumps break out all over my body. I cover my mouth with my hand."
+  },
+  {
+    "message": "Shit, what's wrong with me?"
+  },
+  {
+    "message": "How is everyone else fine with these sounds? These lights?"
+  },
+  {
+    "message": "Looking around, I notice that everyone seems rapt, entranced."
+  },
+  {
+    "message": "There are people dancing half naked, and I think there are even some people having sex in a corner."
+  },
+  {
+    "message": "Wait, these lights... "
+  },
+  {
+    "message": "Is this the thing I heard about back in the Old Residential District? A new drug craze. They call it... photonarcotics."
+  },
+  {
+    "message": "I'm not into that shit, so I don't really know a lot about it. Supposedly, it uses light to induce euphoria with no unpleasant side effects."
+  },
+  {
+    "message": "Whatever the case, it definitely isn't working for me. I feel awful."
+  },
+  {
+    "message": "The floor looks like it's covered with a purple mist, and I'm gradually losing my ability to distinguish it from the ceiling."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Are you okay?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I think I'm in trouble...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Maybe you should sit down.\""
+  },
+  {
+    "message": "My vision is starting to blur. It's getting hard to stand."
+  },
+  {
+    "message": "I stagger toward the edge of the dance floor, but it feels like walking on jello."
+  },
+  {
+    "message": "Even so, I manage to make some progress..."
+  },
+  {
+    "message": "...until my vision goes dark."
+  },
+  {
+    "message": "Huh?"
+  }
+]

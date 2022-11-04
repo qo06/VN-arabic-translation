@@ -1,0 +1,144 @@
+[
+  {
+    "message": "...It turns out that Koujaku <I>is</I> meeting up with one of the women from yesterday."
+  },
+  {
+    "message": "She sidles up beside Koujaku and they link arms. She must've been waiting for him."
+  },
+  {
+    "message": "There were two of them last time, but now she's alone. I recognize her as the one with the tattoo on her neck."
+  },
+  {
+    "message": "Walking arm-in-arm, they look like a couple."
+  },
+  {
+    "message": "The stroll together down the main boulevard for a while, then veer off onto a side street. I follow quickly, determined not to lose them."
+  },
+  {
+    "message": "At the end of the street, I see them enter a squat little building. After I'm sure they're inside, I walk up and examine the place."
+  },
+  {
+    "message": "There's no sign or anything else to describe it, only a giant man in a suit standing in front of the door."
+  },
+  {
+    "message": "It's probably the sort of place that doesn't publicly advertise its services."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku...\""
+  },
+  {
+    "message": "I was right all along... Koujaku blew me off to meet that woman."
+  },
+  {
+    "message": "My anxiety quickly turns to disappointment."
+  },
+  {
+    "message": "You really wanted to see her that badly?"
+  },
+  {
+    "message": "You coulda just <I>told</I> me."
+  },
+  {
+    "message": "You're the one who always says I can talk to you about anything..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Good to know how little he cares...\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba...\""
+  },
+  {
+    "message": "I feel more drained than angry."
+  },
+  {
+    "message": "What is this place, anyway?"
+  },
+  {
+    "message": "I approach the building. The man in the suit holds out his arm to block me."
+  },
+  {
+    "name": "用心棒",
+    "message": "\"Member's card?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Don't have one.\""
+  },
+  {
+    "name": "用心棒",
+    "message": "\"This area is members-only.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But my friend's in there right now.\""
+  },
+  {
+    "name": "用心棒",
+    "message": "\"I have to ask you to leave.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But I―\""
+  },
+  {
+    "name": "用心棒",
+    "message": "\"Please leave.\""
+  },
+  {
+    "message": "...This isn't going to work."
+  },
+  {
+    "message": "I'll have to give up for now."
+  },
+  {
+    "message": "...!"
+  },
+  {
+    "message": "What was that?!"
+  },
+  {
+    "message": "Something touched my hair!"
+  },
+  {
+    "message": "I turn around. Immediately, someone grabs my shoulder."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"?!\""
+  },
+  {
+    "message": "Who does this guy think he is?"
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Sorry to keep you waiting. I got a little tied up at work. You thought I was inside? You should've called.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"He's with me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "用心棒",
+    "message": "\"Very well. Please enjoy yourselves.\""
+  },
+  {
+    "message": "The bouncer lowers his arm and bows."
+  },
+  {
+    "message": "What the hell just happened? "
+  },
+  {
+    "message": "Still not sure at all what's going on, I head inside with the strange man's arm around my shoulders."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "message": "I get out of bed and pick Ren up."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, what's wrong?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Oh, uh, I guess I was just wondering how you were feeling. I mean, we got dragged into Rhyme again... You doing okay?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I detect no issues.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh. Should I examine you just to make sure?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I believe I'm fine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Okay.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba, are you having trouble sleeping? You look exhausted.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well... It kinda feels like a whole bunch of stuff got dumped on me all at once.\""
+  },
+  {
+    "message": "I sit down cross-legged. Ren curls up in my lap and looks up at me."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"There's a lot to deal with, but I think the one thing that's really weighing on me... is what happened to Mizuki.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Do you mean the possibility that you could have saved him, had you used your power correctly?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I just can't stop thinking about how maybe he'll never wake up. I can't get it out of my head.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Under the circumstances, I think it was effectively impossible for you to have picked the correct words at the time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know. I know that... but I just keep thinking there was a chance I could have saved him. I can't convince myself it wasn't my fault.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And on top of it all, now I remember doing Rhyme...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny... She said that my headaches were because of my power... that she's been giving me medicine to suppress it.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I've always been good about taking her medicine, but now I have to wonder what would happen if I stopped.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Most likely, your headaches would get worse, and your power would manifest more apparently.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"When you put it that way, I should probably take the medicine. Though you know, it hasn't been working as well as it used to.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"And then those memories about Rhyme suddenly came back... Maybe I'm just overthinking it, but I have a really bad feeling about this.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I don't believe there's any basis to connect the two.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, I mean, it's just a gut feeling. But still, I can't shake it. Plus, even Toue seems to know something about me.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What if it's something else I forgot? Or something I never knew in the first place?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I absolutely want to stop whatever it is that Toue's up to... but I also want to find out what he knows about me too.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This is just another gut feeling, but I think he knows something really important.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I feel like I have to talk to him...\""
+  },
+  {
+    "message": "Ren puts his paw on my knee when I've finished."
+  },
+  {
+    "name": "蓮",
+    "message": "\"All the more reason to get some rest. We have a big day tomorrow.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...You're right.\""
+  },
+  {
+    "message": "I lift Ren and bring his forehead to mine."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"One step at a time, huh? ...Thanks. I feel a little better now.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I'm glad.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Well, time for bed, I guess.\""
+  },
+  {
+    "message": "I crawl back into bed. Ren usually curls up by my feet, but this time he lies down by my face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Night.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Good night.\""
+  },
+  {
+    "message": "I stroke Ren's head, then slowly close my eyes."
+  }
+]

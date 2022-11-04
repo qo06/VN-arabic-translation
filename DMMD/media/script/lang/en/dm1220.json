@@ -1,0 +1,198 @@
+[
+  {
+    "message": "The problem, of course, is that I don't even know where to start."
+  },
+  {
+    "message": "I figure my best shot is to head to the place he met up with that woman yesterday."
+  },
+  {
+    "message": "As always, the main street is a slice of paradise窶病n artificial atmosphere of joy covers everything. \r\n<p>\r\nI make my way through it, acutely aware that I'll never feel comfortable here."
+  },
+  {
+    "message": "I head down a side street and come out in front of the building from before. I don't see anyone that looks like Koujaku outside."
+  },
+  {
+    "message": "Is he inside, or is he just not here?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Where is he...\""
+  },
+  {
+    "message": "He hasn't responded to my message, so my only option is to search blindly around town."
+  },
+  {
+    "message": "Speaking of which, he told me not to come here again, didn't he? I wonder what he meant by that."
+  },
+  {
+    "message": "As I'm staring at the building, considering my options, someone taps me on the shoulder."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Oh!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"We meet again.\""
+  },
+  {
+    "message": "I turn to see the man from yesterday. He narrows his fox-like eyes and smiles."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"H-Hey.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Did you have fun yesterday?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Yeah, I guess you could say that.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Well, that's just wonderful. What's wrong this time? You should have no trouble getting in with the card I gave you.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm not trying to get in today. I'm looking for someone.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"A friend?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Something like that.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I see. Would you mind if I lent a hand?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh? Oh. I couldn't ask you to do that.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Don't worry. I'm not offering to search the town. Just tell me what they look like.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"My schedules not <I>completely</I> open, but I could at least keep an eye out.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No, I mean―\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Well, I won't force you if you don't want to say. So wipe that glum look off your face.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Sorry.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"No need to apologize. ...Heh, you're such a boy scout. I like guys like you. Color me intrigued.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"You oughta be careful, though. You seem like a trusting sort. But one wrong move and chomp! The person you trusted might turn around and bite you.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"They might just gobble you up. Dig?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Uh-huh.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"...Oh.\""
+  },
+  {
+    "message": "The man's expression suddenly turns serious."
+  },
+  {
+    "message": "I start to turn to see what got his attention, but then his smile reappears."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"...Well, I should be getting inside. Best of luck finding your friend.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Thanks.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Until next time.\""
+  },
+  {
+    "message": "The man heads to the door, seeming to glide as he walks."
+  },
+  {
+    "message": "His steps hardly make a sound. That must be how rich people walk."
+  },
+  {
+    "message": "Koujaku's walk is the opposite―long gruff strides."
+  },
+  {
+    "message": "I watch the man vanish into the club. Come to think of it, we were talking about him when Koujaku warned me away from the place."
+  },
+  {
+    "message": "Something about my description of the man seemed to strike a nerve..."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba.\""
+  },
+  {
+    "message": "Ren pokes his head out of my bag."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's up?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Beni was in the vicinity recently.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I could hear the distinct sound of his wings.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Which means Koujaku is nearby too.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I would assume so.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Let's find them.\""
+  },
+  {
+    "message": "They might still be in the area."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku... What the hell are you doing?!\""
+  },
+  {
+    "message": "It's like we're playing tag or something!"
+  },
+  {
+    "message": "With growing annoyance, I retrace my steps back into the alley."
+  }
+]

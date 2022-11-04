@@ -1,0 +1,66 @@
+[
+  {
+    "message": "I walk around for a bit, following the map of Platinum Jail on my Coil."
+  },
+  {
+    "message": "Everywhere I look, an ad keeps catching my eye."
+  },
+  {
+    "message": "\"Special Celebration\""
+  },
+  {
+    "message": "It's plastered all over massive digital posters and billboards, so I couldn't avoid it if I wanted to."
+  },
+  {
+    "message": "That has to be the event Granny mentioned. It's probably a good idea to go."
+  },
+  {
+    "message": "Unfortunately, that's about all the information I get from my walk."
+  },
+  {
+    "message": "I'm starting to get fed up with all the signs praising Platinum Jail and Toue. "
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...I'm exhausted.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"You've been walking a long time.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah. Maybe we should check out where we're staying. Directions, please.\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Very well.\""
+  },
+  {
+    "message": "I decide to stop by a fast food place on the way."
+  },
+  {
+    "message": "Even little things can get to me when I'm hungry, so filling my empty stomach is a priority.\r\n<P>\r\nOf course, this is Platinum Jail's fast food. Even the storefront is fancier than anything you'd find in the Old Residential District, so I'm a little hesitant to go in."
+  },
+  {
+    "message": "But I manage. Then, following Ren's directions, I finally arrive at my destination."
+  },
+  {
+    "message": "The place is in what looks like a residential district, rows upon rows of extravagant villas."
+  },
+  {
+    "message": "Ours is a smaller building toward the end."
+  },
+  {
+    "message": "Compared to the other buildings, it looks a bit older."
+  },
+  {
+    "message": "There's a plate with the word \"GLITTER\" set above the door."
+  },
+  {
+    "message": "The neighboring building has a different word above its door, so I assume it's the building's name."
+  },
+  {
+    "message": "I hold my Coil up to the screen next to the door. After the telltale click of the lock, I turn the old-fashioned doorknob and enter."
+  }
+]

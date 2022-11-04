@@ -1,0 +1,126 @@
+[
+  {
+    "message": "Keisen is a ghost town, fallen into ruin."
+  },
+  {
+    "message": "Ever since it was designated off-limits, it's become a dumping ground for all sorts of garbage."
+  },
+  {
+    "message": "Piles of refuse, from old furniture to rusted trucks, adorn the carcasses of warehouses and factories."
+  },
+  {
+    "message": "Of course, there's no one around. The place is eerie."
+  },
+  {
+    "message": "We proceed quickly, Clear leading the way, keeping a watchful eye on our surroundings."
+  },
+  {
+    "message": "As I look up at a massive pile of trash, I remember something."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This place... looks just like that game.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Game?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"This thing I accidentally downloaded. It keeps updating itself.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"But for some reason, the last one was a demo video instead of an actual game.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"It had a character who looked like Granny getting carried away by bats. They took her to a trash mountain.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"This place certainly fits the description.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's just a coincidence.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Probably. I just thought it was weird.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"The garbage processing facility should be up ahead.\""
+  },
+  {
+    "message": "Noiz shows us the map on his Coil."
+  },
+  {
+    "name": "クリア",
+    "message": "\"It is.\""
+  },
+  {
+    "name": "ノイズ",
+    "message": "\"It should be the biggest building in the area.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"That looks like a good candidate.\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"It's right up ahead.\""
+  },
+  {
+    "message": "Clear jogs ahead of us."
+  },
+  {
+    "message": "He used to take walks here? Talk about weird..."
+  },
+  {
+    "message": "As we pick our way between the mountains of trash, a massive building comes into view. That must be it."
+  },
+  {
+    "name": "クリア",
+    "message": "\"...Just a moment.\""
+  },
+  {
+    "message": "Clear holds out an arm."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "クリア",
+    "message": "\"I can hear them. They're there. Inside.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hear what? I can't hear a damn thing.\""
+  },
+  {
+    "message": "I strain my ears to listen, but all I hear is the sound of the wind rustling through the trash."
+  },
+  {
+    "message": "But Clear seems deadly serious."
+  },
+  {
+    "name": "クリア",
+    "message": "\"I can hear them. Inside.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Let's go.\""
+  },
+  {
+    "message": "We approach the building cautiously."
+  },
+  {
+    "message": "Reaching the wall, I put my ear against the concrete.<K>\r\nClear was right. Though faint, I can hear people inside."
+  },
+  {
+    "message": "This is it. <K>\r\nI touch the bag under my arm. Ren is sleeping inside."
+  }
+]

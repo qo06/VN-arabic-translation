@@ -1,0 +1,153 @@
+[
+  {
+    "message": "How far have we run?"
+  },
+  {
+    "message": "We finally stop to check the area."
+  },
+  {
+    "message": "I don't hear footsteps behind us anymore. Have we lost them?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Hah, haa, haa...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Hah, hah, haa...\""
+  },
+  {
+    "message": "Koujaku and I find a wall to lean against and catch our breath. I feel like my lungs might burst."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "Just as I'm starting to feel like I can breathe again, my Coil beeps."
+  },
+  {
+    "name": "蓮",
+    "message": "\"It's a game.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"That again?! And why right now?!\""
+  },
+  {
+    "message": "Koujaku's Coil chimes too."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Huh. I got something too.\""
+  },
+  {
+    "name": "ベニ",
+    "message": "\"Ain't that the same thing Aoba got?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What the...?!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"It appears to be autoplay.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What?!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"What kind of sorry excuse for a game is this? You can't even do anything.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Is this the first time you've gotten it?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Yeah. I've never seen it before.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I told you about it, remember? How I got some weird game that just played itself.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Oh, this is what you meant?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So, like, do you think we can get into Platinum Jail with the invitation at the end?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Invitation? I didn't get anything like that in mine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Here, look.\""
+  },
+  {
+    "message": "I show Koujaku the invitation."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well, that's what it says.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"You didn't get one?\""
+  },
+  {
+    "message": "More incomprehensible shit from this \"game\"..."
+  },
+  {
+    "message": "...Though, actually..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I can't help but think that this game predicted Granny's kidnapping.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"It's just in your head.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Yeah, but right after I got the game, pretty much exactly the same thing happened in real life.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Alright. So what do you think it's trying to tell you this time?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"A cave, a treasure chest, a key, and a door...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Well, forget about the game for now. That invitation, though; that might be for real. Maybe it really will get you into Platinum Jail.\""
+  },
+  {
+    "message": "My Coil beeps again. This time, it's a message."
+  },
+  {
+    "message": "There's an image attached. A map of the Old Residential District."
+  },
+  {
+    "message": "A spot is marked in red on the left edge of the wall surrounding Platinum Jail."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"We need to meet up with Mr. Haga. Let's get going.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Right behind you.\""
+  },
+  {
+    "message": "We head north."
+  }
+]

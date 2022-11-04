@@ -1,0 +1,341 @@
+[
+  {
+    "message": "I have to do something!"
+  },
+  {
+    "message": "I try to force myself up..."
+  },
+  {
+    "message": "But my arms and legs give out almost immediately."
+  },
+  {
+    "message": "My throat is parched too, so it's hard to even swallow."
+  },
+  {
+    "message": "But this is my only chance to escape!"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "As I struggle again to rise, I hear the door open."
+  },
+  {
+    "message": "Ryuuhou?!"
+  },
+  {
+    "message": "I hear something patter across the tatami, and then something soft touches my bare back."
+  },
+  {
+    "name": "蓮",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren?!\""
+  },
+  {
+    "message": "The blue ball of fur jumps down in front of me and licks my face."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What are you doing here?\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"I slipped out of your bag on the way in and went for help.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Help? Who did you...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Aoba!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Koujaku?!\""
+  },
+  {
+    "name": "蓮",
+    "message": "\"Locating him was no simple task.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Ren... You're the best.\""
+  },
+  {
+    "message": "Ren's tail wags happily."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You okay?\""
+  },
+  {
+    "message": "Koujaku leans over to look me in the eye."
+  },
+  {
+    "message": "For a moment, the incident at Glitter flashes through my mind."
+  },
+  {
+    "message": "But it vanishes the moment I see Koujaku's worried expression."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Can you move?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I can't get up. Asshole slipped me something...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Just hang on.\""
+  },
+  {
+    "message": "He pulls my shirt down and wraps my arm around his shoulder."
+  },
+  {
+    "message": "Then he slowly helps me up, supporting me by my waist."
+  },
+  {
+    "message": "With Koujaku's assistance, I somehow manage to get into a sitting position."
+  },
+  {
+    "message": "My arms and legs are still numb. I keep feeling like I might fall over any moment, and breathing is a little difficult."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Does it hurt?\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I'm fine...\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Wait, isn't this...\""
+  },
+  {
+    "message": "Koujaku surveys the room with obvious disgust."
+  },
+  {
+    "message": "When he sees the tattoo designs and the tools lying next to the futon, a quiet anger sparks in his eyes."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Oh, sorry. There's just something unsettling about this place. We should get out of here ASAP.\""
+  },
+  {
+    "message": "His scowl vanishes when he notices me staring. He then plants his feet and starts to lift me up."
+  },
+  {
+    "message": "And that's when the door opens."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"...Well, well.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "message": "Ryuuhou is staring at us, wide-eyed."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"A thief sneaking in while the master is away? Awfully brazen.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Motherfucker...\""
+  },
+  {
+    "message": "Koujaku lets me go and stands, glaring at Ryuuhou with terrifying intensity."
+  },
+  {
+    "message": "I can practically see the rage rising from his body, like black flames."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"I've been looking for you.\""
+  },
+  {
+    "message": "...What?"
+  },
+  {
+    "message": "What the hell?"
+  },
+  {
+    "message": "Ryuuhou touches a hand to his lips, thinking."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I don't mean to be rude, but have we met? You seem to be acquainted with my friend Aoba here.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Don't give me that bullshit. No way you forgot. You know damn well what you did...\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"What I did?\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You saying you forgot about <I>this?!</I>\""
+  },
+  {
+    "message": "Koujaku pulls back his bangs."
+  },
+  {
+    "message": "In the light of the paper lanterns, the right side of his face is laid bare."
+  },
+  {
+    "message": "He has a tattoo there."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "So it's not just his back..."
+  },
+  {
+    "message": "Seeing it, Ryuuhou's eyes begin to sparkle."
+  },
+  {
+    "message": "And then, he grins."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Just having some fun. Not a day goes by I don't think about you.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I'll never forget how I adorned your raw, virgin flesh. Koujaku... my unfinished masterpiece.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Fuck you. What the hell were you doing to Aoba?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Nothing. Yet. I was just getting to the good part when you showed up. You've always had such wonderful timing.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"......\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I knew you were in town. You were on the dance floor the other day, weren't you? I saw you.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Didn't say anything, of course. No point unless you're the one chasing me.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"You piece of...\""
+  },
+  {
+    "message": "Koujaku's voice quivers with barely contained rage, and this is the most animated I've seen Ryuuhou yet."
+  },
+  {
+    "message": "Koujaku's tattoos... Are they Ryuuhou's work?"
+  },
+  {
+    "name": "竜峰",
+    "message": "\"The more pure something is, the less resistant it is to change. It's so easy to take a virgin canvas and warp it beyond recognition.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"How would my flower warp this canvas? How would your pure, righteous heart twist?\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I had to know. I <I>had</I> to know. So I carved, with all my body and soul. I put so much of myself into your tattoos, I wasn't sure I had anything left to give.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Shut your fucking mouth!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Hehe.\""
+  },
+  {
+    "message": "Ryuuhou titters gleefully."
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Did you forget my warning? I told you to be careful, didn't I? You shouldn't let yourself get so worked up.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Still, I never thought you'd actually come. I'm flattered, really. Haha! Such <I>hunger.</I>\""
+  },
+  {
+    "message": "Ryuuhou takes a step back."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Where the fuck do you think you're going?!\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"I was right when I chose you. Now I <I>have</I> to see where this ends.\""
+  },
+  {
+    "name": "竜峰",
+    "message": "\"Hate me, Koujaku. That's what you need. We're gonna have a blast.\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ryuuhou!\""
+  },
+  {
+    "message": "In the blink of an eye, Ryuuhou spins and flees the room."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Wait!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"......\""
+  },
+  {
+    "message": "Koujaku tries to give chase, but I grab his sleeve."
+  },
+  {
+    "message": "I can't let him go like this. I don't know why, but I feel it in my gut."
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Let go!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"No!\""
+  },
+  {
+    "name": "紅雀",
+    "message": "\"Ryuuhou!\""
+  },
+  {
+    "message": "With a roar that strikes me like a physical blow, Koujaku tries to tear his arm from my grasp."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "タエ",
+    "message": "\"You're finally awake.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "That voice..."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Granny?!\""
+  },
+  {
+    "message": "Why is Granny here?!"
+  },
+  {
+    "message": "When I try to sit up, I realize I'm lying in her lap."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Granny, why... How?\""
+  },
+  {
+    "name": "タエ",
+    "message": "\"What are you freaking out about? You're the one who came all the way out here.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Oh...\""
+  },
+  {
+    "message": "...That's right."
+  },
+  {
+    "message": "Mizuki's people were kidnapping Granny, and I was trying to stop them..."
+  }
+]

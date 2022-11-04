@@ -1,0 +1,234 @@
+[
+  {
+    "message": "But when I step through, I find myself at Dry Juice's base."
+  },
+  {
+    "message": "Why? I should still be inside the shop."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"!\""
+  },
+  {
+    "message": "The man who was watching me earlier is standing at the end of the alley, beneath the Dry Juice tag. His head is hung low."
+  },
+  {
+    "message": "I approach him slowly."
+  },
+  {
+    "message": "I don't know what's going on, but somehow... I know who he is."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Mizuki.\""
+  },
+  {
+    "message": "Mizuki slowly lifts his head."
+  },
+  {
+    "message": "He looks ready to cry."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Aoba...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Help me!\""
+  },
+  {
+    "message": "Suddenly, the scene shifts. Now the tag is covered in black, and the alley is splattered with blood."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"What happened to you?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I don't know what to do.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"About what?\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"About Dry Juice.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I love Rib. It's the most fun I've ever had. ...But that's why I have to think about the future.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"What do I have to do to make sure everyone's having fun? How do I make sure no one feels left out? It's always on my mind.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I always thought it'd be enough to treat my guys like family.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"I know how much you care about them. That's how Dry Juice became the biggest gang.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"But... it's not enough anymore!\""
+  },
+  {
+    "message": "Mizuki looks down, balling his hands into fists."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Rhyme's too popular. The hot new thing. Everyone's caught up in the craze. They're getting bored of Rib... abandoning it.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Rib and Rhyme are just games. I know. People want their games to be fresh and cool. But I...\" "
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I didn't want to let it go. Rib... Dry Juice... they're too important to me.\" "
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I know it's stupid to take a game so seriously, but I couldn't just let it go.\" "
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Even my guys were slowly moving to Rhyme, and we weren't getting as many new recruits. Everything I worked so hard to build... was crumbling away...\" "
+  },
+  {
+    "message": "I grit my teeth. It's hard to see Mizuki like this."
+  },
+  {
+    "message": "I always knew Dry Juice meant a lot to him, but I never really knew just how deeply he cared."
+  },
+  {
+    "message": "Has he always been hurting like this inside? Why did I never notice?"
+  },
+  {
+    "message": "Self-loathing rises inside me."
+  },
+  {
+    "message": "If only I'd <I>talked</I> to him..."
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"I spent every day worrying, thinking, but I couldn't figure out what to do... Then this guy showed up saying he was with Morphine.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Morphine...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"He said Dry Juice was the strongest Rib gang, and invited us to join them.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"At first, I thought he was shady as hell, but then he introduced me to other members of Morphine... and I started to think, maybe it wasn't such a bad idea.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Maybe, if they could become members of <I>the</I> Morphine, everyone would stop talking about Rhyme.\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"They could be <I>proud</I> of Dry Juice again.\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"So... you really...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Yeah. But I was wrong! Morphine wasn't the kind of gang I thought it was. Morphine, they...\" "
+  },
+  {
+    "name": "ドライジュースメンバーＡ",
+    "message": "\"Ugh...\""
+  },
+  {
+    "name": "ドライジュースメンバーＢ",
+    "message": "\"Mizuki...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"No... You lied to me...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"You said Dry Juice would be part of Morphine! Wasn't that the deal?! Why...\" "
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"It wasn't supposed to be like this... It wasn't...\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Ugaahhhhhhhh!!!\""
+  },
+  {
+    "message": "Suddenly, Mizuki screams."
+  },
+  {
+    "message": "He falls to his knees, hunched over, clutching his chest in pain."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki?!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"U-Uuuh, ahh... Aaaah...\""
+  },
+  {
+    "message": "His head snaps back with dangerous speed. His eyes dart frantically about, and more screams pour from his throat. Sweat rolls off him in waves."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki!\""
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Aggggghhhhhhhhhh!\""
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"Mizuki!\""
+  },
+  {
+    "message": "I run up and grab him by the shoulders."
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...?!\""
+  },
+  {
+    "message": "What the..."
+  },
+  {
+    "message": "What was that?"
+  },
+  {
+    "name": "蒼葉",
+    "message": "\"...Ngh.\""
+  },
+  {
+    "message": "My head is pounding. What did I just see?"
+  },
+  {
+    "message": "Images..."
+  },
+  {
+    "message": "Memories."
+  },
+  {
+    "message": "Is that... me?"
+  },
+  {
+    "name": "ミズキ",
+    "message": "\"Ahhhhhhhhhhhhhhhhh!\""
+  }
+]

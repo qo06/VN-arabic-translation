@@ -31,10 +31,12 @@
   {
     "name": "電話の人",
     "message": "\"Oh, no. Um, well...\""
+    "Arabic" : "\"اه, لا. ام,.....\""
   },
   {
     "name": "蒼葉",
     "message": "\"Sir?\""
+    "Arabic" : "\"نعم؟\""
   },
   {
     "name": "電話の人",
@@ -43,6 +45,7 @@
   {
     "name": "蒼葉",
     "message": "\"Yes?\""
+    "Arabic" : "\"نعم؟\""
   },
   {
     "name": "電話の人",
@@ -95,6 +98,7 @@
   {
     "name": "蒼葉",
     "message": "\"Yes... <I>extra.</I>\""
+    ""
   },
   {
     "name": "電話の人",
@@ -115,10 +119,12 @@
   {
     "name": "電話の人",
     "message": "\"Of course!\""
+    
   },
   {
     "name": "蒼葉",
     "message": "\"Thanks!\""
+    "Arabic" : "\"شكرأ!\""
   },
   {
     "name": "蒼葉",

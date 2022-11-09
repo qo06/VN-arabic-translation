@@ -22,15 +22,17 @@
   {
     "name": "蒼葉",
     "message": "\"Yes we do. We happen to have some in stock right now.\""
-    
+    "Arabic" : "\"نعم لدينا, هناك البعض منها في المخزون في الوقت الحالي.\""
   },
   {
     "name": "電話の人",
     "message": "\"Oh, really? I see. Thank you very much.\""
+    "Arabic" : "\"اوه, حقا؟ شكرآ جزيلا لك..\""
   },
   {
     "name": "蒼葉",
     "message": "\"Would you like to place an order?\""
+    "Arabic" : "\"هل تريد ان تحجز طلب؟\""
   },
   {
     "name": "電話の人",
@@ -45,6 +47,7 @@
   {
     "name": "電話の人",
     "message": "\"Well, I know how this is going to sound, but...\""
+    "Arabic" : "حسنا, انا اعرف انه هذا سوف يكون غريبا, لكن...."
   },
   {
     "name": "蒼葉",
@@ -54,71 +57,87 @@
   {
     "name": "電話の人",
     "message": "\"I was wondering if maybe... we could meet up after work today?\""
+    "Arabic" : "\"انا كنت اتسائل اذا ربما.....يمكننا ان نتقابل اليوم بعد العمل؟\""
   },
   {
     "name": "蒼葉",
     "message": "\"...Excuse me?\""
+    "Arabic" : "\"......اعذرني؟\""
   },
   {
     "name": "電話の人",
     "message": "\"Oh, no, um, how should I put it... It's that voice. You have a very... nice voice, is all...\""
+    "Arabic" : "\"اه, لا, اه, كيفا يمكينوني ان اشرح لك هذا.....انه صوتك. انت لديك.... صوت جاميل, فقط هذا....\""
   },
   {
     "name": "蒼葉",
     "message": "\"...Oh, thank you. I'm very flattered. By the way, sir, I just thought of something that might interest you.\""
+    "Arabic" : "\".... اه، شكرآ. انا سعيد جدآ. بالمناسبة سيدي، لقد فكرت بشي يمكان ان يعجيباك.\""
   },
   {
     "name": "電話の人",
     "message": "\"Oh, sure...\""
+    "Arabic" : "\"اه, حسنا....\""
   },
   {
     "name": "蒼葉",
     "message": "\"You mentioned S-II type custom parts. It turns out we're expecting a shipment of brand-new parts for that series soon.\""
+    "Arabic" : "\"انت ذكرت قطع S-II المخصصه. يبدو ان هناك شحنات جديده ليهذا النوع سوفا تصيلو قريبان.\""
   },
   {
     "name": "電話の人",
     "message": "\"Uh-huh...\""
+    "Arabic" : "\"اه-هاه....\""
   },
   {
     "name": "蒼葉",
     "message": "\"And we just so happen to be accepting preorders, but only for our most loyal customers. Would you be interested?\""
+    "Arabic" : "\"و بالصدفة نحن نسامح الطلب المسبق, لكن فقط ليزبونينا الاوفيا. هل انت مهتم بيهذا؟ \""
   },
   {
     "name": "蒼葉",
     "message": "\"It looks like they're going to be popular. I wouldn't be surprised if they sell out right away. If you preorder, you won't have to worry about missing out.\""
+    "Arabic" : ""
   },
   {
     "name": "電話の人",
     "message": "\"Oh, but, um...\""
+    "Arabic" : ""
   },
   {
     "name": "蒼葉",
     "message": "\"Of course, because this opportunity is only for our most special customers, if you do place a preorder... I could do a little something <i>extra</i> for you.\""
+    "Arabic" : ""
   },
   {
     "name": "電話の人",
     "message": "\"E-Extra?\""
+    "Arabic" : ""
   },
   {
     "name": "蒼葉",
     "message": "\"Yes... <I>extra.</I>\""
-    ""
+    "Arabic" : ""
   },
   {
     "name": "電話の人",
     "message": "\"O-Oh, then by all means! I'll preorder!\""
+    "Arabic" : ""
   },
   {
     "name": "蒼葉",
     "message": "\"Fantastic! If you could just send your personal data over...\""
+    "Arabic" : ""
   },
   {
     "name": "蒼葉",
     "message": "\"...Thank you very much! Your preorder has been placed.\""
+    "Arabic" : ""
   },
   {
     "name": "蒼葉",
     "message": "\"We hope you'll continue shopping with us in the future!\""
+    "Arabic" : ""
   },
   {
     "name": "電話の人",
@@ -138,39 +157,51 @@
   },
   {
     "message": "I hang up the phone and let out a huge sigh."
+    "Arabic" : ""
   },
   {
     "message": "Even when I know what they're up to, dealing with customers who want something <I>other</I> than spare parts is always a pain."
+    "Arabic" : ""
   },
   {
     "message": "<I>Your voice is so wonderful, I just have to meet you.</I>"
+    "Arabic" : ""
   },
   {
     "message": "I get that sort of thing over the phone surprisingly often."
+    "Arabic" : ""
   },
   {
     "message": "Just hearing my voice makes them want to meet me...<K>\r\nWhat kind of guy says that to another guy?"
+    "Arabic" : ""
   },
   {
     "message": "In the beginning, I just shrugged it off, but it really started to bother me after a while."
+    "Arabic" : ""
   },
   {
     "message": "Then one day, out of frustration, I tried using it to push product, and it worked!"
+    "Arabic" : ""
   },
   {
     "message": "Ever since, I've used it to improve my sales. That phone call just now was a good example.\r\nStrangely enough, it doesn't happen in person."
+    "Arabic" : ""
   },
   {
     "message": "Some customers have actually come looking for me after a call, but I always pretend like I don't know what they're talking about."
+    "Arabic" : ""
   },
   {
     "message": "They all leave without realizing that I'm the person they spoke to over the phone."
+    "Arabic" : ""
   },
   {
     "message": "Nothing bad has actually happened, so I figure no harm, no foul."
+    "Arabic" : ""
   },
   {
     "name": "蒼葉",
     "message": "\"Phew... Okay. The manager should be back soon.\""
+    "Arabic" : ""
   }
 ]

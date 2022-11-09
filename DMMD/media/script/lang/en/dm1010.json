@@ -2,19 +2,24 @@
   {
     "name": "紅雀",
     "message": "\"Aoba!\""
+    "Arabic" : "\"اوبا!\""
   },
   {
     "message": "Koujaku and I happen to choose the same direction."
+    "Arabic" : "انا و كوجاكو بالصدفا اخترنا نفس الاتجاه."
   },
   {
     "name": "紅雀",
     "message": "\"Just keep running!\""
+    "Arabic" : "\"فقط اكمال الجري!\""
   },
   {
     "name": "蒼葉",
     "message": "\"Got it!\""
+    "Arabic" : "\"فهمت!\""
   },
   {
     "message": "We run, sprinting through alleyways and taking random turns. There's no time to think about where we're going."
+    "Arabic" : "جرينا, جرينا خلال الأزقة و اخذنا اتجاهات عشوائي. لا يوجد هوناك وقت ليالتفكير الي اين نحنو متجيهين.  "
   }
 ]

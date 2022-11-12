@@ -12,8 +12,7 @@ here is the list:
 9. Hadaka Shitsuji
 10. Nekojishi + DLCs 
 11. Sinsations
-12. Gakuen Heaven 2 + 1 (if I get permission from them) 
-13. Suicide Club
-14. Tokyo Onmyoji -The Tale of Rei Tengenjibashi-
-15. Flowers
-16. Science adventures 
+12. Suicide Club
+13. Tokyo Onmyoji -The Tale of Rei Tengenjibashi-
+14. Flowers
+15. Science adventures Games

@@ -23,3 +23,4 @@ here is the list:
 20. clannad port + patch
 21. Minikui Mojika no Ko(as the english vesion releases)
 22. AI: Somnium Files
+23. YOU and ME and HER: A Love Story

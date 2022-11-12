@@ -21,7 +21,7 @@ here is the list:
 18. Flowers
 19. Science adventures Games
 20. clannad port + patch
-21. Minikui Mojika no Ko(as the english vesion releases)
+21. Minikui Mojika no Ko(as soon as the english vesion releases)
 22. AI: Somnium Files
 23. YOU and ME and HER: A Love Story
 24. doki doki literature club! + the plus version

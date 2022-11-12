@@ -1,11 +1,19 @@
-this is a translation of nitro+chiral games to Arabic
-only togainu no chi games will be ported to renpy 
+VN games translation into arabic.
 
-the list of games:
-1. togainu no chi
-2. togainu no chi TBA(?)
-3. lamento beyond the void
-4. sweet pool (pc and bonus stuff from the vita verion)
-5. dmmd (jast version)
-6. dmmd re:code(videos)
-7. dmmd re:connect(orginal and when the jast version comes out)
+here is the list:
+1. DRAMAtical Murder
+2. Gore Screaming Show
+3. Saya no Uta 
+4. Slow Damage 
+5. Cooking Companions 
+6. Danganronpa 1,2 and ultra despair girls 
+7. hashihime of the old book town
+8. I Want to Pursue the Mean Side Character
+9. Hadaka Shitsuji
+10. Nekojishi + DLCs 
+11. Sinsations
+12. Gakuen Heaven 2 + 1 (if I get permission from them) 
+13. Suicide Club
+14. Tokyo Onmyoji -The Tale of Rei Tengenjibashi-
+15. Flowers
+16. Science adventures 

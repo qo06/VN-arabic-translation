@@ -2,17 +2,24 @@ VN games translation into arabic.
 
 here is the list:
 1. DRAMAtical Murder
-2. Gore Screaming Show
-3. Saya no Uta 
-4. Slow Damage 
-5. Cooking Companions 
-6. Danganronpa 1,2 and ultra despair girls 
-7. hashihime of the old book town
-8. I Want to Pursue the Mean Side Character
-9. Hadaka Shitsuji
-10. Nekojishi + DLCs 
-11. Sinsations
-12. Suicide Club
-13. Tokyo Onmyoji -The Tale of Rei Tengenjibashi-
-14. Flowers
-15. Science adventures Games
+2. sweet pool
+3. Togainu no Chi
+4. Lamento Beyond the Void 
+5. DRAMAtical Murder Re:Connect
+6. Gore Screaming Show
+7. Saya no Uta 
+8. Slow Damage 
+9. Cooking Companions 
+10. Danganronpa 1,2 and ultra despair girls 
+11. hashihime of the old book town
+12. I Want to Pursue the Mean Side Character
+13. Hadaka Shitsuji
+14. Nekojishi + DLCs 
+15. Sinsations
+16. Suicide Club
+17. Tokyo Onmyoji -The Tale of Rei Tengenjibashi-
+18. Flowers
+19. Science adventures Games
+20. clannad port + patch
+21. Minikui Mojika no Ko(as the english vesion releases)
+22. AI: Somnium Files

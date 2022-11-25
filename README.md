@@ -9,7 +9,7 @@ here is the list:
 5. DRAMAtical Murder Re:Connect [yes,yes,no,error,0/???]
 6. Gore Screaming Show [yes,yes,yes,works,1/???] 
 7. Saya no Uta [yes,yes,no,error,0/???]
-8. Slow Damage not released yet
+8. Slow Damage [yea,yes,yes,works,5/???]
 9. Cooking Companions [yes,yes,no,works,0/???]
 10. Danganronpa 1,2 and ultra despair girls [not tested yet]
 11. hashihime of the old book town [not tested yet but maybe]
